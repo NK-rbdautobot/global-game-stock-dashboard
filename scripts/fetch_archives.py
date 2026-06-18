@@ -5,6 +5,7 @@ import csv
 import io
 import json
 import re
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -93,8 +94,11 @@ def fetch_text(url: str) -> str:
         return resp.read().decode("utf-8-sig", errors="ignore")
 
 
-def sheet_csv(sheet_id: str, gid: str) -> str:
-    return f"https://docs.google.com/spreadsheets/d/{sheet_id}/gviz/tq?tqx=out:csv&gid={gid}"
+def sheet_csv(sheet_id: str, gid: str, cell_range: str | None = None) -> str:
+    url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/gviz/tq?tqx=out:csv&gid={gid}"
+    if cell_range:
+        url += f"&range={urllib.parse.quote(cell_range)}"
+    return url
 
 
 def parse_num(v: str) -> float | None:
@@ -188,31 +192,26 @@ def parse_company_financial(company_ko: str, tab_name: str, gid: str) -> dict[st
             "operating_profit_krw_eok": unit_to_krw_eok(op, op_unit),
         })
 
-    # Boss 기준 고정: 모든 회사의 분기 차트 값은 각 회사 탭의 B1:G3 요약 영역만 사용한다.
-    # - B:G / 2행 = 최근 6개 분기 매출
-    # - B:G / 3행 = 최근 6개 분기 영업이익
-    # 하단 상세 분기표는 B:G 값에 붙일 YYYY Qn 라벨을 찾는 용도로만 참고하고,
-    # 값 자체는 절대 섞어 쓰지 않는다.
-    summary_cols = [idx for idx in range(1, min(7, max_cols)) if parse_num(rows[1][idx]) is not None or parse_num(rows[2][idx]) is not None]
-    summary_values = [(parse_num(rows[1][idx]), parse_num(rows[2][idx])) for idx in summary_cols]
-    summary_labels: list[str] = []
-    if summary_values:
-        # Prefer an exact contiguous value match in the detailed quarterly table.
-        detail_values = [(q.get("revenue"), q.get("operating_profit")) for q in detailed_quarters]
-        match_start = None
-        for start in range(0, len(detail_values) - len(summary_values) + 1):
-            if detail_values[start:start + len(summary_values)] == summary_values:
-                match_start = start
-                break
-        if match_start is not None:
-            summary_labels = [q.get("period", "") for q in detailed_quarters[match_start:match_start + len(summary_values)]]
-        elif len(detailed_quarters) >= len(summary_values):
-            summary_labels = [q.get("period", "") for q in detailed_quarters[-len(summary_values):]]
+    # Boss 기준 고정: 모든 회사의 분기 차트는 각 회사 탭의 B1:G3 요약 영역만 사용한다.
+    # - B1:G1 = 분기 라벨(예: 2024 Q4)
+    # - B2:G2 = 최근 6개 분기 매출
+    # - B3:G3 = 최근 6개 분기 영업이익
+    # 전체 시트 CSV는 B1:G1이 빈 값으로 나올 수 있으므로, 반드시 range=B1:G3로 별도 조회한다.
+    # 하단 상세 분기표의 라벨/값은 절대 섞어 쓰지 않는다.
+    summary_text = fetch_text(sheet_csv(FIN_SHEET_ID, gid, "B1:G3"))
+    summary_rows = list(csv.reader(io.StringIO(summary_text)))
+    while len(summary_rows) < 3:
+        summary_rows.append([])
+    max_summary_cols = max((len(r) for r in summary_rows), default=0)
+    for r in summary_rows:
+        r.extend([""] * (max_summary_cols - len(r)))
+    summary_cols = [idx for idx in range(0, min(6, max_summary_cols)) if parse_num(summary_rows[1][idx]) is not None or parse_num(summary_rows[2][idx]) is not None]
     quarters = []
     for pos, idx in enumerate(summary_cols):
-        rev = parse_num(rows[1][idx])
-        op = parse_num(rows[2][idx])
-        period = summary_labels[pos] if pos < len(summary_labels) and summary_labels[pos] else shift_quarter((datetime.now().year, 1), pos - len(summary_cols) + 1)
+        rev = parse_num(summary_rows[1][idx])
+        op = parse_num(summary_rows[2][idx])
+        raw_period = summary_rows[0][idx].strip() if idx < len(summary_rows[0]) else ""
+        period = raw_period if quarter_tuple(raw_period) else shift_quarter((datetime.now().year, 1), pos - len(summary_cols) + 1)
         quarters.append({
             "period": period,
             "revenue": rev,

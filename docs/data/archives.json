@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-18T14:01:42Z",
+  "generated_at_utc": "2026-06-18T14:51:42Z",
   "financial_archive": {
     "source": "Google Sheets per-company tabs; Nexon excluded until cleaned",
     "sheet_url": "https://docs.google.com/spreadsheets/d/1jzdID-ZY39VhKgHdvpSIcGiJq0Gk_qsOj1k6hNi3jh8/edit",
@@ -135,7 +135,7 @@
         "operating_profit_unit": "영업이익(백만 USD)",
         "quarters": [
           {
-            "period": "2023 Q4",
+            "period": "2024 Q4",
             "revenue": 69632.0,
             "operating_profit": 31653.0,
             "revenue_krw_eok": 1016627.2,
@@ -143,7 +143,7 @@
             "source_range": "B1:G3"
           },
           {
-            "period": "2024 Q1",
+            "period": "2025 Q1",
             "revenue": 70066.0,
             "operating_profit": 32000.0,
             "revenue_krw_eok": 1022963.6,
@@ -151,7 +151,7 @@
             "source_range": "B1:G3"
           },
           {
-            "period": "2024 Q2",
+            "period": "2025 Q2",
             "revenue": 76441.0,
             "operating_profit": 34323.0,
             "revenue_krw_eok": 1116038.6,
@@ -159,7 +159,7 @@
             "source_range": "B1:G3"
           },
           {
-            "period": "2024 Q3",
+            "period": "2025 Q3",
             "revenue": 77673.0,
             "operating_profit": 37961.0,
             "revenue_krw_eok": 1134025.8,
@@ -167,7 +167,7 @@
             "source_range": "B1:G3"
           },
           {
-            "period": "2024 Q4",
+            "period": "2025 Q4",
             "revenue": 81273.0,
             "operating_profit": 38275.0,
             "revenue_krw_eok": 1186585.8,
@@ -175,7 +175,7 @@
             "source_range": "B1:G3"
           },
           {
-            "period": "2025 Q1",
+            "period": "2026 Q1",
             "revenue": 82886.0,
             "operating_profit": 38398.0,
             "revenue_krw_eok": 1210135.6,
@@ -221,7 +221,7 @@
           }
         ],
         "latest_quarter": {
-          "period": "2025 Q1",
+          "period": "2026 Q1",
           "revenue": 82886.0,
           "operating_profit": 38398.0,
           "revenue_krw_eok": 1210135.6,
@@ -747,38 +747,6 @@
         "operating_profit_unit": "영업이익(억 EUR)",
         "quarters": [
           {
-            "period": "2023 Q4",
-            "revenue": 3.2,
-            "operating_profit": null,
-            "revenue_krw_eok": 5504.0,
-            "operating_profit_krw_eok": null,
-            "source_range": "B1:G3"
-          },
-          {
-            "period": "2024 Q1",
-            "revenue": 9.1,
-            "operating_profit": 1.9,
-            "revenue_krw_eok": 15652.0,
-            "operating_profit_krw_eok": 3268.0,
-            "source_range": "B1:G3"
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 3.1,
-            "operating_profit": null,
-            "revenue_krw_eok": 5332.0,
-            "operating_profit_krw_eok": null,
-            "source_range": "B1:G3"
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 3.5,
-            "operating_profit": -1.2,
-            "revenue_krw_eok": 6020.0,
-            "operating_profit_krw_eok": -2064.0,
-            "source_range": "B1:G3"
-          },
-          {
             "period": "2024 Q4",
             "revenue": 3.2,
             "operating_profit": null,
@@ -788,6 +756,38 @@
           },
           {
             "period": "2025 Q1",
+            "revenue": 9.1,
+            "operating_profit": 1.9,
+            "revenue_krw_eok": 15652.0,
+            "operating_profit_krw_eok": 3268.0,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2025 Q2",
+            "revenue": 3.1,
+            "operating_profit": null,
+            "revenue_krw_eok": 5332.0,
+            "operating_profit_krw_eok": null,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2025 Q3",
+            "revenue": 3.5,
+            "operating_profit": -1.2,
+            "revenue_krw_eok": 6020.0,
+            "operating_profit_krw_eok": -2064.0,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2025 Q4",
+            "revenue": 3.2,
+            "operating_profit": null,
+            "revenue_krw_eok": 5504.0,
+            "operating_profit_krw_eok": null,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q1",
             "revenue": 4.2,
             "operating_profit": -12.0,
             "revenue_krw_eok": 7224.0,
@@ -833,7 +833,7 @@
           }
         ],
         "latest_quarter": {
-          "period": "2025 Q1",
+          "period": "2026 Q1",
           "revenue": 4.2,
           "operating_profit": -12.0,
           "revenue_krw_eok": 7224.0,
@@ -1843,7 +1843,7 @@
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
           {
-            "period": "2023 Q4",
+            "period": "2024 Q4",
             "revenue": 593.0,
             "operating_profit": 421.0,
             "revenue_krw_eok": 593.0,
@@ -1851,7 +1851,7 @@
             "source_range": "B1:G3"
           },
           {
-            "period": "2024 Q1",
+            "period": "2025 Q1",
             "revenue": 422.0,
             "operating_profit": 263.0,
             "revenue_krw_eok": 422.0,
@@ -1859,7 +1859,7 @@
             "source_range": "B1:G3"
           },
           {
-            "period": "2024 Q2",
+            "period": "2025 Q2",
             "revenue": 1124.0,
             "operating_profit": 682.0,
             "revenue_krw_eok": 1124.0,
@@ -1867,7 +1867,7 @@
             "source_range": "B1:G3"
           },
           {
-            "period": "2024 Q3",
+            "period": "2025 Q3",
             "revenue": 755.0,
             "operating_profit": 495.0,
             "revenue_krw_eok": 755.0,
@@ -1875,7 +1875,7 @@
             "source_range": "B1:G3"
           },
           {
-            "period": "2024 Q4",
+            "period": "2025 Q4",
             "revenue": 641.0,
             "operating_profit": 371.0,
             "revenue_krw_eok": 641.0,
@@ -1883,7 +1883,7 @@
             "source_range": "B1:G3"
           },
           {
-            "period": "2025 Q1",
+            "period": "2026 Q1",
             "revenue": 473.0,
             "operating_profit": 215.0,
             "revenue_krw_eok": 473.0,
@@ -1915,7 +1915,7 @@
           }
         ],
         "latest_quarter": {
-          "period": "2025 Q1",
+          "period": "2026 Q1",
           "revenue": 473.0,
           "operating_profit": 215.0,
           "revenue_krw_eok": 473.0,
