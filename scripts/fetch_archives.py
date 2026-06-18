@@ -177,7 +177,7 @@ def parse_date_key(s: str) -> str:
     return s
 
 
-def fetch_mail_archive(limit_per_company: int = 8) -> dict[str, Any]:
+def fetch_mail_archive(limit_per_company: int = 24) -> dict[str, Any]:
     text = fetch_text(sheet_csv(NEWS_SHEET_ID, MAIL_ARCHIVE_GID))
     reader = csv.DictReader(io.StringIO(text))
     buckets: dict[str, list[dict[str, Any]]] = {k: [] for k in COMPANY_TABS}
@@ -186,7 +186,8 @@ def fetch_mail_archive(limit_per_company: int = 8) -> dict[str, Any]:
         summary_ko = (r.get("요약") or "").strip()
         if not title_ko or not summary_ko:
             continue
-        hay = " ".join([r.get("제목", ""), r.get("기사 내용", ""), title_ko, summary_ko, r.get("키워드", "")]).lower()
+        # Match only curated/visible fields, not full raw article body, to reduce false positives.
+        hay = " ".join([r.get("제목", ""), title_ko, summary_ko, r.get("키워드", "")]).lower()
         for company, aliases in COMPANY_ALIASES.items():
             if company not in buckets:
                 continue
