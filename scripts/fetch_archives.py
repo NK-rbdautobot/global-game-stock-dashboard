@@ -107,6 +107,58 @@ def parse_num(v: str) -> float | None:
         return None
 
 
+KRW_RATES = {"USD": 1460, "EUR": 1720, "JPY": 9, "CNY": 200, "HKD": 190, "TWD": 45, "SEK": 150, "THB": 45, "KRW": 1}
+
+
+def unit_to_krw_eok(value: float | None, unit: str) -> float | None:
+    if value is None:
+        return None
+    u = unit or ""
+    cur = "KRW" if ("원" in u or "KRW" in u) else next((c for c in KRW_RATES if c in u), "KRW")
+    if "십억" in u:
+        multiplier = 1_000_000_000
+    elif "백만" in u:
+        multiplier = 1_000_000
+    elif "억" in u:
+        multiplier = 100_000_000
+    else:
+        multiplier = 1
+    return value * multiplier * KRW_RATES.get(cur, 1) / 100_000_000
+
+
+def quarter_tuple(label: str) -> tuple[int, int] | None:
+    m = re.search(r"(20\d{2})\s*Q([1-4])", label or "", re.I)
+    return (int(m.group(1)), int(m.group(2))) if m else None
+
+
+def shift_quarter(anchor: tuple[int, int], offset: int) -> str:
+    y, q = anchor
+    zero = y * 4 + (q - 1) + offset
+    return f"{zero // 4} Q{zero % 4 + 1}"
+
+
+def normalized_quarter_labels(rows: list[list[str]], cols: list[int]) -> dict[int, str]:
+    anchors: dict[int, tuple[int, int]] = {}
+    for rr in range(min(4, len(rows))):
+        for idx in cols:
+            val = rows[rr][idx].strip() if idx < len(rows[rr]) else ""
+            qt = quarter_tuple(val)
+            if qt:
+                anchors[idx] = qt
+    if not cols:
+        return {}
+    if anchors:
+        anchor_idx = max(anchors)
+        anchor = anchors[anchor_idx]
+        return {idx: shift_quarter(anchor, idx - anchor_idx) for idx in cols}
+    # Fallback: infer from latest year in annual header; never emit Q5/Q6.
+    years = [int(c) for c in rows[0] if re.fullmatch(r"20\d{2}", c or "")]
+    latest_year = max(years) if years else datetime.now().year
+    end = (latest_year, 1)
+    anchor_idx = cols[-1]
+    return {idx: shift_quarter(end, idx - anchor_idx) for idx in cols}
+
+
 def parse_company_financial(company_ko: str, tab_name: str, gid: str) -> dict[str, Any]:
     text = fetch_text(sheet_csv(FIN_SHEET_ID, gid))
     rows = list(csv.reader(io.StringIO(text)))
@@ -118,21 +170,23 @@ def parse_company_financial(company_ko: str, tab_name: str, gid: str) -> dict[st
 
     q_unit = rows[1][0] if rows and rows[1] else "매출"
     op_unit = rows[2][0] if len(rows) > 2 else "영업이익"
+    rev_row_idx = next((i for i, r in enumerate(rows) if (r[0] or "").strip() == "매출"), 4)
+    op_row_idx = rev_row_idx + 1 if rev_row_idx + 1 < len(rows) else 5
+    rev_row = rows[rev_row_idx]
+    op_row = rows[op_row_idx]
+    q_cols = [idx for idx in range(1, max_cols) if parse_num(rev_row[idx]) is not None or parse_num(op_row[idx]) is not None]
+    labels = normalized_quarter_labels(rows, q_cols)
     quarters = []
-    for idx, val in enumerate(rows[4][1:], start=1):
-        rev = parse_num(val)
-        op = parse_num(rows[5][idx] if len(rows) > 5 and idx < len(rows[5]) else "")
-        if rev is None and op is None:
-            continue
-        label = ""
-        # Period labels in these tabs are sparse; scan nearby header cells above the value.
-        for rr in [3, 0]:
-            if rr < len(rows) and idx < len(rows[rr]) and rows[rr][idx].strip():
-                label = rows[rr][idx].strip()
-                break
-        if not label:
-            label = f"Q{len(quarters)+1}"
-        quarters.append({"period": label, "revenue": rev, "operating_profit": op})
+    for idx in q_cols:
+        rev = parse_num(rev_row[idx])
+        op = parse_num(op_row[idx])
+        quarters.append({
+            "period": labels.get(idx, ""),
+            "revenue": rev,
+            "operating_profit": op,
+            "revenue_krw_eok": unit_to_krw_eok(rev, q_unit),
+            "operating_profit_krw_eok": unit_to_krw_eok(op, op_unit),
+        })
 
     years = []
     if len(rows) >= 3:
@@ -143,7 +197,13 @@ def parse_company_financial(company_ko: str, tab_name: str, gid: str) -> dict[st
             rev = parse_num(rows[1][idx] if idx < len(rows[1]) else "")
             op = parse_num(rows[2][idx] if idx < len(rows[2]) else "")
             if rev is not None or op is not None:
-                years.append({"year": year, "revenue": rev, "operating_profit": op})
+                years.append({
+                    "year": year,
+                    "revenue": rev,
+                    "operating_profit": op,
+                    "revenue_krw_eok": unit_to_krw_eok(rev, rows[1][0]),
+                    "operating_profit_krw_eok": unit_to_krw_eok(op, rows[2][0]),
+                })
 
     links = []
     for r in rows:
@@ -177,6 +237,11 @@ def parse_date_key(s: str) -> str:
     return s
 
 
+def extract_comment(text: str) -> str:
+    parts = re.split(r"\[Comment\]", text or "", flags=re.I)
+    return parts[1].strip() if len(parts) > 1 else ""
+
+
 def fetch_mail_archive(limit_per_company: int = 24) -> dict[str, Any]:
     text = fetch_text(sheet_csv(NEWS_SHEET_ID, MAIL_ARCHIVE_GID))
     reader = csv.DictReader(io.StringIO(text))
@@ -186,8 +251,8 @@ def fetch_mail_archive(limit_per_company: int = 24) -> dict[str, Any]:
         summary_ko = (r.get("요약") or "").strip()
         if not title_ko or not summary_ko:
             continue
-        # Match only curated/visible fields, not full raw article body, to reduce false positives.
-        hay = " ".join([r.get("제목", ""), title_ko, summary_ko, r.get("키워드", "")]).lower()
+        # Recommendation/matching is title-based only, per Boss's direction.
+        hay = " ".join([r.get("제목", ""), title_ko]).lower()
         for company, aliases in COMPANY_ALIASES.items():
             if company not in buckets:
                 continue
@@ -195,14 +260,14 @@ def fetch_mail_archive(limit_per_company: int = 24) -> dict[str, Any]:
                 buckets[company].append({
                     "company_ko": company,
                     "title_ko": title_ko[:240],
-                    "summary_ko": summary_ko[:700],
+                    "summary_ko": summary_ko,
                     "original_title": (r.get("제목") or "")[:240],
                     "url": r.get("링크", ""),
                     "published_at": r.get("업로드 시간", ""),
                     "published_key": parse_date_key(r.get("업로드 시간", "")),
                     "score": r.get("종합 점수", ""),
                     "keyword": r.get("키워드", ""),
-                    "integrated_note": (r.get("통합") or "")[:500],
+                    "integrated_note": extract_comment(r.get("통합") or ""),
                 })
     out = []
     for company, rows in buckets.items():
