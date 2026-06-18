@@ -5,7 +5,6 @@ import csv
 import io
 import json
 import re
-import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -14,19 +13,52 @@ from typing import Any
 ROOT = Path(__file__).resolve().parents[1]
 DOCS_DATA = ROOT / "docs" / "data"
 FIN_SHEET_ID = "1jzdID-ZY39VhKgHdvpSIcGiJq0Gk_qsOj1k6hNi3jh8"
-FIN_MARKET_GID = "1335393180"  # 시가총액 tab
 NEWS_SHEET_ID = "1nA4GhaJA14_2tpHimX0-AsCpCE2G5YFySjGX79hzrCw"
-NEWS_GID = "0"
-USER_AGENT = "Mozilla/5.0 (compatible; NK-rbdautobot-dashboard-archive/1.0)"
+MAIL_ARCHIVE_GID = "1688880659"
+USER_AGENT = "Mozilla/5.0 (compatible; NK-rbdautobot-dashboard-archive/2.0)"
+
+# Financial sheet company tabs. Nexon is intentionally excluded until its archive is cleaned.
+COMPANY_TABS = {
+    "알파벳": ("Alphabet (Google)", "0"),
+    "마이크로소프트": ("Microsoft", "1298599699"),
+    "애플": ("Apple", "1147092033"),
+    "로블록스": ("Roblox", "94035846"),
+    "일렉트로닉 아츠": ("Electronic Arts (EA)", "1913968735"),
+    "닌텐도": ("Nintendo", "1312067933"),
+    "유비소프트": ("Ubisoft", "1191027531"),
+    "소니": ("Sony", "1689372210"),
+    "텐센트": ("Tencent", "375664834"),
+    "넷이즈": ("Netease", "1328432992"),
+    "테이크투": ("Take-Two Interactive", "2108981340"),
+    "엠브레이서 그룹": ("Embracer Group", "2108376821"),
+    "SEA": ("SEA", "1925126558"),
+    "애스피어": ("Asphere", "1981168879"),
+    "크래프톤": ("크래프톤", "544177224"),
+    "시프트업": ("시프트업", "1400609698"),
+    "엔씨소프트": ("엔씨소프트", "522595849"),
+    "넷마블": ("넷마블", "1813311314"),
+    "카카오게임즈": ("카카오게임즈", "985687296"),
+    "위메이드": ("위메이드", "1451002197"),
+    "펄어비스": ("펄어비스", "816961723"),
+    "데브시스터즈": ("데브시스터즈", "1585421687"),
+    "네오위즈": ("네오위즈", "1458261925"),
+    "감마니아": ("감마니아", "1033573233"),
+    "라스타": ("라스타", "741525754"),
+    "세기화통": ("세기화통", "1944270779"),
+    "킹넷": ("킹넷", "864197942"),
+    "캡콤": ("캡콤", "2030738864"),
+    "반다이남코": ("반다이남코", "119289304"),
+    "스퀘어에닉스": ("스퀘어에닉스", "403700134"),
+    "세가": ("세가", "1291025307"),
+}
 
 COMPANY_ALIASES = {
     "알파벳": ["Alphabet", "Google", "GOOG", "구글"],
     "마이크로소프트": ["Microsoft", "MSFT", "Xbox", "Game Pass", "마이크로소프트"],
     "애플": ["Apple", "AAPL", "App Store", "애플"],
-    "넥슨": ["Nexon", "넥슨", "MapleStory", "메이플", "Dungeon Fighter", "던전앤파이터", "마비노기"],
-    "텐센트": ["Tencent", "0700", "텐센트", "Honor of Kings", "王者荣耀"],
-    "넷이즈": ["NetEase", "Netease", "NTES", "넷이즈", "网易"],
-    "닌텐도": ["Nintendo", "닌텐도", "Switch", "Mario", "Zelda", "Pokemon", "Pokémon"],
+    "텐센트": ["Tencent", "0700", "텐센트", "Honor of Kings", "王者荣耀", "발로란트"],
+    "넷이즈": ["NetEase", "Netease", "NTES", "넷이즈", "网易", "연운"],
+    "닌텐도": ["Nintendo", "닌텐도", "Switch", "Mario", "Zelda", "Pokemon", "Pokémon", "포켓몬"],
     "소니": ["Sony", "PlayStation", "PS5", "소니"],
     "로블록스": ["Roblox", "RBLX", "로블록스"],
     "일렉트로닉 아츠": ["Electronic Arts", "EA", "Battlefield", "Apex Legends", "FC 26"],
@@ -40,7 +72,7 @@ COMPANY_ALIASES = {
     "펄어비스": ["Pearl Abyss", "펄어비스", "Black Desert", "검은사막"],
     "시프트업": ["Shift Up", "시프트업", "Stellar Blade", "NIKKE", "니케"],
     "캡콤": ["Capcom", "캡콤", "Monster Hunter", "Resident Evil"],
-    "반다이남코": ["Bandai Namco", "반다이남코", "Elden Ring", "Tekken"],
+    "반다이남코": ["Bandai Namco", "반다이남코", "Elden Ring", "Tekken", "건담"],
     "스퀘어에닉스": ["Square Enix", "스퀘어에닉스", "Final Fantasy", "Dragon Quest"],
     "세가": ["Sega", "SEGA", "세가", "Sonic", "Persona"],
     "엠브레이서 그룹": ["Embracer", "EMBRAC", "엠브레이서"],
@@ -65,11 +97,9 @@ def sheet_csv(sheet_id: str, gid: str) -> str:
     return f"https://docs.google.com/spreadsheets/d/{sheet_id}/gviz/tq?tqx=out:csv&gid={gid}"
 
 
-def parse_money(v: str) -> float | None:
-    if not v:
-        return None
-    s = str(v).replace(",", "").replace("%", "").strip()
-    if s in {"", "-"}:
+def parse_num(v: str) -> float | None:
+    s = str(v or "").replace(",", "").replace("%", "").strip()
+    if not s or s == "-":
         return None
     try:
         return float(s)
@@ -77,73 +107,108 @@ def parse_money(v: str) -> float | None:
         return None
 
 
-def fetch_financial_archive() -> dict[str, Any]:
-    text = fetch_text(sheet_csv(FIN_SHEET_ID, FIN_MARKET_GID))
-    rows = list(csv.DictReader(io.StringIO(text)))
-    items = []
+def parse_company_financial(company_ko: str, tab_name: str, gid: str) -> dict[str, Any]:
+    text = fetch_text(sheet_csv(FIN_SHEET_ID, gid))
+    rows = list(csv.reader(io.StringIO(text)))
+    while len(rows) < 9:
+        rows.append([])
+    max_cols = max((len(r) for r in rows), default=0)
     for r in rows:
-        name = (r.get("기업명") or "").strip()
-        if not name:
+        r.extend([""] * (max_cols - len(r)))
+
+    q_unit = rows[1][0] if rows and rows[1] else "매출"
+    op_unit = rows[2][0] if len(rows) > 2 else "영업이익"
+    quarters = []
+    for idx, val in enumerate(rows[4][1:], start=1):
+        rev = parse_num(val)
+        op = parse_num(rows[5][idx] if len(rows) > 5 and idx < len(rows[5]) else "")
+        if rev is None and op is None:
             continue
-        item = {
-            "company": name,
-            "ticker": r.get("티커", ""),
-            "source_link": r.get("링크", ""),
-            "q1_revenue_local": parse_money(r.get("2026 Q1 매출", "")),
-            "q1_operating_profit_local": parse_money(r.get("2026 Q1 영업이익", "")),
-            "q1_revenue_krw_label": r.get("2026 Q1 매출 (원)", ""),
-            "q1_operating_profit_krw_label": r.get("2026 Q1 영업이익 (원)", ""),
-            "market_cap_label_from_sheet": r.get("시가총액", ""),
-        }
-        if item["q1_revenue_krw_label"] or item["q1_operating_profit_krw_label"]:
-            items.append(item)
+        label = ""
+        # Period labels in these tabs are sparse; scan nearby header cells above the value.
+        for rr in [3, 0]:
+            if rr < len(rows) and idx < len(rows[rr]) and rows[rr][idx].strip():
+                label = rows[rr][idx].strip()
+                break
+        if not label:
+            label = f"Q{len(quarters)+1}"
+        quarters.append({"period": label, "revenue": rev, "operating_profit": op})
+
+    years = []
+    if len(rows) >= 3:
+        for idx in range(11, max_cols):
+            year = rows[0][idx].strip() if idx < len(rows[0]) else ""
+            if not re.fullmatch(r"20\d{2}", year or ""):
+                continue
+            rev = parse_num(rows[1][idx] if idx < len(rows[1]) else "")
+            op = parse_num(rows[2][idx] if idx < len(rows[2]) else "")
+            if rev is not None or op is not None:
+                years.append({"year": year, "revenue": rev, "operating_profit": op})
+
+    links = []
+    for r in rows:
+        for cell in r:
+            c = (cell or "").strip()
+            if c.startswith("http") and c not in links:
+                links.append(c)
+    latest_q = quarters[-1] if quarters else {}
+    latest_y = years[-1] if years else {}
     return {
-        "source": "Google Sheets financial archive / 시가총액 tab",
-        "sheet_url": f"https://docs.google.com/spreadsheets/d/{FIN_SHEET_ID}/edit?gid={FIN_MARKET_GID}#gid={FIN_MARKET_GID}",
-        "count": len(items),
-        "rows": items,
+        "company_ko": company_ko,
+        "tab_name": tab_name,
+        "gid": gid,
+        "sheet_url": f"https://docs.google.com/spreadsheets/d/{FIN_SHEET_ID}/edit?gid={gid}#gid={gid}",
+        "revenue_unit": q_unit,
+        "operating_profit_unit": op_unit,
+        "quarters": quarters[-16:],
+        "years": years,
+        "latest_quarter": latest_q,
+        "latest_year": latest_y,
+        "source_links": links[:12],
     }
 
 
 def parse_date_key(s: str) -> str:
     s = (s or "").strip()
-    # Preserve original but make lexical sort work for YYYY-MM-DD formats.
-    m = re.search(r"(20\d{2})[-./](\d{1,2})[-./](\d{1,2})(?:\s+(\d{1,2}:\d{2}(?::\d{2})?))?", s)
+    m = re.search(r"(20\d{2})[-./]\s*(\d{1,2})[-./]\s*(\d{1,2})(?:\s+(\d{1,2}:\d{2}(?::\d{2})?))?", s)
     if m:
         y, mo, d, t = m.groups()
         return f"{y}-{int(mo):02d}-{int(d):02d} {t or '00:00:00'}"
     return s
 
 
-def fetch_news_archive(limit_per_company: int = 5, max_total: int = 120) -> dict[str, Any]:
-    text = fetch_text(sheet_csv(NEWS_SHEET_ID, NEWS_GID))
+def fetch_mail_archive(limit_per_company: int = 8) -> dict[str, Any]:
+    text = fetch_text(sheet_csv(NEWS_SHEET_ID, MAIL_ARCHIVE_GID))
     reader = csv.DictReader(io.StringIO(text))
-    buckets: dict[str, list[dict[str, Any]]] = {k: [] for k in COMPANY_ALIASES}
+    buckets: dict[str, list[dict[str, Any]]] = {k: [] for k in COMPANY_TABS}
     for r in reader:
-        hay = " ".join([r.get("키워드", ""), r.get("제목", ""), r.get("기사 내용", ""), r.get("기사 분석", ""), r.get("제목 번역(3점 이상)", ""), r.get("3줄 요약(4, 5점)", "")]).lower()
+        title_ko = (r.get("한글 제목") or "").strip()
+        summary_ko = (r.get("요약") or "").strip()
+        if not title_ko or not summary_ko:
+            continue
+        hay = " ".join([r.get("제목", ""), r.get("기사 내용", ""), title_ko, summary_ko, r.get("키워드", "")]).lower()
         for company, aliases in COMPANY_ALIASES.items():
+            if company not in buckets:
+                continue
             if any(a.lower() in hay for a in aliases):
-                title = r.get("제목 번역(3점 이상)") or r.get("제목") or ""
-                summary = r.get("3줄 요약(4, 5점)") or r.get("기사 분석") or r.get("기사 내용", "")[:220]
                 buckets[company].append({
-                    "company": company,
-                    "keyword": r.get("키워드", ""),
-                    "title": title[:240],
-                    "original_title": r.get("제목", "")[:240],
+                    "company_ko": company,
+                    "title_ko": title_ko[:240],
+                    "summary_ko": summary_ko[:700],
+                    "original_title": (r.get("제목") or "")[:240],
                     "url": r.get("링크", ""),
                     "published_at": r.get("업로드 시간", ""),
                     "published_key": parse_date_key(r.get("업로드 시간", "")),
-                    "score": r.get("점수", ""),
-                    "evaluation": r.get("평가", ""),
-                    "summary": summary[:500],
+                    "score": r.get("종합 점수", ""),
+                    "keyword": r.get("키워드", ""),
+                    "integrated_note": (r.get("통합") or "")[:500],
                 })
     out = []
     for company, rows in buckets.items():
-        rows.sort(key=lambda x: x.get("published_key", ""), reverse=True)
-        # Deduplicate by URL/title.
         seen = set(); selected = []
+        rows.sort(key=lambda x: x.get("published_key", ""), reverse=True)
         for x in rows:
-            key = x.get("url") or x.get("title")
+            key = x.get("url") or x.get("title_ko")
             if key in seen:
                 continue
             seen.add(key); selected.append(x)
@@ -151,10 +216,9 @@ def fetch_news_archive(limit_per_company: int = 5, max_total: int = 120) -> dict
                 break
         out.extend(selected)
     out.sort(key=lambda x: x.get("published_key", ""), reverse=True)
-    out = out[:max_total]
     return {
-        "source": "Google Sheets article archive",
-        "sheet_url": f"https://docs.google.com/spreadsheets/d/{NEWS_SHEET_ID}/edit?gid={NEWS_GID}#gid={NEWS_GID}",
+        "source": "Google Sheets Mail_Archive tab / Korean translated fields only",
+        "sheet_url": f"https://docs.google.com/spreadsheets/d/{NEWS_SHEET_ID}/edit?gid={MAIL_ARCHIVE_GID}#gid={MAIL_ARCHIVE_GID}",
         "count": len(out),
         "rows": out,
     }
@@ -162,10 +226,21 @@ def fetch_news_archive(limit_per_company: int = 5, max_total: int = 120) -> dict
 
 def main() -> int:
     now = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+    companies = []
+    for company_ko, (tab_name, gid) in COMPANY_TABS.items():
+        try:
+            companies.append(parse_company_financial(company_ko, tab_name, gid))
+        except Exception as e:
+            companies.append({"company_ko": company_ko, "tab_name": tab_name, "gid": gid, "error": str(e)[:300], "quarters": [], "years": [], "source_links": []})
     payload = {
         "generated_at_utc": now,
-        "financial_archive": fetch_financial_archive(),
-        "news_archive": fetch_news_archive(),
+        "financial_archive": {
+            "source": "Google Sheets per-company tabs; Nexon excluded until cleaned",
+            "sheet_url": f"https://docs.google.com/spreadsheets/d/{FIN_SHEET_ID}/edit",
+            "count": len([c for c in companies if not c.get("error")]),
+            "rows": companies,
+        },
+        "news_archive": fetch_mail_archive(),
     }
     DOCS_DATA.mkdir(parents=True, exist_ok=True)
     (DOCS_DATA / "archives.json").write_text(json.dumps(payload, ensure_ascii=False, indent=2, allow_nan=False), encoding="utf-8")
