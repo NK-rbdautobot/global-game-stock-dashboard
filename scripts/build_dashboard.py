@@ -1,0 +1,91 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+DOCS = ROOT / "docs"
+
+HTML = r'''<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>글로벌 게임·빅테크 주가/시가총액 대시보드</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <style>
+    :root { --bg:#0b1020; --panel:#121a2f; --panel2:#17213a; --text:#eef2ff; --muted:#9aa7c7; --line:#25304d; --accent:#7dd3fc; --good:#34d399; --bad:#fb7185; --warn:#fbbf24; }
+    body.light { --bg:#f5f7fb; --panel:#ffffff; --panel2:#f1f5f9; --text:#111827; --muted:#64748b; --line:#d7deea; --accent:#0369a1; --good:#059669; --bad:#e11d48; --warn:#b45309; }
+    *{box-sizing:border-box} body{margin:0;background:radial-gradient(circle at top left,rgba(125,211,252,.16),transparent 28%),var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;}
+    .wrap{max-width:1500px;margin:0 auto;padding:28px 22px 60px}.top{display:flex;justify-content:space-between;gap:18px;align-items:flex-start;margin-bottom:20px}.title h1{font-size:30px;margin:0 0 8px}.title p{margin:0;color:var(--muted);line-height:1.55}.actions{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}button,a.btn{border:1px solid var(--line);background:var(--panel);color:var(--text);border-radius:12px;padding:10px 13px;cursor:pointer;text-decoration:none;font-weight:700}button:hover,a.btn:hover{border-color:var(--accent)}.cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;margin:18px 0}.card{background:linear-gradient(180deg,var(--panel),var(--panel2));border:1px solid var(--line);border-radius:18px;padding:16px;box-shadow:0 12px 30px rgba(0,0,0,.18)}.k{color:var(--muted);font-size:13px}.v{font-size:25px;font-weight:850;margin-top:8px}.sub{color:var(--muted);font-size:12px;margin-top:7px}.grid{display:grid;grid-template-columns:1.2fr .8fr;gap:14px}.chartbox{height:380px}.toolbar{display:grid;grid-template-columns:1.5fr repeat(3, minmax(150px,.5fr));gap:10px;margin:16px 0}.toolbar input,.toolbar select{width:100%;background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:12px;padding:11px 12px}table{width:100%;border-collapse:separate;border-spacing:0;background:var(--panel);border:1px solid var(--line);border-radius:18px;overflow:hidden}th,td{padding:11px 10px;border-bottom:1px solid var(--line);text-align:right;font-size:13px;vertical-align:middle}th{position:sticky;top:0;background:var(--panel2);z-index:1;color:var(--muted);font-weight:800;cursor:pointer}td:first-child,th:first-child{text-align:left}.name{font-weight:850}.small{display:block;color:var(--muted);font-size:12px;margin-top:3px}.up{color:var(--good);font-weight:800}.down{color:var(--bad);font-weight:800}.warn{color:var(--warn)}.pill{display:inline-flex;border:1px solid var(--line);border-radius:999px;padding:3px 8px;font-size:12px;color:var(--muted);background:rgba(125,211,252,.06)}.foot{color:var(--muted);font-size:12px;line-height:1.6;margin-top:14px}.status-ok{color:var(--good)}.status-error{color:var(--bad)}@media(max-width:1000px){.cards{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:1fr}.toolbar{grid-template-columns:1fr 1fr}.top{display:block}.actions{justify-content:flex-start;margin-top:14px}}@media(max-width:640px){.cards,.toolbar{grid-template-columns:1fr}.wrap{padding:18px 10px}th,td{font-size:12px;padding:9px 7px}.title h1{font-size:23px}}
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div class="title">
+      <h1>글로벌 게임·빅테크 주가/시가총액 대시보드</h1>
+      <p>32개 상장사의 현재가, 등락률, 시가총액을 모니터링합니다. 시가총액 KRW 환산은 Boss가 지정한 고정 환율을 적용합니다.</p>
+    </div>
+    <div class="actions">
+      <button id="themeBtn">라이트/다크</button>
+      <button id="refreshBtn">데이터 새로고침</button>
+      <a class="btn" href="data/market_quotes.csv" download>CSV 다운로드</a>
+    </div>
+  </div>
+  <div class="cards" id="cards"></div>
+  <div class="grid">
+    <div class="card chartbox"><canvas id="capChart"></canvas></div>
+    <div class="card chartbox"><canvas id="countryChart"></canvas></div>
+  </div>
+  <div class="toolbar">
+    <input id="search" placeholder="회사명/티커/국가/거래소 검색" />
+    <select id="country"><option value="">전체 국가</option></select>
+    <select id="category"><option value="">전체 유형</option></select>
+    <select id="sort"><option value="market_cap_krw_desc">시총 KRW 높은순</option><option value="change_percent_desc">상승률 높은순</option><option value="change_percent_asc">하락률 높은순</option><option value="company_ko_asc">회사명 가나다순</option></select>
+  </div>
+  <div style="overflow:auto;max-height:720px;border-radius:18px"><table id="tbl"><thead><tr>
+    <th data-sort="company_ko">회사</th><th>유형</th><th>국가/거래소</th><th>티커</th><th>현재가</th><th>등락률</th><th>시총 현지통화</th><th>시총 KRW</th><th>거래량</th><th>업데이트</th><th>상태</th>
+  </tr></thead><tbody></tbody></table></div>
+  <div class="foot" id="foot"></div>
+</div>
+<script>
+let RAW=[], META={}, capChart, countryChart;
+const KRW_EOK = 100000000;
+function n(v){return Number(v||0)}
+function fmtNum(v,d=0){ if(v===null||v===undefined||!isFinite(Number(v))) return '-'; return Number(v).toLocaleString('ko-KR',{maximumFractionDigits:d,minimumFractionDigits:d}); }
+function fmtPrice(v,cur){ const d=(cur==='JPY'||cur==='KRW')?0:2; return fmtNum(v,d)+' '+(cur||''); }
+function fmtCapLocal(v,cur){ if(!v) return '-'; const unit = (cur==='KRW'||cur==='JPY')?100000000:1000000; const label = (cur==='KRW'||cur==='JPY')?'억':'M'; return fmtNum(v/unit,1)+' '+label+' '+cur; }
+function fmtKrw(v){ if(!v) return '-'; return fmtNum(v/KRW_EOK,0)+'억 원'; }
+function pct(v){ if(v===null||v===undefined||!isFinite(Number(v))) return '-'; const cls=Number(v)>=0?'up':'down'; return `<span class="${cls}">${Number(v)>=0?'+':''}${fmtNum(v,2)}%</span>`; }
+function dt(s){ if(!s) return '-'; try { return new Date(s).toLocaleString('ko-KR',{timeZone:'Asia/Seoul'}); } catch(e){ return s; } }
+function filtered(){
+  const q=document.getElementById('search').value.trim().toLowerCase(), c=document.getElementById('country').value, cat=document.getElementById('category').value, sort=document.getElementById('sort').value;
+  let rows=RAW.filter(r=>!c||r.country===c).filter(r=>!cat||r.category===cat).filter(r=>!q||[r.company_ko,r.company_en,r.yahoo_symbol,r.input_ticker,r.country,r.exchange,r.category].join(' ').toLowerCase().includes(q));
+  rows.sort((a,b)=> sort==='market_cap_krw_desc'?n(b.market_cap_krw)-n(a.market_cap_krw): sort==='change_percent_desc'?n(b.change_percent)-n(a.change_percent): sort==='change_percent_asc'?n(a.change_percent)-n(b.change_percent): String(a.company_ko).localeCompare(String(b.company_ko),'ko'));
+  return rows;
+}
+function renderCards(rows){
+ const ok=rows.filter(r=>r.data_status==='ok'), total=ok.reduce((s,r)=>s+n(r.market_cap_krw),0), up=rows.filter(r=>n(r.change_percent)>0).length, down=rows.filter(r=>n(r.change_percent)<0).length;
+ const top=[...ok].sort((a,b)=>n(b.market_cap_krw)-n(a.market_cap_krw))[0]; const best=[...rows].sort((a,b)=>n(b.change_percent)-n(a.change_percent))[0];
+ document.getElementById('cards').innerHTML=`<div class="card"><div class="k">표시 기업</div><div class="v">${rows.length}개</div><div class="sub">정상 시총 ${ok.length}개 / 전체 ${META.company_count||RAW.length}개</div></div><div class="card"><div class="k">합산 시가총액</div><div class="v">${fmtKrw(total)}</div><div class="sub">고정 환율 기준 KRW 환산</div></div><div class="card"><div class="k">상승 / 하락</div><div class="v"><span class="up">${up}</span> / <span class="down">${down}</span></div><div class="sub">전일 종가 대비</div></div><div class="card"><div class="k">시총 1위 / 상승률 1위</div><div class="v">${top?top.company_ko:'-'}</div><div class="sub">${best?best.company_ko+' '+(best.change_percent>=0?'+':'')+fmtNum(best.change_percent,2)+'%':'-'}</div></div>`;
+}
+function renderTable(rows){
+ document.querySelector('#tbl tbody').innerHTML=rows.map(r=>`<tr><td><span class="name">${r.company_ko}</span><span class="small">${r.company_en}</span></td><td><span class="pill">${r.category}</span></td><td>${r.country}<span class="small">${r.exchange}</span></td><td>${r.input_ticker}<span class="small">${r.yahoo_symbol}</span></td><td>${fmtPrice(r.price,r.currency)}</td><td>${pct(r.change_percent)}</td><td>${fmtCapLocal(r.market_cap_local,r.currency)}</td><td><b>${fmtKrw(r.market_cap_krw)}</b></td><td>${fmtNum(r.volume,0)}</td><td>${dt(r.market_time||r.as_of_utc)}</td><td class="${r.data_status==='ok'?'status-ok':'status-error'}">${r.data_status}${r.error?'<span class="small warn">'+r.error+'</span>':''}</td></tr>`).join('');
+}
+function renderCharts(rows){
+ const ok=rows.filter(r=>r.market_cap_krw).sort((a,b)=>n(b.market_cap_krw)-n(a.market_cap_krw)); const top=ok.slice(0,20);
+ if(capChart) capChart.destroy(); capChart=new Chart(document.getElementById('capChart'),{type:'bar',data:{labels:top.map(r=>r.company_ko),datasets:[{label:'시총 KRW(억원)',data:top.map(r=>Math.round(n(r.market_cap_krw)/KRW_EOK)),backgroundColor:'rgba(125,211,252,.65)'}]},options:{responsive:true,maintainAspectRatio:false,indexAxis:'y',plugins:{legend:{labels:{color:getComputedStyle(document.body).getPropertyValue('--text')}}},scales:{x:{ticks:{color:getComputedStyle(document.body).getPropertyValue('--muted')}},y:{ticks:{color:getComputedStyle(document.body).getPropertyValue('--muted')}}}}});
+ const by={}; ok.forEach(r=>by[r.country]=(by[r.country]||0)+n(r.market_cap_krw)); const ents=Object.entries(by).sort((a,b)=>b[1]-a[1]);
+ if(countryChart) countryChart.destroy(); countryChart=new Chart(document.getElementById('countryChart'),{type:'doughnut',data:{labels:ents.map(e=>e[0]),datasets:[{data:ents.map(e=>Math.round(e[1]/KRW_EOK)),backgroundColor:['#7dd3fc','#34d399','#fbbf24','#fb7185','#a78bfa','#f472b6','#60a5fa','#94a3b8']}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'bottom',labels:{color:getComputedStyle(document.body).getPropertyValue('--text')}}}}});
+}
+function refresh(){ const rows=filtered(); renderCards(rows); renderTable(rows); renderCharts(rows); document.getElementById('foot').innerHTML=`최종 데이터 생성: <b>${dt(META.generated_at_utc)}</b><br>${META.disclaimer_ko||''}<br>적용 환율: USD 1,460 / EUR 1,720 / JPY 9 / CNY 200 / HKD 190 / TWD 45 / SEK 150 / THB 45 / KRW 1`; }
+async function load(){ const res=await fetch('data/market_quotes.json?ts='+Date.now()); META=await res.json(); RAW=META.rows||[]; ['country','category'].forEach(id=>{ const sel=document.getElementById(id); [...new Set(RAW.map(r=>r[id]).filter(Boolean))].sort().forEach(v=>sel.insertAdjacentHTML('beforeend',`<option value="${v}">${v}</option>`)); }); refresh(); }
+document.getElementById('themeBtn').onclick=()=>{document.body.classList.toggle('light'); setTimeout(refresh,50)}; document.getElementById('refreshBtn').onclick=()=>location.reload(); ['search','country','category','sort'].forEach(id=>document.getElementById(id).addEventListener('input',refresh)); load().catch(e=>{document.getElementById('foot').textContent='데이터 로드 실패: '+e});
+</script>
+</body></html>'''
+
+DOCS.mkdir(parents=True, exist_ok=True)
+(DOCS / "index.html").write_text(HTML, encoding="utf-8")
+(DOCS / ".nojekyll").write_text("", encoding="utf-8")
+print(DOCS / "index.html")

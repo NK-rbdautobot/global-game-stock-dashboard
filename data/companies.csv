@@ -1,0 +1,33 @@
+company_ko,company_en,category,country,exchange,input_ticker,yahoo_symbol,currency
+알파벳,Alphabet (Google),빅테크,미국,NASDAQ,NASDAQ:GOOG,GOOG,USD
+마이크로소프트,Microsoft,빅테크,미국,NASDAQ,NASDAQ:MSFT,MSFT,USD
+로블록스,Roblox,게임/플랫폼,미국,NYSE,NYSE:RBLX,RBLX,USD
+일렉트로닉 아츠,Electronic Arts (EA),게임 퍼블리셔,미국,NASDAQ,NASDAQ:EA,EA,USD
+닌텐도,Nintendo,게임/콘솔,일본,TYO,7974:TYO,7974.T,JPY
+넥슨,Nexon,게임 퍼블리셔,일본,TYO,3659:TYO,3659.T,JPY
+캡콤,Capcom,게임 퍼블리셔,일본,TYO,9697:TYO,9697.T,JPY
+감마니아,Gamania,게임 퍼블리셔,대만,TPE,6180:TPE,6180.TWO,TWD
+반다이남코,Bandai Namco,게임/엔터테인먼트,일본,TYO,7832:TYO,7832.T,JPY
+스퀘어에닉스,Square Enix,게임 퍼블리셔,일본,TYO,9684:TYO,9684.T,JPY
+세가,Sega Sammy,게임/엔터테인먼트,일본,TYO,6460:TYO,6460.T,JPY
+소니,Sony,빅테크/게임,일본,TYO,6758:TYO,6758.T,JPY
+애스피어,Asphere,게임/IT,태국,BKK,BKK:AS,AS.BK,THB
+라스타,Rastar Group,게임/엔터테인먼트,중국,SHE,SHE:300043,300043.SZ,CNY
+킹넷,Kingnet Network,게임 퍼블리셔,중국,SHE,SHE:002517,002517.SZ,CNY
+애플,Apple,빅테크,미국,NASDAQ,NASDAQ:AAPL,AAPL,USD
+세기화통,Century Huatong,게임/IT,중국,SHE,SHE:002602,002602.SZ,CNY
+크래프톤,Krafton,게임 퍼블리셔,한국,KRX,KRX:259960,259960.KS,KRW
+카카오게임즈,Kakao Games,게임 퍼블리셔,한국,KOSDAQ,KOSDAQ:293490,293490.KQ,KRW
+위메이드,Wemade,게임 퍼블리셔,한국,KOSDAQ,KOSDAQ:112040,112040.KQ,KRW
+넷마블,Netmarble,게임 퍼블리셔,한국,KRX,KRX:251270,251270.KS,KRW
+테이크투,Take-Two Interactive,게임 퍼블리셔,미국,NASDAQ,NASDAQ:TTWO,TTWO,USD
+엔씨소프트,NCSOFT,게임 퍼블리셔,한국,KRX,KRX:036570,036570.KS,KRW
+씨,SEA,게임/인터넷,싱가포르/미국,NYSE,NYSE:SE,SE,USD
+펄어비스,Pearl Abyss,게임 퍼블리셔,한국,KOSDAQ,KOSDAQ:263750,263750.KQ,KRW
+유비소프트,Ubisoft,게임 퍼블리셔,프랑스,EPA,EPA:UBI,UBI.PA,EUR
+텐센트,Tencent,빅테크/게임,중국/홍콩,HKG,HKG:0700,0700.HK,HKD
+넷이즈,Netease,게임/인터넷,중국/미국,NASDAQ,NASDAQ:NTES,NTES,USD
+엠브레이서 그룹,Embracer Group,게임 퍼블리셔,스웨덴,STO,STO:EMBRAC-B,EMBRAC-B.ST,SEK
+데브시스터즈,Devsisters,게임 퍼블리셔,한국,KOSDAQ,KOSDAQ:194480,194480.KQ,KRW
+네오위즈,Neowiz,게임 퍼블리셔,한국,KOSDAQ,KOSDAQ:095660,095660.KQ,KRW
+시프트업,Shift Up,게임 퍼블리셔,한국,KRX,KRX:462870,462870.KS,KRW

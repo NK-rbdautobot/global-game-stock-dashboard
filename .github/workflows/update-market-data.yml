@@ -1,0 +1,41 @@
+name: Update Market Data
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: market-data-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install yfinance pandas
+      - name: Fetch market data
+        run: |
+          python scripts/fetch_market_data.py
+      - name: Build dashboard
+        run: |
+          python scripts/build_dashboard.py
+      - name: Commit updated dashboard data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/shares_outstanding_cache.json docs/index.html docs/.nojekyll docs/data/market_quotes.json docs/data/market_quotes.csv docs/data/market_history.csv
+          git commit -m "Update market dashboard data" || echo "No changes"
+          git push
