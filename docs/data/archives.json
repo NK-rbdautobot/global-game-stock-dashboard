@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-18T09:44:08Z",
+  "generated_at_utc": "2026-06-18T14:01:42Z",
   "financial_archive": {
     "source": "Google Sheets per-company tabs; Nexon excluded until cleaned",
     "sheet_url": "https://docs.google.com/spreadsheets/d/1jzdID-ZY39VhKgHdvpSIcGiJq0Gk_qsOj1k6hNi3jh8/edit",
@@ -18,42 +18,48 @@
             "revenue": 96469.0,
             "operating_profit": 30972.0,
             "revenue_krw_eok": 1408447.4,
-            "operating_profit_krw_eok": 452191.2
+            "operating_profit_krw_eok": 452191.2,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 90234.0,
             "operating_profit": 30606.0,
             "revenue_krw_eok": 1317416.4,
-            "operating_profit_krw_eok": 446847.6
+            "operating_profit_krw_eok": 446847.6,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 96428.0,
             "operating_profit": 31271.0,
             "revenue_krw_eok": 1407848.8,
-            "operating_profit_krw_eok": 456556.6
+            "operating_profit_krw_eok": 456556.6,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 102346.0,
             "operating_profit": 31228.0,
             "revenue_krw_eok": 1494251.6,
-            "operating_profit_krw_eok": 455928.8
+            "operating_profit_krw_eok": 455928.8,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 113828.0,
             "operating_profit": 35934.0,
             "revenue_krw_eok": 1661888.8,
-            "operating_profit_krw_eok": 524636.4
+            "operating_profit_krw_eok": 524636.4,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 109896.0,
             "operating_profit": 39696.0,
             "revenue_krw_eok": 1604481.6,
-            "operating_profit_krw_eok": 579561.6
+            "operating_profit_krw_eok": 579561.6,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -98,7 +104,8 @@
           "revenue": 109896.0,
           "operating_profit": 39696.0,
           "revenue_krw_eok": 1604481.6,
-          "operating_profit_krw_eok": 579561.6
+          "operating_profit_krw_eok": 579561.6,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -132,42 +139,48 @@
             "revenue": 69632.0,
             "operating_profit": 31653.0,
             "revenue_krw_eok": 1016627.2,
-            "operating_profit_krw_eok": 462133.8
+            "operating_profit_krw_eok": 462133.8,
+            "source_range": "B1:G3"
           },
           {
             "period": "2024 Q1",
             "revenue": 70066.0,
             "operating_profit": 32000.0,
             "revenue_krw_eok": 1022963.6,
-            "operating_profit_krw_eok": 467200.0
+            "operating_profit_krw_eok": 467200.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2024 Q2",
             "revenue": 76441.0,
             "operating_profit": 34323.0,
             "revenue_krw_eok": 1116038.6,
-            "operating_profit_krw_eok": 501115.8
+            "operating_profit_krw_eok": 501115.8,
+            "source_range": "B1:G3"
           },
           {
             "period": "2024 Q3",
             "revenue": 77673.0,
             "operating_profit": 37961.0,
             "revenue_krw_eok": 1134025.8,
-            "operating_profit_krw_eok": 554230.6
+            "operating_profit_krw_eok": 554230.6,
+            "source_range": "B1:G3"
           },
           {
             "period": "2024 Q4",
             "revenue": 81273.0,
             "operating_profit": 38275.0,
             "revenue_krw_eok": 1186585.8,
-            "operating_profit_krw_eok": 558815.0
+            "operating_profit_krw_eok": 558815.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 82886.0,
             "operating_profit": 38398.0,
             "revenue_krw_eok": 1210135.6,
-            "operating_profit_krw_eok": 560610.8
+            "operating_profit_krw_eok": 560610.8,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -212,7 +225,8 @@
           "revenue": 82886.0,
           "operating_profit": 38398.0,
           "revenue_krw_eok": 1210135.6,
-          "operating_profit_krw_eok": 560610.8
+          "operating_profit_krw_eok": 560610.8,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -249,42 +263,48 @@
             "revenue": 124300.0,
             "operating_profit": 42832.0,
             "revenue_krw_eok": 1814780.0,
-            "operating_profit_krw_eok": 625347.2
+            "operating_profit_krw_eok": 625347.2,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 95359.0,
             "operating_profit": 29589.0,
             "revenue_krw_eok": 1392241.4,
-            "operating_profit_krw_eok": 431999.4
+            "operating_profit_krw_eok": 431999.4,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 94036.0,
             "operating_profit": 28202.0,
             "revenue_krw_eok": 1372925.6,
-            "operating_profit_krw_eok": 411749.2
+            "operating_profit_krw_eok": 411749.2,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 102466.0,
             "operating_profit": 32427.0,
             "revenue_krw_eok": 1496003.6,
-            "operating_profit_krw_eok": 473434.2
+            "operating_profit_krw_eok": 473434.2,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 143756.0,
             "operating_profit": 50852.0,
             "revenue_krw_eok": 2098837.6,
-            "operating_profit_krw_eok": 742439.2
+            "operating_profit_krw_eok": 742439.2,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 111184.0,
             "operating_profit": 35885.0,
             "revenue_krw_eok": 1623286.4,
-            "operating_profit_krw_eok": 523921.0
+            "operating_profit_krw_eok": 523921.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -329,7 +349,8 @@
           "revenue": 111184.0,
           "operating_profit": 35885.0,
           "revenue_krw_eok": 1623286.4,
-          "operating_profit_krw_eok": 523921.0
+          "operating_profit_krw_eok": 523921.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -361,42 +382,48 @@
             "revenue": 988.0,
             "operating_profit": -244.0,
             "revenue_krw_eok": 14424.8,
-            "operating_profit_krw_eok": -3562.4
+            "operating_profit_krw_eok": -3562.4,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 1035.0,
             "operating_profit": -255.0,
             "revenue_krw_eok": 15111.0,
-            "operating_profit_krw_eok": -3723.0
+            "operating_profit_krw_eok": -3723.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 1081.0,
             "operating_profit": -322.0,
             "revenue_krw_eok": 15782.6,
-            "operating_profit_krw_eok": -4701.2
+            "operating_profit_krw_eok": -4701.2,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 1360.0,
             "operating_profit": -297.0,
             "revenue_krw_eok": 19856.0,
-            "operating_profit_krw_eok": -4336.2
+            "operating_profit_krw_eok": -4336.2,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 1415.0,
             "operating_profit": -359.0,
             "revenue_krw_eok": 20659.0,
-            "operating_profit_krw_eok": -5241.4
+            "operating_profit_krw_eok": -5241.4,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 1442.0,
             "operating_profit": -294.0,
             "revenue_krw_eok": 21053.2,
-            "operating_profit_krw_eok": -4292.4
+            "operating_profit_krw_eok": -4292.4,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -441,7 +468,8 @@
           "revenue": 1442.0,
           "operating_profit": -294.0,
           "revenue_krw_eok": 21053.2,
-          "operating_profit_krw_eok": -4292.4
+          "operating_profit_krw_eok": -4292.4,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -475,42 +503,48 @@
             "revenue": 1883.0,
             "operating_profit": 377.0,
             "revenue_krw_eok": 27491.8,
-            "operating_profit_krw_eok": 5504.2
+            "operating_profit_krw_eok": 5504.2,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 1895.0,
             "operating_profit": 395.0,
             "revenue_krw_eok": 27667.0,
-            "operating_profit_krw_eok": 5767.0
+            "operating_profit_krw_eok": 5767.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 1671.0,
             "operating_profit": 271.0,
             "revenue_krw_eok": 24396.6,
-            "operating_profit_krw_eok": 3956.6
+            "operating_profit_krw_eok": 3956.6,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 1839.0,
             "operating_profit": 200.0,
             "revenue_krw_eok": 26849.4,
-            "operating_profit_krw_eok": 2920.0
+            "operating_profit_krw_eok": 2920.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 1901.0,
             "operating_profit": 127.0,
             "revenue_krw_eok": 27754.6,
-            "operating_profit_krw_eok": 1854.2
+            "operating_profit_krw_eok": 1854.2,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 2120.0,
             "operating_profit": 564.0,
             "revenue_krw_eok": 30952.0,
-            "operating_profit_krw_eok": 8234.4
+            "operating_profit_krw_eok": 8234.4,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -555,7 +589,8 @@
           "revenue": 2120.0,
           "operating_profit": 564.0,
           "revenue_krw_eok": 30952.0,
-          "operating_profit_krw_eok": 8234.4
+          "operating_profit_krw_eok": 8234.4,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -592,42 +627,48 @@
             "revenue": 432.9,
             "operating_profit": 126.1,
             "revenue_krw_eok": 38961.0,
-            "operating_profit_krw_eok": 11349.0
+            "operating_profit_krw_eok": 11349.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 208.7,
             "operating_profit": 35.0,
             "revenue_krw_eok": 18783.0,
-            "operating_profit_krw_eok": 3150.0
+            "operating_profit_krw_eok": 3150.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 572.4,
             "operating_profit": 56.9,
             "revenue_krw_eok": 51516.0,
-            "operating_profit_krw_eok": 5121.0
+            "operating_profit_krw_eok": 5121.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 527.2,
             "operating_profit": 88.3,
             "revenue_krw_eok": 47448.00000000001,
-            "operating_profit_krw_eok": 7947.0
+            "operating_profit_krw_eok": 7947.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 806.3,
             "operating_profit": 155.2,
             "revenue_krw_eok": 72567.0,
-            "operating_profit_krw_eok": 13968.0
+            "operating_profit_krw_eok": 13968.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 407.2,
             "operating_profit": 59.7,
             "revenue_krw_eok": 36648.0,
-            "operating_profit_krw_eok": 5373.0
+            "operating_profit_krw_eok": 5373.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -672,7 +713,8 @@
           "revenue": 407.2,
           "operating_profit": 59.7,
           "revenue_krw_eok": 36648.0,
-          "operating_profit_krw_eok": 5373.0
+          "operating_profit_krw_eok": 5373.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -709,42 +751,48 @@
             "revenue": 3.2,
             "operating_profit": null,
             "revenue_krw_eok": 5504.0,
-            "operating_profit_krw_eok": null
+            "operating_profit_krw_eok": null,
+            "source_range": "B1:G3"
           },
           {
             "period": "2024 Q1",
             "revenue": 9.1,
             "operating_profit": 1.9,
             "revenue_krw_eok": 15652.0,
-            "operating_profit_krw_eok": 3268.0
+            "operating_profit_krw_eok": 3268.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2024 Q2",
             "revenue": 3.1,
             "operating_profit": null,
             "revenue_krw_eok": 5332.0,
-            "operating_profit_krw_eok": null
+            "operating_profit_krw_eok": null,
+            "source_range": "B1:G3"
           },
           {
             "period": "2024 Q3",
             "revenue": 3.5,
             "operating_profit": -1.2,
             "revenue_krw_eok": 6020.0,
-            "operating_profit_krw_eok": -2064.0
+            "operating_profit_krw_eok": -2064.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2024 Q4",
             "revenue": 3.2,
             "operating_profit": null,
             "revenue_krw_eok": 5504.0,
-            "operating_profit_krw_eok": null
+            "operating_profit_krw_eok": null,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 4.2,
             "operating_profit": -12.0,
             "revenue_krw_eok": 7224.0,
-            "operating_profit_krw_eok": -20640.0
+            "operating_profit_krw_eok": -20640.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -789,7 +837,8 @@
           "revenue": 4.2,
           "operating_profit": -12.0,
           "revenue_krw_eok": 7224.0,
-          "operating_profit_krw_eok": -20640.0
+          "operating_profit_krw_eok": -20640.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -826,42 +875,48 @@
             "revenue": 4409.5,
             "operating_profit": 469.3,
             "revenue_krw_eok": 396855.0,
-            "operating_profit_krw_eok": 42237.0
+            "operating_profit_krw_eok": 42237.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 2630.2,
             "operating_profit": 203.6,
             "revenue_krw_eok": 236718.0,
-            "operating_profit_krw_eok": 18324.0
+            "operating_profit_krw_eok": 18324.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 2621.6,
             "operating_profit": 340.0,
             "revenue_krw_eok": 235944.0,
-            "operating_profit_krw_eok": 30600.0
+            "operating_profit_krw_eok": 30600.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 3107.9,
             "operating_profit": 429.0,
             "revenue_krw_eok": 279711.0,
-            "operating_profit_krw_eok": 38610.0
+            "operating_profit_krw_eok": 38610.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 3713.7,
             "operating_profit": 515.0,
             "revenue_krw_eok": 334233.0,
-            "operating_profit_krw_eok": 46350.0
+            "operating_profit_krw_eok": 46350.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 3036.4,
             "operating_profit": 163.5,
             "revenue_krw_eok": 273276.0,
-            "operating_profit_krw_eok": 14715.0
+            "operating_profit_krw_eok": 14715.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -906,7 +961,8 @@
           "revenue": 3036.4,
           "operating_profit": 163.5,
           "revenue_krw_eok": 273276.0,
-          "operating_profit_krw_eok": 14715.0
+          "operating_profit_krw_eok": 14715.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -939,42 +995,48 @@
             "revenue": 1724.0,
             "operating_profit": 515.0,
             "revenue_krw_eok": 344800.0,
-            "operating_profit_krw_eok": 103000.0
+            "operating_profit_krw_eok": 103000.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 1800.0,
             "operating_profit": 576.0,
             "revenue_krw_eok": 360000.0,
-            "operating_profit_krw_eok": 115200.0
+            "operating_profit_krw_eok": 115200.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 1845.0,
             "operating_profit": 692.0,
             "revenue_krw_eok": 369000.0,
-            "operating_profit_krw_eok": 138400.0
+            "operating_profit_krw_eok": 138400.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 1929.0,
             "operating_profit": 636.0,
             "revenue_krw_eok": 385800.0,
-            "operating_profit_krw_eok": 127200.0
+            "operating_profit_krw_eok": 127200.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 1944.0,
             "operating_profit": 603.0,
             "revenue_krw_eok": 388800.0,
-            "operating_profit_krw_eok": 120600.0
+            "operating_profit_krw_eok": 120600.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 1965.0,
             "operating_profit": 674.0,
             "revenue_krw_eok": 393000.0,
-            "operating_profit_krw_eok": 134800.0
+            "operating_profit_krw_eok": 134800.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -1019,7 +1081,8 @@
           "revenue": 1965.0,
           "operating_profit": 674.0,
           "revenue_krw_eok": 393000.0,
-          "operating_profit_krw_eok": 134800.0
+          "operating_profit_krw_eok": 134800.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -1056,42 +1119,48 @@
             "revenue": 267.5,
             "operating_profit": 78.2,
             "revenue_krw_eok": 53500.0,
-            "operating_profit_krw_eok": 15640.0
+            "operating_profit_krw_eok": 15640.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 288.3,
             "operating_profit": 104.4,
             "revenue_krw_eok": 57660.0,
-            "operating_profit_krw_eok": 20880.0
+            "operating_profit_krw_eok": 20880.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 278.9,
             "operating_profit": 90.6,
             "revenue_krw_eok": 55779.99999999999,
-            "operating_profit_krw_eok": 18120.0
+            "operating_profit_krw_eok": 18120.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 283.6,
             "operating_profit": 80.1,
             "revenue_krw_eok": 56720.00000000001,
-            "operating_profit_krw_eok": 16019.999999999998
+            "operating_profit_krw_eok": 16019.999999999998,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 275.5,
             "operating_profit": 83.2,
             "revenue_krw_eok": 55100.0,
-            "operating_profit_krw_eok": 16640.0
+            "operating_profit_krw_eok": 16640.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 305.9,
             "operating_profit": 126.6,
             "revenue_krw_eok": 61179.99999999999,
-            "operating_profit_krw_eok": 25320.0
+            "operating_profit_krw_eok": 25320.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -1136,7 +1205,8 @@
           "revenue": 305.9,
           "operating_profit": 126.6,
           "revenue_krw_eok": 61179.99999999999,
-          "operating_profit_krw_eok": 25320.0
+          "operating_profit_krw_eok": 25320.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -1171,42 +1241,48 @@
             "revenue": 1359.8,
             "operating_profit": -132.1,
             "revenue_krw_eok": 19853.08,
-            "operating_profit_krw_eok": -1928.66
+            "operating_profit_krw_eok": -1928.66,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 1582.5,
             "operating_profit": -3776.9,
             "revenue_krw_eok": 23104.5,
-            "operating_profit_krw_eok": -55142.74
+            "operating_profit_krw_eok": -55142.74,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 1503.8,
             "operating_profit": 21.6,
             "revenue_krw_eok": 21955.48,
-            "operating_profit_krw_eok": 315.36
+            "operating_profit_krw_eok": 315.36,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 1773.8,
             "operating_profit": -98.0,
             "revenue_krw_eok": 25897.48,
-            "operating_profit_krw_eok": -1430.8
+            "operating_profit_krw_eok": -1430.8,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 1699.0,
             "operating_profit": -38.7,
             "revenue_krw_eok": 24805.4,
-            "operating_profit_krw_eok": -565.02
+            "operating_profit_krw_eok": -565.02,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 1679.8,
             "operating_profit": 10.9,
             "revenue_krw_eok": 24525.08,
-            "operating_profit_krw_eok": 159.14
+            "operating_profit_krw_eok": 159.14,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -1251,7 +1327,8 @@
           "revenue": 1679.8,
           "operating_profit": 10.9,
           "revenue_krw_eok": 24525.08,
-          "operating_profit_krw_eok": 159.14
+          "operating_profit_krw_eok": 159.14,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -1288,42 +1365,48 @@
             "revenue": 73.6,
             "operating_profit": 6.4,
             "revenue_krw_eok": 11039.999999999998,
-            "operating_profit_krw_eok": 960.0
+            "operating_profit_krw_eok": 960.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 53.9,
             "operating_profit": 43.2,
             "revenue_krw_eok": 8085.0,
-            "operating_profit_krw_eok": 6480.0
+            "operating_profit_krw_eok": 6480.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 33.6,
             "operating_profit": -2.6,
             "revenue_krw_eok": 5040.0,
-            "operating_profit_krw_eok": -390.0
+            "operating_profit_krw_eok": -390.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 38.5,
             "operating_profit": -0.7,
             "revenue_krw_eok": 5775.0,
-            "operating_profit_krw_eok": -105.0
+            "operating_profit_krw_eok": -105.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 51.8,
             "operating_profit": 6.6,
             "revenue_krw_eok": 7770.0,
-            "operating_profit_krw_eok": 990.0
+            "operating_profit_krw_eok": 990.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 39.3,
             "operating_profit": -73.0,
             "revenue_krw_eok": 5894.999999999999,
-            "operating_profit_krw_eok": -10950.0
+            "operating_profit_krw_eok": -10950.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -1368,7 +1451,8 @@
           "revenue": 39.3,
           "operating_profit": -73.0,
           "revenue_krw_eok": 5894.999999999999,
-          "operating_profit_krw_eok": -10950.0
+          "operating_profit_krw_eok": -10950.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -1403,42 +1487,48 @@
             "revenue": 4950.4,
             "operating_profit": 305.8,
             "revenue_krw_eok": 72275.84,
-            "operating_profit_krw_eok": 4464.68
+            "operating_profit_krw_eok": 4464.68,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 4841.1,
             "operating_profit": 456.4,
             "revenue_krw_eok": 70680.06,
-            "operating_profit_krw_eok": 6663.44
+            "operating_profit_krw_eok": 6663.44,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 5259.5,
             "operating_profit": 487.7,
             "revenue_krw_eok": 76788.7,
-            "operating_profit_krw_eok": 7120.42
+            "operating_profit_krw_eok": 7120.42,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 5986.0,
             "operating_profit": 475.9,
             "revenue_krw_eok": 87395.6,
-            "operating_profit_krw_eok": 6948.14
+            "operating_profit_krw_eok": 6948.14,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 6851.9,
             "operating_profit": 565.2,
             "revenue_krw_eok": 100037.74,
-            "operating_profit_krw_eok": 8251.92
+            "operating_profit_krw_eok": 8251.92,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 7097.5,
             "operating_profit": 593.0,
             "revenue_krw_eok": 103623.5,
-            "operating_profit_krw_eok": 8657.8
+            "operating_profit_krw_eok": 8657.8,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -1483,7 +1573,8 @@
           "revenue": 7097.5,
           "operating_profit": 593.0,
           "revenue_krw_eok": 103623.5,
-          "operating_profit_krw_eok": 8657.8
+          "operating_profit_krw_eok": 8657.8,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -1517,42 +1608,48 @@
             "revenue": 2.3,
             "operating_profit": 1.1,
             "revenue_krw_eok": 103.49999999999999,
-            "operating_profit_krw_eok": 49.50000000000001
+            "operating_profit_krw_eok": 49.50000000000001,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 2.4,
             "operating_profit": 1.0,
             "revenue_krw_eok": 108.0,
-            "operating_profit_krw_eok": 45.0
+            "operating_profit_krw_eok": 45.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 2.7,
             "operating_profit": 1.1,
             "revenue_krw_eok": 121.5,
-            "operating_profit_krw_eok": 49.50000000000001
+            "operating_profit_krw_eok": 49.50000000000001,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 3.6,
             "operating_profit": 1.6,
             "revenue_krw_eok": 162.0,
-            "operating_profit_krw_eok": 72.0
+            "operating_profit_krw_eok": 72.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 3.5,
             "operating_profit": 1.6,
             "revenue_krw_eok": 157.5,
-            "operating_profit_krw_eok": 72.0
+            "operating_profit_krw_eok": 72.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 3.0,
             "operating_profit": 1.1,
             "revenue_krw_eok": 135.0,
-            "operating_profit_krw_eok": 49.50000000000001
+            "operating_profit_krw_eok": 49.50000000000001,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -1597,7 +1694,8 @@
           "revenue": 3.0,
           "operating_profit": 1.1,
           "revenue_krw_eok": 135.0,
-          "operating_profit_krw_eok": 49.50000000000001
+          "operating_profit_krw_eok": 49.50000000000001,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -1631,42 +1729,48 @@
             "revenue": 6176.0,
             "operating_profit": 2155.0,
             "revenue_krw_eok": 6176.0,
-            "operating_profit_krw_eok": 2155.0
+            "operating_profit_krw_eok": 2155.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 8742.0,
             "operating_profit": 4573.0,
             "revenue_krw_eok": 8742.0,
-            "operating_profit_krw_eok": 4573.0
+            "operating_profit_krw_eok": 4573.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 6620.0,
             "operating_profit": 2460.0,
             "revenue_krw_eok": 6620.0,
-            "operating_profit_krw_eok": 2460.0
+            "operating_profit_krw_eok": 2460.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 8706.0,
             "operating_profit": 3486.0,
             "revenue_krw_eok": 8706.0,
-            "operating_profit_krw_eok": 3486.0
+            "operating_profit_krw_eok": 3486.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 9197.0,
             "operating_profit": 24.0,
             "revenue_krw_eok": 9197.0,
-            "operating_profit_krw_eok": 24.0
+            "operating_profit_krw_eok": 24.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 13714.0,
             "operating_profit": 5616.0,
             "revenue_krw_eok": 13714.0,
-            "operating_profit_krw_eok": 5616.0
+            "operating_profit_krw_eok": 5616.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -1711,7 +1815,8 @@
           "revenue": 13714.0,
           "operating_profit": 5616.0,
           "revenue_krw_eok": 13714.0,
-          "operating_profit_krw_eok": 5616.0
+          "operating_profit_krw_eok": 5616.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -1742,42 +1847,48 @@
             "revenue": 593.0,
             "operating_profit": 421.0,
             "revenue_krw_eok": 593.0,
-            "operating_profit_krw_eok": 421.0
+            "operating_profit_krw_eok": 421.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2024 Q1",
             "revenue": 422.0,
             "operating_profit": 263.0,
             "revenue_krw_eok": 422.0,
-            "operating_profit_krw_eok": 263.0
+            "operating_profit_krw_eok": 263.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2024 Q2",
             "revenue": 1124.0,
             "operating_profit": 682.0,
             "revenue_krw_eok": 1124.0,
-            "operating_profit_krw_eok": 682.0
+            "operating_profit_krw_eok": 682.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2024 Q3",
             "revenue": 755.0,
             "operating_profit": 495.0,
             "revenue_krw_eok": 755.0,
-            "operating_profit_krw_eok": 495.0
+            "operating_profit_krw_eok": 495.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2024 Q4",
             "revenue": 641.0,
             "operating_profit": 371.0,
             "revenue_krw_eok": 641.0,
-            "operating_profit_krw_eok": 371.0
+            "operating_profit_krw_eok": 371.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 473.0,
             "operating_profit": 215.0,
             "revenue_krw_eok": 473.0,
-            "operating_profit_krw_eok": 215.0
+            "operating_profit_krw_eok": 215.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -1808,7 +1919,8 @@
           "revenue": 473.0,
           "operating_profit": 215.0,
           "revenue_krw_eok": 473.0,
-          "operating_profit_krw_eok": 215.0
+          "operating_profit_krw_eok": 215.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -1845,42 +1957,48 @@
             "revenue": 4094.0,
             "operating_profit": -1295.0,
             "revenue_krw_eok": 4094.0,
-            "operating_profit_krw_eok": -1295.0
+            "operating_profit_krw_eok": -1295.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 3603.0,
             "operating_profit": 52.0,
             "revenue_krw_eok": 3603.0,
-            "operating_profit_krw_eok": 52.0
+            "operating_profit_krw_eok": 52.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 3824.0,
             "operating_profit": 151.0,
             "revenue_krw_eok": 3824.0,
-            "operating_profit_krw_eok": 151.0
+            "operating_profit_krw_eok": 151.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 3600.0,
             "operating_profit": -75.0,
             "revenue_krw_eok": 3600.0,
-            "operating_profit_krw_eok": -75.0
+            "operating_profit_krw_eok": -75.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 4042.0,
             "operating_profit": 32.0,
             "revenue_krw_eok": 4042.0,
-            "operating_profit_krw_eok": 32.0
+            "operating_profit_krw_eok": 32.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 5574.0,
             "operating_profit": 1133.0,
             "revenue_krw_eok": 5574.0,
-            "operating_profit_krw_eok": 1133.0
+            "operating_profit_krw_eok": 1133.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -1925,7 +2043,8 @@
           "revenue": 5574.0,
           "operating_profit": 1133.0,
           "revenue_krw_eok": 5574.0,
-          "operating_profit_krw_eok": 1133.0
+          "operating_profit_krw_eok": 1133.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -1960,42 +2079,48 @@
             "revenue": 6490.0,
             "operating_profit": 352.0,
             "revenue_krw_eok": 6490.0,
-            "operating_profit_krw_eok": 352.0
+            "operating_profit_krw_eok": 352.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 6239.0,
             "operating_profit": 497.0,
             "revenue_krw_eok": 6239.0,
-            "operating_profit_krw_eok": 497.0
+            "operating_profit_krw_eok": 497.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 7176.0,
             "operating_profit": 1011.0,
             "revenue_krw_eok": 7176.0,
-            "operating_profit_krw_eok": 1011.0
+            "operating_profit_krw_eok": 1011.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 6960.0,
             "operating_profit": 909.0,
             "revenue_krw_eok": 6960.0,
-            "operating_profit_krw_eok": 909.0
+            "operating_profit_krw_eok": 909.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 7976.0,
             "operating_profit": 1108.0,
             "revenue_krw_eok": 7976.0,
-            "operating_profit_krw_eok": 1108.0
+            "operating_profit_krw_eok": 1108.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 6517.0,
             "operating_profit": 531.0,
             "revenue_krw_eok": 6517.0,
-            "operating_profit_krw_eok": 531.0
+            "operating_profit_krw_eok": 531.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -2040,7 +2165,8 @@
           "revenue": 6517.0,
           "operating_profit": 531.0,
           "revenue_krw_eok": 6517.0,
-          "operating_profit_krw_eok": 531.0
+          "operating_profit_krw_eok": 531.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -2074,42 +2200,48 @@
             "revenue": 1601.0,
             "operating_profit": -63.0,
             "revenue_krw_eok": 1601.0,
-            "operating_profit_krw_eok": -63.0
+            "operating_profit_krw_eok": -63.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 1229.0,
             "operating_profit": -124.0,
             "revenue_krw_eok": 1229.0,
-            "operating_profit_krw_eok": -124.0
+            "operating_profit_krw_eok": -124.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 1158.0,
             "operating_profit": -86.0,
             "revenue_krw_eok": 1158.0,
-            "operating_profit_krw_eok": -86.0
+            "operating_profit_krw_eok": -86.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 1275.0,
             "operating_profit": -54.0,
             "revenue_krw_eok": 1275.0,
-            "operating_profit_krw_eok": -54.0
+            "operating_profit_krw_eok": -54.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 989.0,
             "operating_profit": -131.0,
             "revenue_krw_eok": 989.0,
-            "operating_profit_krw_eok": -131.0
+            "operating_profit_krw_eok": -131.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 829.0,
             "operating_profit": -255.0,
             "revenue_krw_eok": 829.0,
-            "operating_profit_krw_eok": -255.0
+            "operating_profit_krw_eok": -255.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -2154,7 +2286,8 @@
           "revenue": 829.0,
           "operating_profit": -255.0,
           "revenue_krw_eok": 829.0,
-          "operating_profit_krw_eok": -255.0
+          "operating_profit_krw_eok": -255.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -2191,42 +2324,48 @@
             "revenue": 1650.0,
             "operating_profit": 181.0,
             "revenue_krw_eok": 1650.0,
-            "operating_profit_krw_eok": 181.0
+            "operating_profit_krw_eok": 181.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 1418.0,
             "operating_profit": -113.0,
             "revenue_krw_eok": 1418.0,
-            "operating_profit_krw_eok": -113.0
+            "operating_profit_krw_eok": -113.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 1168.0,
             "operating_profit": -285.0,
             "revenue_krw_eok": 1168.0,
-            "operating_profit_krw_eok": -285.0
+            "operating_profit_krw_eok": -285.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 1636.0,
             "operating_profit": 263.0,
             "revenue_krw_eok": 1636.0,
-            "operating_profit_krw_eok": 263.0
+            "operating_profit_krw_eok": 263.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 1917.0,
             "operating_profit": 243.0,
             "revenue_krw_eok": 1917.0,
-            "operating_profit_krw_eok": 243.0
+            "operating_profit_krw_eok": 243.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 1533.0,
             "operating_profit": 85.0,
             "revenue_krw_eok": 1533.0,
-            "operating_profit_krw_eok": 85.0
+            "operating_profit_krw_eok": 85.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -2271,7 +2410,8 @@
           "revenue": 1533.0,
           "operating_profit": 85.0,
           "revenue_krw_eok": 1533.0,
-          "operating_profit_krw_eok": 85.0
+          "operating_profit_krw_eok": 85.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -2308,42 +2448,48 @@
             "revenue": 957.0,
             "operating_profit": 24.0,
             "revenue_krw_eok": 957.0,
-            "operating_profit_krw_eok": 24.0
+            "operating_profit_krw_eok": 24.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 837.0,
             "operating_profit": -52.0,
             "revenue_krw_eok": 837.0,
-            "operating_profit_krw_eok": -52.0
+            "operating_profit_krw_eok": -52.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 796.0,
             "operating_profit": -118.0,
             "revenue_krw_eok": 796.0,
-            "operating_profit_krw_eok": -118.0
+            "operating_profit_krw_eok": -118.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 1068.0,
             "operating_profit": 106.0,
             "revenue_krw_eok": 1068.0,
-            "operating_profit_krw_eok": 106.0
+            "operating_profit_krw_eok": 106.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 955.0,
             "operating_profit": -84.0,
             "revenue_krw_eok": 955.0,
-            "operating_profit_krw_eok": -84.0
+            "operating_profit_krw_eok": -84.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 3285.0,
             "operating_profit": 2121.0,
             "revenue_krw_eok": 3285.0,
-            "operating_profit_krw_eok": 2121.0
+            "operating_profit_krw_eok": 2121.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -2388,7 +2534,8 @@
           "revenue": 3285.0,
           "operating_profit": 2121.0,
           "revenue_krw_eok": 3285.0,
-          "operating_profit_krw_eok": 2121.0
+          "operating_profit_krw_eok": 2121.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -2419,42 +2566,48 @@
             "revenue": 502.0,
             "operating_profit": 7.0,
             "revenue_krw_eok": 502.0,
-            "operating_profit_krw_eok": 7.0
+            "operating_profit_krw_eok": 7.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 891.0,
             "operating_profit": 94.0,
             "revenue_krw_eok": 891.0,
-            "operating_profit_krw_eok": 94.0
+            "operating_profit_krw_eok": 94.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 920.0,
             "operating_profit": 101.0,
             "revenue_krw_eok": 920.0,
-            "operating_profit_krw_eok": 101.0
+            "operating_profit_krw_eok": 101.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 549.0,
             "operating_profit": -7.0,
             "revenue_krw_eok": 549.0,
-            "operating_profit_krw_eok": -7.0
+            "operating_profit_krw_eok": -7.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 587.0,
             "operating_profit": -126.0,
             "revenue_krw_eok": 587.0,
-            "operating_profit_krw_eok": -126.0
+            "operating_profit_krw_eok": -126.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 585.0,
             "operating_profit": -174.0,
             "revenue_krw_eok": 585.0,
-            "operating_profit_krw_eok": -174.0
+            "operating_profit_krw_eok": -174.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -2499,7 +2652,8 @@
           "revenue": 585.0,
           "operating_profit": -174.0,
           "revenue_krw_eok": 585.0,
-          "operating_profit_krw_eok": -174.0
+          "operating_profit_krw_eok": -174.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -2534,42 +2688,48 @@
             "revenue": 897.0,
             "operating_profit": 72.0,
             "revenue_krw_eok": 897.0,
-            "operating_profit_krw_eok": 72.0
+            "operating_profit_krw_eok": 72.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 890.0,
             "operating_profit": 102.0,
             "revenue_krw_eok": 890.0,
-            "operating_profit_krw_eok": 102.0
+            "operating_profit_krw_eok": 102.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 1100.0,
             "operating_profit": 186.0,
             "revenue_krw_eok": 1100.0,
-            "operating_profit_krw_eok": 186.0
+            "operating_profit_krw_eok": 186.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 1274.0,
             "operating_profit": 265.0,
             "revenue_krw_eok": 1274.0,
-            "operating_profit_krw_eok": 265.0
+            "operating_profit_krw_eok": 265.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 1063.0,
             "operating_profit": 47.0,
             "revenue_krw_eok": 1063.0,
-            "operating_profit_krw_eok": 47.0
+            "operating_profit_krw_eok": 47.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 1014.0,
             "operating_profit": 70.0,
             "revenue_krw_eok": 1014.0,
-            "operating_profit_krw_eok": 70.0
+            "operating_profit_krw_eok": 70.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -2614,7 +2774,8 @@
           "revenue": 1014.0,
           "operating_profit": 70.0,
           "revenue_krw_eok": 1014.0,
-          "operating_profit_krw_eok": 70.0
+          "operating_profit_krw_eok": 70.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -2651,42 +2812,48 @@
             "revenue": 2075.0,
             "operating_profit": -242.0,
             "revenue_krw_eok": 933.75,
-            "operating_profit_krw_eok": -108.9
+            "operating_profit_krw_eok": -108.9,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 2883.0,
             "operating_profit": 219.0,
             "revenue_krw_eok": 1297.35,
-            "operating_profit_krw_eok": 98.55
+            "operating_profit_krw_eok": 98.55,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 1851.0,
             "operating_profit": -199.0,
             "revenue_krw_eok": 832.95,
-            "operating_profit_krw_eok": -89.55
+            "operating_profit_krw_eok": -89.55,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 2306.0,
             "operating_profit": -76.0,
             "revenue_krw_eok": 1037.7,
-            "operating_profit_krw_eok": -34.2
+            "operating_profit_krw_eok": -34.2,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 1827.0,
             "operating_profit": -419.0,
             "revenue_krw_eok": 822.15,
-            "operating_profit_krw_eok": -188.55
+            "operating_profit_krw_eok": -188.55,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 2591.0,
             "operating_profit": 132.0,
             "revenue_krw_eok": 1165.95,
-            "operating_profit_krw_eok": 59.4
+            "operating_profit_krw_eok": 59.4,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -2731,7 +2898,8 @@
           "revenue": 2591.0,
           "operating_profit": 132.0,
           "revenue_krw_eok": 1165.95,
-          "operating_profit_krw_eok": 59.4
+          "operating_profit_krw_eok": 59.4,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -2768,42 +2936,48 @@
             "revenue": 3.3,
             "operating_profit": -1.8,
             "revenue_krw_eok": 660.0,
-            "operating_profit_krw_eok": -360.0
+            "operating_profit_krw_eok": -360.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 4.1,
             "operating_profit": -0.6,
             "revenue_krw_eok": 819.9999999999999,
-            "operating_profit_krw_eok": -120.0
+            "operating_profit_krw_eok": -120.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 7.2,
             "operating_profit": 2.5,
             "revenue_krw_eok": 1440.0,
-            "operating_profit_krw_eok": 500.0
+            "operating_profit_krw_eok": 500.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 5.9,
             "operating_profit": 1.1,
             "revenue_krw_eok": 1180.0,
-            "operating_profit_krw_eok": 220.00000000000003
+            "operating_profit_krw_eok": 220.00000000000003,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 3.7,
             "operating_profit": 0.4,
             "revenue_krw_eok": 740.0,
-            "operating_profit_krw_eok": 80.0
+            "operating_profit_krw_eok": 80.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 2.6,
             "operating_profit": 0.5,
             "revenue_krw_eok": 520.0,
-            "operating_profit_krw_eok": 100.0
+            "operating_profit_krw_eok": 100.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -2848,7 +3022,8 @@
           "revenue": 2.6,
           "operating_profit": 0.5,
           "revenue_krw_eok": 520.0,
-          "operating_profit_krw_eok": 100.0
+          "operating_profit_krw_eok": 100.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -2882,42 +3057,48 @@
             "revenue": 70.9,
             "operating_profit": -2.6,
             "revenue_krw_eok": 14180.000000000002,
-            "operating_profit_krw_eok": -520.0
+            "operating_profit_krw_eok": -520.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 81.4,
             "operating_profit": 16.8,
             "revenue_krw_eok": 16280.000000000002,
-            "operating_profit_krw_eok": 3360.0
+            "operating_profit_krw_eok": 3360.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 90.7,
             "operating_profit": 15.8,
             "revenue_krw_eok": 18140.0,
-            "operating_profit_krw_eok": 3160.0
+            "operating_profit_krw_eok": 3160.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 100.1,
             "operating_profit": 20.4,
             "revenue_krw_eok": 20020.0,
-            "operating_profit_krw_eok": 4079.9999999999995
+            "operating_profit_krw_eok": 4079.9999999999995,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 106.8,
             "operating_profit": 17.1,
             "revenue_krw_eok": 21360.0,
-            "operating_profit_krw_eok": 3420.0000000000005
+            "operating_profit_krw_eok": 3420.0000000000005,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 110.1,
             "operating_profit": 24.6,
             "revenue_krw_eok": 22020.0,
-            "operating_profit_krw_eok": 4920.0
+            "operating_profit_krw_eok": 4920.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -2962,7 +3143,8 @@
           "revenue": 110.1,
           "operating_profit": 24.6,
           "revenue_krw_eok": 22020.0,
-          "operating_profit_krw_eok": 4920.0
+          "operating_profit_krw_eok": 4920.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -2996,42 +3178,48 @@
             "revenue": 11.9,
             "operating_profit": 3.4,
             "revenue_krw_eok": 2380.0,
-            "operating_profit_krw_eok": 680.0
+            "operating_profit_krw_eok": 680.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 13.5,
             "operating_profit": 5.3,
             "revenue_krw_eok": 2700.0,
-            "operating_profit_krw_eok": 1060.0
+            "operating_profit_krw_eok": 1060.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 12.3,
             "operating_profit": 4.5,
             "revenue_krw_eok": 2460.0,
-            "operating_profit_krw_eok": 900.0
+            "operating_profit_krw_eok": 900.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 15.0,
             "operating_profit": 6.5,
             "revenue_krw_eok": 3000.0,
-            "operating_profit_krw_eok": 1300.0
+            "operating_profit_krw_eok": 1300.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 12.5,
             "operating_profit": 3.5,
             "revenue_krw_eok": 2500.0,
-            "operating_profit_krw_eok": 700.0
+            "operating_profit_krw_eok": 700.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 22.2,
             "operating_profit": 7.5,
             "revenue_krw_eok": 4440.0,
-            "operating_profit_krw_eok": 1500.0
+            "operating_profit_krw_eok": 1500.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -3076,7 +3264,8 @@
           "revenue": 22.2,
           "operating_profit": 7.5,
           "revenue_krw_eok": 4440.0,
-          "operating_profit_krw_eok": 1500.0
+          "operating_profit_krw_eok": 1500.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -3110,42 +3299,48 @@
             "revenue": 32.5,
             "operating_profit": 10.3,
             "revenue_krw_eok": 2925.0,
-            "operating_profit_krw_eok": 927.0
+            "operating_profit_krw_eok": 927.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 80.8,
             "operating_profit": 34.8,
             "revenue_krw_eok": 7272.0,
-            "operating_profit_krw_eok": 3132.0
+            "operating_profit_krw_eok": 3132.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 45.5,
             "operating_profit": 24.6,
             "revenue_krw_eok": 4095.0,
-            "operating_profit_krw_eok": 2214.0
+            "operating_profit_krw_eok": 2214.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 35.7,
             "operating_profit": 14.7,
             "revenue_krw_eok": 3213.0,
-            "operating_profit_krw_eok": 1323.0
+            "operating_profit_krw_eok": 1323.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 34.1,
             "operating_profit": 15.0,
             "revenue_krw_eok": 3069.0,
-            "operating_profit_krw_eok": 1350.0
+            "operating_profit_krw_eok": 1350.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 80.1,
             "operating_profit": 21.0,
             "revenue_krw_eok": 7209.0,
-            "operating_profit_krw_eok": 1890.0
+            "operating_profit_krw_eok": 1890.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -3190,7 +3385,8 @@
           "revenue": 80.1,
           "operating_profit": 21.0,
           "revenue_krw_eok": 7209.0,
-          "operating_profit_krw_eok": 1890.0
+          "operating_profit_krw_eok": 1890.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -3227,42 +3423,48 @@
             "revenue": 344.3,
             "operating_profit": 65.6,
             "revenue_krw_eok": 30987.0,
-            "operating_profit_krw_eok": 5903.999999999999
+            "operating_profit_krw_eok": 5903.999999999999,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 285.9,
             "operating_profit": 1.0,
             "revenue_krw_eok": 25731.0,
-            "operating_profit_krw_eok": 90.0
+            "operating_profit_krw_eok": 90.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 300.4,
             "operating_profit": 51.9,
             "revenue_krw_eok": 27036.0,
-            "operating_profit_krw_eok": 4671.0
+            "operating_profit_krw_eok": 4671.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 343.4,
             "operating_profit": 53.5,
             "revenue_krw_eok": 30906.0,
-            "operating_profit_krw_eok": 4815.0
+            "operating_profit_krw_eok": 4815.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 358.4,
             "operating_profit": 52.0,
             "revenue_krw_eok": 32256.0,
-            "operating_profit_krw_eok": 4680.0
+            "operating_profit_krw_eok": 4680.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 346.0,
             "operating_profit": 32.1,
             "revenue_krw_eok": 31140.0,
-            "operating_profit_krw_eok": 2889.0
+            "operating_profit_krw_eok": 2889.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -3307,7 +3509,8 @@
           "revenue": 346.0,
           "operating_profit": 32.1,
           "revenue_krw_eok": 31140.0,
-          "operating_profit_krw_eok": 2889.0
+          "operating_profit_krw_eok": 2889.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -3344,42 +3547,48 @@
             "revenue": 90.9,
             "operating_profit": 12.2,
             "revenue_krw_eok": 8181.0,
-            "operating_profit_krw_eok": 1098.0
+            "operating_profit_krw_eok": 1098.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 76.0,
             "operating_profit": 7.2,
             "revenue_krw_eok": 6840.0,
-            "operating_profit_krw_eok": 648.0
+            "operating_profit_krw_eok": 648.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 59.3,
             "operating_profit": 9.0,
             "revenue_krw_eok": 5337.0,
-            "operating_profit_krw_eok": 810.0
+            "operating_profit_krw_eok": 810.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 74.6,
             "operating_profit": 18.3,
             "revenue_krw_eok": 6714.0,
-            "operating_profit_krw_eok": 1647.0
+            "operating_profit_krw_eok": 1647.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 81.6,
             "operating_profit": 19.1,
             "revenue_krw_eok": 7344.0,
-            "operating_profit_krw_eok": 1719.0
+            "operating_profit_krw_eok": 1719.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 82.2,
             "operating_profit": 8.3,
             "revenue_krw_eok": 7398.0,
-            "operating_profit_krw_eok": 747.0000000000001
+            "operating_profit_krw_eok": 747.0000000000001,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -3424,7 +3633,8 @@
           "revenue": 82.2,
           "operating_profit": 8.3,
           "revenue_krw_eok": 7398.0,
-          "operating_profit_krw_eok": 747.0000000000001
+          "operating_profit_krw_eok": 747.0000000000001,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",
@@ -3461,42 +3671,48 @@
             "revenue": 110.7,
             "operating_profit": 10.9,
             "revenue_krw_eok": 9963.0,
-            "operating_profit_krw_eok": 981.0
+            "operating_profit_krw_eok": 981.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q1",
             "revenue": 106.6,
             "operating_profit": 4.4,
             "revenue_krw_eok": 9594.0,
-            "operating_profit_krw_eok": 396.0
+            "operating_profit_krw_eok": 396.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q2",
             "revenue": 81.0,
             "operating_profit": -0.5,
             "revenue_krw_eok": 7290.0,
-            "operating_profit_krw_eok": -45.0
+            "operating_profit_krw_eok": -45.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
             "revenue": 120.1,
             "operating_profit": 10.5,
             "revenue_krw_eok": 10809.0,
-            "operating_profit_krw_eok": 945.0
+            "operating_profit_krw_eok": 945.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
             "revenue": 134.1,
             "operating_profit": 9.8,
             "revenue_krw_eok": 12069.0,
-            "operating_profit_krw_eok": 882.0
+            "operating_profit_krw_eok": 882.0,
+            "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
             "revenue": 152.3,
             "operating_profit": 27.3,
             "revenue_krw_eok": 13707.0,
-            "operating_profit_krw_eok": 2457.0
+            "operating_profit_krw_eok": 2457.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -3541,7 +3757,8 @@
           "revenue": 152.3,
           "operating_profit": 27.3,
           "revenue_krw_eok": 13707.0,
-          "operating_profit_krw_eok": 2457.0
+          "operating_profit_krw_eok": 2457.0,
+          "source_range": "B1:G3"
         },
         "latest_year": {
           "year": "2025",

@@ -188,25 +188,39 @@ def parse_company_financial(company_ko: str, tab_name: str, gid: str) -> dict[st
             "operating_profit_krw_eok": unit_to_krw_eok(op, op_unit),
         })
 
-    # Boss 확인 요청 기준: 대시보드의 분기 차트는 각 회사 탭의 B1:G3 요약 영역,
-    # 즉 B:G의 최근 6개 매출/영업이익 값을 우선 사용한다. 기간 라벨은 하단
-    # 상세 분기표에서 같은 끝 구간의 YYYY Qn 라벨을 가져와 Q5/Q6가 절대 나오지 않게 한다.
+    # Boss 기준 고정: 모든 회사의 분기 차트 값은 각 회사 탭의 B1:G3 요약 영역만 사용한다.
+    # - B:G / 2행 = 최근 6개 분기 매출
+    # - B:G / 3행 = 최근 6개 분기 영업이익
+    # 하단 상세 분기표는 B:G 값에 붙일 YYYY Qn 라벨을 찾는 용도로만 참고하고,
+    # 값 자체는 절대 섞어 쓰지 않는다.
     summary_cols = [idx for idx in range(1, min(7, max_cols)) if parse_num(rows[1][idx]) is not None or parse_num(rows[2][idx]) is not None]
-    summary_labels = [q.get("period", "") for q in detailed_quarters[-len(summary_cols):]] if summary_cols and len(detailed_quarters) >= len(summary_cols) else []
+    summary_values = [(parse_num(rows[1][idx]), parse_num(rows[2][idx])) for idx in summary_cols]
+    summary_labels: list[str] = []
+    if summary_values:
+        # Prefer an exact contiguous value match in the detailed quarterly table.
+        detail_values = [(q.get("revenue"), q.get("operating_profit")) for q in detailed_quarters]
+        match_start = None
+        for start in range(0, len(detail_values) - len(summary_values) + 1):
+            if detail_values[start:start + len(summary_values)] == summary_values:
+                match_start = start
+                break
+        if match_start is not None:
+            summary_labels = [q.get("period", "") for q in detailed_quarters[match_start:match_start + len(summary_values)]]
+        elif len(detailed_quarters) >= len(summary_values):
+            summary_labels = [q.get("period", "") for q in detailed_quarters[-len(summary_values):]]
     quarters = []
     for pos, idx in enumerate(summary_cols):
         rev = parse_num(rows[1][idx])
         op = parse_num(rows[2][idx])
-        period = summary_labels[pos] if pos < len(summary_labels) else shift_quarter((datetime.now().year, 1), pos - len(summary_cols) + 1)
+        period = summary_labels[pos] if pos < len(summary_labels) and summary_labels[pos] else shift_quarter((datetime.now().year, 1), pos - len(summary_cols) + 1)
         quarters.append({
             "period": period,
             "revenue": rev,
             "operating_profit": op,
             "revenue_krw_eok": unit_to_krw_eok(rev, q_unit),
             "operating_profit_krw_eok": unit_to_krw_eok(op, op_unit),
+            "source_range": "B1:G3",
         })
-    if not quarters:
-        quarters = detailed_quarters
 
     years = []
     if len(rows) >= 3:
