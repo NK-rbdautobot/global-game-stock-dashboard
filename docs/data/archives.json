@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-18T09:23:29Z",
+  "generated_at_utc": "2026-06-18T09:44:08Z",
   "financial_archive": {
     "source": "Google Sheets per-company tabs; Nexon excluded until cleaned",
     "sheet_url": "https://docs.google.com/spreadsheets/d/1jzdID-ZY39VhKgHdvpSIcGiJq0Gk_qsOj1k6hNi3jh8/edit",
@@ -13,27 +13,6 @@
         "revenue_unit": "매출(백만 USD)",
         "operating_profit_unit": "영업이익(백만 USD)",
         "quarters": [
-          {
-            "period": "2024 Q1",
-            "revenue": 80539.0,
-            "operating_profit": 25472.0,
-            "revenue_krw_eok": 1175869.4,
-            "operating_profit_krw_eok": 371891.2
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 84742.0,
-            "operating_profit": 27425.0,
-            "revenue_krw_eok": 1237233.2,
-            "operating_profit_krw_eok": 400405.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 88268.0,
-            "operating_profit": 28521.0,
-            "revenue_krw_eok": 1288712.8,
-            "operating_profit_krw_eok": 416406.6
-          },
           {
             "period": "2024 Q4",
             "revenue": 96469.0,
@@ -148,48 +127,6 @@
         "revenue_unit": "매출(백만 USD)",
         "operating_profit_unit": "영업이익(백만 USD)",
         "quarters": [
-          {
-            "period": "2022 Q2",
-            "revenue": 56189.0,
-            "operating_profit": 24254.0,
-            "revenue_krw_eok": 820359.4,
-            "operating_profit_krw_eok": 354108.4
-          },
-          {
-            "period": "2022 Q3",
-            "revenue": 56517.0,
-            "operating_profit": 26895.0,
-            "revenue_krw_eok": 825148.2,
-            "operating_profit_krw_eok": 392667.0
-          },
-          {
-            "period": "2022 Q4",
-            "revenue": 62020.0,
-            "operating_profit": 27032.0,
-            "revenue_krw_eok": 905492.0,
-            "operating_profit_krw_eok": 394667.2
-          },
-          {
-            "period": "2023 Q1",
-            "revenue": 61858.0,
-            "operating_profit": 27581.0,
-            "revenue_krw_eok": 903126.8,
-            "operating_profit_krw_eok": 402682.6
-          },
-          {
-            "period": "2023 Q2",
-            "revenue": 64727.0,
-            "operating_profit": 27925.0,
-            "revenue_krw_eok": 945014.2,
-            "operating_profit_krw_eok": 407705.0
-          },
-          {
-            "period": "2023 Q3",
-            "revenue": 65585.0,
-            "operating_profit": 30552.0,
-            "revenue_krw_eok": 957541.0,
-            "operating_profit_krw_eok": 446059.2
-          },
           {
             "period": "2023 Q4",
             "revenue": 69632.0,
@@ -308,27 +245,6 @@
         "operating_profit_unit": "영업이익(백만 USD)",
         "quarters": [
           {
-            "period": "2024 Q1",
-            "revenue": 90753.0,
-            "operating_profit": 27900.0,
-            "revenue_krw_eok": 1324993.8,
-            "operating_profit_krw_eok": 407340.0
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 85777.0,
-            "operating_profit": 25352.0,
-            "revenue_krw_eok": 1252344.2,
-            "operating_profit_krw_eok": 370139.2
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 94930.0,
-            "operating_profit": 29591.0,
-            "revenue_krw_eok": 1385978.0,
-            "operating_profit_krw_eok": 432028.6
-          },
-          {
             "period": "2024 Q4",
             "revenue": 124300.0,
             "operating_profit": 42832.0,
@@ -440,27 +356,6 @@
         "revenue_unit": "매출(백만 USD)",
         "operating_profit_unit": "영업이익(백만 USD)",
         "quarters": [
-          {
-            "period": "2024 Q1",
-            "revenue": 801.0,
-            "operating_profit": -302.0,
-            "revenue_krw_eok": 11694.6,
-            "operating_profit_krw_eok": -4409.2
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 894.0,
-            "operating_profit": -238.0,
-            "revenue_krw_eok": 13052.4,
-            "operating_profit_krw_eok": -3474.8
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 919.0,
-            "operating_profit": -279.0,
-            "revenue_krw_eok": 13417.4,
-            "operating_profit_krw_eok": -4073.4
-          },
           {
             "period": "2024 Q4",
             "revenue": 988.0,
@@ -575,76 +470,6 @@
         "revenue_unit": "매출(백만 USD)",
         "operating_profit_unit": "영업이익(백만 USD)",
         "quarters": [
-          {
-            "period": "2022 Q2",
-            "revenue": 1767.0,
-            "operating_profit": 441.0,
-            "revenue_krw_eok": 25798.2,
-            "operating_profit_krw_eok": 6438.6
-          },
-          {
-            "period": "2022 Q3",
-            "revenue": 1904.0,
-            "operating_profit": 427.0,
-            "revenue_krw_eok": 27798.4,
-            "operating_profit_krw_eok": 6234.2
-          },
-          {
-            "period": "2022 Q4",
-            "revenue": 1881.0,
-            "operating_profit": 289.0,
-            "revenue_krw_eok": 27462.6,
-            "operating_profit_krw_eok": 4219.4
-          },
-          {
-            "period": "2023 Q1",
-            "revenue": 1874.0,
-            "operating_profit": 175.0,
-            "revenue_krw_eok": 27360.4,
-            "operating_profit_krw_eok": 2555.0
-          },
-          {
-            "period": "2023 Q2",
-            "revenue": 1924.0,
-            "operating_profit": 542.0,
-            "revenue_krw_eok": 28090.4,
-            "operating_profit_krw_eok": 7913.2
-          },
-          {
-            "period": "2023 Q3",
-            "revenue": 1914.0,
-            "operating_profit": 377.0,
-            "revenue_krw_eok": 27944.4,
-            "operating_profit_krw_eok": 5504.2
-          },
-          {
-            "period": "2023 Q4",
-            "revenue": 1945.0,
-            "operating_profit": 365.0,
-            "revenue_krw_eok": 28397.0,
-            "operating_profit_krw_eok": 5329.0
-          },
-          {
-            "period": "2024 Q1",
-            "revenue": 1779.0,
-            "operating_profit": 234.0,
-            "revenue_krw_eok": 25973.4,
-            "operating_profit_krw_eok": 3416.4
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 1660.0,
-            "operating_profit": 364.0,
-            "revenue_krw_eok": 24236.0,
-            "operating_profit_krw_eok": 5314.4
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 2025.0,
-            "operating_profit": 384.0,
-            "revenue_krw_eok": 29565.0,
-            "operating_profit_krw_eok": 5606.4
-          },
           {
             "period": "2024 Q4",
             "revenue": 1883.0,
@@ -763,76 +588,6 @@
         "operating_profit_unit": "영업이익(십억 JPY)",
         "quarters": [
           {
-            "period": "2022 Q2",
-            "revenue": 307.5,
-            "operating_profit": 101.6,
-            "revenue_krw_eok": 27675.0,
-            "operating_profit_krw_eok": 9144.0
-          },
-          {
-            "period": "2022 Q3",
-            "revenue": 349.5,
-            "operating_profit": 118.8,
-            "revenue_krw_eok": 31455.0,
-            "operating_profit_krw_eok": 10692.0
-          },
-          {
-            "period": "2022 Q4",
-            "revenue": 638.2,
-            "operating_profit": 190.1,
-            "revenue_krw_eok": 57438.0,
-            "operating_profit_krw_eok": 17109.0
-          },
-          {
-            "period": "2023 Q1",
-            "revenue": 306.5,
-            "operating_profit": 93.9,
-            "revenue_krw_eok": 27585.0,
-            "operating_profit_krw_eok": 8451.0
-          },
-          {
-            "period": "2023 Q2",
-            "revenue": 461.3,
-            "operating_profit": 185.4,
-            "revenue_krw_eok": 41517.0,
-            "operating_profit_krw_eok": 16686.0
-          },
-          {
-            "period": "2023 Q3",
-            "revenue": 334.9,
-            "operating_profit": 94.5,
-            "revenue_krw_eok": 30141.0,
-            "operating_profit_krw_eok": 8505.0
-          },
-          {
-            "period": "2023 Q4",
-            "revenue": 598.6,
-            "operating_profit": 184.5,
-            "revenue_krw_eok": 53874.0,
-            "operating_profit_krw_eok": 16605.0
-          },
-          {
-            "period": "2024 Q1",
-            "revenue": 277.1,
-            "operating_profit": 64.5,
-            "revenue_krw_eok": 24939.0,
-            "operating_profit_krw_eok": 5805.0
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 246.6,
-            "operating_profit": 54.5,
-            "revenue_krw_eok": 22194.0,
-            "operating_profit_krw_eok": 4905.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 276.7,
-            "operating_profit": 67.0,
-            "revenue_krw_eok": 24903.0,
-            "operating_profit_krw_eok": 6030.0
-          },
-          {
             "period": "2024 Q4",
             "revenue": 432.9,
             "operating_profit": 126.1,
@@ -949,76 +704,6 @@
         "revenue_unit": "매출(억 EUR)",
         "operating_profit_unit": "영업이익(억 EUR)",
         "quarters": [
-          {
-            "period": "2021 Q2",
-            "revenue": 3.2,
-            "operating_profit": null,
-            "revenue_krw_eok": 5504.0,
-            "operating_profit_krw_eok": null
-          },
-          {
-            "period": "2021 Q3",
-            "revenue": 4.1,
-            "operating_profit": -2.2,
-            "revenue_krw_eok": 7051.999999999999,
-            "operating_profit_krw_eok": -3784.0000000000005
-          },
-          {
-            "period": "2021 Q4",
-            "revenue": 7.7,
-            "operating_profit": null,
-            "revenue_krw_eok": 13244.0,
-            "operating_profit_krw_eok": null
-          },
-          {
-            "period": "2022 Q1",
-            "revenue": 3.1,
-            "operating_profit": -3.7,
-            "revenue_krw_eok": 5332.0,
-            "operating_profit_krw_eok": -6364.0
-          },
-          {
-            "period": "2022 Q2",
-            "revenue": 2.9,
-            "operating_profit": null,
-            "revenue_krw_eok": 4988.0,
-            "operating_profit_krw_eok": null
-          },
-          {
-            "period": "2022 Q3",
-            "revenue": 5.5,
-            "operating_profit": 0.2,
-            "revenue_krw_eok": 9460.0,
-            "operating_profit_krw_eok": 344.0
-          },
-          {
-            "period": "2022 Q4",
-            "revenue": 6.0,
-            "operating_profit": null,
-            "revenue_krw_eok": 10320.0,
-            "operating_profit_krw_eok": null
-          },
-          {
-            "period": "2023 Q1",
-            "revenue": 8.6,
-            "operating_profit": 2.9,
-            "revenue_krw_eok": 14792.0,
-            "operating_profit_krw_eok": 4988.0
-          },
-          {
-            "period": "2023 Q2",
-            "revenue": 3.2,
-            "operating_profit": null,
-            "revenue_krw_eok": 5504.0,
-            "operating_profit_krw_eok": null
-          },
-          {
-            "period": "2023 Q3",
-            "revenue": 3.5,
-            "operating_profit": -2.7,
-            "revenue_krw_eok": 6020.0,
-            "operating_profit_krw_eok": -4644.0
-          },
           {
             "period": "2023 Q4",
             "revenue": 3.2,
@@ -1137,76 +822,6 @@
         "operating_profit_unit": "영업이익(십억 JPY)",
         "quarters": [
           {
-            "period": "2022 Q2",
-            "revenue": 2311.5,
-            "operating_profit": 307.0,
-            "revenue_krw_eok": 208035.0,
-            "operating_profit_krw_eok": 27630.0
-          },
-          {
-            "period": "2022 Q3",
-            "revenue": 2751.9,
-            "operating_profit": 344.0,
-            "revenue_krw_eok": 247671.0,
-            "operating_profit_krw_eok": 30960.0
-          },
-          {
-            "period": "2022 Q4",
-            "revenue": 3412.9,
-            "operating_profit": 428.7,
-            "revenue_krw_eok": 307161.0,
-            "operating_profit_krw_eok": 38583.0
-          },
-          {
-            "period": "2023 Q1",
-            "revenue": 3063.5,
-            "operating_profit": 128.4,
-            "revenue_krw_eok": 275715.0,
-            "operating_profit_krw_eok": 11556.0
-          },
-          {
-            "period": "2023 Q2",
-            "revenue": 2963.6,
-            "operating_profit": 253.0,
-            "revenue_krw_eok": 266724.0,
-            "operating_profit_krw_eok": 22770.0
-          },
-          {
-            "period": "2023 Q3",
-            "revenue": 2828.6,
-            "operating_profit": 263.0,
-            "revenue_krw_eok": 254574.0,
-            "operating_profit_krw_eok": 23670.0
-          },
-          {
-            "period": "2023 Q4",
-            "revenue": 3747.5,
-            "operating_profit": 463.3,
-            "revenue_krw_eok": 337275.0,
-            "operating_profit_krw_eok": 41697.0
-          },
-          {
-            "period": "2024 Q1",
-            "revenue": 3481.0,
-            "operating_profit": 229.4,
-            "revenue_krw_eok": 313290.0,
-            "operating_profit_krw_eok": 20646.0
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 3011.6,
-            "operating_profit": 279.1,
-            "revenue_krw_eok": 271044.0,
-            "operating_profit_krw_eok": 25119.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 2905.6,
-            "operating_profit": 455.1,
-            "revenue_krw_eok": 261504.0,
-            "operating_profit_krw_eok": 40959.0
-          },
-          {
             "period": "2024 Q4",
             "revenue": 4409.5,
             "operating_profit": 469.3,
@@ -1319,34 +934,6 @@
         "revenue_unit": "매출(억 CNY)",
         "operating_profit_unit": "영업이익(억 CNY)",
         "quarters": [
-          {
-            "period": "2023 Q4",
-            "revenue": 1552.0,
-            "operating_profit": 414.0,
-            "revenue_krw_eok": 310400.0,
-            "operating_profit_krw_eok": 82800.0
-          },
-          {
-            "period": "2024 Q1",
-            "revenue": 1595.0,
-            "operating_profit": 526.0,
-            "revenue_krw_eok": 319000.0,
-            "operating_profit_krw_eok": 105200.0
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 1611.0,
-            "operating_profit": 584.0,
-            "revenue_krw_eok": 322200.0,
-            "operating_profit_krw_eok": 116800.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 1672.0,
-            "operating_profit": 613.0,
-            "revenue_krw_eok": 334400.0,
-            "operating_profit_krw_eok": 122600.0
-          },
           {
             "period": "2024 Q4",
             "revenue": 1724.0,
@@ -1465,34 +1052,6 @@
         "operating_profit_unit": "영업이익(억 CNY)",
         "quarters": [
           {
-            "period": "2023 Q4",
-            "revenue": 271.4,
-            "operating_profit": 68.7,
-            "revenue_krw_eok": 54279.99999999999,
-            "operating_profit_krw_eok": 13740.0
-          },
-          {
-            "period": "2024 Q1",
-            "revenue": 268.5,
-            "operating_profit": 76.2,
-            "revenue_krw_eok": 53700.0,
-            "operating_profit_krw_eok": 15240.0
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 254.9,
-            "operating_profit": 69.9,
-            "revenue_krw_eok": 50980.0,
-            "operating_profit_krw_eok": 13980.000000000002
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 262.1,
-            "operating_profit": 71.5,
-            "revenue_krw_eok": 52420.00000000001,
-            "operating_profit_krw_eok": 14300.0
-          },
-          {
             "period": "2024 Q4",
             "revenue": 267.5,
             "operating_profit": 78.2,
@@ -1529,10 +1088,10 @@
           },
           {
             "period": "2026 Q1",
-            "revenue": 305912.8,
-            "operating_profit": 126568.3,
-            "revenue_krw_eok": 61182560.0,
-            "operating_profit_krw_eok": 25313660.0
+            "revenue": 305.9,
+            "operating_profit": 126.6,
+            "revenue_krw_eok": 61179.99999999999,
+            "operating_profit_krw_eok": 25320.0
           }
         ],
         "years": [
@@ -1574,10 +1133,10 @@
         ],
         "latest_quarter": {
           "period": "2026 Q1",
-          "revenue": 305912.8,
-          "operating_profit": 126568.3,
-          "revenue_krw_eok": 61182560.0,
-          "operating_profit_krw_eok": 25313660.0
+          "revenue": 305.9,
+          "operating_profit": 126.6,
+          "revenue_krw_eok": 61179.99999999999,
+          "operating_profit_krw_eok": 25320.0
         },
         "latest_year": {
           "year": "2025",
@@ -1607,48 +1166,6 @@
         "revenue_unit": "매출(백만 USD)",
         "operating_profit_unit": "영업이익(백만 USD)",
         "quarters": [
-          {
-            "period": "2023 Q2",
-            "revenue": 1284.7,
-            "operating_profit": -204.3,
-            "revenue_krw_eok": 18756.62,
-            "operating_profit_krw_eok": -2982.78
-          },
-          {
-            "period": "2023 Q3",
-            "revenue": 1299.2,
-            "operating_profit": -543.7,
-            "revenue_krw_eok": 18968.32,
-            "operating_profit_krw_eok": -7938.02
-          },
-          {
-            "period": "2023 Q4",
-            "revenue": 1366.3,
-            "operating_profit": -129.5,
-            "revenue_krw_eok": 19947.98,
-            "operating_profit_krw_eok": -1890.7
-          },
-          {
-            "period": "2024 Q1",
-            "revenue": 1399.4,
-            "operating_profit": -2713.1,
-            "revenue_krw_eok": 20431.24,
-            "operating_profit_krw_eok": -39611.26
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 1338.2,
-            "operating_profit": -184.9,
-            "revenue_krw_eok": 19537.72,
-            "operating_profit_krw_eok": -2699.54
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 1353.1,
-            "operating_profit": -297.2,
-            "revenue_krw_eok": 19755.26,
-            "operating_profit_krw_eok": -4339.12
-          },
           {
             "period": "2024 Q4",
             "revenue": 1359.8,
@@ -1767,76 +1284,6 @@
         "operating_profit_unit": "영업이익(억 SEK)",
         "quarters": [
           {
-            "period": "2022 Q2",
-            "revenue": 71.2,
-            "operating_profit": 7.0,
-            "revenue_krw_eok": 10680.0,
-            "operating_profit_krw_eok": 1050.0
-          },
-          {
-            "period": "2022 Q3",
-            "revenue": 95.7,
-            "operating_profit": 5.0,
-            "revenue_krw_eok": 14355.0,
-            "operating_profit_krw_eok": 750.0
-          },
-          {
-            "period": "2022 Q4",
-            "revenue": 116.2,
-            "operating_profit": 2.0,
-            "revenue_krw_eok": 17430.0,
-            "operating_profit_krw_eok": 300.0
-          },
-          {
-            "period": "2023 Q1",
-            "revenue": 93.6,
-            "operating_profit": -1.0,
-            "revenue_krw_eok": 14040.0,
-            "operating_profit_krw_eok": -150.0
-          },
-          {
-            "period": "2023 Q2",
-            "revenue": 104.5,
-            "operating_profit": 4.2,
-            "revenue_krw_eok": 15675.0,
-            "operating_profit_krw_eok": 630.0
-          },
-          {
-            "period": "2023 Q3",
-            "revenue": 108.3,
-            "operating_profit": -8.4,
-            "revenue_krw_eok": 16245.0,
-            "operating_profit_krw_eok": -1260.0
-          },
-          {
-            "period": "2023 Q4",
-            "revenue": 120.5,
-            "operating_profit": 2.7,
-            "revenue_krw_eok": 18075.0,
-            "operating_profit_krw_eok": 405.0
-          },
-          {
-            "period": "2024 Q1",
-            "revenue": 88.8,
-            "operating_profit": -203.8,
-            "revenue_krw_eok": 13320.0,
-            "operating_profit_krw_eok": -30570.0
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 79.3,
-            "operating_profit": -14.4,
-            "revenue_krw_eok": 11895.0,
-            "operating_profit_krw_eok": -2160.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 85.5,
-            "operating_profit": 4.7,
-            "revenue_krw_eok": 12825.0,
-            "operating_profit_krw_eok": 705.0
-          },
-          {
             "period": "2024 Q4",
             "revenue": 73.6,
             "operating_profit": 6.4,
@@ -1952,27 +1399,6 @@
         "operating_profit_unit": "영업이익(백만 USD)",
         "quarters": [
           {
-            "period": "2024 Q1",
-            "revenue": 3734.3,
-            "operating_profit": 71.1,
-            "revenue_krw_eok": 54520.78,
-            "operating_profit_krw_eok": 1038.06
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 3806.9,
-            "operating_profit": 82.9,
-            "revenue_krw_eok": 55580.74,
-            "operating_profit_krw_eok": 1210.34
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 4328.2,
-            "operating_profit": 202.4,
-            "revenue_krw_eok": 63191.72,
-            "operating_profit_krw_eok": 2955.04
-          },
-          {
             "period": "2024 Q4",
             "revenue": 4950.4,
             "operating_profit": 305.8,
@@ -2086,27 +1512,6 @@
         "revenue_unit": "매출(억 THB)",
         "operating_profit_unit": "영업이익(억 THB)",
         "quarters": [
-          {
-            "period": "2024 Q1",
-            "revenue": 3.5,
-            "operating_profit": 1.9,
-            "revenue_krw_eok": 157.5,
-            "operating_profit_krw_eok": 85.5
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 2.7,
-            "operating_profit": 1.3,
-            "revenue_krw_eok": 121.5,
-            "operating_profit_krw_eok": 58.5
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 2.7,
-            "operating_profit": 1.3,
-            "revenue_krw_eok": 121.5,
-            "operating_profit_krw_eok": 58.5
-          },
           {
             "period": "2024 Q4",
             "revenue": 2.3,
@@ -2222,27 +1627,6 @@
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
           {
-            "period": "2024 Q1",
-            "revenue": 6659.0,
-            "operating_profit": 3105.0,
-            "revenue_krw_eok": 6659.0,
-            "operating_profit_krw_eok": 3105.0
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 7070.0,
-            "operating_profit": 3321.0,
-            "revenue_krw_eok": 7070.0,
-            "operating_profit_krw_eok": 3321.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 7193.0,
-            "operating_profit": 3244.0,
-            "revenue_krw_eok": 7193.0,
-            "operating_profit_krw_eok": 3244.0
-          },
-          {
             "period": "2024 Q4",
             "revenue": 6176.0,
             "operating_profit": 2155.0,
@@ -2354,13 +1738,6 @@
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
           {
-            "period": "2023 Q3",
-            "revenue": 580.0,
-            "operating_profit": 356.0,
-            "revenue_krw_eok": 580.0,
-            "operating_profit_krw_eok": 356.0
-          },
-          {
             "period": "2023 Q4",
             "revenue": 593.0,
             "operating_profit": 421.0,
@@ -2463,27 +1840,6 @@
         "revenue_unit": "매출(억 원)",
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
-          {
-            "period": "2024 Q1",
-            "revenue": 3979.0,
-            "operating_profit": 257.0,
-            "revenue_krw_eok": 3979.0,
-            "operating_profit_krw_eok": 257.0
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 3689.0,
-            "operating_profit": 88.0,
-            "revenue_krw_eok": 3689.0,
-            "operating_profit_krw_eok": 88.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 4019.0,
-            "operating_profit": -143.0,
-            "revenue_krw_eok": 4019.0,
-            "operating_profit_krw_eok": -143.0
-          },
           {
             "period": "2024 Q4",
             "revenue": 4094.0,
@@ -2600,27 +1956,6 @@
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
           {
-            "period": "2024 Q1",
-            "revenue": 5854.0,
-            "operating_profit": 37.0,
-            "revenue_krw_eok": 5854.0,
-            "operating_profit_krw_eok": 37.0
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 7821.0,
-            "operating_profit": 1112.0,
-            "revenue_krw_eok": 7821.0,
-            "operating_profit_krw_eok": 1112.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 6473.0,
-            "operating_profit": 655.0,
-            "revenue_krw_eok": 6473.0,
-            "operating_profit_krw_eok": 655.0
-          },
-          {
             "period": "2024 Q4",
             "revenue": 6490.0,
             "operating_profit": 352.0,
@@ -2734,27 +2069,6 @@
         "revenue_unit": "매출(억 원)",
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
-          {
-            "period": "2024 Q1",
-            "revenue": 2463.0,
-            "operating_profit": 123.0,
-            "revenue_krw_eok": 2463.0,
-            "operating_profit_krw_eok": 123.0
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 2356.0,
-            "operating_profit": 28.0,
-            "revenue_krw_eok": 2356.0,
-            "operating_profit_krw_eok": 28.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 1939.0,
-            "operating_profit": 57.0,
-            "revenue_krw_eok": 1939.0,
-            "operating_profit_krw_eok": 57.0
-          },
           {
             "period": "2024 Q4",
             "revenue": 1601.0,
@@ -2873,27 +2187,6 @@
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
           {
-            "period": "2024 Q1",
-            "revenue": 1613.0,
-            "operating_profit": -376.0,
-            "revenue_krw_eok": 1613.0,
-            "operating_profit_krw_eok": -376.0
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 1714.0,
-            "operating_profit": -241.0,
-            "revenue_krw_eok": 1714.0,
-            "operating_profit_krw_eok": -241.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 2144.0,
-            "operating_profit": 518.0,
-            "revenue_krw_eok": 2144.0,
-            "operating_profit_krw_eok": 518.0
-          },
-          {
             "period": "2024 Q4",
             "revenue": 1650.0,
             "operating_profit": 181.0,
@@ -3011,27 +2304,6 @@
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
           {
-            "period": "2024 Q1",
-            "revenue": 854.4,
-            "operating_profit": 5.9,
-            "revenue_krw_eok": 854.4,
-            "operating_profit_krw_eok": 5.9
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 818.0,
-            "operating_profit": -58.0,
-            "revenue_krw_eok": 818.0,
-            "operating_profit_krw_eok": -58.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 795.0,
-            "operating_profit": -92.0,
-            "revenue_krw_eok": 795.0,
-            "operating_profit_krw_eok": -92.0
-          },
-          {
             "period": "2024 Q4",
             "revenue": 957.0,
             "operating_profit": 24.0,
@@ -3142,34 +2414,6 @@
         "revenue_unit": "매출(억 원)",
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
-          {
-            "period": "2023 Q4",
-            "revenue": 378.0,
-            "operating_profit": -118.0,
-            "revenue_krw_eok": 378.0,
-            "operating_profit_krw_eok": -118.0
-          },
-          {
-            "period": "2024 Q1",
-            "revenue": 595.0,
-            "operating_profit": 81.0,
-            "revenue_krw_eok": 595.0,
-            "operating_profit_krw_eok": 81.0
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 545.0,
-            "operating_profit": 49.0,
-            "revenue_krw_eok": 545.0,
-            "operating_profit_krw_eok": 49.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 720.0,
-            "operating_profit": 134.0,
-            "revenue_krw_eok": 720.0,
-            "operating_profit_krw_eok": 134.0
-          },
           {
             "period": "2024 Q4",
             "revenue": 502.0,
@@ -3285,27 +2529,6 @@
         "revenue_unit": "매출(억 원)",
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
-          {
-            "period": "2024 Q1",
-            "revenue": 971.0,
-            "operating_profit": 148.0,
-            "revenue_krw_eok": 971.0,
-            "operating_profit_krw_eok": 148.0
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 870.0,
-            "operating_profit": 47.0,
-            "revenue_krw_eok": 870.0,
-            "operating_profit_krw_eok": 47.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 931.0,
-            "operating_profit": 65.0,
-            "revenue_krw_eok": 931.0,
-            "operating_profit_krw_eok": 65.0
-          },
           {
             "period": "2024 Q4",
             "revenue": 897.0,
@@ -3424,27 +2647,6 @@
         "operating_profit_unit": "영업이익(백만 TWD)",
         "quarters": [
           {
-            "period": "2024 Q1",
-            "revenue": 3332.0,
-            "operating_profit": 533.0,
-            "revenue_krw_eok": 1499.4,
-            "operating_profit_krw_eok": 239.85
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 2425.0,
-            "operating_profit": -371.0,
-            "revenue_krw_eok": 1091.25,
-            "operating_profit_krw_eok": -166.95
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 3242.0,
-            "operating_profit": 338.0,
-            "revenue_krw_eok": 1458.9,
-            "operating_profit_krw_eok": 152.1
-          },
-          {
             "period": "2024 Q4",
             "revenue": 2075.0,
             "operating_profit": -242.0,
@@ -3562,27 +2764,6 @@
         "operating_profit_unit": "영업이익(억 CNY)",
         "quarters": [
           {
-            "period": "2024 Q1",
-            "revenue": 3.0,
-            "operating_profit": -1.3,
-            "revenue_krw_eok": 600.0,
-            "operating_profit_krw_eok": -260.0
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 3.1,
-            "operating_profit": -1.3,
-            "revenue_krw_eok": 620.0,
-            "operating_profit_krw_eok": -260.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 4.2,
-            "operating_profit": -0.7,
-            "revenue_krw_eok": 840.0,
-            "operating_profit_krw_eok": -140.0
-          },
-          {
             "period": "2024 Q4",
             "revenue": 3.3,
             "operating_profit": -1.8,
@@ -3696,27 +2877,6 @@
         "revenue_unit": "매출(억 CNY)",
         "operating_profit_unit": "영업이익(억 CNY)",
         "quarters": [
-          {
-            "period": "2024 Q1",
-            "revenue": 42.6,
-            "operating_profit": 8.2,
-            "revenue_krw_eok": 8520.0,
-            "operating_profit_krw_eok": 1639.9999999999998
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 50.2,
-            "operating_profit": 6.2,
-            "revenue_krw_eok": 10040.0,
-            "operating_profit_krw_eok": 1240.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 62.5,
-            "operating_profit": 8.6,
-            "revenue_krw_eok": 12500.0,
-            "operating_profit_krw_eok": 1720.0
-          },
           {
             "period": "2024 Q4",
             "revenue": 70.9,
@@ -3832,27 +2992,6 @@
         "operating_profit_unit": "영업이익(억 CNY)",
         "quarters": [
           {
-            "period": "2024 Q1",
-            "revenue": 13.1,
-            "operating_profit": 4.4,
-            "revenue_krw_eok": 2620.0,
-            "operating_profit_krw_eok": 880.0000000000001
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 12.5,
-            "operating_profit": 4.0,
-            "revenue_krw_eok": 2500.0,
-            "operating_profit_krw_eok": 800.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 13.7,
-            "operating_profit": 4.9,
-            "revenue_krw_eok": 2740.0,
-            "operating_profit_krw_eok": 980.0000000000001
-          },
-          {
             "period": "2024 Q4",
             "revenue": 11.9,
             "operating_profit": 3.4,
@@ -3966,48 +3105,6 @@
         "revenue_unit": "매출(십억 JPY)",
         "operating_profit_unit": "영업이익(십억 JPY)",
         "quarters": [
-          {
-            "period": "2023 Q2",
-            "revenue": 43.9,
-            "operating_profit": 24.0,
-            "revenue_krw_eok": 3951.0,
-            "operating_profit_krw_eok": 2160.0
-          },
-          {
-            "period": "2023 Q3",
-            "revenue": 31.1,
-            "operating_profit": 9.8,
-            "revenue_krw_eok": 2799.0,
-            "operating_profit_krw_eok": 882.0
-          },
-          {
-            "period": "2023 Q4",
-            "revenue": 31.2,
-            "operating_profit": 13.9,
-            "revenue_krw_eok": 2808.0,
-            "operating_profit_krw_eok": 1251.0
-          },
-          {
-            "period": "2024 Q1",
-            "revenue": 46.2,
-            "operating_profit": 9.4,
-            "revenue_krw_eok": 4158.0,
-            "operating_profit_krw_eok": 846.0
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 29.6,
-            "operating_profit": 12.9,
-            "revenue_krw_eok": 2664.0,
-            "operating_profit_krw_eok": 1161.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 26.8,
-            "operating_profit": 7.8,
-            "revenue_krw_eok": 2412.0,
-            "operating_profit_krw_eok": 702.0
-          },
           {
             "period": "2024 Q4",
             "revenue": 32.5,
@@ -4126,76 +3223,6 @@
         "operating_profit_unit": "영업이익(십억 JPY)",
         "quarters": [
           {
-            "period": "2022 Q2",
-            "revenue": 216.2,
-            "operating_profit": 44.4,
-            "revenue_krw_eok": 19458.0,
-            "operating_profit_krw_eok": 3996.0
-          },
-          {
-            "period": "2022 Q3",
-            "revenue": 261.4,
-            "operating_profit": 37.2,
-            "revenue_krw_eok": 23525.999999999996,
-            "operating_profit_krw_eok": 3348.0
-          },
-          {
-            "period": "2022 Q4",
-            "revenue": 265.6,
-            "operating_profit": 24.6,
-            "revenue_krw_eok": 23904.000000000004,
-            "operating_profit_krw_eok": 2214.0
-          },
-          {
-            "period": "2023 Q1",
-            "revenue": 246.9,
-            "operating_profit": 10.3,
-            "revenue_krw_eok": 22221.0,
-            "operating_profit_krw_eok": 927.0
-          },
-          {
-            "period": "2023 Q2",
-            "revenue": 224.8,
-            "operating_profit": 28.0,
-            "revenue_krw_eok": 20232.0,
-            "operating_profit_krw_eok": 2520.0
-          },
-          {
-            "period": "2023 Q3",
-            "revenue": 277.1,
-            "operating_profit": 37.5,
-            "revenue_krw_eok": 24939.0,
-            "operating_profit_krw_eok": 3375.0
-          },
-          {
-            "period": "2023 Q4",
-            "revenue": 270.0,
-            "operating_profit": 12.8,
-            "revenue_krw_eok": 24300.0,
-            "operating_profit_krw_eok": 1152.0
-          },
-          {
-            "period": "2024 Q1",
-            "revenue": 278.1,
-            "operating_profit": 12.4,
-            "revenue_krw_eok": 25029.0,
-            "operating_profit_krw_eok": 1116.0
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 280.6,
-            "operating_profit": 44.0,
-            "revenue_krw_eok": 25254.0,
-            "operating_profit_krw_eok": 3960.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 330.8,
-            "operating_profit": 69.6,
-            "revenue_krw_eok": 29772.0,
-            "operating_profit_krw_eok": 6264.0
-          },
-          {
             "period": "2024 Q4",
             "revenue": 344.3,
             "operating_profit": 65.6,
@@ -4312,76 +3339,6 @@
         "revenue_unit": "매출(십억 JPY)",
         "operating_profit_unit": "영업이익(십억 JPY)",
         "quarters": [
-          {
-            "period": "2022 Q2",
-            "revenue": 74.9,
-            "operating_profit": 14.4,
-            "revenue_krw_eok": 6741.0,
-            "operating_profit_krw_eok": 1296.0
-          },
-          {
-            "period": "2022 Q3",
-            "revenue": 88.5,
-            "operating_profit": 11.6,
-            "revenue_krw_eok": 7965.0,
-            "operating_profit_krw_eok": 1044.0
-          },
-          {
-            "period": "2022 Q4",
-            "revenue": 92.2,
-            "operating_profit": 15.3,
-            "revenue_krw_eok": 8298.0,
-            "operating_profit_krw_eok": 1377.0
-          },
-          {
-            "period": "2023 Q1",
-            "revenue": 87.7,
-            "operating_profit": 3.0,
-            "revenue_krw_eok": 7893.0,
-            "operating_profit_krw_eok": 270.0
-          },
-          {
-            "period": "2023 Q2",
-            "revenue": 85.7,
-            "operating_profit": 3.1,
-            "revenue_krw_eok": 7713.0,
-            "operating_profit_krw_eok": 279.0
-          },
-          {
-            "period": "2023 Q3",
-            "revenue": 86.3,
-            "operating_profit": 14.2,
-            "revenue_krw_eok": 7767.0,
-            "operating_profit_krw_eok": 1278.0
-          },
-          {
-            "period": "2023 Q4",
-            "revenue": 85.6,
-            "operating_profit": 17.6,
-            "revenue_krw_eok": 7704.0,
-            "operating_profit_krw_eok": 1584.0
-          },
-          {
-            "period": "2024 Q1",
-            "revenue": 98.7,
-            "operating_profit": -2.3,
-            "revenue_krw_eok": 8883.0,
-            "operating_profit_krw_eok": -207.0
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 69.9,
-            "operating_profit": 10.8,
-            "revenue_krw_eok": 6291.0,
-            "operating_profit_krw_eok": 972.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 87.7,
-            "operating_profit": 10.4,
-            "revenue_krw_eok": 7893.0,
-            "operating_profit_krw_eok": 936.0
-          },
           {
             "period": "2024 Q4",
             "revenue": 90.9,
@@ -4500,76 +3457,6 @@
         "operating_profit_unit": "영업이익(십억 JPY)",
         "quarters": [
           {
-            "period": "2022 Q2",
-            "revenue": 66.1,
-            "operating_profit": 2.7,
-            "revenue_krw_eok": 5948.999999999999,
-            "operating_profit_krw_eok": 243.0
-          },
-          {
-            "period": "2022 Q3",
-            "revenue": 83.9,
-            "operating_profit": 6.8,
-            "revenue_krw_eok": 7551.0,
-            "operating_profit_krw_eok": 612.0
-          },
-          {
-            "period": "2022 Q4",
-            "revenue": 121.9,
-            "operating_profit": 28.7,
-            "revenue_krw_eok": 10971.0,
-            "operating_profit_krw_eok": 2583.0
-          },
-          {
-            "period": "2023 Q1",
-            "revenue": 117.7,
-            "operating_profit": 8.5,
-            "revenue_krw_eok": 10593.0,
-            "operating_profit_krw_eok": 765.0
-          },
-          {
-            "period": "2023 Q2",
-            "revenue": 108.0,
-            "operating_profit": 22.5,
-            "revenue_krw_eok": 9720.0,
-            "operating_profit_krw_eok": 2025.0
-          },
-          {
-            "period": "2023 Q3",
-            "revenue": 113.1,
-            "operating_profit": 17.0,
-            "revenue_krw_eok": 10179.0,
-            "operating_profit_krw_eok": 1530.0
-          },
-          {
-            "period": "2023 Q4",
-            "revenue": 128.8,
-            "operating_profit": 14.9,
-            "revenue_krw_eok": 11592.000000000002,
-            "operating_profit_krw_eok": 1341.0
-          },
-          {
-            "period": "2024 Q1",
-            "revenue": 117.9,
-            "operating_profit": 2.4,
-            "revenue_krw_eok": 10611.0,
-            "operating_profit_krw_eok": 216.0
-          },
-          {
-            "period": "2024 Q2",
-            "revenue": 104.7,
-            "operating_profit": 19.3,
-            "revenue_krw_eok": 9423.0,
-            "operating_profit_krw_eok": 1737.0
-          },
-          {
-            "period": "2024 Q3",
-            "revenue": 106.9,
-            "operating_profit": 13.5,
-            "revenue_krw_eok": 9621.0,
-            "operating_profit_krw_eok": 1215.0
-          },
-          {
             "period": "2024 Q4",
             "revenue": 110.7,
             "operating_profit": 10.9,
@@ -4606,10 +3493,10 @@
           },
           {
             "period": "2026 Q1",
-            "revenue": 487499999664.8,
-            "operating_profit": 47099999980.2,
-            "revenue_krw_eok": 43874999969832.0,
-            "operating_profit_krw_eok": 4238999998217.9995
+            "revenue": 152.3,
+            "operating_profit": 27.3,
+            "revenue_krw_eok": 13707.0,
+            "operating_profit_krw_eok": 2457.0
           }
         ],
         "years": [
@@ -4651,10 +3538,10 @@
         ],
         "latest_quarter": {
           "period": "2026 Q1",
-          "revenue": 487499999664.8,
-          "operating_profit": 47099999980.2,
-          "revenue_krw_eok": 43874999969832.0,
-          "operating_profit_krw_eok": 4238999998217.9995
+          "revenue": 152.3,
+          "operating_profit": 27.3,
+          "revenue_krw_eok": 13707.0,
+          "operating_profit_krw_eok": 2457.0
         },
         "latest_year": {
           "year": "2025",

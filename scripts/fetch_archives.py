@@ -176,17 +176,37 @@ def parse_company_financial(company_ko: str, tab_name: str, gid: str) -> dict[st
     op_row = rows[op_row_idx]
     q_cols = [idx for idx in range(1, max_cols) if parse_num(rev_row[idx]) is not None or parse_num(op_row[idx]) is not None]
     labels = normalized_quarter_labels(rows, q_cols)
-    quarters = []
+    detailed_quarters = []
     for idx in q_cols:
         rev = parse_num(rev_row[idx])
         op = parse_num(op_row[idx])
-        quarters.append({
+        detailed_quarters.append({
             "period": labels.get(idx, ""),
             "revenue": rev,
             "operating_profit": op,
             "revenue_krw_eok": unit_to_krw_eok(rev, q_unit),
             "operating_profit_krw_eok": unit_to_krw_eok(op, op_unit),
         })
+
+    # Boss 확인 요청 기준: 대시보드의 분기 차트는 각 회사 탭의 B1:G3 요약 영역,
+    # 즉 B:G의 최근 6개 매출/영업이익 값을 우선 사용한다. 기간 라벨은 하단
+    # 상세 분기표에서 같은 끝 구간의 YYYY Qn 라벨을 가져와 Q5/Q6가 절대 나오지 않게 한다.
+    summary_cols = [idx for idx in range(1, min(7, max_cols)) if parse_num(rows[1][idx]) is not None or parse_num(rows[2][idx]) is not None]
+    summary_labels = [q.get("period", "") for q in detailed_quarters[-len(summary_cols):]] if summary_cols and len(detailed_quarters) >= len(summary_cols) else []
+    quarters = []
+    for pos, idx in enumerate(summary_cols):
+        rev = parse_num(rows[1][idx])
+        op = parse_num(rows[2][idx])
+        period = summary_labels[pos] if pos < len(summary_labels) else shift_quarter((datetime.now().year, 1), pos - len(summary_cols) + 1)
+        quarters.append({
+            "period": period,
+            "revenue": rev,
+            "operating_profit": op,
+            "revenue_krw_eok": unit_to_krw_eok(rev, q_unit),
+            "operating_profit_krw_eok": unit_to_krw_eok(op, op_unit),
+        })
+    if not quarters:
+        quarters = detailed_quarters
 
     years = []
     if len(rows) >= 3:
