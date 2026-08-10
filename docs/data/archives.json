@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-09T22:34:07Z",
+  "generated_at_utc": "2026-08-10T22:40:13Z",
   "financial_archive": {
     "source": "Google Sheets per-company tabs; Nexon excluded until cleaned",
     "sheet_url": "https://docs.google.com/spreadsheets/d/1jzdID-ZY39VhKgHdvpSIcGiJq0Gk_qsOj1k6hNi3jh8/edit",
@@ -3557,14 +3557,6 @@
         "operating_profit_unit": "영업이익(십억 JPY)",
         "quarters": [
           {
-            "period": "2024 Q4",
-            "revenue": 90.9,
-            "operating_profit": 12.2,
-            "revenue_krw_eok": 8181.0,
-            "operating_profit_krw_eok": 1098.0,
-            "source_range": "B1:G3"
-          },
-          {
             "period": "2025 Q1",
             "revenue": 76.0,
             "operating_profit": 7.2,
@@ -3602,6 +3594,14 @@
             "operating_profit": 8.3,
             "revenue_krw_eok": 7398.0,
             "operating_profit_krw_eok": 747.0000000000001,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q2",
+            "revenue": 78.4,
+            "operating_profit": 17.0,
+            "revenue_krw_eok": 7056.0,
+            "operating_profit_krw_eok": 1530.0,
             "source_range": "B1:G3"
           }
         ],
@@ -3643,11 +3643,11 @@
           }
         ],
         "latest_quarter": {
-          "period": "2026 Q1",
-          "revenue": 82.2,
-          "operating_profit": 8.3,
-          "revenue_krw_eok": 7398.0,
-          "operating_profit_krw_eok": 747.0000000000001,
+          "period": "2026 Q2",
+          "revenue": 78.4,
+          "operating_profit": 17.0,
+          "revenue_krw_eok": 7056.0,
+          "operating_profit_krw_eok": 1530.0,
           "source_range": "B1:G3"
         },
         "latest_year": {
@@ -3801,8 +3801,32 @@
   "news_archive": {
     "source": "Google Sheets Mail_Archive tab / Korean translated fields only",
     "sheet_url": "https://docs.google.com/spreadsheets/d/1nA4GhaJA14_2tpHimX0-AsCpCE2G5YFySjGX79hzrCw/edit?gid=1688880659#gid=1688880659",
-    "count": 439,
+    "count": 440,
     "rows": [
+      {
+        "company_ko": "로블록스",
+        "title_ko": "[글로벌/동향] 로블록스, ‘메가 히트작 부재’로 실적 및 주가 폭락… 일 년 새 시총 700억 달러 증발",
+        "summary_ko": "- 로블록스(Roblox)가 발표한 2026년 2분기 실적에 따르면, 매출은 전년 대비 36% 증가한 USD 14.7억(KRW 약 2조 255억 원)을 기록하며 전망치를 상회했으나, 일일 활성 사용자 수(DAU) 1.23억 명(예상치 1.287억 명), 예약 실적(Bookings) USD 15.6억(예상치 16억) 등 핵심 지표가 시장 기대치에 미치지 못함에 따라 하루 만에 주가가 약 30% 폭락하고 시가총액 USD 100억 이상이 증발함\n- 로블록스의 최고재무책임자(CFO) 나빈 초프라(Naveen Chopra)는 실적 부진의 원인에 대해, 유저들의 참여가 기존 고수익 메가 히트작에서 수익성이 낮은 신규 미니게임 및 스테디셀러 조합으로 이동했기 때문이라고 밝혔으며, 플랫폼 추천 알고리즘을 장기 리텐션 중심으로 개편하면서 단기 수익화 능력이 희생된 점도 영향을 미쳤다고 설명함\n- 2025년 여름 당시 <Grow a Garden>(최고 동시 접속자 2,230만 명), <Steal a Brainrot>(최고 동시 접속자 2,500만 명) 등의 흥행으로 중국 제외 글로벌 게임 시장 순성장의 67%를 독식하던 때와 달리, 현재 이 게임들의 동접자 수는 각각 50만 명과 11만 명 수준으로 급감했으며 메가 히트작의 수명 주기가 끝난 이후 대체할 흥행작을 찾지 못하고 있음\n[Comment]\n- 로블록스의 이번 실적 충격은 수백만 개의 콘텐츠를 보유한 UGC(사용자 제작 콘텐츠) 플랫폼조차 결국 소수의 메가 히트작에 의존해야 하는 취약한 구조를 보여줌. 대기업과 달리 로블록스 생태계의 소규모 개발사들은 지속적인 업데이트와 대규모 라이브 운영 역량이 부족하여, 유저의 일시적인 신선함을 장기적인 경험으로 안착시키는 데 한계를 드러내고 있음\n- 실적 발표에 앞서 로블록스는 모바일 게임 환경에서 텍스트 입력만으로 기초 게임을 생성하는 AI 도구 'Build'를 발표하는 등 AI 기술 도입에 집중했으나, 업계에서는 AI가 콘텐츠의 '수량'은 폭발시킬 수 있어도 유저가 기꺼이 지출을 감수할 만한 '품질'과 '재미'는 보장할 수 없기 때문에 오히려 콘텐츠 과포화와 유저 주의력 분산이라는 역효과를 낳을 수 있다고 평가함",
+        "original_title": "UGC大佬还能缺游戏？Roblox高管承认“最近没爆款”，一年市值蒸发700亿美元",
+        "url": "http://www.gamelook.com.cn/2026/08/599580/",
+        "published_at": "2026. 8. 10",
+        "published_key": "2026-08-10 00:00:00",
+        "score": "",
+        "keyword": "亿",
+        "integrated_note": "- 로블록스의 이번 실적 충격은 수백만 개의 콘텐츠를 보유한 UGC(사용자 제작 콘텐츠) 플랫폼조차 결국 소수의 메가 히트작에 의존해야 하는 취약한 구조를 보여줌. 대기업과 달리 로블록스 생태계의 소규모 개발사들은 지속적인 업데이트와 대규모 라이브 운영 역량이 부족하여, 유저의 일시적인 신선함을 장기적인 경험으로 안착시키는 데 한계를 드러내고 있음\n- 실적 발표에 앞서 로블록스는 모바일 게임 환경에서 텍스트 입력만으로 기초 게임을 생성하는 AI 도구 'Build'를 발표하는 등 AI 기술 도입에 집중했으나, 업계에서는 AI가 콘텐츠의 '수량'은 폭발시킬 수 있어도 유저가 기꺼이 지출을 감수할 만한 '품질'과 '재미'는 보장할 수 없기 때문에 오히려 콘텐츠 과포화와 유저 주의력 분산이라는 역효과를 낳을 수 있다고 평가함"
+      },
+      {
+        "company_ko": "마이크로소프트",
+        "title_ko": "[글로벌/동향] 블리자드, 체질 개선 성공하며 FY26 역대 3위 매출 및 연속 성장 기록 달성",
+        "summary_ko": "- 블리자드 엔터테인먼트 사장 조안나 파리스(Johanna Faries)가 최근 직원들에게 보낸 내부 이메일에 따르면, 블리자드는 회계연도 2026년(FY26)에 엑스박스(Xbox) 게임 스튜디오 부문에서 가장 우수한 실적을 거둔 스튜디오로 기록됨\n- 이번 회계연도 매출은 블리자드 역사상 세 번째로 높은 수치이며, 2016년 <오버워치> 출시 이후 최초로 모든 분기에서 연속 성장을 기록함. 특히 <디아블로 4: 증오의 군주(Lord of Hatred)>와 <오버워치>가 실적 상승을 견인했으며, <오버워치>는 2022년 이후 가장 높은 분기 매출을 달성함\n- 동기간 <콜 오브 듀티>의 부진 등으로 엑스박스 사업 전체 매출이 11% 감소하고, 마이크로소프트(MS)가 산하 스튜디오(닌자 시어리, id 소프트웨어 등)를 대상으로 대규모 감원을 단행하는 상황 속에서도 블리자드는 뛰어난 성과를 바탕으로 감원 대상에서 제외됨\n[Comment]\n- 블리자드는 오는 9월 애너하임에서 개최되는 '블리즈컨 2026'을 기점으로 성장 모멘텀을 더욱 강화할 예정이며, 현장에서는 <워크래프트>의 차기 확장팩 '더 라스트 타이탄(The Last Titan)' 정보 외에도 파트너사들과 협력 개발 중인 모바일 스핀오프, 트랜스미디어 프로젝트 등이 공개될 가능성이 있음\n- 과거 액티비전 산하에서 신작 부재와 운영 논란으로 침체기를 겪었던 블리자드는, MS 인수 이후 일정한 콘텐츠 업데이트 주기를 회복하고 유저 피드백 중심의 운영을 펼치며 IP의 가치와 생명력을 성공적으로 반등시킨 것으로 평가됨",
+        "original_title": "Blizzard is now the \"top performing\" Xbox studio, says internal emails — as the Overwatch-maker ends FY26 over-delivering on Microsoft's projections",
+        "url": "https://www.windowscentral.com/gaming/blizzard/blizzard-is-now-xboxs-top-performing-studio-as-the-division-ends-fy26-over-delivering-on-microsofts-projections-per-internal-emails",
+        "published_at": "2026. 8. 9",
+        "published_key": "2026-08-09 00:00:00",
+        "score": "",
+        "keyword": "AI",
+        "integrated_note": "- 블리자드는 오는 9월 애너하임에서 개최되는 '블리즈컨 2026'을 기점으로 성장 모멘텀을 더욱 강화할 예정이며, 현장에서는 <워크래프트>의 차기 확장팩 '더 라스트 타이탄(The Last Titan)' 정보 외에도 파트너사들과 협력 개발 중인 모바일 스핀오프, 트랜스미디어 프로젝트 등이 공개될 가능성이 있음\n- 과거 액티비전 산하에서 신작 부재와 운영 논란으로 침체기를 겪었던 블리자드는, MS 인수 이후 일정한 콘텐츠 업데이트 주기를 회복하고 유저 피드백 중심의 운영을 펼치며 IP의 가치와 생명력을 성공적으로 반등시킨 것으로 평가됨"
+      },
       {
         "company_ko": "알파벳",
         "title_ko": "[글로벌/동향] 구글 AI, 인디 게임 개발자의 비공개 문서 데이터 유출 논란",
@@ -5014,18 +5038,6 @@
         "score": "",
         "keyword": "Xbox",
         "integrated_note": "- AI 시장의 폭발적인 성장이 일반 IT 및 게이밍 하드웨어 제조업체들에 심각한 제조 원가 상승 압박으로 작용하고 있으며, 고마진의 AI용 반도체 우선 생산으로 인한 소비자용 부품 부족은 일시적 현상이 아닌 구조적 변화로 자리 잡고 있음\n- 이러한 위기는 소니의 PS5 가격 인상 및 닌텐도의 차기 콘솔 가격 책정에도 직접적인 영향을 미치고 있어, 업계 전반의 '하드웨어 보조금' 모델 자체가 지속 불가능해질 수 있다는 분석이 나옴\n- 특히 MS가 2027년 출시를 목표로 개발 중인 차세대 하이브리드 기기 '프로젝트 헬릭스(Project Helix)'가 스팀 등 외부 스토어를 허용하는 개방형 PC 형태로 출시될 경우, 소프트웨어 수수료 수입을 기대하기 어려워 기기 가격이 1,000달러를 상회할 가능성이 커 지극히 까다로운 가격 책정 딜레마에 직면하게 될 것임"
-      },
-      {
-        "company_ko": "마이크로소프트",
-        "title_ko": "[글로벌/동향] MS, Xbox 매출 감소 속 대규모 감원 및 스튜디오 구조조정 단행",
-        "summary_ko": "- 마이크로소프트(MS)의 최근 실적 발표에 따르면, Xbox의 연간 매출은 7%, 4분기 매출은 10% 감소했으며 콘솔 판매 부진으로 인해 하드웨어 매출은 연간 29% 급감함 (게임패스의 성장이 연간 감소세를 일부 상쇄함)\n- 2026년 6월 30일로 마감된 4분기 기준, MS의 전체 매출은 전년 대비 18% 증가한 900억 달러, 순이익은 31% 증가한 358억 달러를 기록했으나, Xbox가 포함된 '더 개인적인 컴퓨팅(More Personal Computing)' 부문 매출은 전년 대비 4% 감소함\n- 실적 발표 이후 MS는 글로벌 인력의 2.1%에 해당하는 4,800명의 감원을 단행했으며, 이 중 Xbox 부문에서 1,600명이 감축되었고 2027 회계연도까지 총 3,200명의 Xbox 인력이 추가로 감축될 예정임\n- 이번 구조조정의 일환으로 '더블 파인 프로덕션(Double Fine Productions)'과 '콤펄션 게임즈(Compulsion Games)'가 독립 스튜디오로 전환되었고, '언데드 랩스(Undead Labs)'와 '닌자 시어리(Ninja Theory)'는 새로운 소유권을 위한 협상에 들어갔으며, '아케인 리옹(Arkane Leon)'은 전략적 옵션 검토에 착수함\n[Comment]\n- 이번 감원과 스튜디오 분사는 클라우드 부문(27% 성장)의 강력한 실적에도 불구하고, 하드웨어 판매 부진과 퍼스트 파티 콘텐츠 실적 감소를 겪고 있는 Xbox 사업을 재정비하기 위한 고육책으로 분석됨\n- 특히 Xbox에서 완전히 분리되어 독립한 더블 파인이 직후 23명의 인력을 감축하는 등, 대형 플랫폼 홀더의 포트폴리오 조정 여파가 중소 개발사들의 고용 불안정으로 즉각 이어지는 양상을 보임\n- 사티아 나델라 CEO는 콘텐츠 포트폴리오와 플랫폼, 운영 전반에 걸친 재조정을 통해 2027 회계연도에는 게임 사업을 다시 성장 가도로 돌려놓겠다는 장기적인 방침을 제시함",
-        "original_title": "Xbox revenue plunges $1.7bn, with hardware dropping 29% YoY",
-        "url": "https://www.gamesindustry.biz/xbox-revenue-plunges-17bn-with-hardware-dropping-29-yoy",
-        "published_at": "2026. 7. 30",
-        "published_key": "2026-07-30 00:00:00",
-        "score": "",
-        "keyword": "Xbox",
-        "integrated_note": "- 이번 감원과 스튜디오 분사는 클라우드 부문(27% 성장)의 강력한 실적에도 불구하고, 하드웨어 판매 부진과 퍼스트 파티 콘텐츠 실적 감소를 겪고 있는 Xbox 사업을 재정비하기 위한 고육책으로 분석됨\n- 특히 Xbox에서 완전히 분리되어 독립한 더블 파인이 직후 23명의 인력을 감축하는 등, 대형 플랫폼 홀더의 포트폴리오 조정 여파가 중소 개발사들의 고용 불안정으로 즉각 이어지는 양상을 보임\n- 사티아 나델라 CEO는 콘텐츠 포트폴리오와 플랫폼, 운영 전반에 걸친 재조정을 통해 2027 회계연도에는 게임 사업을 다시 성장 가도로 돌려놓겠다는 장기적인 방침을 제시함"
       },
       {
         "company_ko": "애플",
