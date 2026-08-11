@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-10T22:40:13Z",
+  "generated_at_utc": "2026-08-11T22:46:09Z",
   "financial_archive": {
     "source": "Google Sheets per-company tabs; Nexon excluded until cleaned",
     "sheet_url": "https://docs.google.com/spreadsheets/d/1jzdID-ZY39VhKgHdvpSIcGiJq0Gk_qsOj1k6hNi3jh8/edit",
@@ -1488,14 +1488,6 @@
         "operating_profit_unit": "영업이익(백만 USD)",
         "quarters": [
           {
-            "period": "2024 Q4",
-            "revenue": 4950.4,
-            "operating_profit": 305.8,
-            "revenue_krw_eok": 72275.84,
-            "operating_profit_krw_eok": 4464.68,
-            "source_range": "B1:G3"
-          },
-          {
             "period": "2025 Q1",
             "revenue": 4841.1,
             "operating_profit": 456.4,
@@ -1533,6 +1525,14 @@
             "operating_profit": 593.0,
             "revenue_krw_eok": 103623.5,
             "operating_profit_krw_eok": 8657.8,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q2",
+            "revenue": 7787.8,
+            "operating_profit": 650.3,
+            "revenue_krw_eok": 113701.88,
+            "operating_profit_krw_eok": 9494.38,
             "source_range": "B1:G3"
           }
         ],
@@ -1574,11 +1574,11 @@
           }
         ],
         "latest_quarter": {
-          "period": "2026 Q1",
-          "revenue": 7097.5,
-          "operating_profit": 593.0,
-          "revenue_krw_eok": 103623.5,
-          "operating_profit_krw_eok": 8657.8,
+          "period": "2026 Q2",
+          "revenue": 7787.8,
+          "operating_profit": 650.3,
+          "revenue_krw_eok": 113701.88,
+          "operating_profit_krw_eok": 9494.38,
           "source_range": "B1:G3"
         },
         "latest_year": {
@@ -1597,7 +1597,8 @@
           "https://cdn.sea.com/webmain/static/resource/seagroup/website/investornews/2Q2025/ael196LSsTKP3uVZYuCA/2025.08.12%20Sea%20Second%20Quarter%202025%20Results.pdf",
           "https://cdn.sea.com/investor/3Q2025/VCQyb53nURvpodOR3CpG/2025.11.11%20Sea%20Third%20Quarter%202025%20Results.pdf",
           "https://cdn.sea.com/investor/4Q2025/JcKns4LaJC8bxcQdJwXz/2026.03.03%20Sea%20Fourth%20Quarter%20and%20Full%20Year%202025%20Results.pdf",
-          "https://cdn.sea.com/investor/1Q2026/HEEdeRDe0NyiZ1PrWIvH/2026.05.12%20Sea%20First%20Quarter%202026%20Results.pdf"
+          "https://cdn.sea.com/investor/1Q2026/HEEdeRDe0NyiZ1PrWIvH/2026.05.12%20Sea%20First%20Quarter%202026%20Results.pdf",
+          "https://cdn.sea.com/investor/2Q2026/wFBC39MbqnfLb3MGY6LP/2026.08.11%20Sea%20Second%20Quarter%202026%20Results.pdf"
         ]
       },
       {
@@ -1849,14 +1850,6 @@
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
           {
-            "period": "2024 Q4",
-            "revenue": 593.0,
-            "operating_profit": 421.0,
-            "revenue_krw_eok": 593.0,
-            "operating_profit_krw_eok": 421.0,
-            "source_range": "B1:G3"
-          },
-          {
             "period": "2025 Q1",
             "revenue": 422.0,
             "operating_profit": 263.0,
@@ -1895,6 +1888,14 @@
             "revenue_krw_eok": 473.0,
             "operating_profit_krw_eok": 215.0,
             "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q2",
+            "revenue": 557.0,
+            "operating_profit": 281.0,
+            "revenue_krw_eok": 557.0,
+            "operating_profit_krw_eok": 281.0,
+            "source_range": "B1:G3"
           }
         ],
         "years": [
@@ -1921,11 +1922,11 @@
           }
         ],
         "latest_quarter": {
-          "period": "2026 Q1",
-          "revenue": 473.0,
-          "operating_profit": 215.0,
-          "revenue_krw_eok": 473.0,
-          "operating_profit_krw_eok": 215.0,
+          "period": "2026 Q2",
+          "revenue": 557.0,
+          "operating_profit": 281.0,
+          "revenue_krw_eok": 557.0,
+          "operating_profit_krw_eok": 281.0,
           "source_range": "B1:G3"
         },
         "latest_year": {
@@ -1958,14 +1959,6 @@
         "revenue_unit": "매출(억 원)",
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
-          {
-            "period": "2024 Q4",
-            "revenue": 4094.0,
-            "operating_profit": -1295.0,
-            "revenue_krw_eok": 4094.0,
-            "operating_profit_krw_eok": -1295.0,
-            "source_range": "B1:G3"
-          },
           {
             "period": "2025 Q1",
             "revenue": 3603.0,
@@ -2004,6 +1997,14 @@
             "operating_profit": 1133.0,
             "revenue_krw_eok": 5574.0,
             "operating_profit_krw_eok": 1133.0,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q2",
+            "revenue": 7705.0,
+            "operating_profit": 1739.0,
+            "revenue_krw_eok": 7705.0,
+            "operating_profit_krw_eok": 1739.0,
             "source_range": "B1:G3"
           }
         ],
@@ -2045,11 +2046,11 @@
           }
         ],
         "latest_quarter": {
-          "period": "2026 Q1",
-          "revenue": 5574.0,
-          "operating_profit": 1133.0,
-          "revenue_krw_eok": 5574.0,
-          "operating_profit_krw_eok": 1133.0,
+          "period": "2026 Q2",
+          "revenue": 7705.0,
+          "operating_profit": 1739.0,
+          "revenue_krw_eok": 7705.0,
+          "operating_profit_krw_eok": 1739.0,
           "source_range": "B1:G3"
         },
         "latest_year": {
@@ -2069,7 +2070,8 @@
           "https://ncsoft-brand-web.s3.ap-northeast-2.amazonaws.com/ncsoft/invest/result/20251111/report/3Q25_PT_KOR.pdf",
           "https://ncsoft-brand-web.s3.ap-northeast-2.amazonaws.com/ncsoft/invest/result/20260210/report/4Q25_PT_KOR.pdf",
           "https://ncsoft-brand-web.s3.ap-northeast-2.amazonaws.com/ncsoft/invest/result/20260513/report/1Q26_PT_KOR.pdf",
-          "https://ncsoft-brand-web.s3.ap-northeast-2.amazonaws.com/ncsoft/invest/result/20260512/report/4Q25_PT_KOR.pdf"
+          "https://ncsoft-brand-web.s3.ap-northeast-2.amazonaws.com/ncsoft/invest/result/20260512/report/4Q25_PT_KOR.pdf",
+          "https://ncsoft-brand-web.s3.ap-northeast-2.amazonaws.com/ncsoft/invest/result/20260811/report/2Q26_PT_KOR.pdf"
         ]
       },
       {
@@ -2451,14 +2453,6 @@
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
           {
-            "period": "2024 Q4",
-            "revenue": 957.0,
-            "operating_profit": 24.0,
-            "revenue_krw_eok": 957.0,
-            "operating_profit_krw_eok": 24.0,
-            "source_range": "B1:G3"
-          },
-          {
             "period": "2025 Q1",
             "revenue": 837.0,
             "operating_profit": -52.0,
@@ -2496,6 +2490,14 @@
             "operating_profit": 2121.0,
             "revenue_krw_eok": 3285.0,
             "operating_profit_krw_eok": 2121.0,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q2",
+            "revenue": 1926.0,
+            "operating_profit": 676.0,
+            "revenue_krw_eok": 1926.0,
+            "operating_profit_krw_eok": 676.0,
             "source_range": "B1:G3"
           }
         ],
@@ -2537,11 +2539,11 @@
           }
         ],
         "latest_quarter": {
-          "period": "2026 Q1",
-          "revenue": 3285.0,
-          "operating_profit": 2121.0,
-          "revenue_krw_eok": 3285.0,
-          "operating_profit_krw_eok": 2121.0,
+          "period": "2026 Q2",
+          "revenue": 1926.0,
+          "operating_profit": 676.0,
+          "revenue_krw_eok": 1926.0,
+          "operating_profit_krw_eok": 676.0,
           "source_range": "B1:G3"
         },
         "latest_year": {
@@ -2562,7 +2564,8 @@
           "https://www.pearlabyss.com/Board/Detail?_boardNo=14623",
           "https://www.pearlabyss.com/Board/Detail?_boardNo=14512",
           "https://www.pearlabyss.com/Board/Detail?_boardNo=14398",
-          "https://www.pearlabyss.com/Board/Detail?_boardNo=14287"
+          "https://www.pearlabyss.com/Board/Detail?_boardNo=14287",
+          "https://www.pearlabyss.com/Board/Detail?_boardNo=15176"
         ]
       },
       {
@@ -3801,8 +3804,200 @@
   "news_archive": {
     "source": "Google Sheets Mail_Archive tab / Korean translated fields only",
     "sheet_url": "https://docs.google.com/spreadsheets/d/1nA4GhaJA14_2tpHimX0-AsCpCE2G5YFySjGX79hzrCw/edit?gid=1688880659#gid=1688880659",
-    "count": 440,
+    "count": 441,
     "rows": [
+      {
+        "company_ko": "마이크로소프트",
+        "title_ko": "[글로벌/동향] 블리자드, MS 2026 회계연도 Xbox 게임 스튜디오 중 최고 실적 달성",
+        "summary_ko": "- 매체 윈도우 센트럴이 입수해 검증한 내부 이메일에 따르면, 블리자드 엔터테인먼트(이하 블리자드)는 마이크로소프트(MS)의 2026 회계연도(FY26)에 Xbox 게임 스튜디오 사업부 내에서 가장 뛰어난 성과를 거둔 스튜디오로 기록됨\n- 조안나 파리스 블리자드 사장은 사내 이메일을 통해 <디아블로 4: 증오의 그릇>과 <오버워치>의 흥행이 2년 연속 성장을 이끌었으며, 이번 회계연도 매출은 블리자드 역사상 세 번째로 높은 기록이라고 언급함\n- 특히 <오버워치>는 2022년 이후 가장 강력한 분기 실적을 달성한 것으로 나타났으나, MS는 공식 재무 발표에서 스튜디오별 세부 매출을 구분하지 않기 때문에 유출된 수치에 대한 양사의 공식적인 확인은 없는 상태임\n- 블리자드는 오는 9월 12일 미국 애너하임에서 열리는 '블리즈컨 2026'에서 향후 선보일 신작 라인업의 상세 정보를 공유할 예정임\n[Comment]\n- 이번 성과는 최근 Xbox 사업부 전체의 성장 정체 우려와 대비되는 고무적인 성과로, 블리자드 IP의 강력한 글로벌 흥행 파워가 여전히 유효함을 보여줌\n- 2023년 10월 영국 경쟁시장청(CMA)의 승인을 거쳐 인수가 최종 완료된 이후에도, 블리자드는 타 Xbox 사업부와 일정 수준 독립적인 운영 체제를 유지하며 자사 프랜차이즈 관리에 집중하고 있는 것으로 분석됨",
+        "original_title": "Leaked emails reveal Blizzard is Xbox's top-performing studio for FY26",
+        "url": "https://www.gamesindustry.biz/leaked-emails-reveal-blizzard-is-xboxs-top-performing-studio-for-fy26",
+        "published_at": "2026. 8. 11",
+        "published_key": "2026-08-11 00:00:00",
+        "score": "",
+        "keyword": "Xbox",
+        "integrated_note": "- 이번 성과는 최근 Xbox 사업부 전체의 성장 정체 우려와 대비되는 고무적인 성과로, 블리자드 IP의 강력한 글로벌 흥행 파워가 여전히 유효함을 보여줌\n- 2023년 10월 영국 경쟁시장청(CMA)의 승인을 거쳐 인수가 최종 완료된 이후에도, 블리자드는 타 Xbox 사업부와 일정 수준 독립적인 운영 체제를 유지하며 자사 프랜차이즈 관리에 집중하고 있는 것으로 분석됨"
+      },
+      {
+        "company_ko": "마이크로소프트",
+        "title_ko": "[글로벌/동향] 샌디스크, Xbox 공식 인증 확장 카드 '옵티머스 GX C50' 출시... 스토리지 경쟁 합류",
+        "summary_ko": "- 샌디스크(SanDisk)가 Xbox Series X|S 전용 공식 인증 확장 카드인 '옵티머스 GX C50(Optimus GX C50)'을 공개하며 시게이트(Seagate), 웨스턴 디지털(Western Digital)에 이어 마이크로소프트(MS)의 인증을 획득한 세 번째 제조사로 합류함\n- 이번 신제품은 512GB, 1TB, 2TB의 세 가지 용량으로 출시되며, 샌디스크 공식 홈페이지 기준 각각 USD 109.99, USD 199.99, USD 339.99의 출시 기념 프로모션 가격(정가는 각각 USD 137.99, USD 249.99, USD 424.99)으로 판매될 예정임\n- 특히 1TB 모델의 프로모션 가격인 USD 199.99는 현재 베스트바이 등 소매점에서 판매되는 기존 'WD_BLACK C50' 1TB 모델 가격(USD 374.99)보다 USD 175가량 저렴하여 높은 가격 경쟁력을 확보함\n- Xbox Series X|S의 확장 슬롯은 일반적인 M.2 슬롯을 사용하는 PS5와 달리 독점 규격의 CFexpress Type B 변형 커넥터를 사용하며, 콘솔의 'Xbox 벨로시티 아키텍처(Xbox Velocity Architecture)' 사양에 맞춰 2.4 GB/s의 지속적인 I/O 대역폭을 보장하는 공식 인증 카드만 사용이 가능함\n[Comment]\n- 샌디스크는 2025년 2월 웨스턴 디지털에서 분사된 독립 법인으로, 이번 '옵티머스 GX C50'은 기존 'WD_BLACK C50'의 기술력과 제조 공정, MS 인증을 그대로 계승한 사실상의 리브랜딩 제품이며 동일한 5년의 제한 보증을 제공함\n- 2025년 말부터 AI 데이터 센터 수요 폭증으로 인해 글로벌 NAND 플래시 도매가가 2배 이상 급등한 시장 상황 속에서, 경쟁사 대비 저렴하게 책정된 이번 출시가는 초기 시장 점유율 확대를 선점하기 위한 일시적인 프로모션 전략일 가능성이 높음\n- 특히 2026년 8월 기준 Xbox Series X의 기기 가격이 USD 799.99로 인상된 상태에서, 오는 11월 출시 예정인 <Grand Theft Auto 6(GTA 6)>의 설치 용량이 약 200GB에 달할 것으로 예상됨에 따라 콘솔 유저들의 고용량 추가 스토리지 구매 수요가 더욱 증가할 것으로 전망됨",
+        "original_title": "SanDisk Launches Xbox Expansion Card at $199.99: Third Licensed Competitor Arrives Before GTA VI",
+        "url": "https://www.techtimes.com/articles/323859/20260810/sandisk-launches-xbox-expansion-card-19999-third-licensed-competitor-arrives-before-gta-vi.htm",
+        "published_at": "2026. 8. 11",
+        "published_key": "2026-08-11 00:00:00",
+        "score": "",
+        "keyword": "Xbox",
+        "integrated_note": "- 샌디스크는 2025년 2월 웨스턴 디지털에서 분사된 독립 법인으로, 이번 '옵티머스 GX C50'은 기존 'WD_BLACK C50'의 기술력과 제조 공정, MS 인증을 그대로 계승한 사실상의 리브랜딩 제품이며 동일한 5년의 제한 보증을 제공함\n- 2025년 말부터 AI 데이터 센터 수요 폭증으로 인해 글로벌 NAND 플래시 도매가가 2배 이상 급등한 시장 상황 속에서, 경쟁사 대비 저렴하게 책정된 이번 출시가는 초기 시장 점유율 확대를 선점하기 위한 일시적인 프로모션 전략일 가능성이 높음\n- 특히 2026년 8월 기준 Xbox Series X의 기기 가격이 USD 799.99로 인상된 상태에서, 오는 11월 출시 예정인 <Grand Theft Auto 6(GTA 6)>의 설치 용량이 약 200GB에 달할 것으로 예상됨에 따라 콘솔 유저들의 고용량 추가 스토리지 구매 수요가 더욱 증가할 것으로 전망됨"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/동향] 블리자드, MS 2026 회계연도 Xbox 게임 스튜디오 중 최고 실적 달성",
+        "summary_ko": "- 매체 윈도우 센트럴이 입수해 검증한 내부 이메일에 따르면, 블리자드 엔터테인먼트(이하 블리자드)는 마이크로소프트(MS)의 2026 회계연도(FY26)에 Xbox 게임 스튜디오 사업부 내에서 가장 뛰어난 성과를 거둔 스튜디오로 기록됨\n- 조안나 파리스 블리자드 사장은 사내 이메일을 통해 <디아블로 4: 증오의 그릇>과 <오버워치>의 흥행이 2년 연속 성장을 이끌었으며, 이번 회계연도 매출은 블리자드 역사상 세 번째로 높은 기록이라고 언급함\n- 특히 <오버워치>는 2022년 이후 가장 강력한 분기 실적을 달성한 것으로 나타났으나, MS는 공식 재무 발표에서 스튜디오별 세부 매출을 구분하지 않기 때문에 유출된 수치에 대한 양사의 공식적인 확인은 없는 상태임\n- 블리자드는 오는 9월 12일 미국 애너하임에서 열리는 '블리즈컨 2026'에서 향후 선보일 신작 라인업의 상세 정보를 공유할 예정임\n[Comment]\n- 이번 성과는 최근 Xbox 사업부 전체의 성장 정체 우려와 대비되는 고무적인 성과로, 블리자드 IP의 강력한 글로벌 흥행 파워가 여전히 유효함을 보여줌\n- 2023년 10월 영국 경쟁시장청(CMA)의 승인을 거쳐 인수가 최종 완료된 이후에도, 블리자드는 타 Xbox 사업부와 일정 수준 독립적인 운영 체제를 유지하며 자사 프랜차이즈 관리에 집중하고 있는 것으로 분석됨",
+        "original_title": "Leaked emails reveal Blizzard is Xbox's top-performing studio for FY26",
+        "url": "https://www.gamesindustry.biz/leaked-emails-reveal-blizzard-is-xboxs-top-performing-studio-for-fy26",
+        "published_at": "2026. 8. 11",
+        "published_key": "2026-08-11 00:00:00",
+        "score": "",
+        "keyword": "Xbox",
+        "integrated_note": "- 이번 성과는 최근 Xbox 사업부 전체의 성장 정체 우려와 대비되는 고무적인 성과로, 블리자드 IP의 강력한 글로벌 흥행 파워가 여전히 유효함을 보여줌\n- 2023년 10월 영국 경쟁시장청(CMA)의 승인을 거쳐 인수가 최종 완료된 이후에도, 블리자드는 타 Xbox 사업부와 일정 수준 독립적인 운영 체제를 유지하며 자사 프랜차이즈 관리에 집중하고 있는 것으로 분석됨"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/동향] 밸브, 유럽 배송 파트너사 해킹으로 스팀 하드웨어 구매 고객 개인정보 유출",
+        "summary_ko": "- 밸브(Valve)는 유럽 지역의 스팀(Steam) 하드웨어 배송을 담당하는 물류 기업 'CEVA 로지스틱스(CEVA Logistics)'가 사이버 공격을 받음에 따라, 해당 지역에서 하드웨어를 주문한 고객들의 개인정보가 유출되었음을 구매자들에게 통지하기 시작함\n- 해당 해킹 공격은 지난 7월 29일에서 8월 1일 사이에 발생했으며, 밸브는 8월 7일에 이 사실을 인지함. CEVA가 주문 후 최대 90일간 배송 데이터를 보관하기 때문에, 이 기간 내에 스팀 덱(Steam Deck), 스팀 머신, 스팀 컨트롤러 등을 구매한 고객들이 주로 영향을 받은 것으로 파악됨\n- 유출된 정보는 고객 이름, 배송 주소, 우편번호, 전화번호, 스팀 계정 이메일, 주문한 하드웨어 종류 및 가격 등임. 밸브 측은 비밀번호, 결제 정보, 스팀 가드 코드 등 계정 핵심 정보는 유출되지 않았으므로 비밀번호 변경 등의 조치는 필요하지 않다고 밝힘\n- 밸브는 유출된 실제 주소 등을 인용해 신뢰할 만한 기관처럼 위장하는 이메일, SMS, 전화를 통한 피싱 공격 가능성을 경고했으며, 스팀 고객지원은 오직 공식 페이지(help.steampowered.com)를 통해서만 운영되고 절대 비밀번호나 가드 코드를 요구하지 않는다고 강조함\n- CEVA 측은 이번 침해 사고가 유럽 내 계약 물류 운영 부문에 영향을 미쳐 최소 8개의 유럽 창고가 지장을 받았다고 확인했으며, 밸브뿐만 아니라 CEVA의 배송망을 이용하는 일부 은행 및 소매업체들도 피해를 입은 것으로 알려짐. 밸브는 관련 당국에 이를 신고하고 구체적인 경위를 파악 중임\n[Comment]\n- 이번 사건은 플랫폼 홀더가 디지털 보안을 철저히 유지하더라도, 실물 하드웨어 유통을 담당하는 3사 공급망(서드파티 물류 파트너)의 보안 취약점으로 인해 대규모 고객 정보가 노출될 수 있음을 보여주는 대표적인 공급망 보안 위협 사례임\n- 특히 스팀 덱의 흥행으로 글로벌 하드웨어 판매량이 증가한 시점에서 발생한 유출 사고인 만큼 타격이 적지 않으며, 유출된 정보가 실제 물리적 주소와 구매 이력을 포함하고 있어 향후 사용자를 타깃으로 한 정교한 스피어 피싱(Spear Phishing) 등 2차 피해 예방을 위한 주의가 요구됨\n- 유럽 지역 유저들이 타깃이 된 만큼 밸브와 CEVA는 유럽 연합(EU)의 강력한 개인정보보호법(GDPR)에 따른 엄격한 조사와 사후 대처, 잠재적 과징금 부과 등의 리스크에 직면할 가능성이 있음",
+        "original_title": "Valve confirms Steam hardware buyers' data exposed in CEVA Logistics cyberattack",
+        "url": "https://www.gamesindustry.biz/valve-confirms-steam-hardware-buyers-data-exposed-in-ceva-logistics-cyberattack",
+        "published_at": "2026. 8. 11",
+        "published_key": "2026-08-11 00:00:00",
+        "score": "",
+        "keyword": "Steam",
+        "integrated_note": "- 이번 사건은 플랫폼 홀더가 디지털 보안을 철저히 유지하더라도, 실물 하드웨어 유통을 담당하는 3사 공급망(서드파티 물류 파트너)의 보안 취약점으로 인해 대규모 고객 정보가 노출될 수 있음을 보여주는 대표적인 공급망 보안 위협 사례임\n- 특히 스팀 덱의 흥행으로 글로벌 하드웨어 판매량이 증가한 시점에서 발생한 유출 사고인 만큼 타격이 적지 않으며, 유출된 정보가 실제 물리적 주소와 구매 이력을 포함하고 있어 향후 사용자를 타깃으로 한 정교한 스피어 피싱(Spear Phishing) 등 2차 피해 예방을 위한 주의가 요구됨\n- 유럽 지역 유저들이 타깃이 된 만큼 밸브와 CEVA는 유럽 연합(EU)의 강력한 개인정보보호법(GDPR)에 따른 엄격한 조사와 사후 대처, 잠재적 과징금 부과 등의 리스크에 직면할 가능성이 있음"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/동향] 비공식 앱 '아소비(Asobi)', 스팀덱에서 콘솔 없이 PS Plus 클라우드 스트리밍 지원",
+        "summary_ko": "- 최근 비공식 서드파티 앱인 '아소비(Asobi: Remote Play)'가 스팀(Steam)에서 공개 테스트를 시작하며, 플레이스테이션(PS) 콘솔 없이도 스팀덱 등 리눅스 기반 기기에서 'PS Plus 프리미엄' 클라우드 스트리밍을 이용할 수 있도록 지원해 유저들의 주목을 받고 있음\n- 아소비는 기존 오픈소스 앱인 '치아키(Chiaki-ng)'와 유사한 로컬 리모트 플레이 기능을 제공할 뿐만 아니라, 소니 공식 윈도우 앱조차 지원하지 않는 '콘솔 없는 클라우드 스트리밍'을 구현했으며, 사용자의 PSN 계정 정보를 통해 소니의 서버 인프라에 직접 연결하는 방식으로 작동함\n- 해당 앱은 기본 1080p 30fps(SDR) 해상도를 지원하는 무료 버전과, 60fps, HDR, 저지연 모드, 햅틱 피드백 등을 지원하는 유료 프리미엄 버전의 프리미엄(Freemium) 모델로 운영되며, 이용을 위해서는 연간 USD 159.99(월 USD 19.99)의 'PS Plus 프리미엄' 구독이 필수적임\n- 그러나 소니의 PSN 서비스 약관은 승인되지 않은 하드웨어 및 소프트웨어의 접근을 명시적으로 금지하고 있어 이용 시 계정 정지 등의 위험이 존재하며, 소니가 서버 측 인증을 차단하는 방식으로 언제든 서비스 제공을 중단시킬 수 있는 기술적 리스크가 존재함\n[Comment]\n- 지난 2026년 1월 유사한 기능을 제공하던 'PSStream' 앱이 출시 6일 만에 사후 관리 불가 등을 이유로 돌연 서비스를 중단한 선례가 있어, 아소비의 장기적인 서비스 유지 여부에 대해 회의적인 시각도 존재함\n- 다만, 아소비는 이용약관 및 개인정보 보호정책을 투명하게 공개하고 있으며 이미 iOS 및 안드로이드 마켓에서 정상 운영된 이력이 있다는 점에서 기존 실패 사례들과 차별성을 확보하려는 모습을 보임\n- 현재 소니는 자사의 전용 스트리밍 기기인 '플레이스테이션 포털(PlayStation Portal)'의 시장 점유율을 유지해야 하는 한편, 제3자 앱이 결과적으로 'PS Plus 프리미엄' 구독자 확대 및 매출 증가에 기여할 수 있다는 양면성 사이에서 공식적인 입장을 밝히지 않고 묵인하는 상태인 것으로 분석됨",
+        "original_title": "PS Plus Cloud Streaming Arrives on Steam Deck Via Unofficial App: Six-Day Precedent Looms",
+        "url": "https://www.techtimes.com/articles/323775/20260810/ps-plus-cloud-streaming-arrives-steam-deck-via-unofficial-app-six-day-precedent-looms.htm",
+        "published_at": "2026. 8. 11",
+        "published_key": "2026-08-11 00:00:00",
+        "score": "",
+        "keyword": "PS",
+        "integrated_note": "- 지난 2026년 1월 유사한 기능을 제공하던 'PSStream' 앱이 출시 6일 만에 사후 관리 불가 등을 이유로 돌연 서비스를 중단한 선례가 있어, 아소비의 장기적인 서비스 유지 여부에 대해 회의적인 시각도 존재함\n- 다만, 아소비는 이용약관 및 개인정보 보호정책을 투명하게 공개하고 있으며 이미 iOS 및 안드로이드 마켓에서 정상 운영된 이력이 있다는 점에서 기존 실패 사례들과 차별성을 확보하려는 모습을 보임\n- 현재 소니는 자사의 전용 스트리밍 기기인 '플레이스테이션 포털(PlayStation Portal)'의 시장 점유율을 유지해야 하는 한편, 제3자 앱이 결과적으로 'PS Plus 프리미엄' 구독자 확대 및 매출 증가에 기여할 수 있다는 양면성 사이에서 공식적인 입장을 밝히지 않고 묵인하는 상태인 것으로 분석됨"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/동향] 베데스다 '오블리비언 리마스터' 닌텐도 스위치 2 버전 출시… 고질적 오픈월드 끊김 현상은 지속",
+        "summary_ko": "- 베데스다의 <엘더스크롤 4: 오블리비언 리마스터(The Elder Scrolls IV: Oblivion Remastered)>가 2026년 8월 11일 닌텐도 스위치 2 플랫폼으로 정식 출시되었으며, 데이원 패치 적용 후 초기 유출 우려보다 양호한 구동 성능을 보였으나 오픈월드에서의 고질적인 버벅임(Stutter) 현상은 여전한 것으로 확인됨\n- 본 타이틀은 비주얼을 담당하는 '언리얼 엔진 5(UE5)'와 게임 로직 및 월드 셀 로딩을 처리하는 원작의 '게임브리오(Gamebryo)' 엔진이 동시에 구동되는 이중 엔진 구조로 설계되어, 플랫폼 성능과 관계없이 오픈월드 이동 시 CPU 단일 스레드 병목 현상으로 인한 끊김이 구조적으로 발생함\n- 스위치 2 버전은 독 모드와 휴대 모드 모두 던전 등 밀폐된 공간에서는 목표치인 30fps를 안정적으로 유지하며 엔비디아의 DLSS 기술을 통해 그래픽 품질을 보완했으나, 오픈월드 및 대도시 진입 시에는 기기 성능 한계로 인해 일시적인 프레임 드랍과 화면 끊김 현상이 관찰됨\n- 패키지 버전(Deluxe Edition, USD 59.99)의 경우, 다운로드 코드만 동봉하는 기존 계획에 대한 유저들의 반발을 수용하여 카트리지 내에 게임 전체 데이터를 수록한 풀 카트리지 형태로 출시되었으며, 디지털 표준판(Standard Edition, USD 49.99)과 함께 모든 확장팩 및 DLC를 포함함\n[Comment]\n- 베데스다 리마스터 팀은 지난 7월 인터뷰를 통해 닌텐도 스위치 2 버전 이식 과정에서 개발된 최적화 기술을 PC 및 타 콘솔(PS5, Xbox Series X/S) 플랫폼에 적용하는 방안을 고려 중이라고 언급한 바 있어, 이번 포팅의 성공 여부가 타 플랫폼 성능 개선 패치의 마중물이 될지 주목받고 있음\n- 이번 스위치 2 포팅을 담당한 버추어스(Virtuos)가 닌텐도 스위치 2의 T239 칩셋 환경에 맞추어 셀 로딩 스레드 구조를 개선하는 데 성공했다면, 향후 고사양 PC와 타 콘솔에서도 고질적인 하드웨어 성능 저하 문제를 해결할 수 있는 열쇠가 될 것으로 전망됨",
+        "original_title": "Oblivion Remastered Switch 2 Launches Better Than Feared: Open-World Stutter Persists",
+        "url": "https://www.techtimes.com/articles/323820/20260810/oblivion-remastered-switch-2-launches-better-feared-open-world-stutter-persists.htm",
+        "published_at": "2026. 8. 11",
+        "published_key": "2026-08-11 00:00:00",
+        "score": "",
+        "keyword": "Switch",
+        "integrated_note": "- 베데스다 리마스터 팀은 지난 7월 인터뷰를 통해 닌텐도 스위치 2 버전 이식 과정에서 개발된 최적화 기술을 PC 및 타 콘솔(PS5, Xbox Series X/S) 플랫폼에 적용하는 방안을 고려 중이라고 언급한 바 있어, 이번 포팅의 성공 여부가 타 플랫폼 성능 개선 패치의 마중물이 될지 주목받고 있음\n- 이번 스위치 2 포팅을 담당한 버추어스(Virtuos)가 닌텐도 스위치 2의 T239 칩셋 환경에 맞추어 셀 로딩 스레드 구조를 개선하는 데 성공했다면, 향후 고사양 PC와 타 콘솔에서도 고질적인 하드웨어 성능 저하 문제를 해결할 수 있는 열쇠가 될 것으로 전망됨"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/동향] 닌텐도 스위치용 <에일리언: 파이어팀 엘리트> 클라우드 서비스 종료... 소유권 논란 확산",
+        "summary_ko": "- 최근 8월 5일부로 닌텐도 스위치 플랫폼에서 서비스되던 SF 슈팅 게임 <에일리언: 파이어팀 엘리트(Aliens: Fireteam Elite)>의 클라우드 서버가 공식 종료되었으며, 이로 인해 USD 60 상당의 얼티메이트 에디션을 구매한 유저를 포함한 기존 구매자들조차 게임을 플레이하거나 재설치할 수 없게 됨\n- 해당 게임은 본래 AI 동료를 활용한 오프라인 플레이를 지원하지만, 스위치 버전의 경우 기기 스펙 한계로 인해 클라우드 스트리밍 방식으로만 출시되었기에 서버가 폐쇄되는 순간 구매 비용과 상관없이 게임 자체가 완전히 사라지는 결과를 초래함\n- 이에 유저 커뮤니티에서는 디지털 및 클라우드 게임 소유권의 불안정성에 대한 비판이 쏟아지고 있으며, 과거 서비스 종료 시 구매 금액을 환불해 주었던 구글 스태디아(Stadia) 사례와 비교하며 플랫폼과 퍼블리셔의 무책임한 처사를 지적하는 여론이 형성됨\n[Comment]\n- 닌텐도는 그동안 사양이 낮은 스위치 기기에서 고사양 타이틀을 구동하기 위해 <바이오하자드>, <킹덤 하츠>, <히트맨> 등의 클라우드 버전 출시를 대안으로 제시해 왔으나, 이번 사태를 통해 클라우드 게임의 치명적인 한계와 보존성 문제가 다시 한번 도마 위에 오름\n- 최근 테이크투의 스트라우스 젤닉 CEO가 \"향후 3년간 클라우드 게임 시장이 크게 성장할 것\"이라고 전망한 것과 달리, 실제 이용자들은 서비스 종료에 따른 디지털 재화 소멸 위험에 노출되어 있어 시장의 이상과 현실 간 괴리가 깊어지는 양상임\n- 올가을 스펙이 한층 강화된 차세대 콘솔 '스위치 2'의 출시와 함께 해당 게임의 후속작이 예고된 가운데, 기존 클라우드 버전 구매자들을 위한 네이티브 이식판 무상 제공 등의 구제책 여부가 향후 닌텐도 클라우드 생태계의 신뢰도를 결정할 분수령이 될 것으로 보임",
+        "original_title": "Switch Game Some Players Paid $60 For Disappears In A Cloud Of Virtual Smoke",
+        "url": "https://kotaku.com/switch-game-some-players-paid-60-for-disappears-in-a-cloud-of-virtual-smoke-2000723165",
+        "published_at": "2026. 8. 11",
+        "published_key": "2026-08-11 00:00:00",
+        "score": "",
+        "keyword": "Switch",
+        "integrated_note": "- 닌텐도는 그동안 사양이 낮은 스위치 기기에서 고사양 타이틀을 구동하기 위해 <바이오하자드>, <킹덤 하츠>, <히트맨> 등의 클라우드 버전 출시를 대안으로 제시해 왔으나, 이번 사태를 통해 클라우드 게임의 치명적인 한계와 보존성 문제가 다시 한번 도마 위에 오름\n- 최근 테이크투의 스트라우스 젤닉 CEO가 \"향후 3년간 클라우드 게임 시장이 크게 성장할 것\"이라고 전망한 것과 달리, 실제 이용자들은 서비스 종료에 따른 디지털 재화 소멸 위험에 노출되어 있어 시장의 이상과 현실 간 괴리가 깊어지는 양상임\n- 올가을 스펙이 한층 강화된 차세대 콘솔 '스위치 2'의 출시와 함께 해당 게임의 후속작이 예고된 가운데, 기존 클라우드 버전 구매자들을 위한 네이티브 이식판 무상 제공 등의 구제책 여부가 향후 닌텐도 클라우드 생태계의 신뢰도를 결정할 분수령이 될 것으로 보임"
+      },
+      {
+        "company_ko": "닌텐도",
+        "title_ko": "[글로벌/동향] 베데스다 '오블리비언 리마스터' 닌텐도 스위치 2 버전 출시… 고질적 오픈월드 끊김 현상은 지속",
+        "summary_ko": "- 베데스다의 <엘더스크롤 4: 오블리비언 리마스터(The Elder Scrolls IV: Oblivion Remastered)>가 2026년 8월 11일 닌텐도 스위치 2 플랫폼으로 정식 출시되었으며, 데이원 패치 적용 후 초기 유출 우려보다 양호한 구동 성능을 보였으나 오픈월드에서의 고질적인 버벅임(Stutter) 현상은 여전한 것으로 확인됨\n- 본 타이틀은 비주얼을 담당하는 '언리얼 엔진 5(UE5)'와 게임 로직 및 월드 셀 로딩을 처리하는 원작의 '게임브리오(Gamebryo)' 엔진이 동시에 구동되는 이중 엔진 구조로 설계되어, 플랫폼 성능과 관계없이 오픈월드 이동 시 CPU 단일 스레드 병목 현상으로 인한 끊김이 구조적으로 발생함\n- 스위치 2 버전은 독 모드와 휴대 모드 모두 던전 등 밀폐된 공간에서는 목표치인 30fps를 안정적으로 유지하며 엔비디아의 DLSS 기술을 통해 그래픽 품질을 보완했으나, 오픈월드 및 대도시 진입 시에는 기기 성능 한계로 인해 일시적인 프레임 드랍과 화면 끊김 현상이 관찰됨\n- 패키지 버전(Deluxe Edition, USD 59.99)의 경우, 다운로드 코드만 동봉하는 기존 계획에 대한 유저들의 반발을 수용하여 카트리지 내에 게임 전체 데이터를 수록한 풀 카트리지 형태로 출시되었으며, 디지털 표준판(Standard Edition, USD 49.99)과 함께 모든 확장팩 및 DLC를 포함함\n[Comment]\n- 베데스다 리마스터 팀은 지난 7월 인터뷰를 통해 닌텐도 스위치 2 버전 이식 과정에서 개발된 최적화 기술을 PC 및 타 콘솔(PS5, Xbox Series X/S) 플랫폼에 적용하는 방안을 고려 중이라고 언급한 바 있어, 이번 포팅의 성공 여부가 타 플랫폼 성능 개선 패치의 마중물이 될지 주목받고 있음\n- 이번 스위치 2 포팅을 담당한 버추어스(Virtuos)가 닌텐도 스위치 2의 T239 칩셋 환경에 맞추어 셀 로딩 스레드 구조를 개선하는 데 성공했다면, 향후 고사양 PC와 타 콘솔에서도 고질적인 하드웨어 성능 저하 문제를 해결할 수 있는 열쇠가 될 것으로 전망됨",
+        "original_title": "Oblivion Remastered Switch 2 Launches Better Than Feared: Open-World Stutter Persists",
+        "url": "https://www.techtimes.com/articles/323820/20260810/oblivion-remastered-switch-2-launches-better-feared-open-world-stutter-persists.htm",
+        "published_at": "2026. 8. 11",
+        "published_key": "2026-08-11 00:00:00",
+        "score": "",
+        "keyword": "Switch",
+        "integrated_note": "- 베데스다 리마스터 팀은 지난 7월 인터뷰를 통해 닌텐도 스위치 2 버전 이식 과정에서 개발된 최적화 기술을 PC 및 타 콘솔(PS5, Xbox Series X/S) 플랫폼에 적용하는 방안을 고려 중이라고 언급한 바 있어, 이번 포팅의 성공 여부가 타 플랫폼 성능 개선 패치의 마중물이 될지 주목받고 있음\n- 이번 스위치 2 포팅을 담당한 버추어스(Virtuos)가 닌텐도 스위치 2의 T239 칩셋 환경에 맞추어 셀 로딩 스레드 구조를 개선하는 데 성공했다면, 향후 고사양 PC와 타 콘솔에서도 고질적인 하드웨어 성능 저하 문제를 해결할 수 있는 열쇠가 될 것으로 전망됨"
+      },
+      {
+        "company_ko": "닌텐도",
+        "title_ko": "[글로벌/동향] 닌텐도 스위치용 <에일리언: 파이어팀 엘리트> 클라우드 서비스 종료... 소유권 논란 확산",
+        "summary_ko": "- 최근 8월 5일부로 닌텐도 스위치 플랫폼에서 서비스되던 SF 슈팅 게임 <에일리언: 파이어팀 엘리트(Aliens: Fireteam Elite)>의 클라우드 서버가 공식 종료되었으며, 이로 인해 USD 60 상당의 얼티메이트 에디션을 구매한 유저를 포함한 기존 구매자들조차 게임을 플레이하거나 재설치할 수 없게 됨\n- 해당 게임은 본래 AI 동료를 활용한 오프라인 플레이를 지원하지만, 스위치 버전의 경우 기기 스펙 한계로 인해 클라우드 스트리밍 방식으로만 출시되었기에 서버가 폐쇄되는 순간 구매 비용과 상관없이 게임 자체가 완전히 사라지는 결과를 초래함\n- 이에 유저 커뮤니티에서는 디지털 및 클라우드 게임 소유권의 불안정성에 대한 비판이 쏟아지고 있으며, 과거 서비스 종료 시 구매 금액을 환불해 주었던 구글 스태디아(Stadia) 사례와 비교하며 플랫폼과 퍼블리셔의 무책임한 처사를 지적하는 여론이 형성됨\n[Comment]\n- 닌텐도는 그동안 사양이 낮은 스위치 기기에서 고사양 타이틀을 구동하기 위해 <바이오하자드>, <킹덤 하츠>, <히트맨> 등의 클라우드 버전 출시를 대안으로 제시해 왔으나, 이번 사태를 통해 클라우드 게임의 치명적인 한계와 보존성 문제가 다시 한번 도마 위에 오름\n- 최근 테이크투의 스트라우스 젤닉 CEO가 \"향후 3년간 클라우드 게임 시장이 크게 성장할 것\"이라고 전망한 것과 달리, 실제 이용자들은 서비스 종료에 따른 디지털 재화 소멸 위험에 노출되어 있어 시장의 이상과 현실 간 괴리가 깊어지는 양상임\n- 올가을 스펙이 한층 강화된 차세대 콘솔 '스위치 2'의 출시와 함께 해당 게임의 후속작이 예고된 가운데, 기존 클라우드 버전 구매자들을 위한 네이티브 이식판 무상 제공 등의 구제책 여부가 향후 닌텐도 클라우드 생태계의 신뢰도를 결정할 분수령이 될 것으로 보임",
+        "original_title": "Switch Game Some Players Paid $60 For Disappears In A Cloud Of Virtual Smoke",
+        "url": "https://kotaku.com/switch-game-some-players-paid-60-for-disappears-in-a-cloud-of-virtual-smoke-2000723165",
+        "published_at": "2026. 8. 11",
+        "published_key": "2026-08-11 00:00:00",
+        "score": "",
+        "keyword": "Switch",
+        "integrated_note": "- 닌텐도는 그동안 사양이 낮은 스위치 기기에서 고사양 타이틀을 구동하기 위해 <바이오하자드>, <킹덤 하츠>, <히트맨> 등의 클라우드 버전 출시를 대안으로 제시해 왔으나, 이번 사태를 통해 클라우드 게임의 치명적인 한계와 보존성 문제가 다시 한번 도마 위에 오름\n- 최근 테이크투의 스트라우스 젤닉 CEO가 \"향후 3년간 클라우드 게임 시장이 크게 성장할 것\"이라고 전망한 것과 달리, 실제 이용자들은 서비스 종료에 따른 디지털 재화 소멸 위험에 노출되어 있어 시장의 이상과 현실 간 괴리가 깊어지는 양상임\n- 올가을 스펙이 한층 강화된 차세대 콘솔 '스위치 2'의 출시와 함께 해당 게임의 후속작이 예고된 가운데, 기존 클라우드 버전 구매자들을 위한 네이티브 이식판 무상 제공 등의 구제책 여부가 향후 닌텐도 클라우드 생태계의 신뢰도를 결정할 분수령이 될 것으로 보임"
+      },
+      {
+        "company_ko": "유비소프트",
+        "title_ko": "[글로벌/동향] 엔비디아 차세대 ‘베라 루빈’ 플랫폼 BOM 공개... 메모리 비용이 전체의 62% 차지",
+        "summary_ko": "- UBS가 최근 공개한 엔비디아의 차세대 AI 플랫폼 ‘베라 루빈(Vera Rubin)’의 자재명세서(BOM)에 따르면, 전체 시스템에서 메모리가 차지하는 비용 비중이 이전 세대 그레이스 블랙웰 시스템의 53%에서 62%로 급증하며 가장 비싼 부품으로 분석됨\n- 베라 루빈 NVL72 캐비닛은 72개의 루빈 GPU와 36개의 베라 CPU로 구성되며, 단일 루빈 GPU는 288GB HBM4(대역폭 22TB/s)를, 베라 CPU는 대용량 SOCAMM2 LPDDR5X 메모리를 탑재하여 캐비닛 한 대당 총 메모리 용량이 74.7TB에 달함\n- 단일 베라 루빈 슈퍼칩 모듈의 총비용은 약 USD 38,902(CNY 약 28만 100)이며, 이 중 메모리 관련 비용은 USD 24,297인 반면, 메모리를 제외한 베라 CPU 코어 자체의 추정 가격은 USD 704 수준에 불과해 메모리 가치가 칩 본체의 수십 배에 이름\n- 이전 세대 제품 대비 베라 루빈 시스템의 전체 비용은 2.1배 증가한 반면 메모리 지출은 2.5배 증가했으며, 이는 대용량·고대역폭 메모리가 AI 클러스터 확장의 핵심 병목이자 글로벌 HBM 및 DRAM 공급 부족의 주요 원인임을 보여줌\n[Comment]\n- AI 연산 칩 자체의 가격보다 이를 뒷받침하는 메모리의 가격이 압도적으로 높아지면서, 메모리 수급 환경이 AI 인프라 구축 비용을 결정하는 핵심 변수로 부상함\n- AMD 또한 차세대 헬리오스(Helios) 플랫폼의 단일 GPU에 432GB HBM4를 탑재할 계획을 세우는 등 빅테크 기업들의 메모리 사양 경쟁이 격화되고 있으며, 주요 AI 제조사들의 장기 공급 계약 선점으로 인해 글로벌 메모리 시장의 공급 부족 현상은 향후 수년간 지속될 것으로 전망됨",
+        "original_title": "英伟达Vera Rubin物料清单曝光：内存成本占62% CPU仅值700美元",
+        "url": "http://www.gamekezhan.com/news/20260811/64641.html",
+        "published_at": "2026. 8. 11",
+        "published_key": "2026-08-11 00:00:00",
+        "score": "",
+        "keyword": "%",
+        "integrated_note": "- AI 연산 칩 자체의 가격보다 이를 뒷받침하는 메모리의 가격이 압도적으로 높아지면서, 메모리 수급 환경이 AI 인프라 구축 비용을 결정하는 핵심 변수로 부상함\n- AMD 또한 차세대 헬리오스(Helios) 플랫폼의 단일 GPU에 432GB HBM4를 탑재할 계획을 세우는 등 빅테크 기업들의 메모리 사양 경쟁이 격화되고 있으며, 주요 AI 제조사들의 장기 공급 계약 선점으로 인해 글로벌 메모리 시장의 공급 부족 현상은 향후 수년간 지속될 것으로 전망됨"
+      },
+      {
+        "company_ko": "소니",
+        "title_ko": "[글로벌/동향] 소니, 신작 영화 ‘스파이더맨: 브랜드 뉴 데이’ 흥행 효과로 게임 이용자 급증",
+        "summary_ko": "- 최근 개봉한 영화 ‘스파이더맨: 브랜드 뉴 데이’가 전 세계 박스오피스에서 16억 달러 이상의 수익을 기록하며 흥행에 성공함에 따라, 소니의 <마블 스파이더맨 2>를 비롯한 관련 게임들의 이용자 지표가 동반 상승함\n- 분석 업체 얼라이나(Alinea)에 따르면, 영화가 개봉한 7월 30일 이후 <마블 스파이더맨 2>는 PS5와 PC(스팀) 플랫폼에서 약 31만 6천 장의 추가 판매고를 올렸으며, 약 1,100만 달러 이상의 매출을 기록함\n- 또한, 해당 기간 동안 PS Plus Extra 구독을 통해 약 27만 4천 명의 이용자가 게임을 새롭게 접했으며, 지난 주말 기준 일일 활성 이용자 수는 영화 개봉 전 대비 2.6배 증가한 100만 명을 넘어섬\n- 이번 성과는 영화 개봉과 맞물린 전략적인 할인 프로모션과 스파이더맨 IP의 강력한 문화적 영향력이 시너지를 낸 결과로 평가되며, <마블 스파이더맨 리마스터> 및 <마블 스파이더맨: 마일즈 모랄레스> 또한 함께 이용자 수 상승세를 보임\n\n[Comment]\n- 소니는 자사의 영화 제작 부문과 게임 부문(PlayStation) 간의 IP 결합을 통해 강력한 시너지를 창출하고 있으며, 이번 사례는 대형 미디어 IP의 흥행이 게임 생태계에 즉각적인 수익과 이용자 유입을 견인한다는 점을 다시 한번 입증함\n- 게임 구독 서비스인 PS Plus Extra를 통한 유입 비중이 높다는 점은, 소니가 단순한 타이틀 판매를 넘어 구독 서비스 내 콘텐츠 활용을 통한 생태계 강화 전략에 집중하고 있음을 시사함\n- 영화의 글로벌 성공이 게임 매출로 직결되는 선순환 구조가 형성됨에 따라, 향후 소니는 자사가 보유한 엔터테인먼트 자산을 활용한 미디어-게임 통합 마케팅을 더욱 공격적으로 전개할 것으로 전망됨",
+        "original_title": "Spider-Man 2's PS5 Sales Have Exploded After Brand New Day's Box Office Blowout",
+        "url": "https://www.pushsquare.com/news/2026/08/spider-man-2s-ps5-sales-have-exploded-after-brand-new-days-box-office-blowout",
+        "published_at": "2026. 8. 11",
+        "published_key": "2026-08-11 00:00:00",
+        "score": "",
+        "keyword": "PS5",
+        "integrated_note": "- 소니는 자사의 영화 제작 부문과 게임 부문(PlayStation) 간의 IP 결합을 통해 강력한 시너지를 창출하고 있으며, 이번 사례는 대형 미디어 IP의 흥행이 게임 생태계에 즉각적인 수익과 이용자 유입을 견인한다는 점을 다시 한번 입증함\n- 게임 구독 서비스인 PS Plus Extra를 통한 유입 비중이 높다는 점은, 소니가 단순한 타이틀 판매를 넘어 구독 서비스 내 콘텐츠 활용을 통한 생태계 강화 전략에 집중하고 있음을 시사함\n- 영화의 글로벌 성공이 게임 매출로 직결되는 선순환 구조가 형성됨에 따라, 향후 소니는 자사가 보유한 엔터테인먼트 자산을 활용한 미디어-게임 통합 마케팅을 더욱 공격적으로 전개할 것으로 전망됨"
+      },
+      {
+        "company_ko": "텐센트",
+        "title_ko": "[중국/경쟁사] 텐센트, 신작 서브컬처 모바일 게임 <추적 카레도> 개발 비화 공개",
+        "summary_ko": "- 텐센트 산하의 신생 개발사 '페이치하리 스튜디오(飞驰蛤蜊工作室)'는 미디어 소통회를 통해 신작 서브컬처 모바일 게임 <추적 카레도(追逐卡蕾多)>의 개발 비화와 핵심 방향성을 공유했으며, 해당 게임은 지난 6월 공개된 PV가 비리비리(Bilibili)에서 조회수 370만 회를 돌파하는 등 큰 주목을 받고 있음\n- <추적 카레도>는 오픈월드나 액션 장르가 주류를 이루는 최근 서브컬처 시장에서 탈피하여 '바이크 미소녀' 콘셉트와 반실시간 턴제 카드 배틀을 채택했으며, 특히 첫 테스트 단계에서 유저들에게 \"데이트가 본체\"라는 평가를 받을 정도로 캐릭터와의 감정 교감에 초점을 맞춤\n- 개발진은 게임을 스토리(엔진), 전투(방어), 인연(득점원)의 세 가지 요소로 정의하고, 특히 전체 팀의 절반을 시나리오 작가로 구성하여 깊이 있는 유대감 형성에 집중함. 이를 위해 20분 분량의 ASMR 밀착 속삭임 콘텐츠와 동일 캐릭터의 다양한 단계를 입체적으로 보여주는 SP 캐릭터 출시 방식 등 차별화된 시도를 이어가고 있음\n[Comment]\n- 텐센트가 대형 프로젝트 외에도 유연하고 소규모인 스튜디오를 통해 레드오션이 된 서브컬처 시장에서 기존 경쟁작들이 충족하지 못한 니치 마켓(틈새시장)을 발굴하려는 전략적 움직임으로 해석됨\n- 고비용의 화려한 액션 연출 대신 과거 Galgame(미소녀 연애 시뮬레이션) 감성의 깊이 있는 대화와 동반자적인 정서 공유를 모바일 게임 환경에 맞게 극대화하여 독자적인 팬덤을 구축하려는 시도는 향후 서브컬처 시장의 새로운 돌파구가 될 수 있음",
+        "original_title": "腾讯制作人自述：二游为什么应该学学Galgame？",
+        "url": "http://www.gamekezhan.com/news/20260811/64644.html",
+        "published_at": "2026. 8. 11",
+        "published_key": "2026-08-11 00:00:00",
+        "score": "",
+        "keyword": "腾讯",
+        "integrated_note": "- 텐센트가 대형 프로젝트 외에도 유연하고 소규모인 스튜디오를 통해 레드오션이 된 서브컬처 시장에서 기존 경쟁작들이 충족하지 못한 니치 마켓(틈새시장)을 발굴하려는 전략적 움직임으로 해석됨\n- 고비용의 화려한 액션 연출 대신 과거 Galgame(미소녀 연애 시뮬레이션) 감성의 깊이 있는 대화와 동반자적인 정서 공유를 모바일 게임 환경에 맞게 극대화하여 독자적인 팬덤을 구축하려는 시도는 향후 서브컬처 시장의 새로운 돌파구가 될 수 있음"
+      },
+      {
+        "company_ko": "테이크투",
+        "title_ko": "[글로벌/동향] 샌디스크, Xbox 공식 인증 확장 카드 '옵티머스 GX C50' 출시... 스토리지 경쟁 합류",
+        "summary_ko": "- 샌디스크(SanDisk)가 Xbox Series X|S 전용 공식 인증 확장 카드인 '옵티머스 GX C50(Optimus GX C50)'을 공개하며 시게이트(Seagate), 웨스턴 디지털(Western Digital)에 이어 마이크로소프트(MS)의 인증을 획득한 세 번째 제조사로 합류함\n- 이번 신제품은 512GB, 1TB, 2TB의 세 가지 용량으로 출시되며, 샌디스크 공식 홈페이지 기준 각각 USD 109.99, USD 199.99, USD 339.99의 출시 기념 프로모션 가격(정가는 각각 USD 137.99, USD 249.99, USD 424.99)으로 판매될 예정임\n- 특히 1TB 모델의 프로모션 가격인 USD 199.99는 현재 베스트바이 등 소매점에서 판매되는 기존 'WD_BLACK C50' 1TB 모델 가격(USD 374.99)보다 USD 175가량 저렴하여 높은 가격 경쟁력을 확보함\n- Xbox Series X|S의 확장 슬롯은 일반적인 M.2 슬롯을 사용하는 PS5와 달리 독점 규격의 CFexpress Type B 변형 커넥터를 사용하며, 콘솔의 'Xbox 벨로시티 아키텍처(Xbox Velocity Architecture)' 사양에 맞춰 2.4 GB/s의 지속적인 I/O 대역폭을 보장하는 공식 인증 카드만 사용이 가능함\n[Comment]\n- 샌디스크는 2025년 2월 웨스턴 디지털에서 분사된 독립 법인으로, 이번 '옵티머스 GX C50'은 기존 'WD_BLACK C50'의 기술력과 제조 공정, MS 인증을 그대로 계승한 사실상의 리브랜딩 제품이며 동일한 5년의 제한 보증을 제공함\n- 2025년 말부터 AI 데이터 센터 수요 폭증으로 인해 글로벌 NAND 플래시 도매가가 2배 이상 급등한 시장 상황 속에서, 경쟁사 대비 저렴하게 책정된 이번 출시가는 초기 시장 점유율 확대를 선점하기 위한 일시적인 프로모션 전략일 가능성이 높음\n- 특히 2026년 8월 기준 Xbox Series X의 기기 가격이 USD 799.99로 인상된 상태에서, 오는 11월 출시 예정인 <Grand Theft Auto 6(GTA 6)>의 설치 용량이 약 200GB에 달할 것으로 예상됨에 따라 콘솔 유저들의 고용량 추가 스토리지 구매 수요가 더욱 증가할 것으로 전망됨",
+        "original_title": "SanDisk Launches Xbox Expansion Card at $199.99: Third Licensed Competitor Arrives Before GTA VI",
+        "url": "https://www.techtimes.com/articles/323859/20260810/sandisk-launches-xbox-expansion-card-19999-third-licensed-competitor-arrives-before-gta-vi.htm",
+        "published_at": "2026. 8. 11",
+        "published_key": "2026-08-11 00:00:00",
+        "score": "",
+        "keyword": "Xbox",
+        "integrated_note": "- 샌디스크는 2025년 2월 웨스턴 디지털에서 분사된 독립 법인으로, 이번 '옵티머스 GX C50'은 기존 'WD_BLACK C50'의 기술력과 제조 공정, MS 인증을 그대로 계승한 사실상의 리브랜딩 제품이며 동일한 5년의 제한 보증을 제공함\n- 2025년 말부터 AI 데이터 센터 수요 폭증으로 인해 글로벌 NAND 플래시 도매가가 2배 이상 급등한 시장 상황 속에서, 경쟁사 대비 저렴하게 책정된 이번 출시가는 초기 시장 점유율 확대를 선점하기 위한 일시적인 프로모션 전략일 가능성이 높음\n- 특히 2026년 8월 기준 Xbox Series X의 기기 가격이 USD 799.99로 인상된 상태에서, 오는 11월 출시 예정인 <Grand Theft Auto 6(GTA 6)>의 설치 용량이 약 200GB에 달할 것으로 예상됨에 따라 콘솔 유저들의 고용량 추가 스토리지 구매 수요가 더욱 증가할 것으로 전망됨"
+      },
+      {
+        "company_ko": "알파벳",
+        "title_ko": "[미국/동향] 구글, 플레이스토어에 경쟁 앱스토어 '앱토이드 게임즈' 출시 허용",
+        "summary_ko": "- 구글이 미국 구글 플레이스토어에 경쟁 관계인 서드파티 게임 앱스토어 '앱토이드 게임즈(Aptoide Games)'의 입점을 허용하여, 사용자들이 APK 다운로드(사이드로딩) 없이 플레이스토어 내에서 경쟁사 앱스토어를 바로 설치할 수 있게 됨\n- 이는 에픽게임즈와의 오랜 소송 끝에 구글이 자격 조건을 갖춘 서드파티 앱스토어의 입점을 허용하는 새로운 프레임워크와 구글의 앱 카탈로그 접근권을 부여하는 '플레이 카탈로그 액세스(Play Catalog Access)' 프로그램을 도입한 데 따른 결과임\n- 기존에는 대안 스토어를 이용하려면 웹사이트에서 APK를 다운로드하고 보안 경고를 감수해야 하는 번거로움이 있어 일반 사용자들의 접근이 어려웠으나, 구글 플레이를 통해 정식 서비스되면서 이러한 진입 장벽이 대폭 낮아짐\n- 앱토이드는 멀웨어 스캔, 개발자 검증 등 자체 보안 시스템을 가동해 안전성을 보장할 계획이며, 과거 정책 변화로 인해 구글 플레이에서 퇴출당한 지 10여 년 만에 다시 복귀하게 됨\n[Comment]\n- 이번 조치는 구글이 안드로이드 독점을 유지하던 장벽이 무너지기 시작했음을 시사하며, 개발자들에게는 번거로운 수동 설치 유도 없이 새로운 유통 채널을 확보할 수 있는 기회를 제공함\n- 비록 구글 플레이의 인지도와 기본 탑재 이점으로 인해 즉각적인 시장 판도 변화는 어렵겠지만, 서드파티 스토어만의 독창적인 프로모션이나 인디 게임 큐레이션 등을 통해 사용자 선택권이 넓어질 것으로 예상됨\n- 앱토이드는 이미 유럽연합(EU) 디지털시장법(DMA)에 따라 iOS 대체 마켓플레이스를 운영 중이며 일본, 브라질 등 규제 변화에 발맞춰 글로벌 확장을 추진하고 있어, 향후 글로벌 모바일 플랫폼 시장의 경쟁 구도가 다변화될 것으로 보임",
+        "original_title": "Google is finally letting a rival app store onto the Play Store",
+        "url": "https://www.androidauthority.com/aptoide-games-google-play-store-3696276/",
+        "published_at": "2026. 8. 10",
+        "published_key": "2026-08-10 00:00:00",
+        "score": "",
+        "keyword": "Google",
+        "integrated_note": "- 이번 조치는 구글이 안드로이드 독점을 유지하던 장벽이 무너지기 시작했음을 시사하며, 개발자들에게는 번거로운 수동 설치 유도 없이 새로운 유통 채널을 확보할 수 있는 기회를 제공함\n- 비록 구글 플레이의 인지도와 기본 탑재 이점으로 인해 즉각적인 시장 판도 변화는 어렵겠지만, 서드파티 스토어만의 독창적인 프로모션이나 인디 게임 큐레이션 등을 통해 사용자 선택권이 넓어질 것으로 예상됨\n- 앱토이드는 이미 유럽연합(EU) 디지털시장법(DMA)에 따라 iOS 대체 마켓플레이스를 운영 중이며 일본, 브라질 등 규제 변화에 발맞춰 글로벌 확장을 추진하고 있어, 향후 글로벌 모바일 플랫폼 시장의 경쟁 구도가 다변화될 것으로 보임"
+      },
+      {
+        "company_ko": "마이크로소프트",
+        "title_ko": "[호주/동향] MS Xbox, 호주에서 성인용 콘텐츠 이용을 위한 연령 인증 의무화 도입",
+        "summary_ko": "- 마이크로소프트(MS)는 호주 규정에 따라 이번 달(2026년 8월 말)부터 호주 내 콘솔 및 PC 사용자를 대상으로 성인용(R18+) 게임 및 앱 이용을 위한 연령 인증 제도를 단계적으로 도입함\n- 이에 따라 호주 성인 Xbox 계정 소유자는 마이크로소프트 및 Xbox 스토어에서 R18+ 등급 콘텐츠에 접근하기 위해 연령 인증을 진행해야 하며, 인증을 완료하지 않을 경우 해당 콘텐츠 접근이 제한될 수 있음 (단, 이미 소유하고 있는 앱과 게임에는 영향을 미치지 않음)\n- 이번 호주 연령 인증 서비스는 런던 기반의 테크 기업인 '베리파이마이(VerifyMy)'가 담당하며, 이용자는 이메일, 안면 인식 스캔을 통한 연령 추정, 신용카드 또는 정부 발행 신분증 제시 등의 방법을 통해 연령을 인증할 수 있음\n[Comment]\n- 이번 조치는 전 세계적으로 강화되고 있는 아동 및 청소년의 온라인 안전 규제 흐름에 발맞춘 행보로 해석됨\n- 실제로 영국에서는 '온라인 안전법(OSA)' 도입 이후 플랫폼 사들의 연령 인증 제도가 의무화되었으며, 소니 플레이스테이션은 연령 미인증 사용자에 대해 멀티플레이어 채팅, 메시지, 스트리밍, 게임 내 유저 제작 콘텐츠(UGC) 공유 등의 소셜 및 커뮤니케이션 기능을 제한하는 강도 높은 규제를 적용하고 있음\n- 밸브의 스팀(Steam)과 MS의 Xbox 역시 작년 영국에서 성인 대상 콘텐츠 제공을 위한 연령 인증 제도를 각각 도입한 바 있으며, 이와 같은 글로벌 게임 플랫폼사들의 규제 준수 움직임은 향후 타 국가로도 지속 확대될 것으로 전망됨",
+        "original_title": "Xbox to implement age verification in Australia on console and PC in late August",
+        "url": "https://www.gamesindustry.biz/xbox-to-implement-age-verification-in-australia-on-console-and-pc-in-late-august",
+        "published_at": "2026. 8. 10",
+        "published_key": "2026-08-10 00:00:00",
+        "score": "",
+        "keyword": "Xbox",
+        "integrated_note": "- 이번 조치는 전 세계적으로 강화되고 있는 아동 및 청소년의 온라인 안전 규제 흐름에 발맞춘 행보로 해석됨\n- 실제로 영국에서는 '온라인 안전법(OSA)' 도입 이후 플랫폼 사들의 연령 인증 제도가 의무화되었으며, 소니 플레이스테이션은 연령 미인증 사용자에 대해 멀티플레이어 채팅, 메시지, 스트리밍, 게임 내 유저 제작 콘텐츠(UGC) 공유 등의 소셜 및 커뮤니케이션 기능을 제한하는 강도 높은 규제를 적용하고 있음\n- 밸브의 스팀(Steam)과 MS의 Xbox 역시 작년 영국에서 성인 대상 콘텐츠 제공을 위한 연령 인증 제도를 각각 도입한 바 있으며, 이와 같은 글로벌 게임 플랫폼사들의 규제 준수 움직임은 향후 타 국가로도 지속 확대될 것으로 전망됨"
+      },
+      {
+        "company_ko": "애플",
+        "title_ko": "[미국/동향] 구글, 플레이스토어에 경쟁 앱스토어 '앱토이드 게임즈' 출시 허용",
+        "summary_ko": "- 구글이 미국 구글 플레이스토어에 경쟁 관계인 서드파티 게임 앱스토어 '앱토이드 게임즈(Aptoide Games)'의 입점을 허용하여, 사용자들이 APK 다운로드(사이드로딩) 없이 플레이스토어 내에서 경쟁사 앱스토어를 바로 설치할 수 있게 됨\n- 이는 에픽게임즈와의 오랜 소송 끝에 구글이 자격 조건을 갖춘 서드파티 앱스토어의 입점을 허용하는 새로운 프레임워크와 구글의 앱 카탈로그 접근권을 부여하는 '플레이 카탈로그 액세스(Play Catalog Access)' 프로그램을 도입한 데 따른 결과임\n- 기존에는 대안 스토어를 이용하려면 웹사이트에서 APK를 다운로드하고 보안 경고를 감수해야 하는 번거로움이 있어 일반 사용자들의 접근이 어려웠으나, 구글 플레이를 통해 정식 서비스되면서 이러한 진입 장벽이 대폭 낮아짐\n- 앱토이드는 멀웨어 스캔, 개발자 검증 등 자체 보안 시스템을 가동해 안전성을 보장할 계획이며, 과거 정책 변화로 인해 구글 플레이에서 퇴출당한 지 10여 년 만에 다시 복귀하게 됨\n[Comment]\n- 이번 조치는 구글이 안드로이드 독점을 유지하던 장벽이 무너지기 시작했음을 시사하며, 개발자들에게는 번거로운 수동 설치 유도 없이 새로운 유통 채널을 확보할 수 있는 기회를 제공함\n- 비록 구글 플레이의 인지도와 기본 탑재 이점으로 인해 즉각적인 시장 판도 변화는 어렵겠지만, 서드파티 스토어만의 독창적인 프로모션이나 인디 게임 큐레이션 등을 통해 사용자 선택권이 넓어질 것으로 예상됨\n- 앱토이드는 이미 유럽연합(EU) 디지털시장법(DMA)에 따라 iOS 대체 마켓플레이스를 운영 중이며 일본, 브라질 등 규제 변화에 발맞춰 글로벌 확장을 추진하고 있어, 향후 글로벌 모바일 플랫폼 시장의 경쟁 구도가 다변화될 것으로 보임",
+        "original_title": "Google is finally letting a rival app store onto the Play Store",
+        "url": "https://www.androidauthority.com/aptoide-games-google-play-store-3696276/",
+        "published_at": "2026. 8. 10",
+        "published_key": "2026-08-10 00:00:00",
+        "score": "",
+        "keyword": "Google",
+        "integrated_note": "- 이번 조치는 구글이 안드로이드 독점을 유지하던 장벽이 무너지기 시작했음을 시사하며, 개발자들에게는 번거로운 수동 설치 유도 없이 새로운 유통 채널을 확보할 수 있는 기회를 제공함\n- 비록 구글 플레이의 인지도와 기본 탑재 이점으로 인해 즉각적인 시장 판도 변화는 어렵겠지만, 서드파티 스토어만의 독창적인 프로모션이나 인디 게임 큐레이션 등을 통해 사용자 선택권이 넓어질 것으로 예상됨\n- 앱토이드는 이미 유럽연합(EU) 디지털시장법(DMA)에 따라 iOS 대체 마켓플레이스를 운영 중이며 일본, 브라질 등 규제 변화에 발맞춰 글로벌 확장을 추진하고 있어, 향후 글로벌 모바일 플랫폼 시장의 경쟁 구도가 다변화될 것으로 보임"
+      },
       {
         "company_ko": "로블록스",
         "title_ko": "[글로벌/동향] 로블록스, ‘메가 히트작 부재’로 실적 및 주가 폭락… 일 년 새 시총 700억 달러 증발",
@@ -3814,6 +4009,42 @@
         "score": "",
         "keyword": "亿",
         "integrated_note": "- 로블록스의 이번 실적 충격은 수백만 개의 콘텐츠를 보유한 UGC(사용자 제작 콘텐츠) 플랫폼조차 결국 소수의 메가 히트작에 의존해야 하는 취약한 구조를 보여줌. 대기업과 달리 로블록스 생태계의 소규모 개발사들은 지속적인 업데이트와 대규모 라이브 운영 역량이 부족하여, 유저의 일시적인 신선함을 장기적인 경험으로 안착시키는 데 한계를 드러내고 있음\n- 실적 발표에 앞서 로블록스는 모바일 게임 환경에서 텍스트 입력만으로 기초 게임을 생성하는 AI 도구 'Build'를 발표하는 등 AI 기술 도입에 집중했으나, 업계에서는 AI가 콘텐츠의 '수량'은 폭발시킬 수 있어도 유저가 기꺼이 지출을 감수할 만한 '품질'과 '재미'는 보장할 수 없기 때문에 오히려 콘텐츠 과포화와 유저 주의력 분산이라는 역효과를 낳을 수 있다고 평가함"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/동향] 스퀘어 에닉스, 신작 흥행 힘입어 분기 영업이익 88.6% 급증",
+        "summary_ko": "- 스퀘어 에닉스의 최신 분기 실적 보고서에 따르면, 2026년 6월로 종료된 3개월 동안의 영업이익이 전년 동기 대비 88.6% 증가한 JPY 170억 800만(한화 약 1,530억 원)을 기록하며 큰 폭의 성장을 달성함\n- 게임 사업을 담당하는 디지털 엔터테인먼트 부문이 전체 성장을 견인했으며, 해당 부문의 순매출은 전년 동기 대비 51.8%, 영업이익은 91.8% 급증한 것으로 나타남\n- 이번 실적 호조는 <Final Fantasy VII Rebirth>와 <The Adventures of Elliot>의 견조한 판매 성과와 더불어, <Final Fantasy XIV>의 안정적인 활약이 주요 원인으로 분석됨\n- 스퀘어 에닉스는 향후 차세대 플랫폼(Switch 2)을 겨냥해 <Final Fantasy Resonance>, <Dragon Quest Monsters: The Withered World>, <Revelation> 등의 신작 및 기존 흥행작(<Dragon Quest XI>, <Octopath>, <Kingdom Hearts>)의 재출시 라인업을 대거 준비하고 있어 탄탄한 성장 기반을 마련함\n[Comment]\n- 스퀘어 에닉스는 최근 업계 전반의 인력 감축 바람 속에서도 핵심 IP의 강력한 흥행 파워와 멀티플랫폼 전개를 통해 재정적 안정성을 성공적으로 입증함\n- 특히 'Switch 2' 플랫폼을 타깃으로 신작 개발 및 기존 인기 타이틀의 이식 작업을 적극적으로 전개하고 있어, 닌텐도의 차세대 콘솔 출시와 맞물려 지속적인 실적 상승 시너지를 낼 수 있을지 주목됨",
+        "original_title": "Square Enix's Financial Year Is Off To A Strong Start, With Profits On The Up And Up",
+        "url": "https://www.nintendolife.com/news/2026/08/square-enixs-financial-year-is-off-to-a-strong-start-with-profits-on-the-up-and-up",
+        "published_at": "2026. 8. 10",
+        "published_key": "2026-08-10 00:00:00",
+        "score": "",
+        "keyword": "Nintendo",
+        "integrated_note": "- 스퀘어 에닉스는 최근 업계 전반의 인력 감축 바람 속에서도 핵심 IP의 강력한 흥행 파워와 멀티플랫폼 전개를 통해 재정적 안정성을 성공적으로 입증함\n- 특히 'Switch 2' 플랫폼을 타깃으로 신작 개발 및 기존 인기 타이틀의 이식 작업을 적극적으로 전개하고 있어, 닌텐도의 차세대 콘솔 출시와 맞물려 지속적인 실적 상승 시너지를 낼 수 있을지 주목됨"
+      },
+      {
+        "company_ko": "텐센트",
+        "title_ko": "[글로벌/경쟁사] 텐센트, 플레이티카의 알짜 자회사 'SuperPlay' 인수 유력 후보로 부상... 실적 대박이 부른 재무 위기가 배경",
+        "summary_ko": "- 최근 글로벌 게임 업계에 따르면, 텐센트가 글로벌 게임사 플레이티카(Playtika)의 핵심 모바일 게임 개발 자회사인 'SuperPlay'의 유력한 인수 후보로 거론되고 있으며, 예상 거래 규모는 USD 10억 ~ 15억(KRW 약 1조 4,000억 ~ 2조 1,000억) 수준으로 추정됨\n- SuperPlay는 <Dice Dreams>, <Domino Dreams>를 비롯해 2025년 4월 출시된 디즈니 IP 기반의 <Disney Solitaire>가 단기간에 연간 매출 USD 3억에 육박하는 등 초대형 흥행을 기록하며 2025년에만 약 USD 5억 7,300만의 매출을 달성함\n- 그러나 인수 계약 당시 설정한 실적 연동 추가 지급(Earnout) 조항이 발목을 잡았으며, SuperPlay의 실적이 플레이티카의 예상치와 상한선을 초과해 폭발적으로 성장하자 도리어 플레이티카가 지불해야 할 추가 대금(부채)이 기하급수적으로 늘어나는 역설적인 상황이 발생함\n- 이로 인해 플레이티카는 GAAP(미국 회계기준)상 거액의 비cash 비용을 계상하게 되면서 2025 회계연도에 USD 2억 640만의 순손실을 기록하며 적자로 돌아섰고, 유동성 위기를 방어하기 위해 분기당 주당 USD 0.10의 배당금 지급을 중단하기에 이름\n[Comment]\n- 플레이티카의 기존 캐시카우였던 <Slotomania>와 <Bingo Blitz> 같은 소셜 카지노 게임들이 시장 포화와 장르 노후화로 매출이 급감하는 추세여서, 자체 수익만으로는 SuperPlay의 추가 대금을 감당하기 어려운 한계에 직면함\n- 2027년까지 이어질 최대 USD 12억 5,000만 규모의 추가 지불 의무(Earnout) 족쇄를 끊어내고 24억 달러에 달하는 장기 채무 및 유동성 문제를 해결하기 위해, 몸값이 가장 높게 평가되는 현 시점에 SuperPlay를 매각하는 것이 플레이티카의 생존을 위한 최선의 전략으로 분석됨\n- 캐주얼 게임 및 글로벌 IP 라인업 확장을 노리는 텐센트에게는 글로벌 시장에서 검증된 우수한 개발 스튜디오와 핵심 포트폴리오를 단숨에 확보할 수 있는 기회가 될 수 있음",
+        "original_title": "游戏资讯 传腾讯拟收购SuperPlay，Playtika为何要卖掉这只“下金蛋的鹅”？",
+        "url": "https://www.youxituoluo.com/534778.html",
+        "published_at": "2026. 8. 10",
+        "published_key": "2026-08-10 00:00:00",
+        "score": "",
+        "keyword": "腾讯",
+        "integrated_note": "- 플레이티카의 기존 캐시카우였던 <Slotomania>와 <Bingo Blitz> 같은 소셜 카지노 게임들이 시장 포화와 장르 노후화로 매출이 급감하는 추세여서, 자체 수익만으로는 SuperPlay의 추가 대금을 감당하기 어려운 한계에 직면함\n- 2027년까지 이어질 최대 USD 12억 5,000만 규모의 추가 지불 의무(Earnout) 족쇄를 끊어내고 24억 달러에 달하는 장기 채무 및 유동성 문제를 해결하기 위해, 몸값이 가장 높게 평가되는 현 시점에 SuperPlay를 매각하는 것이 플레이티카의 생존을 위한 최선의 전략으로 분석됨\n- 캐주얼 게임 및 글로벌 IP 라인업 확장을 노리는 텐센트에게는 글로벌 시장에서 검증된 우수한 개발 스튜디오와 핵심 포트폴리오를 단숨에 확보할 수 있는 기회가 될 수 있음"
+      },
+      {
+        "company_ko": "스퀘어에닉스",
+        "title_ko": "[글로벌/동향] 스퀘어 에닉스, 신작 흥행 힘입어 분기 영업이익 88.6% 급증",
+        "summary_ko": "- 스퀘어 에닉스의 최신 분기 실적 보고서에 따르면, 2026년 6월로 종료된 3개월 동안의 영업이익이 전년 동기 대비 88.6% 증가한 JPY 170억 800만(한화 약 1,530억 원)을 기록하며 큰 폭의 성장을 달성함\n- 게임 사업을 담당하는 디지털 엔터테인먼트 부문이 전체 성장을 견인했으며, 해당 부문의 순매출은 전년 동기 대비 51.8%, 영업이익은 91.8% 급증한 것으로 나타남\n- 이번 실적 호조는 <Final Fantasy VII Rebirth>와 <The Adventures of Elliot>의 견조한 판매 성과와 더불어, <Final Fantasy XIV>의 안정적인 활약이 주요 원인으로 분석됨\n- 스퀘어 에닉스는 향후 차세대 플랫폼(Switch 2)을 겨냥해 <Final Fantasy Resonance>, <Dragon Quest Monsters: The Withered World>, <Revelation> 등의 신작 및 기존 흥행작(<Dragon Quest XI>, <Octopath>, <Kingdom Hearts>)의 재출시 라인업을 대거 준비하고 있어 탄탄한 성장 기반을 마련함\n[Comment]\n- 스퀘어 에닉스는 최근 업계 전반의 인력 감축 바람 속에서도 핵심 IP의 강력한 흥행 파워와 멀티플랫폼 전개를 통해 재정적 안정성을 성공적으로 입증함\n- 특히 'Switch 2' 플랫폼을 타깃으로 신작 개발 및 기존 인기 타이틀의 이식 작업을 적극적으로 전개하고 있어, 닌텐도의 차세대 콘솔 출시와 맞물려 지속적인 실적 상승 시너지를 낼 수 있을지 주목됨",
+        "original_title": "Square Enix's Financial Year Is Off To A Strong Start, With Profits On The Up And Up",
+        "url": "https://www.nintendolife.com/news/2026/08/square-enixs-financial-year-is-off-to-a-strong-start-with-profits-on-the-up-and-up",
+        "published_at": "2026. 8. 10",
+        "published_key": "2026-08-10 00:00:00",
+        "score": "",
+        "keyword": "Nintendo",
+        "integrated_note": "- 스퀘어 에닉스는 최근 업계 전반의 인력 감축 바람 속에서도 핵심 IP의 강력한 흥행 파워와 멀티플랫폼 전개를 통해 재정적 안정성을 성공적으로 입증함\n- 특히 'Switch 2' 플랫폼을 타깃으로 신작 개발 및 기존 인기 타이틀의 이식 작업을 적극적으로 전개하고 있어, 닌텐도의 차세대 콘솔 출시와 맞물려 지속적인 실적 상승 시너지를 낼 수 있을지 주목됨"
       },
       {
         "company_ko": "마이크로소프트",
@@ -4536,78 +4767,6 @@
         "integrated_note": "- 이번 인수합병은 거대 자본이 게임 산업에 유입되는 사례이나, 기업 공개(IPO)를 통한 경영 활동이 제한됨에 따라 향후 고용 구조 조정 및 게임 내 과금 정책 변화 등 리스크에 대한 우려가 상존함\n- EA는 그동안 디지털 서비스 중심의 성장 전략을 고수해왔으며, 이번 비상장 전환을 계기로 단기 수익 극대화를 위한 공격적인 운영 기조가 강해질 것으로 보임"
       },
       {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] 퀀틱 드림, 대규모 정리해고 보상안 두고 노조와 갈등 격화",
-        "summary_ko": "- 프랑스 노동조합 STJV는 <스타워즈 이클립스> 개발사인 퀀틱 드림이 약 115명의 직원을 정리해고하는 과정에서 부당하게 낮은 보상안을 제시하고 있다며 파업을 예고함\n- 이번 구조조정은 넷이즈가 AAA 게임 사업 규모를 축소하면서, 올해 초 출시한 MOBA 게임 <스펠캐스터 크로니클스>의 흥행 실패로 인해 가속화됨\n- 노조는 모회사인 넷이즈가 충분한 재정적 여유가 있음에도 불구하고 퀀틱 드림 경영진이 보상안을 인색하게 책정했다고 비판하며, 재정 상황이 훨씬 어려운 돈트노드(Don’t Nod)보다도 열악한 처우라고 주장함\n- 퀀틱 드림 경영진은 노동조합의 소통을 방해하고 실패를 인정하지 않는 태도를 보이고 있으며, 데이비드 케이지 크리에이티브 디렉터는 해고 예정자들에게 회사와 함께 일하는 것이 특권이라는 식의 발언을 해 공분을 사고 있음\n- 한편 퀀틱 드림은 이번 구조조정이 <스타워즈 이클립스>의 개발에는 영향을 미치지 않으며 예정대로 진행되고 있다고 공식 입장을 밝힘\n\n[Comment]\n- 넷이즈와 텐센트 등 중국 대형 게임사들이 글로벌 AAA 게임 프로젝트에 대한 투자를 잇달아 철회하거나 규모를 축소하면서, 서구권 스튜디오들이 프로젝트 취소와 인력 감축이라는 직접적인 타격을 입고 있음\n- 퀀틱 드림 사태는 게임 산업 내 자본의 논리에 따라 창작자와 노동자들이 겪는 불안정한 고용 환경을 여실히 보여주며, 경영진의 책임 회피와 노조 간의 갈등이 향후 개발 동력에 어떤 변수로 작용할지 주목됨",
-        "original_title": "Star Wars Eclipse Maker Accused Of Dragging Out Layoff Negotiations: ‘Quantic Dream Wants To Destroy Jobs, It Must Pay’",
-        "url": "https://kotaku.com/star-wars-eclipse-maker-accused-of-dragging-out-layoff-negotiations-quantic-dream-wants-to-destroy-jobs-it-must-pay-2000721604",
-        "published_at": "2026. 8. 5",
-        "published_key": "2026-08-05 00:00:00",
-        "score": "",
-        "keyword": "PS",
-        "integrated_note": "- 넷이즈와 텐센트 등 중국 대형 게임사들이 글로벌 AAA 게임 프로젝트에 대한 투자를 잇달아 철회하거나 규모를 축소하면서, 서구권 스튜디오들이 프로젝트 취소와 인력 감축이라는 직접적인 타격을 입고 있음\n- 퀀틱 드림 사태는 게임 산업 내 자본의 논리에 따라 창작자와 노동자들이 겪는 불안정한 고용 환경을 여실히 보여주며, 경영진의 책임 회피와 노조 간의 갈등이 향후 개발 동력에 어떤 변수로 작용할지 주목됨"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] GTA 6 피하기 위한 '올가을 PS5 신작 대폭발'... 업계 흥행 전쟁 예고",
-        "summary_ko": "- 2026년 8월에 접어들며 역사상 가장 촘촘한 수준의 PS5 신작 출시 일정이 시작되었으며, 이는 오는 11월 출시 예정인 <GTA 6>의 독점적인 영향력을 피하기 위해 글로벌 퍼블리셔들이 출시일을 앞당긴 결과로 분석됨\n- 특히 9월에는 단 3주의 기간 동안 <The Blood of Dawnwalker>, <Onimusha: Way of the Sword>, <Marvel's Wolverine>, <Trails in the Sky 2nd Chapter>, <Dune: Awakening>, <Control Resonant>, <Silent Hill: Townfall> 등 기대작들이 대거 몰려 치열한 경쟁이 예상됨\n- 10월 역시 15일 하루에만 5개의 게임이 동시 출시되는 등 빡빡한 일정이 이어지며, <Call of Duty: Modern Warfare 4>(10월 23일), <팬텀 블레이드 제로>(10월 29일) 등의 대형 타이틀이 출시를 대기 중임\n[Comment]\n- 업계에서는 <GTA 6>와의 정면 대결을 기피하려는 퍼블리셔들의 타이밍 경쟁이 맞물리면서 올가을 콘솔 시장이 유례없는 '혈전(Bloodbath)'이 될 것이라 내다보고 있음\n- 일각에서는 경쟁이 지나치게 과열됨에 따라, 상대적으로 인지도가 낮은 일부 타이틀이 흥행 참패를 피해 결국 2027년으로 출시를 연기할 가능성도 제기하고 있음\n- 단기간에 밀려드는 역대급 신작 라인업은 유저들에게 즐거운 고민을 안겨주는 동시에, 단기간 내 여러 타이틀을 구매해야 하는 비용적 부담을 야기할 것으로 보임",
-        "original_title": "Reminder: The PS5 Release Schedule Is About to Become the Busiest It's Ever Been",
-        "url": "https://www.pushsquare.com/news/2026/08/reminder-the-ps5-release-schedule-is-about-to-become-the-busiest-its-ever-been",
-        "published_at": "2026. 8. 5",
-        "published_key": "2026-08-05 00:00:00",
-        "score": "",
-        "keyword": "PS5",
-        "integrated_note": "- 업계에서는 <GTA 6>와의 정면 대결을 기피하려는 퍼블리셔들의 타이밍 경쟁이 맞물리면서 올가을 콘솔 시장이 유례없는 '혈전(Bloodbath)'이 될 것이라 내다보고 있음\n- 일각에서는 경쟁이 지나치게 과열됨에 따라, 상대적으로 인지도가 낮은 일부 타이틀이 흥행 참패를 피해 결국 2027년으로 출시를 연기할 가능성도 제기하고 있음\n- 단기간에 밀려드는 역대급 신작 라인업은 유저들에게 즐거운 고민을 안겨주는 동시에, 단기간 내 여러 타이틀을 구매해야 하는 비용적 부담을 야기할 것으로 보임"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] 더브테일 게임즈, ‘Train Sim World’ 시리즈 차세대 기기 전용으로 전환",
-        "summary_ko": "- 더브테일 게임즈는 자사의 인기 철도 시뮬레이션 게임 <Train Sim World 6>를 포함한 향후 신작 및 신규 DLC 콘텐츠를 PS5, Xbox Series X|S, PC(스팀, Xbox, 에픽게임즈) 플랫폼에서만 제공한다고 발표함\n- 이번 결정으로 Xbox One 및 PS4 등 구세대 콘솔에 대한 신규 콘텐츠 지원이 중단되며, 이는 하드웨어 성능을 최대한 활용해 게임의 퍼포먼스와 시각적 품질을 개선하기 위한 필수적인 조치라고 설명함\n- 다만, 기존에 구매한 콘텐츠는 계속해서 플레이 및 지원이 유지되며, Xbox 이용자의 경우 ‘Xbox Play Anywhere’ 기능을 통해 PC로 콘텐츠를 연동하거나 Xbox 클라우드 게이밍을 활용해 게임을 지속할 수 있음\n\n[Comment]\n- 최근 주요 개발사들이 게임의 요구 사양이 높아짐에 따라 구세대 콘솔 지원을 순차적으로 종료하는 추세임. 이번 조치 역시 더 나은 퍼포먼스와 최신 그래픽 구현을 위한 기술적 한계 극복 차원으로 풀이됨\n- 특히 콘솔 가격 인상 등 이용자의 하드웨어 교체 부담이 커지는 시점에서, Xbox 이용자에게 클라우드 게이밍 및 플랫폼 간 데이터 연동이라는 대안을 제공한 점은 이용자 경험 측면에서 긍정적인 대응으로 평가됨",
-        "original_title": "Train Sim World 6 has reached the end of the line for Xbox One and PS4 — here's what it means for your virtual train driving on console",
-        "url": "https://www.windowscentral.com/gaming/xbox/train-sim-world-6-has-reached-the-end-of-the-line-for-xbox-one-and-ps4-heres-what-it-means-for-your-virtual-train-driving-on-console",
-        "published_at": "2026. 8. 5",
-        "published_key": "2026-08-05 00:00:00",
-        "score": "",
-        "keyword": "console",
-        "integrated_note": "- 최근 주요 개발사들이 게임의 요구 사양이 높아짐에 따라 구세대 콘솔 지원을 순차적으로 종료하는 추세임. 이번 조치 역시 더 나은 퍼포먼스와 최신 그래픽 구현을 위한 기술적 한계 극복 차원으로 풀이됨\n- 특히 콘솔 가격 인상 등 이용자의 하드웨어 교체 부담이 커지는 시점에서, Xbox 이용자에게 클라우드 게이밍 및 플랫폼 간 데이터 연동이라는 대안을 제공한 점은 이용자 경험 측면에서 긍정적인 대응으로 평가됨"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] MS, 보안 포상금 프로그램 통해 역대 최대 2,000만 달러 지급",
-        "summary_ko": "- 마이크로소프트(MS)는 전 세계 64개국 562명의 보안 연구원들에게 총 USD 2,000만(한화 약 280억 원)에 달하는 역대 최대 규모의 보안 포상금(Bounty)을 지급했다고 발표함\n- 이는 지난 회기 보안 포상금 프로그램의 연간 지급액인 USD 1,700만(344명 대상)을 넘어선 기록이며, 개별 포상 한도는 클라우드 프로그램 및 제로데이 퀘스트 취약점의 경우 최대 USD 10만, 엔드포인트 및 온프레미스 취약점의 경우 최대 USD 25만으로 책정됨\n- MS는 최근 몇 년간 포상 범위를 오픈소스 소프트웨어, 제3자 구성요소, 자사 클라우드 서비스 영역까지 확장해 왔으며, 최근 본사에서 개최한 '제로데이 퀘스트(Zero Day Quest)' 행사를 통해 700건 이상의 취약점 보고를 접수하고 USD 230만 이상을 추가로 포상함\n[Comment]\n- 최근 보안 연구원들이 취약점 발굴에 인공지능(AI)을 적극 활용하는 반면, 해커들 또한 AI를 통해 취약점을 빠르게 악용하면서 보안 생태계 내 'AI 군비 경쟁'이 본격화되고 있음\n- MS는 보안을 \"팀 스포츠\"로 규정하고 있으며, 자사 AI 모델을 통한 취약점 자체 차단 노력과 더불어 외부 화이트해커 커뮤니티와의 협력을 지속적으로 확대하여 클라우드, AI 시스템, 엔터프라이즈 플랫폼의 선제적 방어 체계를 구축하는 데 집중하고 있음",
-        "original_title": "Microsoft pays security researchers $20M following AI-backed surge in bug reports",
-        "url": "https://www.windowscentral.com/microsoft/windows/microsoft-pays-security-researchers-usd20m-following-ai-backed-surge-in-bug-reports",
-        "published_at": "2026. 8. 5",
-        "published_key": "2026-08-05 00:00:00",
-        "score": "",
-        "keyword": "cloud",
-        "integrated_note": "- 최근 보안 연구원들이 취약점 발굴에 인공지능(AI)을 적극 활용하는 반면, 해커들 또한 AI를 통해 취약점을 빠르게 악용하면서 보안 생태계 내 'AI 군비 경쟁'이 본격화되고 있음\n- MS는 보안을 \"팀 스포츠\"로 규정하고 있으며, 자사 AI 모델을 통한 취약점 자체 차단 노력과 더불어 외부 화이트해커 커뮤니티와의 협력을 지속적으로 확대하여 클라우드, AI 시스템, 엔터프라이즈 플랫폼의 선제적 방어 체계를 구축하는 데 집중하고 있음"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] 사우디 PIF 컨소시엄, 550억 달러 규모로 글로벌 게임 거두 EA 인수",
-        "summary_ko": "- 사우디아라비아 국부펀드(PIF)가 실버레이크(Silver Lake), 어피니티 파트너스(Affinity Partners)와 컨소시엄을 구성하여 미국 유력 게임 퍼블리셔 일렉트로닉 아츠(EA)를 인수하는 계약을 체결했으며, 총 거래 규모는 약 550억 달러(원화 약 73조 원 상당)에 달하고 이 중 PIF의 지분은 90% 이상인 것으로 알려짐\n- 지난 30년간 수많은 게임 스튜디오를 인수 및 폐쇄하여 유저들 사이에서 '스튜디오 무덤'으로 불렸던 EA가 도리어 피인수 대상이 되었으며, 사우디 자본은 EA가 보유한 <배틀필드>, <심즈>, <드래곤 에이지>, <매스 이펙트> 등 강력한 글로벌 핵심 IP의 가치를 겨냥해 인수를 단행함\n- 과거 EA는 불프로그(Bullfrog), 웨스트우드(Westwood) 등 독창적인 명작을 제작하던 개발사들을 인수한 후, 단기 상업성에 치중한 경영 간섭과 프로젝트 자원 제한으로 개발사 폐쇄 및 브랜드 가치 하락을 초래해 유저들로부터 거센 비판을 받아왔음\n[Comment]\n- 이번 인수는 사우디아라비아의 국가 경제 다각화 및 국가 이미지 개선을 위한 '사우디 비전 2030'의 연장선에 있으며, 사우디는 그간 액티비전 블레이드와 EA의 지분 매입에 이어 스코플리(Scopely)를 49억 달러에 인수하는 등 젊고 글로벌화된 게임 산업을 통한 문화 영향력 확장을 지속해 왔음\n- 상장사로서 매 분기 주주들의 실적 압박에 시달리며 무리한 과금 모델 도입과 스튜디오 정리 해고를 반복해 왔던 EA가, \"10년 단위를 내다보는 장기 투자\" 기조를 지닌 사우디 새비 게임즈 그룹(Savvy Games Group) 체제에 편입됨에 따라 오히려 기존 인기 IP들이 안정적인 개발 환경과 창의성을 회복할 기회를 얻게 될 것이라는 업계의 긍정적 전망도 공존함",
-        "original_title": "“买买买”的EA，3700亿把自己卖了",
-        "url": "http://www.gamekezhan.com/news/20260805/64584.html",
-        "published_at": "2026. 8. 5",
-        "published_key": "2026-08-05 00:00:00",
-        "score": "",
-        "keyword": "亿",
-        "integrated_note": "- 이번 인수는 사우디아라비아의 국가 경제 다각화 및 국가 이미지 개선을 위한 '사우디 비전 2030'의 연장선에 있으며, 사우디는 그간 액티비전 블레이드와 EA의 지분 매입에 이어 스코플리(Scopely)를 49억 달러에 인수하는 등 젊고 글로벌화된 게임 산업을 통한 문화 영향력 확장을 지속해 왔음\n- 상장사로서 매 분기 주주들의 실적 압박에 시달리며 무리한 과금 모델 도입과 스튜디오 정리 해고를 반복해 왔던 EA가, \"10년 단위를 내다보는 장기 투자\" 기조를 지닌 사우디 새비 게임즈 그룹(Savvy Games Group) 체제에 편입됨에 따라 오히려 기존 인기 IP들이 안정적인 개발 환경과 창의성을 회복할 기회를 얻게 될 것이라는 업계의 긍정적 전망도 공존함"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/경쟁사] EA, 550억 달러 규모 인수 완료… 180억 달러 부채 해결 위해 대규모 구조조정 예고",
-        "summary_ko": "- 사우디아라비아 공공투자기금(PIF), 실버레이크(Silver Lake), 어피니티 파트너스(Affinity Partners)로 구성된 컨소시엄이 EA(Electronic Arts)를 USD 550억에 최종 인수하면서, EA는 상장 폐지 및 민영화 단계를 밟게 됨\n- 인수 과정에서 발생한 USD 180억 규모의 막대한 부채를 상환하기 위해, EA는 연간 수익을 활용하는 동시에 투자자들에게 매년 USD 7억 규모의 비용을 절감하겠다고 약속함\n- 이 중 USD 1억 7,000만은 '조직 효율화(organizational efficiencies)'를 통해 감축될 예정이며, 이는 업계 전반에 걸친 대규모 정리해고(레이오프) 및 일부 스튜디오 폐쇄로 이어질 가능성이 매우 높음\n- 특히 지난 10년 동안 상업적인 대형 흥행작을 내놓지 못한 <매스 이펙트>, <드래곤 에이지> 개발사 바이오웨어(BioWare) 등의 산하 스튜디오들이 향후 가혹한 구조조정 칼바람을 맞이할 것이라는 우려가 내부에서 흘러나오고 있음\n[Comment]\n- 비공개 기업으로 전환된 EA는 단기 주가 관리 압박에서 벗어날 수 있게 되었으나, 인수 주체들이 안겨준 대규모 부채를 청산하기 위해 혹독한 슬림화 과정을 거치게 될 것으로 분석됨\n- 이에 따라 EA는 <EA Sports FC>, <Madden NFL>, <Battlefield> 등 확실한 수익원이 되는 대형 스포츠 및 슈터 IP에 역량을 철저히 집중하고, 실적이 부진하거나 유휴 상태인 IP 및 스튜디오는 정리하는 '선택과 집중' 전략을 극대화할 것으로 예상됨",
-        "original_title": "EA Studios Brace for Layoff Bloodbath as New Owner Debt Demands $700 Million Cost Cuts",
-        "url": "https://www.pushsquare.com/news/2026/08/ea-studios-brace-for-layoff-bloodbath-as-new-owner-debt-demands-usd700-million-cost-cuts",
-        "published_at": "2026. 8. 5",
-        "published_key": "2026-08-05 00:00:00",
-        "score": "",
-        "keyword": "investment",
-        "integrated_note": "- 비공개 기업으로 전환된 EA는 단기 주가 관리 압박에서 벗어날 수 있게 되었으나, 인수 주체들이 안겨준 대규모 부채를 청산하기 위해 혹독한 슬림화 과정을 거치게 될 것으로 분석됨\n- 이에 따라 EA는 <EA Sports FC>, <Madden NFL>, <Battlefield> 등 확실한 수익원이 되는 대형 스포츠 및 슈터 IP에 역량을 철저히 집중하고, 실적이 부진하거나 유휴 상태인 IP 및 스튜디오는 정리하는 '선택과 집중' 전략을 극대화할 것으로 예상됨"
-      },
-      {
         "company_ko": "소니",
         "title_ko": "[글로벌/동향] GTA 6 피하기 위한 '올가을 PS5 신작 대폭발'... 업계 흥행 전쟁 예고",
         "summary_ko": "- 2026년 8월에 접어들며 역사상 가장 촘촘한 수준의 PS5 신작 출시 일정이 시작되었으며, 이는 오는 11월 출시 예정인 <GTA 6>의 독점적인 영향력을 피하기 위해 글로벌 퍼블리셔들이 출시일을 앞당긴 결과로 분석됨\n- 특히 9월에는 단 3주의 기간 동안 <The Blood of Dawnwalker>, <Onimusha: Way of the Sword>, <Marvel's Wolverine>, <Trails in the Sky 2nd Chapter>, <Dune: Awakening>, <Control Resonant>, <Silent Hill: Townfall> 등 기대작들이 대거 몰려 치열한 경쟁이 예상됨\n- 10월 역시 15일 하루에만 5개의 게임이 동시 출시되는 등 빡빡한 일정이 이어지며, <Call of Duty: Modern Warfare 4>(10월 23일), <팬텀 블레이드 제로>(10월 29일) 등의 대형 타이틀이 출시를 대기 중임\n[Comment]\n- 업계에서는 <GTA 6>와의 정면 대결을 기피하려는 퍼블리셔들의 타이밍 경쟁이 맞물리면서 올가을 콘솔 시장이 유례없는 '혈전(Bloodbath)'이 될 것이라 내다보고 있음\n- 일각에서는 경쟁이 지나치게 과열됨에 따라, 상대적으로 인지도가 낮은 일부 타이틀이 흥행 참패를 피해 결국 2027년으로 출시를 연기할 가능성도 제기하고 있음\n- 단기간에 밀려드는 역대급 신작 라인업은 유저들에게 즐거운 고민을 안겨주는 동시에, 단기간 내 여러 타이틀을 구매해야 하는 비용적 부담을 야기할 것으로 보임",
@@ -4944,18 +5103,6 @@
         "integrated_note": "- 최근 대규모 인력 감축과 스튜디오 폐쇄 등 대대적인 '리셋' 과정을 거친 Xbox는, 하드웨어 비용 상승과 인프라 한계 등의 직면 과제를 극복하기 위해 프랜차이즈 중심의 선택과 집중 전략으로 선회한 것으로 분석됨\n- 특히 이미 연간 USD 10억(KRW 약 1조 3,800억 원) 이상의 매출을 올리는 3대 프랜차이즈를 필두로 영화, TV, 글로벌 파트너십(중국 포함) 등 다각도로 IP를 확장하고, 킹(King)과 마이크로소프트 캐주얼 게임즈를 통해 캐주얼 게임 시장에서의 영향력을 확대하려는 계획임\n- 단기적으로는 1년 안에 가시적인 성장을 입증해야 하는 동시에, 장기적으로는 '하루 10억 명의 이용자를 확보한다'는 도전적인 목표를 세우고 있어 향후 출시될 독점작들의 성과와 체질 개선 결과가 주목됨"
       },
       {
-        "company_ko": "마이크로소프트",
-        "title_ko": "[글로벌/경쟁사] MS 엑스박스, 17억 달러 매출 감소에 대응해 '콘솔 중심 및 IP 확장' 장기 로드맵 발표",
-        "summary_ko": "- CNBC가 입수한 내부 메모에 따르면, 엑스박스(Xbox)의 수장 아샤 샤르마는 지난해 USD 17억(KRW 약 2조 3,800억) 규모의 매출 감소를 기록한 후, 비즈니스 회복을 위한 핵심 우선순위와 새로운 로드맵을 제시함\n- 해당 로드맵은 콘솔 중심의 전략 강화, 영화 및 TV 및 글로벌 파트너십(중국 포함)을 활용한 대형 프랜차이즈 지원, 그리고 이용자가 창작하고 수익을 창출할 수 있는 세계적인 플랫폼으로서 <마인크래프트(Minecraft)>에 역대 최대 규모로 투자하는 방안을 골자로 함\n- 샤르마 대표는 지난 FY26에 2억 명 이상의 신규 유저가 유입되었으나 비즈니스가 유저 규모 확장을 따라가지 못했다고 진단하며, 유저 중심의 투자 확대를 통해 이 간극을 메우고 2027년 말까지는 다시 성장세로 돌아설 것이라 전함\n- 이와 관련해 최근 분기 매출이 10% 감소한 상황에 대해 사티아 나델라 마이크로소프트(MS) CEO는 장기 성장을 위한 비즈니스 재설정의 일환으로 최근 3,200명 규모의 감원과 5개 스튜디오 매각 등의 조치를 단행했다고 언급함\n[Comment]\n- 이번 로드맵은 최근 대규모 정리해고와 스튜디오 폐쇄 등의 강도 높은 구조조정을 겪은 엑스박스가 내부 결속을 다지고 장기적인 비전을 대외적으로 제시하기 위해 수립된 것으로 분석됨\n- 엑스박스는 단순 게임 판매를 넘어 <마인크래프트(Minecraft)>의 크리에이터 생태계 확장 및 IP 기반 미디어(영화·TV) 부문의 트랜스미디어 전략을 강화하고 있으며, 이를 통해 오는 FY30까지 장기 일일 활성 이용자 수(DAU) 목표의 절반을 달성하고 두 자릿수 성장을 기록하겠다는 포부를 밝히고 있음",
-        "original_title": "\"We will not live on past successes or be trapped by past failures\" – Xbox CEO outlines priorities to turn platform around in FY27",
-        "url": "https://www.gamesindustry.biz/we-will-not-live-on-past-successes-or-be-trapped-by-past-failures-xbox-ceo-outlines-priorities-to-turn-platform-around-in-fy27",
-        "published_at": "2026. 7. 31",
-        "published_key": "2026-07-31 00:00:00",
-        "score": "",
-        "keyword": "Xbox",
-        "integrated_note": "- 이번 로드맵은 최근 대규모 정리해고와 스튜디오 폐쇄 등의 강도 높은 구조조정을 겪은 엑스박스가 내부 결속을 다지고 장기적인 비전을 대외적으로 제시하기 위해 수립된 것으로 분석됨\n- 엑스박스는 단순 게임 판매를 넘어 <마인크래프트(Minecraft)>의 크리에이터 생태계 확장 및 IP 기반 미디어(영화·TV) 부문의 트랜스미디어 전략을 강화하고 있으며, 이를 통해 오는 FY30까지 장기 일일 활성 이용자 수(DAU) 목표의 절반을 달성하고 두 자릿수 성장을 기록하겠다는 포부를 밝히고 있음"
-      },
-      {
         "company_ko": "애플",
         "title_ko": "[브라질/경쟁사] 에픽게임즈 스토어, 브라질 iOS 출시… 애플의 ‘장벽 설치’ 비판",
         "summary_ko": "- 에픽게임즈는 브라질에서 에픽게임즈 웹사이트를 통해 아이폰용 ‘에픽게임즈 스토어’의 다운로드 서비스를 시작하며, 자사 대표작인 <포트나이트>와 <로켓 리그 사이드스와이프>의 서비스를 재개했다고 발표함\n- 에픽게임즈는 애플이 제3자 앱마켓 설치를 방해하기 위해 브라질 시장에 도입한 9단계의 복잡한 설치 과정과 경고 화면을 비판했으며, 이는 경쟁을 저해하려는 의도적인 조치라고 주장함\n- 또한, 제3자 앱 스토어를 통해 판매되는 디지털 상품 및 서비스에 대해 애플이 부과하는 5%의 핵심 기술 수수료(Core Technology Commission)에 반발하여, 현재는 수수료 부담으로 인해 타사 게임 없이 자사 게임만 한정적으로 제공하고 있음\n- 한편, 에픽게임즈는 브라질 앱스토어 버전에서는 제공되지 않는 20%의 '에픽 리워드' 페이백 혜택을 독자 스토어 이용자에게 제공하는 등 적극적인 이용자 확보에 나서고 있음\n[Comment]\n- 이번 브라질 출시는 규제 당국의 명령에 따라 지난 6월 애플이 대체 앱 마켓플레이스를 지원하도록 앱스토어 규정을 개정한 것에 따른 결과물이나, 수수료 및 복잡한 설치 단계로 인해 에픽게임즈와 애플 간의 갈등은 지속되고 있음\n- 에픽게임즈는 이러한 애플의 제한 조치가 모바일 앱 생태계 경쟁에 미치는 부정적인 영향에 대해 브라질 규제 당국에 정식으로 문제를 제기하며 추가적인 규제 압박을 도모하는 상황임\n- 아울러 에픽게임즈는 구글과의 소송에서도 구글 플레이 내 제3자 앱스토어 지원을 강제하는 금지명령 수정 신청을 철회하는 등, 글로벌 시장 전반에서 빅테크 기업들의 앱스토어 독점 체제에 맞서 다각적인 법적·제도적 공방을 이어가고 있음",
@@ -5014,30 +5161,6 @@
         "score": "",
         "keyword": "Google Play",
         "integrated_note": "- 이번 업데이트는 구글이 2026년 9월 30일부터 전 세계적으로 순차 도입할 예정인 엄격한 ‘신규 개발자 검증 시스템’ 및 사이드로딩 제한 강화 조치에 앞서, 유저들의 사용 편의성(QoL) 불만을 완화하기 위한 선제적 대응으로 풀이됨\n- 보안 규제 강화로 인해 발생할 수 있는 안드로이드 생태계 내 사용자 및 개발자들의 피로도를 낮추는 동시에, 실수로 보안 설정을 꺼두는 휴먼 에러를 방지할 수 있는 실용적인 보완책이 될 것으로 기대됨"
-      },
-      {
-        "company_ko": "마이크로소프트",
-        "title_ko": "[글로벌/경쟁사] MS, 지난 회계연도 Xbox 매출 17억 달러 감소... 하드웨어 및 콘텐츠 부진 여파",
-        "summary_ko": "- 마이크로소프트(MS)의 최근 실적 발표에 따르면, 전체적인 회사 이익 성장에도 불구하고 게임 부문(Xbox)은 하드웨어와 콘텐츠/서비스 전반의 부진으로 인해 전년 대비 두 자릿수 비율의 매출 감소를 기록함\n- 회계연도 전체 기준으로 Xbox 매출은 전년 대비 17억 달러(약 7%) 감소했으며, 콘솔 판매량 감소로 인한 하드웨어 매출 29% 급감과 퍼스트 파티 성과 저하로 인한 콘텐츠 및 서비스 매출 5% 감소가 주요 원인임\n- 이러한 실적 악화에 대응하여 Xbox는 향후 12개월 동안 약 1,600명 규모의 추가 감원을 단행할 예정이며, 신임 Xbox CEO 아샤 샤르마(Asha Sharma)는 소규모 스튜디오 투자를 줄이고 <The Elder Scrolls>, <Fallout> 등 대형 프랜차이즈에 집중하겠다는 전략적 변화를 시사함\n- 또한, MS의 대규모 AI 투자 영향으로 Xbox Series X 가격이 출시 초기 대비 33% 인상된 750달러까지 치솟았으며, 700억 달러 이상을 투입해 인수한 액티비전 블리자드의 <Call of Duty: Black Ops 6>가 부진한 한 해를 보낸 점도 실적에 부정적 영향을 미침\n[Comment]\n- MS는 콘솔 기기 판매당 적자를 감수하는 상황에서도 AI 분야 투자 부담 등으로 가격을 대폭 인상하면서 하드웨어 시장 점유율 확보에 더욱 어려움을 겪고 있으며, 현재 차세대 하드웨어인 '프로젝트 헬릭스(Project Helix)'를 준비 중임\n- 거액의 인수합병 이후 기대했던 시너지가 미진한 가운데, 소규모 니치 장르 개발 스튜디오 정리와 검증된 대형 인기 IP 중심으로의 노선 전환은 비용 절감과 단기 수익성 개선을 극대화하기 위한 전략으로 풀이됨",
-        "original_title": "Xbox Revenue Dropped $1.7 Billion Last Year",
-        "url": "https://kotaku.com/xbox-revenue-dropped-1-7-billion-last-year-2000720316",
-        "published_at": "2026. 7. 30",
-        "published_key": "2026-07-30 00:00:00",
-        "score": "",
-        "keyword": "Xbox",
-        "integrated_note": "- MS는 콘솔 기기 판매당 적자를 감수하는 상황에서도 AI 분야 투자 부담 등으로 가격을 대폭 인상하면서 하드웨어 시장 점유율 확보에 더욱 어려움을 겪고 있으며, 현재 차세대 하드웨어인 '프로젝트 헬릭스(Project Helix)'를 준비 중임\n- 거액의 인수합병 이후 기대했던 시너지가 미진한 가운데, 소규모 니치 장르 개발 스튜디오 정리와 검증된 대형 인기 IP 중심으로의 노선 전환은 비용 절감과 단기 수익성 개선을 극대화하기 위한 전략으로 풀이됨"
-      },
-      {
-        "company_ko": "마이크로소프트",
-        "title_ko": "[글로벌/동향] MS, 가격 인상 후에도 Xbox 콘솔 판매당 150달러 손실… AI발 메모리 위기 여파",
-        "summary_ko": "- 윈도우 센트럴(Windows Central)의 수석 에디터 제즈 코든(Jez Corden)의 보고서에 따르면, 마이크로소프트(MS)는 오는 8월 1일 Xbox Series X와 Series S의 가격을 각각 799.99달러(약 60% 인상)와 499.99달러로 인상함에도 불구하고 콘솔 한 대당 약 150달러(USD)의 손실을 지속하고 있음\n- 이러한 손실의 근본 원인은 글로벌 메모리 공급 위기로, AI 가속기에 필요한 고대역폭메모리(HBM) 수요가 폭증하면서 삼성, SK하이닉스, 마이크론 등 주요 제조사들이 생산 설비를 HBM으로 전환함에 따라 콘솔에 쓰이는 일반 DRAM 및 낸드 플래시 가격이 급등했기 때문임\n- 가격 인하가 일반적이었던 기존 콘솔 세대의 역사와 달리, 이번 세대 Xbox Series X는 하드웨어 업그레이드 없이 출시 이후 가격이 역으로 60% 폭등했으며, 분석가들은 이 메모리 공급 부족 현상이 최소 2027년에서 길게는 2030년까지 지속될 것으로 전망함\n- 기기를 손해 보고 팔아 소프트웨어 및 구독료로 메우는 전통적인 콘솔 비즈니스 모델도 위기를 맞았으며, 최근 게임패스 얼티밋의 가격 변동(29.99달러 인상 후 22.99달러로 재조정)으로 인한 가입자 이탈과 핸드헬드 기기(Xbox Ally) 이용자의 98%가 스팀을 이용하는 등 독자 생태계 락인(Lock-in)에 어려움을 겪고 있음\n[Comment]\n- AI 시장의 폭발적인 성장이 일반 IT 및 게이밍 하드웨어 제조업체들에 심각한 제조 원가 상승 압박으로 작용하고 있으며, 고마진의 AI용 반도체 우선 생산으로 인한 소비자용 부품 부족은 일시적 현상이 아닌 구조적 변화로 자리 잡고 있음\n- 이러한 위기는 소니의 PS5 가격 인상 및 닌텐도의 차기 콘솔 가격 책정에도 직접적인 영향을 미치고 있어, 업계 전반의 '하드웨어 보조금' 모델 자체가 지속 불가능해질 수 있다는 분석이 나옴\n- 특히 MS가 2027년 출시를 목표로 개발 중인 차세대 하이브리드 기기 '프로젝트 헬릭스(Project Helix)'가 스팀 등 외부 스토어를 허용하는 개방형 PC 형태로 출시될 경우, 소프트웨어 수수료 수입을 기대하기 어려워 기기 가격이 1,000달러를 상회할 가능성이 커 지극히 까다로운 가격 책정 딜레마에 직면하게 될 것임",
-        "original_title": "Xbox Series X Price Increase: Microsoft Still Loses $150 Per Console Even After Saturday's $800 Tag",
-        "url": "https://www.techtimes.com/articles/322098/20260729/xbox-series-x-price-increase-microsoft-still-loses-150-per-console-even-after-saturdays-800-tag.htm",
-        "published_at": "2026. 7. 30",
-        "published_key": "2026-07-30 00:00:00",
-        "score": "",
-        "keyword": "Xbox",
-        "integrated_note": "- AI 시장의 폭발적인 성장이 일반 IT 및 게이밍 하드웨어 제조업체들에 심각한 제조 원가 상승 압박으로 작용하고 있으며, 고마진의 AI용 반도체 우선 생산으로 인한 소비자용 부품 부족은 일시적 현상이 아닌 구조적 변화로 자리 잡고 있음\n- 이러한 위기는 소니의 PS5 가격 인상 및 닌텐도의 차기 콘솔 가격 책정에도 직접적인 영향을 미치고 있어, 업계 전반의 '하드웨어 보조금' 모델 자체가 지속 불가능해질 수 있다는 분석이 나옴\n- 특히 MS가 2027년 출시를 목표로 개발 중인 차세대 하이브리드 기기 '프로젝트 헬릭스(Project Helix)'가 스팀 등 외부 스토어를 허용하는 개방형 PC 형태로 출시될 경우, 소프트웨어 수수료 수입을 기대하기 어려워 기기 가격이 1,000달러를 상회할 가능성이 커 지극히 까다로운 가격 책정 딜레마에 직면하게 될 것임"
       },
       {
         "company_ko": "애플",
@@ -5340,18 +5463,6 @@
         "integrated_note": "- 이번 출시는 MS의 일관성 없는 멀티플랫폼 전략을 보여주는 사례로, 결과적으로 Xbox 유저들에게 상실감을 안겨주는 동시에 경쟁사인 소니 PS5의 콘텐츠 풍요로움만 돋보이게 만드는 결과를 초래했다는 비판이 일고 있음\n- 업계에서는 독점 콘텐츠 없이 하드웨어 플랫폼이 생존하기 어렵다는 점을 지적하고 있으나, MS는 최근 메모리 가격 상승에 따른 콘솔 기기 가격 인상, 대규모 정리해고 및 개발 스튜디오 폐쇄를 단행하며 유저들의 신뢰를 잃고 있는 상황임\n- 신임 CEO 아샤 샤르마가 \"Xbox는 콘솔에서 시작된다\"며 브랜드 인식 개선과 업데이트를 추진하고 있으나, 수익성을 우선시하는 MS 본사(사티아 나델라 CEO 체제)의 기조 속에서 독점 생태계를 온전히 재구축할 수 있을지는 미지수임"
       },
       {
-        "company_ko": "소니",
-        "title_ko": "[글로벌/동향] 베데스다, '둠: 더 다크 에이지스' 출시 3주 만에 첫 DLC 50% 파격 할인 단행",
-        "summary_ko": "- 베데스다는 소니의 PS 스토어 여름 세일의 일환으로, 지난 7월 7일 출시된 <둠: 더 다크 에이지스(DOOM: The Dark Ages)>의 첫 대규모 확장팩 '레벨레이션(Revelations)'의 가격을 8월 13일까지 50% 할인된 9.99달러(8.99파운드)에 판매한다고 밝힘\n- 본편 게임 역시 67% 할인된 23.09달러(23.09파운드)에 제공되며, 확장팩과 디지털 아트북 및 보너스 스킨 등이 포함된 프리미엄 에디션도 32.99달러(32.99파운드)로 인하되어 개별 구매보다 저렴하게 구매할 수 있음\n- 업계에서는 출시된 지 단 3주밖에 되지 않은 시점에서 이처럼 큰 폭의 할인을 진행하는 이유에 대해, <둠: 더 다크 에이지스>의 전반적인 실적이 기대치에 미치지 못했기 때문이라는 분석이 나오고 있음\n[Comment]\n- 개발사인 이드 소프트웨어(id Software)는 이달 초 진행된 엑스박스(Xbox)의 구조조정 여파로 100명 이상의 직원을 해고하는 진통을 겪은 바 있음\n- 전직 직원들은 스튜디오가 단순 '지원 스튜디오(support studio)' 수준으로 전락했다고 주장하는 반면, 스튜디오 경영진은 이를 부인하며 스튜디오의 향후 전망을 두고 의견이 대립하는 상황임\n- 비록 흥행 우려와 스튜디오 내홍을 겪고 있으나, 이번 확장팩 '레벨레이션'은 오픈크리틱(Opencritic) 평점 90점을 기록하는 등 평단으로부터 2026년 최고의 출시작 중 하나로 호평받으며 뛰어난 게임성을 입증함",
-        "original_title": "Latest DOOM's DLC 50% Off Just 3 Weeks After PS5 Release",
-        "url": "https://www.pushsquare.com/news/2026/07/latest-dooms-dlc-50percent-off-just-3-weeks-after-ps5-release",
-        "published_at": "2026. 7. 27",
-        "published_key": "2026-07-27 00:00:00",
-        "score": "",
-        "keyword": "PS5",
-        "integrated_note": "- 개발사인 이드 소프트웨어(id Software)는 이달 초 진행된 엑스박스(Xbox)의 구조조정 여파로 100명 이상의 직원을 해고하는 진통을 겪은 바 있음\n- 전직 직원들은 스튜디오가 단순 '지원 스튜디오(support studio)' 수준으로 전락했다고 주장하는 반면, 스튜디오 경영진은 이를 부인하며 스튜디오의 향후 전망을 두고 의견이 대립하는 상황임\n- 비록 흥행 우려와 스튜디오 내홍을 겪고 있으나, 이번 확장팩 '레벨레이션'은 오픈크리틱(Opencritic) 평점 90점을 기록하는 등 평단으로부터 2026년 최고의 출시작 중 하나로 호평받으며 뛰어난 게임성을 입증함"
-      },
-      {
         "company_ko": "애플",
         "title_ko": "[글로벌/동향] 애플, 앱스토어 내 가짜 비트코인 지갑 앱 방치로 USD 180만 피해 입은 이용자들에게 소송 제기당해",
         "summary_ko": "- 최근 캘리포니아 연방법원에 제출된 소장에 따르면, 애플은 앱스토어에 등록된 가짜 비트코인 지갑 앱으로 인해 총 USD 약 180만의 피해를 입은 이용자 3명으로부터 소송을 제기당함\n- 원고들은 애플이 앱스토어를 \"안전하고 신뢰할 수 있는 공간\"으로 홍보한 마케팅을 믿고 '스패로우 월렛(Sparrow Wallet)' 앱을 다운로드했으나, 해당 앱은 이용자의 비트코인을 탈취하기 위해 모방 제작된 사기 앱이었던 것으로 밝혀짐\n- 실제 스패로우 월렛은 윈도우, macOS, 리눅스 버전만 존재하며 iOS용 공식 앱은 없으나, 사기 앱에 속은 이용자들은 자산이 사기꾼들의 개인 지갑으로 송금되어 계정이 명도되는 피해를 입음\n- 소송에 참여한 피해자들은 2025년 5월부터 8월 사이 각각 USD 875,000, USD 840,000, USD 120,000 상당의 비트코인을 도난당했으며, 애플에 사기 사실을 신고했음에도 신속한 조치가 취해지지 않아 또 다른 가짜 앱들이 여전히 앱스토어에 방치되어 있다고 주장함\n[Comment]\n- 스패로우 월렛의 원작 개발자인 크레이그 로(Craig Raw)는 이미 2024년 1월부터 애플 측에 가짜 앱의 존재를 지속적으로 신고했으나 애플의 대처가 매우 미온적이었다고 지적함. 심지어 이용자 보호를 위해 데스크톱 전용 앱임을 알리는 안내용 앱을 등록하려 하자 애플이 오히려 그의 개발자 계정을 정지하려 했던 정황이 밝혀지며 비판을 받고 있음\n- 이번 소송은 애플이 앱스토어 생태계 독점의 핵심 명분으로 내세웠던 '철저한 앱 검수 및 사용자 안전 보장'의 신뢰성에 큰 의문을 제기하며, 향후 플랫폼 운영사의 사후 관리 및 사기 앱 방치에 대한 책임 기준을 묻는 중요한 선례가 될 것으로 보임",
@@ -5374,18 +5485,6 @@
         "score": "",
         "keyword": "Switch",
         "integrated_note": "- 스위치 2의 CPU 성능 제약(휴대 모드 약 1.1 GHz)으로 인해 유저가 밀집한 마을 지역 등에서는 프레임 드랍이 발생할 수 있어, 고난도 레이드보다는 조이콘 2의 광학 센서 마우스 기능을 활용한 채집, 제작 등 캐주얼 플레이에 유용할 것으로 보임\n- 기존 크로스 플레이를 지원하던 정책과 달리, 스위치 2 버전에서 독립된 추가 구독을 요구하는 요금 구조는 이중 지출을 부담해야 하는 기존 콘솔 및 PC 유저들 사이에서 아쉬운 요소로 지적될 수 있음\n- 그럼에도 불구하고 <파이널 판타지 7> 및 <에반게리온>이라는 초특급 IP와의 콜라보레이션을 전면에 내세운 것은, 신규 하드웨어 진출과 맞물려 글로벌 유저층을 다시 한번 결집하고 장기 흥행 동력을 확보하려는 스퀘어 에닉스의 핵심 전략으로 분석됨"
-      },
-      {
-        "company_ko": "닌텐도",
-        "title_ko": "[글로벌/동향] 닌텐도 스위치 2, ‘시각적 혼돈’과 안정적 성능으로 퍼스트파티 게임의 한계 극복",
-        "summary_ko": "- 닌텐도 스위치 2(Switch 2) 출시 이후 1년이 넘는 시간 동안, 최근 출시된 <스플래툰 레이더스(Splatoon Raiders)>를 비롯한 독점작들이 향상된 하드웨어 스펙을 통해 닌텐도 퍼스트파티 게임의 새로운 디자인 방향성을 증명해 보이고 있음\n- 이번 세대 닌텐도 게임들은 단순히 실사풍 그래픽을 추구하는 대신, 화면 가득 화려한 시각 효과와 물체를 채워 넣는 '카툰풍 감각의 과부하(cartoon sensory overload)'를 안정적으로 구현하는 데 집중하고 있음\n- 대표적으로 <동키콩 바난자(Donkey Kong Bananza)>는 협동 모드에서도 프레임 저하 없이 화려한 골드 파티클 효과를 보여주며, <젤다무쌍: 봉인의 시대(Hyrule Warriors: Age of Imprisonment)>는 수백 명의 적을 한 화면에 표현함. 또한 루터 슈터 장르인 <스플래툰 레이더스>는 수많은 적과 잉크가 화면을 뒤덮는 아수라장 속에서도 안정적인 프레임레이트를 유지함\n[Comment]\n- 과거 닌텐도는 게임큐브(4인 멀티플레이), Wii(캐주얼 파티 게임), 스위치(하이브리드 플레이) 등 하드웨어적 특성에 맞춰 게임 디자인을 혁신해 온 역사를 지니고 있음\n- 스위치 2는 이전 기기에서 발생하던 성능 저하 및 프레임 드랍 문제를 해결함으로써, 그래픽 품질의 단순한 상승을 넘어 개발자들이 기기의 기술적 한계에 구애받지 않고 상상력을 마음껏 펼칠 수 있도록 장벽을 제거하고 있는 것으로 분석됨\n- 향후 한층 더 역동적인 전투가 기대되는 차기 <슈퍼 스매시브라더스>, 기술적 한계를 시험할 3D <마리오> 신작, 그리고 압도적인 속도감 표현이 필수적인 <에프제로(F-Zero)>의 부활 가능성 등 닌텐도의 미공개 핵심 IP들이 보여줄 차세대 기기 활용법에 대한 업계와 팬들의 기대감이 높아지고 있음",
-        "original_title": "The Nintendo Switch 2 has finally justified its existence",
-        "url": "https://www.polygon.com/nintendo-switch-2-tech-boost-splatoon-raiders/",
-        "published_at": "2026. 7. 26",
-        "published_key": "2026-07-26 00:00:00",
-        "score": "",
-        "keyword": "Switch 2",
-        "integrated_note": "- 과거 닌텐도는 게임큐브(4인 멀티플레이), Wii(캐주얼 파티 게임), 스위치(하이브리드 플레이) 등 하드웨어적 특성에 맞춰 게임 디자인을 혁신해 온 역사를 지니고 있음\n- 스위치 2는 이전 기기에서 발생하던 성능 저하 및 프레임 드랍 문제를 해결함으로써, 그래픽 품질의 단순한 상승을 넘어 개발자들이 기기의 기술적 한계에 구애받지 않고 상상력을 마음껏 펼칠 수 있도록 장벽을 제거하고 있는 것으로 분석됨\n- 향후 한층 더 역동적인 전투가 기대되는 차기 <슈퍼 스매시브라더스>, 기술적 한계를 시험할 3D <마리오> 신작, 그리고 압도적인 속도감 표현이 필수적인 <에프제로(F-Zero)>의 부활 가능성 등 닌텐도의 미공개 핵심 IP들이 보여줄 차세대 기기 활용법에 대한 업계와 팬들의 기대감이 높아지고 있음"
       },
       {
         "company_ko": "스퀘어에닉스",
@@ -5434,18 +5533,6 @@
         "score": "",
         "keyword": "Google",
         "integrated_note": "- 켄 워커 구글 글로벌 총괄 사장은 이번 DMA 규제 이행이 오히려 소비자가 애용하는 실시간 검색 기능(호텔, 항공편 예약 등)을 축소하고 구글 플레이의 보안 기능을 약화시키는 등 제품 성능 저하를 초래해 유럽 기업과 소비자에게 피해를 줄 것이라고 강력히 반발함\n- 한편 구글은 이번 결정에 대비해 검색 결과의 AI 모드 및 AI 개요(AI Overviews) 적용 방안을 규제 당국과 논의하며 테스트를 지속하는 등 변화된 규제 환경에 대응하기 위한 조치를 병행하고 있음"
-      },
-      {
-        "company_ko": "닌텐도",
-        "title_ko": "[글로벌/동향] 닌텐도, '제노블레이드 크로니클스 2' 스위치 2 에디션 상세 정보 및 트레일러 공개",
-        "summary_ko": "- 닌텐도는 오는 2026년 6월 30일 출시 예정인 <제노블레이드 크로니클스 2(Xenoblade Chronicles 2)>의 '스위치 2 에디션' 신규 오버뷰 트레일러를 공개하고 구체적인 개선 사항을 발표함\n- 이번 에디션은 TV 모드에서 4K 해상도 및 60fps를 지원하고 휴대 모드에서는 풀 HD 해상도를 제공하며, 인게임 컷신의 해상도와 프레임레이트, 디테일이 크게 향상된 것이 특징임\n- 주요 캐릭터인 '호무라(Pyra)'와 '히카리(Mythra)'의 신규 의상 디자인이 추가되어 인게임과 컷신에 모두 적용되며, 최대 6개의 블레이드를 직접 제어하는 새로운 'Merc Assault' 모드와 빛과 어둠의 형태로 전환 가능한 신규 레어 블레이드 '모모(Momo)'가 도입됨\n- 기존 타이틀 소유자에게는 유료 업그레이드 경로가 제공되며 현재 예약 판매가 진행 중임. 또한 본 타이틀은 최근 3.0.0 버전 업데이트가 적용되었으며, 스위치 2 에디션의 패키지(실물) 버전은 2026년 10월 1일에 출시될 예정임\n[Comment]\n- 닌텐도는 차세대 콘솔(스위치 2)의 출시에 맞춰 기존 스위치 플랫폼의 흥행작을 리마스터 및 업그레이드하여 초기 소프트웨어 라인업을 확보하는 전략을 취하고 있음\n- 특히 기존 원작 소유자에게 저렴한 비용의 유료 업그레이드를 제공하고, 출시 전날 원작의 시스템 업데이트(V3.0.0)를 단행하는 등의 조치는 기존 유저들의 자연스러운 차세대 기기 전환을 유도하기 위한 조치로 풀이됨",
-        "original_title": "Xenoblade Chronicles 2 - Switch 2 Edition Overview Reveals New Pyra & Mythra Outfits, Merc Assault And Momo",
-        "url": "https://www.nintendolife.com/news/2026/07/xenoblade-chronicles-2-switch-2-edition-overview-reveals-new-pyra-and-mythra-outfits-merc-assault-and-momo",
-        "published_at": "2026. 7. 24",
-        "published_key": "2026-07-24 00:00:00",
-        "score": "",
-        "keyword": "Switch 2",
-        "integrated_note": "- 닌텐도는 차세대 콘솔(스위치 2)의 출시에 맞춰 기존 스위치 플랫폼의 흥행작을 리마스터 및 업그레이드하여 초기 소프트웨어 라인업을 확보하는 전략을 취하고 있음\n- 특히 기존 원작 소유자에게 저렴한 비용의 유료 업그레이드를 제공하고, 출시 전날 원작의 시스템 업데이트(V3.0.0)를 단행하는 등의 조치는 기존 유저들의 자연스러운 차세대 기기 전환을 유도하기 위한 조치로 풀이됨"
       },
       {
         "company_ko": "유비소프트",
@@ -6396,18 +6483,6 @@
         "integrated_note": "- 이번 '시리 AI' 개발에서 애플은 구글 제미나이 기술을 적극 도입했으며, 개인정보 보호를 위해 애플의 자체 서버와 구글의 인프라를 활용하는 '프라이빗 클라우드 컴퓨팅(Private Cloud Compute)'을 적용해 타사나 애플 스스로도 데이터에 접근할 수 없도록 설계함\n- 신형 '시리 AI'는 무료로 제공되나 일부 이미지 생성 기능 등에는 일일 사용 제한이 적용되며, 출시 초기에는 영어로만 지원되고 EU 및 중국 시장은 초기 출시 대상국에서 제외됨\n- 특히 이번 iOS 27은 구형 기기인 아이폰 11까지 지원 범위를 유지하면서도 새롭게 설계된 CPU 스케줄러를 통해 구형 아이폰에서도 체감 성능을 개선할 수 있도록 최적화에 힘을 실은 것으로 평가됨"
       },
       {
-        "company_ko": "애플",
-        "title_ko": "[글로벌/동향] 애플, WWDC 2026서 앱스토어 구독 시스템 대규모 개편 발표",
-        "summary_ko": "- 애플은 WWDC 2026에서 개발자 간 구독 결합이 가능한 '번들 및 수트', 기업·그룹 구매 옵션, 이탈 방지 도구, 제출 프로세스 간소화 등을 골자로 한 앱스토어 구독 도구 개편안을 발표함\n- 새롭게 도입되는 '번들(Bundles)'과 '수트(Suites)' 시스템을 통해 사상 처음으로 서로 다른 개발자가 협력하여 여러 앱의 구독 서비스를 하나로 묶어 결제할 수 있는 번들형 상품 구성이 가능해짐\n- 사용자가 구독을 취소하려는 시점에 맞춰 맞춤형 혜택이나 가치 안내 메시지를 전달하는 '고객 유지 메시지(Retention Messaging)' 기능과, 다수의 라이선스를 일괄 구매할 수 있는 '그룹 및 대량 구매' 옵션이 추가됨\n- 이 밖에도 12개월 약정 기반의 월간 구독 요금제(미국 및 싱가포르 제외)가 도입되며, 앱스토어 커넥트의 인앱 결제 및 이벤트 제출 워크플로우를 중앙 집중화하여 프로세스를 대폭 개선함\n[Comment]\n- 이번 개편은 스트리밍 플랫폼들의 번들 결합 성공 사례를 벤치마킹한 것으로 보이며, 단일 앱 구독보다 이탈률이 낮은 결합 상품 구성을 허용함으로써 개발자들의 장기적인 사용자 유지(Retention)에 긍정적인 영향을 미칠 것으로 분석됨\n- 특히 12개월 약정 요금제나 취소 직전 맞춤 제안 기능 등은 최근 인플레이션 및 구독 피로감으로 인해 취소율이 높아진 시장 환경 속에서 개발자들의 안정적인 매출 확보를 돕기 위한 실질적 수단으로 평가됨\n- 해당 개편 기능들은 올해 가을을 기점으로 iOS 26.4 등 각 플랫폼의 최신 OS 버전에 순차적으로 적용될 예정이며, 간소화된 앱 제출 워크플로우의 웹 인터페이스 및 API 지원은 올여름 후반에 제공될 예정임",
-        "original_title": "Apple Introduces Major App Store Subscription Overhaul at WWDC 2026",
-        "url": "https://www.macrumors.com/2026/06/11/apple-introduces-app-store-subscription-overhaul/",
-        "published_at": "2026. 6. 11",
-        "published_key": "2026-06-11 00:00:00",
-        "score": "",
-        "keyword": "App Store",
-        "integrated_note": "- 이번 개편은 스트리밍 플랫폼들의 번들 결합 성공 사례를 벤치마킹한 것으로 보이며, 단일 앱 구독보다 이탈률이 낮은 결합 상품 구성을 허용함으로써 개발자들의 장기적인 사용자 유지(Retention)에 긍정적인 영향을 미칠 것으로 분석됨\n- 특히 12개월 약정 요금제나 취소 직전 맞춤 제안 기능 등은 최근 인플레이션 및 구독 피로감으로 인해 취소율이 높아진 시장 환경 속에서 개발자들의 안정적인 매출 확보를 돕기 위한 실질적 수단으로 평가됨\n- 해당 개편 기능들은 올해 가을을 기점으로 iOS 26.4 등 각 플랫폼의 최신 OS 버전에 순차적으로 적용될 예정이며, 간소화된 앱 제출 워크플로우의 웹 인터페이스 및 API 지원은 올여름 후반에 제공될 예정임"
-      },
-      {
         "company_ko": "텐센트",
         "title_ko": "[글로벌/동향] 5월 글로벌 모바일 게임 시장, <왕자영요>·<Kingshot> 흥행 속 중국 게임사 강세 지속",
         "summary_ko": "- 모바일 앱 데이터 분석 플랫폼 '뎬뎬수쥐(点点数据)'에 따르면, 2026년 5월 글로벌 모바일 게임 매출은 전월 대비 2.94%, 전년 동기 대비 7.1% 증가했으며, 국가별 매출 기여도는 미국(26.6%), 중국(18.1%), 일본(15.9%) 순으로 높았고 장르별로는 RPG와 액션 장르가 높은 성장을 기록함\n- 5월 매출 순위에서는 텐센트의 MOBA 게임 <왕자영요>가 월 매출 USD 약 1억 4,900만(RMB 약 10억 이상)을 기록하며 1위를 지켰으며, 센추리 게임즈의 SLG <Kingshot>은 글로벌 매출 USD 약 9,475만(RMB 약 6억 4,200만)을 달성하며 전월 대비 22.1% 성장해 글로벌 매출 탑 5에 진입함\n- 서브컬처 장르 게임들의 강세도 돋보여 텐센트의 <승리의 여신: 니케>가 신규 캐릭터 업데이트 효과로 월 매출 USD 약 5,384만(RMB 약 3억 6,400만)을 기록해 차트에 복귀했으며, 쿠로 게임즈의 <명조>는 2주년 이벤트에 힘입어 매출 증가액 1위를 차지했고, 출시 후 첫 풀 영업월을 맞이한 <이환>은 USD 약 2,756만(RMB 약 1억 8,600만)의 매출을 기록함. 또한 Leiting games의 <장검전설> 국제판 <Sword x Staff>도 글로벌 다운로드 및 매출 상위권에 오르며 큰 성장세를 보임\n- 5월 글로벌 모바일 게임 다운로드 수는 전월 대비 4.33% 증가했으며, ‘화살표 제거’ 방식의 퍼즐 게임인 <Arrows>가 월 다운로드 3,364만 건으로 1위를 기록한 가운데 월드컵 개최가 임박함에 따라 스포츠 및 축구 테마 게임들의 다운로드 성장이 두드러짐\n[Comment]\n- 5월 시장 흐름은 <왕자영요>와 <Kingshot> 등 기존 중대형 타이틀의 강력한 장기 흥행과 함께, <명조> 및 <이환> 등 신흥 서브컬처 IP들의 강력한 콘텐츠 업데이트가 글로벌 매출 성장을 견인하고 있음을 보여줌\n- 다운로드 시장의 경우, 베트남 모바일 게임 퍼블리셔들이 ‘인기 캐주얼 플레이 방식의 신속한 복제 및 대규모 소재 광고’ 전략을 앞세워 인도, 브라질, 인도네시아 등 인구 보너스 효과가 크고 다운로드 성장 잠재력이 높은 신흥 시장을 효과적으로 공략하고 있는 흐름이 지속되고 있음",
@@ -6972,18 +7047,6 @@
         "integrated_note": "- 현재 중국 게임 산업은 대형사의 ‘호실적’과 중소사의 ‘생존 투쟁’으로 요약되는 극심한 양극화 현상을 겪고 있으며, 전체 시장의 성장세는 사실상 상위 몇몇 기업의 독점적 성과에 의존하고 있는 실정임\n- 특히 중소 및 중견 기업의 약 35%가 적자를 기록하거나 매출이 감소하고 있으며, 이들은 높은 유저 획득 비용(UA) 부담을 줄이기 위해 마케팅 규모를 축소하고 AI 기술을 도입해 제작 단가를 낮추는 등 보수적인 경영 기조를 유지하고 있음\n- 향후 AI 기술의 본격적인 도입이 중소 개발사들에게 창의적인 콘텐츠로 대형사와 경쟁할 기회가 될지, 아니면 자본력을 갖춘 대형사가 AI를 통해 시장 점유율을 더욱 공고히 하는 계기가 될지가 향후 업계의 주요 관전 포인트가 될 것으로 보임"
       },
       {
-        "company_ko": "텐센트",
-        "title_ko": "[일본/경쟁사] 비주얼 아츠(Key), 텐센트 인수 후 '마에다 준' 의존 탈피 및 글로벌 시장 공략 본격화",
-        "summary_ko": "- 비주얼 아츠(Visual Arts, 이하 Key)의 천운 현기(아카노 타야) CEO는 최근 인터뷰를 통해 2023년 7월 텐센트에 인수된 이후 경영 현황을 공개하며, 창작의 자율성을 유지하는 가운데 글로벌 표준 시스템을 도입해 안정적인 운영 기반을 마련했다고 밝힘\n- 전임 바바 다카히로 사장이 은퇴 및 승계 문제로 지분 100%를 텐센트에 매각한 이후, Key는 '지표 최강 최루탄'으로 불리는 브랜드의 영속성을 위해 'Key=마에다 준'이라는 고착된 이미지에서 벗어나 지속 가능한 시나리오 집단으로 거듭나는 것을 최우선 과제로 삼고 있음\n- 지난 4월 24일, 7년 만의 전령가(Full-price) 미소녀 연예 시뮬레이션(VN) 신작 <anemoi>를 일본에 출시했으며, 향후 스팀(Steam)을 통해 영어 및 중국어 간체 등 다국어 버전을 선보여 글로벌 시장으로 저변을 확대할 계획임\n- 또한 신규 비주얼 노벨 브랜드 ‘비주얼 아츠 스크립트(Visual Arts Scripts)’를 설립하고 <사야가타리: 요도의 약속>을 포함한 신작 3종의 개발 소식을 발표하며, <헤븐 번즈 레드>의 성공을 발판 삼아 모바일 게임 사업 및 애니메이션·만화 등 IP 확장에도 박차를 가하고 있음\n\n[Comment]\n- 텐센트는 비주얼 아츠 인수 이후 직접적인 콘텐츠 간섭보다는 재무 및 관리 시스템 선진화에 집중하는 '방임형' 관리 전략을 취하고 있으며, 이는 핵심 창작진의 이탈을 방지하고 브랜드 고유의 색깔을 보존하려는 의도로 풀이됨\n- 서브컬처 시장의 경쟁이 격렬해지는 가운데, 비주얼 노벨 전문 개발사들이 도산하거나 해체되는 업계 불황 속에서도 Key는 텐센트의 막대한 자본력을 바탕으로 신작 개발과 신규 브랜드 런칭이라는 공격적인 행보를 이어가고 있음\n- 특히 텐센트는 현재 <버추얼 서클>, <운명발격(Trigger of Fate)> 등 다양한 서브컬처 라인업을 준비 중이며, 비주얼 아츠가 보유한 강력한 서사 구축 능력과 IP는 향후 텐센트의 글로벌 서브컬처 전략에서 스토리텔링의 핵심 자산으로 활용될 가능성이 높음",
-        "original_title": "老板着急退休、腾讯接盘“放养三年”：Key社新CEO：“我太难了”！",
-        "url": "http://www.gamelook.com.cn/2026/05/592866/",
-        "published_at": "2026. 5. 11",
-        "published_key": "2026-05-11 00:00:00",
-        "score": "",
-        "keyword": "腾讯",
-        "integrated_note": "- 텐센트는 비주얼 아츠 인수 이후 직접적인 콘텐츠 간섭보다는 재무 및 관리 시스템 선진화에 집중하는 '방임형' 관리 전략을 취하고 있으며, 이는 핵심 창작진의 이탈을 방지하고 브랜드 고유의 색깔을 보존하려는 의도로 풀이됨\n- 서브컬처 시장의 경쟁이 격렬해지는 가운데, 비주얼 노벨 전문 개발사들이 도산하거나 해체되는 업계 불황 속에서도 Key는 텐센트의 막대한 자본력을 바탕으로 신작 개발과 신규 브랜드 런칭이라는 공격적인 행보를 이어가고 있음\n- 특히 텐센트는 현재 <버추얼 서클>, <운명발격(Trigger of Fate)> 등 다양한 서브컬처 라인업을 준비 중이며, 비주얼 아츠가 보유한 강력한 서사 구축 능력과 IP는 향후 텐센트의 글로벌 서브컬처 전략에서 스토리텔링의 핵심 자산으로 활용될 가능성이 높음"
-      },
-      {
         "company_ko": "네오위즈",
         "title_ko": "[국내/실적] 네오위즈, 라이브 IP로 매출 1,000억 원 돌파... 신작 투자 및 비용 증가로 영업이익은 감소",
         "summary_ko": "- 네오위즈는 1분기 연결 기준 매출 1,014억 원(전년 동기 대비 14% 증가), 영업이익 70억 원(32% 감소)을 기록하며, 모바일 및 라이브 지식재산권(IP)의 활약으로 매출 외형 성장을 이뤄냈으나 수익성은 다소 하락함\n- 매출 성장의 주역은 ‘브라운더스트2’와 웹보드 게임으로, 특히 ‘브라운더스트2’의 트래픽 유지와 규제 완화에 따른 웹보드 매출 반등에 힘입어 모바일 부문 매출(514억 원)이 전체의 51%를 차지하며 PC·콘솔 비중을 앞섬\n- PC·콘솔 부문 매출은 395억 원으로 전년 대비 9% 증가했으나, <P의 거짓>의 초기 출시 효과 감소 및 신규 타이틀 부재로 인해 전 분기 대비 14% 감소하며 하향 안정화 단계에 접어듦\n- 영업이익 감소는 차기작 개발을 위한 인건비 및 외주비 선반영, ‘브라운더스트2’의 글로벌 팬덤 마케팅(타이베이 게임쇼, 일본 팝업스토어 등) 확대 및 서버 운영비 등 변동비가 전년 대비 크게 증가한 것에 기인함\n\n[Comment]\n- <P의 거짓> 흥행 이후 패키지 판매 중심에서 다시 라이브 서비스 IP 중심으로 매출 구조가 이동하고 있으며, 이는 신작 출시 공백기 동안 라이브 서비스가 기초 체력을 뒷받침하고 있음을 보여줌\n- 현재 <P의 거짓> 차기작이 핵심 재미를 검증하는 ‘버티컬 슬라이스’ 단계에 진입했으며, ‘프로젝트 CF’, ‘프로젝트 루비콘’ 등 다수의 신작 파이프라인 개발 비용이 선반영되고 있어 차기 대작 출시 전까지 수익성 관리가 주요 과제가 될 것으로 보임\n- 당기순이익(155억 원)이 전년 대비 153% 급증한 것은 고환율에 따른 외화자산 평가이익(환차익) 등 금융수익의 영향이 컸으며, 이와 별개로 약 120억 원 규모의 주주환원 정책(배당 및 자사주 소각)을 실행하며 주주가치 제고에 주력하고 있음",
@@ -7018,18 +7081,6 @@
         "score": "",
         "keyword": "투자",
         "integrated_note": "- 크래프톤은 최근 피지컬 AI 연구를 위해 ‘루도 로보틱스’를 설립하고 한화에어로스페이스와 공동 개발 협력을 맺는 등, 가상 세계를 넘어 실세계와 상호작용하는 AI 기술 확보에 박차를 가하고 있음\n- 장병규 의장과 이재웅 창업자의 인연 등 경영진 간의 두터운 인적 네트워크가 이번 대규모 투자의 가교 역할을 한 것으로 분석되며, 게임사가 모빌리티 데이터에 투자하는 이례적인 시너지가 기대됨\n- 향후 <인조이(inZOI)> 등 주요 프로젝트에 AI 기술을 적극 접목하고, 연내 ‘펍지 앨라이’ 베타 서비스를 공개하는 등 크래프톤이 강조해 온 'AI for Game' 비전이 가시화되는 중요한 분기점이 될 전망임"
-      },
-      {
-        "company_ko": "텐센트",
-        "title_ko": "[중국/동향] 텐센트·링시 등 5월 중국 신작 16종 출격... 한국산 서브컬처 <카오스 제로 나이트메어> 주목",
-        "summary_ko": "- 5월 중국 게임 시장에 텐센트, 링시 게임즈(알리바바), 바이트댄스 등 주요 기업의 신작을 포함해 총 16종의 게임이 출시될 예정이며, 지난 4월의 치열한 경쟁에 이어 장르 다변화 양상이 지속되고 있음\n- 이번 달 최대 기대작인 텐센트의 <카오스 제로 나이트메어(卡厄思梦境)>는 <제7성배(에픽세븐)> 개발사로 알려진 한국의 슈퍼크리에이티브가 개발한 서브컬처 게임으로, 캐릭터의 정신 수치가 0이 되는 ‘캐릭터 붕괴’ 시스템과 로그라이크 카드 배틀을 결합한 차별화된 게임성을 선보임\n- <카오스 제로 나이트메어>는 작년 글로벌 출시 직후 한·미·일 무료 인기 순위 1위를 차지하고 첫 달 매출 약 2억 위안(KRW 약 370억)을 기록하는 등 폭발력을 보여주었으며, 텐센트는 앞선 글로벌 서비스에서 지적된 캐릭터 육성 및 스토리 문제를 중국 현지화 과정에서 개선해 시장을 공략할 계획임\n- 링시 게임즈는 캐주얼한 동양 판타지 화풍의 방치형 수선(修仙) RPG <종사지상(宗师之上)>을 출시하며, 바이트댄스(조석광년)는 3D 실사 화풍의 전략 RPG <래명섬격(镭明闪击)>을 통해 1분 내외의 빠른 템포를 강조한 '타워 어택'이라는 독특한 장르적 실험에 나섬\n- 이 밖에도 인기 애니메이션 IP 기반의 <차천: 제로쟁봉>, 코에이 테크모 정식 라이선스의 <진·삼국무쌍 천하>, 스팀 인기 이식작인 탄막 게임 <소비선대모험(小飞船大冒险)> 등 액션, 방치형, 전략 등 다채로운 라인업이 포진해 있음\n\n[Comment]\n- 5월 중국 시장의 핵심 키워드는 '서브컬처의 장르 다변화'와 '캐주얼 장르의 강세'로 요약됨. 특히 텐센트는 <승리의 여신: 니케>에 이어 다시 한번 한국산 서브컬처 IP인 <카오스 제로 나이트메어>를 전면에 내세워 서브컬처 시장 내 영향력 확대를 꾀하고 있음\n- 링시 게임즈의 <종사지상>과 같은 방치형 수선 게임의 등장은 최근 중국 앱 마켓과 미니게임(小游戏) 시장에서 큰 인기를 끌고 있는 '가벼운 게임' 선호 트렌드가 반영된 결과로 분석됨\n- 바이트댄스의 <래명섬격>은 기존 서브컬처 게임들이 채택하던 수동적인 방어(타워 디펜스) 대신 능동적인 공격(타워 어택) 메카닉을 도입해 틈새시장을 노리고 있으며, 이는 최근 레드오션화된 중국 모바일 게임 시장에서 살아남기 위한 차별화 전략의 일환으로 풀이됨",
-        "original_title": "5月预计16款新游戏上线：腾讯冲二游、灵犀修仙，字节亮相、遮天来了！",
-        "url": "http://www.gamelook.com.cn/2026/05/592745/",
-        "published_at": "2026. 5. 9",
-        "published_key": "2026-05-09 00:00:00",
-        "score": "",
-        "keyword": "新游",
-        "integrated_note": "- 5월 중국 시장의 핵심 키워드는 '서브컬처의 장르 다변화'와 '캐주얼 장르의 강세'로 요약됨. 특히 텐센트는 <승리의 여신: 니케>에 이어 다시 한번 한국산 서브컬처 IP인 <카오스 제로 나이트메어>를 전면에 내세워 서브컬처 시장 내 영향력 확대를 꾀하고 있음\n- 링시 게임즈의 <종사지상>과 같은 방치형 수선 게임의 등장은 최근 중국 앱 마켓과 미니게임(小游戏) 시장에서 큰 인기를 끌고 있는 '가벼운 게임' 선호 트렌드가 반영된 결과로 분석됨\n- 바이트댄스의 <래명섬격>은 기존 서브컬처 게임들이 채택하던 수동적인 방어(타워 디펜스) 대신 능동적인 공격(타워 어택) 메카닉을 도입해 틈새시장을 노리고 있으며, 이는 최근 레드오션화된 중국 모바일 게임 시장에서 살아남기 위한 차별화 전략의 일환으로 풀이됨"
       },
       {
         "company_ko": "테이크투",
@@ -7354,18 +7405,6 @@
         "score": "",
         "keyword": "PS5",
         "integrated_note": "- 넷이즈는 최근 고비용·저효율 프로젝트를 정리하고 수익성을 강화하는 방향으로 포트폴리오를 재편하고 있으며, 이번 투자 중단 역시 해당 전략의 연장선상에 있는 것으로 보임\n- 나고시 토시히로라는 스타 개발자의 상징성과 배우 마동석의 글로벌 인지도를 결합한 기대작이었으나, 막대한 추가 개발비에 대한 부담이 넷이즈의 최종 의사결정에 결정적인 영향을 미친 것으로 분석됨\n- 나고시 스튜디오가 단기간 내에 새로운 투자처를 확보하지 못한다면 프로젝트 폐기 및 스튜디오 운영 중단이 현실화될 가능성이 높으며, 이는 일본 내 넷이즈의 공격적인 스튜디오 확장 전략에도 차질을 빚을 것으로 예상됨"
-      },
-      {
-        "company_ko": "알파벳",
-        "title_ko": "[글로벌/동향] 구글, 애플 '시리'에 제미나이 탑재 공식 확인... 연내 출시 예정",
-        "summary_ko": "- 구글 클라우드의 토마스 쿠리안 총괄은 ‘구글 클라우드 넥스트 2026’ 컨퍼런스에서 애플과의 파트너십을 언급하며, 구글의 제미나이(Gemini) 기술이 올해 말 출시될 더욱 개인화된 차세대 ‘시리(Siri)’의 핵심 동력이 될 것이라고 공식 확인함\n- 구글은 애플의 우선순위 클라우드 제공업체로서 제미나이 기술 기반의 차세대 ‘애플 파운데이션 모델’ 개발을 위해 협력하고 있으며, 이는 향후 업데이트될 ‘애플 인텔리전스(Apple Intelligence)’의 핵심 기능을 구성할 예정임\n- 새로운 시리는 당초 2026년 봄 출시가 유력했으나 정확도 개선 등의 문제로 내부 일정이 조정되었으며, 오는 6월 8일 개최되는 ‘세계 개발자 컨퍼런스(WWDC 2026)’에서 iOS 27과 함께 구체적인 모습이 공개될 것으로 전망됨\n- 애플은 스마트해진 시리 도입 이후 급증할 클라우드 사용량에 대비해 구글 데이터 센터 내 전용 서버 구축을 검토해달라고 요청한 것으로 알려짐\n\n[Comment]\n- 이번 파트너십은 자체 AI 모델 개발과 동시에 외부의 검증된 기술을 적극 수용하려는 애플의 전략적 유연성을 보여주며, 구글 입장에서는 전 세계 수억 대의 아이폰 사용자들을 제미나이 생태계로 끌어들이는 강력한 교두보를 마련한 것으로 평가됨\n- 현재 업계의 관심은 새로운 시리가 애플의 보안 기술인 ‘프라이빗 클라우드 컴퓨팅’을 통해 구현될지, 아니면 구글 서버에 직접 연결될지 여부에 쏠려 있으며, 이는 애플의 핵심 가치인 개인정보 보호 정책과 직결되는 민감한 사안임\n- 한편, 시리가 단순한 음성 비서를 넘어 챗봇 형태의 독립형 앱으로 출시될 가능성도 제기되고 있어, 향후 챗GPT나 클로드 등 기존 AI 챗봇 시장에 미칠 파급력이 상당할 것으로 분석됨",
-        "original_title": "Google Confirms Gemini-Powered Siri Coming Later This Year",
-        "url": "https://www.macrumors.com/2026/04/22/google-gemini-powered-siri-2026/",
-        "published_at": "2026. 4. 23",
-        "published_key": "2026-04-23 00:00:00",
-        "score": "",
-        "keyword": "Google",
-        "integrated_note": "- 이번 파트너십은 자체 AI 모델 개발과 동시에 외부의 검증된 기술을 적극 수용하려는 애플의 전략적 유연성을 보여주며, 구글 입장에서는 전 세계 수억 대의 아이폰 사용자들을 제미나이 생태계로 끌어들이는 강력한 교두보를 마련한 것으로 평가됨\n- 현재 업계의 관심은 새로운 시리가 애플의 보안 기술인 ‘프라이빗 클라우드 컴퓨팅’을 통해 구현될지, 아니면 구글 서버에 직접 연결될지 여부에 쏠려 있으며, 이는 애플의 핵심 가치인 개인정보 보호 정책과 직결되는 민감한 사안임\n- 한편, 시리가 단순한 음성 비서를 넘어 챗봇 형태의 독립형 앱으로 출시될 가능성도 제기되고 있어, 향후 챗GPT나 클로드 등 기존 AI 챗봇 시장에 미칠 파급력이 상당할 것으로 분석됨"
       },
       {
         "company_ko": "크래프톤",
@@ -8974,30 +9013,6 @@
         "score": "",
         "keyword": "game",
         "integrated_note": "- 이번 성과는 <파이널 판타지 택틱스>라는 고전 명작 IP가 현대 게임 시장에서도 여전히 강력한 티켓 파워를 가지고 있음을 증명한 사례임\n- 특히 원문에서 언급된 '스위치 2'와 같은 차세대 플랫폼으로의 확장이 판매량 견인에 주요한 역할을 한 것으로 분석되며, 향후 스퀘어 에닉스가 보유한 다른 고전 IP들의 리마스터 및 이식 전략에도 탄력이 붙을 것으로 예상됨\n- '접근성 확대'를 핵심으로 하는 향후 업데이트 검토 소식은 신규 유저 유입을 가속화하여 해당 타이틀의 장기적인 흥행을 도모하려는 전략으로 풀이됨"
-      },
-      {
-        "company_ko": "스퀘어에닉스",
-        "title_ko": "[글로벌/동향] <드래곤 퀘스트 7: 리이매진드> 체험판 공개... 스위치 2에선 '60프레임' 지원",
-        "summary_ko": "- 스퀘어 에닉스의 신작 <드래곤 퀘스트 7: 리이매진드(Dragon Quest VII: Reimagined)>의 체험판이 글로벌 일부 지역에 출시되었으며, 하드웨어 성능 분석 채널 'SwitchUp'을 통해 기기별 구동 상세 정보가 공개됨\n- 기존 닌텐도 스위치 버전은 30fps로 구동되며 일부 프레임 드랍과 해상도 저하가 관찰되는 반면, 차세대 기기인 스위치 2 버전은 '매우 매끄러운(Silky smooth)' 60fps와 더 높은 해상도, 안정적인 프레임 페이싱을 제공함\n- 이번 작품은 스퀘어 에닉스의 'HD-2D' 스타일과 유사하게 피사체 심도(Shallow depth of field) 기술을 적극 활용하여 정교한 디오라마 느낌을 구현했으며, 체험판의 저장 데이터는 2026년 2월 5일 출시될 정식 버전으로 계승 가능함\n- 두 버전 모두 휴대 모드에서 준수한 경험을 제공하며 특히 스위치 OLED 패널에서 비주얼이 돋보인다는 평가를 받고 있으나, 일부 텍스처 겹침 현상이나 계단 현상(Aliasing) 등은 정식 출시 전까지 개선이 필요한 요소로 지적됨\n[Comment]\n- 이번 체험판 성능 비교는 차세대 하드웨어인 스위치 2의 성능적 우위를 직접적으로 체감할 수 있는 사례로, 고정 60fps 지원이 게임 플레이 환경에 미치는 긍정적인 영향이 강조됨\n- <드래곤 퀘스트 7>은 원작의 방대한 분량으로 인해 리메이크 난도가 높은 타이틀로 꼽혀왔으나, 최신 그래픽 기술과 고성능 하드웨어를 통해 현대적인 감각으로 재탄생하며 팬들의 기대감을 높이고 있음\n- 정식 출시일이 2026년 2월로 예정되어 있는 만큼, 이번 체험판을 통해 수집된 기술적 피드백이 남은 개발 기간 동안 최적화와 시각적 완성도를 높이는 데 기여할 것으로 보임",
-        "original_title": "News Dragon Quest VII: Reimagined Demo - Switch And Switch 2 Performance Investigated",
-        "url": "https://www.nintendolife.com/news/2026/01/dragon-quest-vii-reimagined-demo-switch-and-switch-2-performance-investigated",
-        "published_at": "2026. 1. 7",
-        "published_key": "2026-01-07 00:00:00",
-        "score": "",
-        "keyword": "Switch 2",
-        "integrated_note": "- 이번 체험판 성능 비교는 차세대 하드웨어인 스위치 2의 성능적 우위를 직접적으로 체감할 수 있는 사례로, 고정 60fps 지원이 게임 플레이 환경에 미치는 긍정적인 영향이 강조됨\n- <드래곤 퀘스트 7>은 원작의 방대한 분량으로 인해 리메이크 난도가 높은 타이틀로 꼽혀왔으나, 최신 그래픽 기술과 고성능 하드웨어를 통해 현대적인 감각으로 재탄생하며 팬들의 기대감을 높이고 있음\n- 정식 출시일이 2026년 2월로 예정되어 있는 만큼, 이번 체험판을 통해 수집된 기술적 피드백이 남은 개발 기간 동안 최적화와 시각적 완성도를 높이는 데 기여할 것으로 보임"
-      },
-      {
-        "company_ko": "유비소프트",
-        "title_ko": "[글로벌/동향] 유비소프트 '레인보우 식스 시즈', 연이은 해킹 공격에 서비스 마비 및 허위 제재 논란",
-        "summary_ko": "- 유비소프트의 대표작 <레인보우 식스 시즈(R6)>가 지난 12월 말 발생한 대규모 게임 내 재화 유출 사고에 이어, 일주일 만에 또다시 해킹 공격을 받아 서비스가 마비되고 이용자들이 허위 제재를 받는 등 극심한 혼란을 겪고 있음\n- 이번 공격으로 인해 다수의 이용자와 유명 스트리머들이 '괴롭힘(Harassment)' 사유로 67일간 계정이 정지되었다는 알림을 받았으며, 사건 발생 직후 서버는 오프라인 또는 서비스 저하(Degraded) 상태로 전환됨\n- 유비소프트는 공식 입장을 통해 \"이용자들에게 노출된 제재 알림은 해커에 의한 허위 메시지이며 실제 제재(Ban)로 이어지지는 않았다\"고 밝혔으며, 현재까지 개인 정보나 소스 코드의 유출은 확인되지 않았다고 해명함\n[Comment]\n- 일주일 간격으로 발생한 연쇄 해킹은 유비소프트의 보안 시스템에 심각한 의문을 제기하고 있으며, 특히 게임 내 '마켓플레이스' 폐쇄와 서버 롤백 이후에도 공격이 반복되면서 이용자 커뮤니티 내 소스 코드 유출 루머가 확산되는 등 불안감이 고조됨\n- 유비소프트는 현재 재무적으로 민감한 시기를 지나고 있으며, 2025년 중반에도 <레인보우 식스 시즈> 관련 이슈가 수익 전망에 부정적인 영향을 미쳤던 만큼 이번 사태가 장기화될 경우 경영 실적과 브랜드 신뢰도에 타격이 예상됨\n- 회사 측은 서버 연결 및 동기화 오류 해결을 위한 조치를 취하고 있으나, 사건 발생 초기 공식 채널을 통한 소통 부재가 이용자들의 불신을 키웠다는 비판을 받고 있음",
-        "original_title": "Rainbow 6 Siege Hacked Again, This Time With A 6-7 Meme [Update]",
-        "url": "https://kotaku.com/rainbow-6-siege-hacked-again-six-seven-meme-ubisoft-2000656649",
-        "published_at": "2026. 1. 5",
-        "published_key": "2026-01-05 00:00:00",
-        "score": "",
-        "keyword": "update",
-        "integrated_note": "- 일주일 간격으로 발생한 연쇄 해킹은 유비소프트의 보안 시스템에 심각한 의문을 제기하고 있으며, 특히 게임 내 '마켓플레이스' 폐쇄와 서버 롤백 이후에도 공격이 반복되면서 이용자 커뮤니티 내 소스 코드 유출 루머가 확산되는 등 불안감이 고조됨\n- 유비소프트는 현재 재무적으로 민감한 시기를 지나고 있으며, 2025년 중반에도 <레인보우 식스 시즈> 관련 이슈가 수익 전망에 부정적인 영향을 미쳤던 만큼 이번 사태가 장기화될 경우 경영 실적과 브랜드 신뢰도에 타격이 예상됨\n- 회사 측은 서버 연결 및 동기화 오류 해결을 위한 조치를 취하고 있으나, 사건 발생 초기 공식 채널을 통한 소통 부재가 이용자들의 불신을 키웠다는 비판을 받고 있음"
       },
       {
         "company_ko": "세가",
