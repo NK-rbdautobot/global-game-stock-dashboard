@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-25T22:30:04Z",
+  "generated_at_utc": "2026-08-27T02:59:59Z",
   "financial_archive": {
     "source": "Google Sheets per-company tabs; Nexon excluded until cleaned",
     "sheet_url": "https://docs.google.com/spreadsheets/d/1jzdID-ZY39VhKgHdvpSIcGiJq0Gk_qsOj1k6hNi3jh8/edit",
@@ -3195,14 +3195,6 @@
         "operating_profit_unit": "영업이익(억 CNY)",
         "quarters": [
           {
-            "period": "2024 Q4",
-            "revenue": 11.9,
-            "operating_profit": 3.4,
-            "revenue_krw_eok": 2380.0,
-            "operating_profit_krw_eok": 680.0,
-            "source_range": "B1:G3"
-          },
-          {
             "period": "2025 Q1",
             "revenue": 13.5,
             "operating_profit": 5.3,
@@ -3240,6 +3232,14 @@
             "operating_profit": 7.5,
             "revenue_krw_eok": 4440.0,
             "operating_profit_krw_eok": 1500.0,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q2",
+            "revenue": 25.8,
+            "operating_profit": 8.2,
+            "revenue_krw_eok": 5160.0,
+            "operating_profit_krw_eok": 1639.9999999999998,
             "source_range": "B1:G3"
           }
         ],
@@ -3281,11 +3281,11 @@
           }
         ],
         "latest_quarter": {
-          "period": "2026 Q1",
-          "revenue": 22.2,
-          "operating_profit": 7.5,
-          "revenue_krw_eok": 4440.0,
-          "operating_profit_krw_eok": 1500.0,
+          "period": "2026 Q2",
+          "revenue": 25.8,
+          "operating_profit": 8.2,
+          "revenue_krw_eok": 5160.0,
+          "operating_profit_krw_eok": 1639.9999999999998,
           "source_range": "B1:G3"
         },
         "latest_year": {
@@ -3304,7 +3304,8 @@
           "https://file-view.comein.cn/onlinePreview?url=aHR0cHM6Ly9kYXRhYmFzZS5jb21laW4uY24vb3JpZ2luYWwtZGF0YS9wZGYvZG9jdW1lbnRzQW5ub3VuY2VtZW50L2E0MzVkNTk2Y2MxMjFmMDEzNTNmODA4NmFkZmNiY2MyLlBERj9wZGZEb3dubG9hZERpc2FibGU9ZmFsc2U%3D&officePreviewSwitchDisabled=true&officePreviewType=pdf&watermarkTxt=",
           "https://file-view.comein.cn/onlinePreview?url=aHR0cHM6Ly9kYXRhYmFzZS5jb21laW4uY24vb3JpZ2luYWwtZGF0YS9wZGYvZG9jdW1lbnRzQW5ub3VuY2VtZW50L2Q4NWVmZTExNjA4ODgzYTcwYjM2NjQ2NzljNTJmMDI2LlBERj9wZGZEb3dubG9hZERpc2FibGU9ZmFsc2U%3D&officePreviewSwitchDisabled=true&officePreviewType=pdf&watermarkTxt=",
           "https://file-view.comein.cn/onlinePreview?url=aHR0cHM6Ly9kYXRhYmFzZS5jb21laW4uY24vb3JpZ2luYWwtZGF0YS9wZGYvZG9jdW1lbnRzQW5ub3VuY2VtZW50L2U3NDY2M2JiN2RkZWQzMTE1NzZjZTE4MDFkMTY2OTA0LlBERj9wZGZEb3dubG9hZERpc2FibGU9ZmFsc2U%3D&officePreviewSwitchDisabled=true&officePreviewType=pdf&watermarkTxt=",
-          "https://file-view.comein.cn/onlinePreview?url=aHR0cHM6Ly9kYXRhYmFzZS5jb21laW4uY24vb3JpZ2luYWwtZGF0YS9wZGYvZG9jdW1lbnRzQW5ub3VuY2VtZW50L2Q5N2MyNDEwNDAxOGFjMDcwYmNkNDljM2JhZjdjYzc3LlBERj9wZGZEb3dubG9hZERpc2FibGU9ZmFsc2U%3D&officePreviewSwitchDisabled=true&officePreviewType=pdf&watermarkTxt="
+          "https://file-view.comein.cn/onlinePreview?url=aHR0cHM6Ly9kYXRhYmFzZS5jb21laW4uY24vb3JpZ2luYWwtZGF0YS9wZGYvZG9jdW1lbnRzQW5ub3VuY2VtZW50L2Q5N2MyNDEwNDAxOGFjMDcwYmNkNDljM2JhZjdjYzc3LlBERj9wZGZEb3dubG9hZERpc2FibGU9ZmFsc2U%3D&officePreviewSwitchDisabled=true&officePreviewType=pdf&watermarkTxt=",
+          "https://file-view.comein.cn/onlinePreview?url=aHR0cHM6Ly9kYXRhYmFzZS5jb21laW4uY24vb3JpZ2luYWwtZGF0YS9wZGYvZG9jdW1lbnRzQW5ub3VuY2VtZW50LzgzODAwNTdkYjc2MmJjOTk3YTI5YWNjMGI3OWRmNzQ4LlBERj9wZGZEb3dubG9hZERpc2FibGU9ZmFsc2U%3D&officePreviewSwitchDisabled=true&officePreviewType=pdf&watermarkTxt="
         ]
       },
       {
@@ -3811,6 +3812,174 @@
     "count": 447,
     "rows": [
       {
+        "company_ko": "알파벳",
+        "title_ko": "[글로벌/동향] 구글, ‘구글북스’ 통해 안드로이드-PC 연동 강화 및 플레이 스토어 AI 기능 업데이트",
+        "summary_ko": "- 구글이 최근 ‘구글 플레이 서비스(v26.33)’ 및 ‘구글 플레이 스토어(v52.9)’ 시스템 업데이트를 통해 안드로이드 스마트폰과 PC 간의 원활한 연동을 지원하고 크로스 디바이스 생태계를 한층 더 확장함\n- 이번 업데이트의 핵심은 오는 9월 출시 예정인 신규 디바이스 '구글북스(Googlebooks)'와의 연동성 강화로, 이용자는 PC와 스마트폰 환경에서 구글북스를 통해 모바일 앱에 간편하게 접근할 수 있게 됨\n- 이와 함께 플레이 스토어의 AI 기반 검색 비서 기능인 ‘에스크 플레이(Ask Play)’가 고도화되어, 이용자가 다른 화면으로 이동하지 않고도 에스크 플레이 내부에서 앱 및 게임의 하이라이트 비디오를 즉시 시청할 수 있도록 지원함\n- 기타 업데이트로는 대화면 기기를 위한 홈·검색 칩 추가, 악성 앱 감지 솔루션인 ‘플레이 프로텍트’의 기능 개선, 다운로드 완료 후 연관 앱 꾸러미를 제안하는 기능 등이 포함됨\n[Comment]\n- 구글은 애플의 폐쇄적이지만 강력한 생태계 연동성에 대응하기 위해 안드로이드 디바이스와 PC(크롬OS/윈도우 기반 스마트 디바이스) 간의 경계를 허무는 ‘크로스 디바이스’ 전략을 지속적으로 강화하고 있음\n- 특히 9월 출시를 앞둔 구글북스에 모바일 앱 직접 접근 기능을 선제적으로 탑재함으로써, 하드웨어 출시 초기부터 원활한 멀티디바이스 경험을 제공하여 초기 시장 안착을 도모하려는 의도로 풀이됨\n- 또한 플레이 스토어 내에 제미나이(Gemini) 기반 AI 검색 에이전트인 'Ask Play'를 고도화하는 것은 검색 광고 모델 중심의 앱 마켓에서 AI 대화형 탐색 및 추천 중심으로 사용자 경험(UX)을 패러다임 시프트하려는 시도로 분석됨",
+        "original_title": "Googlebooks could make switching between Android and PC much easier",
+        "url": "https://www.androidauthority.com/googlebooks-android-apps-pc-switching-easier-3702716/",
+        "published_at": "2026. 8. 26",
+        "published_key": "2026-08-26 00:00:00",
+        "score": "",
+        "keyword": "Google",
+        "integrated_note": "- 구글은 애플의 폐쇄적이지만 강력한 생태계 연동성에 대응하기 위해 안드로이드 디바이스와 PC(크롬OS/윈도우 기반 스마트 디바이스) 간의 경계를 허무는 ‘크로스 디바이스’ 전략을 지속적으로 강화하고 있음\n- 특히 9월 출시를 앞둔 구글북스에 모바일 앱 직접 접근 기능을 선제적으로 탑재함으로써, 하드웨어 출시 초기부터 원활한 멀티디바이스 경험을 제공하여 초기 시장 안착을 도모하려는 의도로 풀이됨\n- 또한 플레이 스토어 내에 제미나이(Gemini) 기반 AI 검색 에이전트인 'Ask Play'를 고도화하는 것은 검색 광고 모델 중심의 앱 마켓에서 AI 대화형 탐색 및 추천 중심으로 사용자 경험(UX)을 패러다임 시프트하려는 시도로 분석됨"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/동향] 엔비디아 지포스 나우, 밸브 '스팀 컨트롤러' 및 '스팀 머신' 공식 지원 예정",
+        "summary_ko": "- 엔비디아(Nvidia)는 자사의 클라우드 게임 서비스 '지포스 나우(GeForce Now)'가 올해 말부터 밸브(Valve)의 '스팀 컨트롤러' 및 '스팀 머신'을 공식 지원할 예정이라고 발표함\n- 이를 통해 이용자들은 스팀 덱(Steam Deck)이나 스팀 머신에서 지포스 나우 앱을 실행할 때 밸브의 게임패드를 사용할 수 있게 되며, 윈도우(Windows) 및 맥OS(macOS)용 지포스 나우에 대한 스팀 컨트롤러 지원은 향후 추가될 예정임\n- 이와 함께 지포스 나우에는 DLSS 4.5 컨트롤(초고해상도, 다이내믹 프레임 생성, 레이 재구성 등) 추가, GOG 싱글 사인온(SSO) 연동, 파이어폭스(Firefox) 브라우저 공식 지원 등 다양한 편의성 및 기술 업데이트가 적용됨\n- 또한, 엔비디아는 올해 가을 출시 예정인 신규 'RTX 스파크(RTX Spark)' 칩 제품군을 EA, 엠바크(Embark), 유비소프트(Ubisoft) 등의 대형 게임사들이 지원할 예정이며, <EA 스포츠 F1 25>, <에이펙스 레전드> 등의 타이틀에 적용될 것이라 밝힘\n[Comment]\n- 엔비디아의 이번 스팀 컨트롤러 지원은 클라우드 게임 플랫폼인 지포스 나우의 기기 호환성을 넓혀, 하드웨어 제약 없이 고사양 PC 게임을 즐기려는 밸브 스팀 생태계 유저층을 적극적으로 흡수하려는 전략으로 분석됨\n- 파이어폭스 공식 지원 및 아마존 파이어 TV 스틱으로의 확장 등 접근 채널을 다각화하는 동시에, DLSS 4.5 및 RTX 기술력을 클라우드에 지속해서 주입함으로써 경쟁 플랫폼 대비 고성능 게이밍 경험이라는 차별점을 확고히 하고 있음",
+        "original_title": "GeForce Now is getting support for the Steam Controller",
+        "url": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
+        "published_at": "2026. 8. 26",
+        "published_key": "2026-08-26 00:00:00",
+        "score": "",
+        "keyword": "Steam",
+        "integrated_note": "- 엔비디아의 이번 스팀 컨트롤러 지원은 클라우드 게임 플랫폼인 지포스 나우의 기기 호환성을 넓혀, 하드웨어 제약 없이 고사양 PC 게임을 즐기려는 밸브 스팀 생태계 유저층을 적극적으로 흡수하려는 전략으로 분석됨\n- 파이어폭스 공식 지원 및 아마존 파이어 TV 스틱으로의 확장 등 접근 채널을 다각화하는 동시에, DLSS 4.5 및 RTX 기술력을 클라우드에 지속해서 주입함으로써 경쟁 플랫폼 대비 고성능 게이밍 경험이라는 차별점을 확고히 하고 있음"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/동향] 구글, ‘구글북스’ 통해 안드로이드-PC 연동 강화 및 플레이 스토어 AI 기능 업데이트",
+        "summary_ko": "- 구글이 최근 ‘구글 플레이 서비스(v26.33)’ 및 ‘구글 플레이 스토어(v52.9)’ 시스템 업데이트를 통해 안드로이드 스마트폰과 PC 간의 원활한 연동을 지원하고 크로스 디바이스 생태계를 한층 더 확장함\n- 이번 업데이트의 핵심은 오는 9월 출시 예정인 신규 디바이스 '구글북스(Googlebooks)'와의 연동성 강화로, 이용자는 PC와 스마트폰 환경에서 구글북스를 통해 모바일 앱에 간편하게 접근할 수 있게 됨\n- 이와 함께 플레이 스토어의 AI 기반 검색 비서 기능인 ‘에스크 플레이(Ask Play)’가 고도화되어, 이용자가 다른 화면으로 이동하지 않고도 에스크 플레이 내부에서 앱 및 게임의 하이라이트 비디오를 즉시 시청할 수 있도록 지원함\n- 기타 업데이트로는 대화면 기기를 위한 홈·검색 칩 추가, 악성 앱 감지 솔루션인 ‘플레이 프로텍트’의 기능 개선, 다운로드 완료 후 연관 앱 꾸러미를 제안하는 기능 등이 포함됨\n[Comment]\n- 구글은 애플의 폐쇄적이지만 강력한 생태계 연동성에 대응하기 위해 안드로이드 디바이스와 PC(크롬OS/윈도우 기반 스마트 디바이스) 간의 경계를 허무는 ‘크로스 디바이스’ 전략을 지속적으로 강화하고 있음\n- 특히 9월 출시를 앞둔 구글북스에 모바일 앱 직접 접근 기능을 선제적으로 탑재함으로써, 하드웨어 출시 초기부터 원활한 멀티디바이스 경험을 제공하여 초기 시장 안착을 도모하려는 의도로 풀이됨\n- 또한 플레이 스토어 내에 제미나이(Gemini) 기반 AI 검색 에이전트인 'Ask Play'를 고도화하는 것은 검색 광고 모델 중심의 앱 마켓에서 AI 대화형 탐색 및 추천 중심으로 사용자 경험(UX)을 패러다임 시프트하려는 시도로 분석됨",
+        "original_title": "Googlebooks could make switching between Android and PC much easier",
+        "url": "https://www.androidauthority.com/googlebooks-android-apps-pc-switching-easier-3702716/",
+        "published_at": "2026. 8. 26",
+        "published_key": "2026-08-26 00:00:00",
+        "score": "",
+        "keyword": "Google",
+        "integrated_note": "- 구글은 애플의 폐쇄적이지만 강력한 생태계 연동성에 대응하기 위해 안드로이드 디바이스와 PC(크롬OS/윈도우 기반 스마트 디바이스) 간의 경계를 허무는 ‘크로스 디바이스’ 전략을 지속적으로 강화하고 있음\n- 특히 9월 출시를 앞둔 구글북스에 모바일 앱 직접 접근 기능을 선제적으로 탑재함으로써, 하드웨어 출시 초기부터 원활한 멀티디바이스 경험을 제공하여 초기 시장 안착을 도모하려는 의도로 풀이됨\n- 또한 플레이 스토어 내에 제미나이(Gemini) 기반 AI 검색 에이전트인 'Ask Play'를 고도화하는 것은 검색 광고 모델 중심의 앱 마켓에서 AI 대화형 탐색 및 추천 중심으로 사용자 경험(UX)을 패러다임 시프트하려는 시도로 분석됨"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/동향] 플레이사이드, ‘덤 웨이즈 투 다이’ IP 기반 협동 건설 게임 <덤 웨이즈 투 빌드> 9월 10일 출시",
+        "summary_ko": "- 호주의 게임 개발사 플레이사이드 스튜디오(PlaySide Studios)는 전 세계적으로 흥행한 공익 광고 IP '덤 웨이즈 투 다이(Dumb Ways to Die)'를 활용한 물리 기반 협동 건설 신작 <덤 웨이즈 투 빌드(Dumb Ways to Build)>를 오는 9월 10일 정식 출시한다고 발표함\n- 본 게임은 PC(스팀), 플레이스테이션 5, 엑스박스 시리즈 X|S 플랫폼을 통해 출시되며 출시 당일 플랫폼 간 크로스플레이를 지원하고, 가격은 7.99달러(USD)로 책정되었음\n- 최대 4인의 온라인 협동 플레이를 지원하며, 유저들은 '덤빌(Dumbville)'의 건설 노동자가 되어 정교한 물리 엔진 기반의 돌발적인 환경 속에서 다양한 건축 과제를 완수해야 함. 무작위 매칭 대신 비공개 룸 코드를 통한 접속만을 지원하며, 1인 플레이어를 위해 오브젝트를 임시 고정하는 고유 메카닉이 제공됨\n- 플레이사이드는 새로운 게임 메커니즘을 내세우기보다, 1,100만 명 이상의 소셜 미디어 팔로워를 보유한 원작 IP의 강력한 브랜드 인지도를 활용해 물리 기반 협동 게임 시장에서 유기적인 마케팅과 입소문 효과를 노린다는 전략을 취하고 있음\n[Comment]\n- 플레이사이드는 지난 2021년 10월 메트로 트레인스 멜버른으로부터 해당 IP를 225만 호주 달러(약 161만 미국 달러)에 인수했으며, 이번 신작은 모바일을 넘어 PC 및 콘솔 플랫폼으로 확장하는 프랜차이즈 최초의 시도임\n- 최근 게임업계에서 소위 '프렌드슬롭(friendslop)'이라 불리는 협동 물리 게임 장르가 시장 포화 우려 속에서도 인기를 끌고 있는 상황에서, 플레이사이드의 이번 도전이 참신한 메커니즘 없이 브랜드 파워만으로 유저층을 성공적으로 확보할 수 있을지가 주요 관전 포인트임\n- 한편 플레이사이드는 2026 회계연도에 총매출 5,490만 호주 달러를 기록하며 예상치를 상회 달성함. 이는 자체 IP 매출이 전년 대비 108% 급증한 덕분이며, 지난 4월 출시 이후 100만 장 이상의 판매고와 2,800만 미국 달러의 총매출을 기록한 1930년대 누아르 애니메이션 스타일 슈팅 게임 <마우스(MOUSE: P.I. For Hire)>가 실적 성장을 견인한 것으로 분석됨",
+        "original_title": "Dumb Ways to Build Bets Brand Over Mechanic: Under-$8 Co-op Builder Drops September 10 on Steam",
+        "url": "https://www.techtimes.com/articles/325546/20260825/dumb-ways-build-bets-brand-over-mechanic-under-8-co-op-builder-drops-september-10-steam.htm",
+        "published_at": "2026. 8. 26",
+        "published_key": "2026-08-26 00:00:00",
+        "score": "",
+        "keyword": "Steam",
+        "integrated_note": "- 플레이사이드는 지난 2021년 10월 메트로 트레인스 멜버른으로부터 해당 IP를 225만 호주 달러(약 161만 미국 달러)에 인수했으며, 이번 신작은 모바일을 넘어 PC 및 콘솔 플랫폼으로 확장하는 프랜차이즈 최초의 시도임\n- 최근 게임업계에서 소위 '프렌드슬롭(friendslop)'이라 불리는 협동 물리 게임 장르가 시장 포화 우려 속에서도 인기를 끌고 있는 상황에서, 플레이사이드의 이번 도전이 참신한 메커니즘 없이 브랜드 파워만으로 유저층을 성공적으로 확보할 수 있을지가 주요 관전 포인트임\n- 한편 플레이사이드는 2026 회계연도에 총매출 5,490만 호주 달러를 기록하며 예상치를 상회 달성함. 이는 자체 IP 매출이 전년 대비 108% 급증한 덕분이며, 지난 4월 출시 이후 100만 장 이상의 판매고와 2,800만 미국 달러의 총매출을 기록한 1930년대 누아르 애니메이션 스타일 슈팅 게임 <마우스(MOUSE: P.I. For Hire)>가 실적 성장을 견인한 것으로 분석됨"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/동향] 스퀘어 에닉스, '파이널 판타지 7 레벨레이션' 신규 트레일러 공개… 2027년 봄 출시 목표",
+        "summary_ko": "- 스퀘어 에닉스는 '게임스컴 오프닝 나이트 라이브(Gamescom Opening Night Live)'를 통해 <파이널 판타지 7 리메이크> 3부작의 최종장인 <파이널 판타지 VII 레벨레이션(Final Fantasy VII Revelation)>의 신규 트레일러를 공개함\n- 이번 트레일러에서는 세피로스의 메테오 낙하 계획에 대응해 폭주하는 행성의 거대 수호 생명체 '웨폰(Weapons)'들의 모습이 담겼으며, 비공정을 활용한 공중 전투를 포함한 대규모 전투 연출이 예고됨\n- 본 작은 플레이스테이션 5(PS5) 플랫폼으로 2027년 봄(2분기) 출시를 목표로 하고 있으며, 전작 <파이널 판타지 VII 리버스>에서 피로감을 유발했던 과도한 미니게임 요소를 줄이고 유저의 불만을 최소화하는 개선 작업이 진행 중임\n- 아울러 캐릭터당 최대 4개의 직업을 간편하게 지정해 플레이할 수 있는 새로운 '잡 시스템(Job System)'이 도입되어 게임플레이에 신선한 변화를 줄 예정임\n[Comment]\n- <파이널 판타지 VII 레벨레이션>은 원작의 방대한 후반부 서사와 비공정 이동 등을 현대적 기술로 구현하는 도전적인 타이틀로, 스퀘어 에닉스의 차세대 RPG 역량을 증명할 핵심 기대작임\n- 특히 전작의 단점으로 지적받은 미니게임 비중을 조절하고 직관적인 잡 시스템을 도입하겠다고 밝힌 만큼, 전투의 깊이를 더하면서도 플레이 편의성을 크게 개선하려는 개발진의 전략적 판단으로 분석됨",
+        "original_title": "The Weapons Star in Fresh Look at Final Fantasy 7 Revelation, Still Set for Spring 2027 on PS5",
+        "url": "https://www.pushsquare.com/news/2026/08/the-weapons-star-in-fresh-look-at-final-fantasy-7-revelation-still-set-for-spring-2027-on-ps5",
+        "published_at": "2026. 8. 26",
+        "published_key": "2026-08-26 00:00:00",
+        "score": "",
+        "keyword": "PS5",
+        "integrated_note": "- <파이널 판타지 VII 레벨레이션>은 원작의 방대한 후반부 서사와 비공정 이동 등을 현대적 기술로 구현하는 도전적인 타이틀로, 스퀘어 에닉스의 차세대 RPG 역량을 증명할 핵심 기대작임\n- 특히 전작의 단점으로 지적받은 미니게임 비중을 조절하고 직관적인 잡 시스템을 도입하겠다고 밝힌 만큼, 전투의 깊이를 더하면서도 플레이 편의성을 크게 개선하려는 개발진의 전략적 판단으로 분석됨"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/동향] <패스 오브 엑자일 2>, 얼리 액세스 거쳐 2026년 12월 정식 출시 및 무료화 전환 발표",
+        "summary_ko": "- 개발사 그라인딩 기어 게임즈(Grinding Gear Games)는 액션 RPG <패스 오브 엑자일 2>의 정식 1.0 버전을 약 1년간의 얼리 액세스 과정을 거친 후 2026년 12월 11일에 출시한다고 발표함\n- 정식 출시 시점부터 게임은 기존의 유료 판매 방식을 탈피하여 전면 무료 플레이(Free-to-Play) 서비스로 전환될 예정임\n- 개발사는 얼리 액세스 시작 이후 전작 <패스 오브 엑자일>의 개발 및 라이브 서비스를 유지하는 동시에 후속작의 업데이트를 지속해 왔으며, 이번 1.0 업데이트를 통해 새로운 콘텐츠를 대거 선보일 계획임\n- 현재 공식 웹사이트를 통해 사전 등록을 진행 중이며, 신청한 이용자들에게는 정식 출시 후 인게임 보상이 제공될 예정임\n[Comment]\n- <패스 오브 엑자일 2>는 얼리 액세스 단계에서 유료 패키지 판매를 통해 코어 유저층을 선점하고 피드백을 수렴한 뒤, 정식 출시 시점에 F2P로 전환하여 대규모 대중 유저를 유입시키는 하이브리드 출시 전략을 취하고 있음\n- 전작이 장기 흥행하며 글로벌 시장에서 확고한 팬덤을 형성한 만큼, 정식 출시 이후 장르적 라이벌인 블리자드의 <디아블로 4> 등 웰메이드 핵앤슬래시 게임들과의 본격적인 시장 주도권 경쟁이 심화될 것으로 전망됨",
+        "original_title": "Path of Exile 2 Reaches 1.0 on 11th December, Goes Free-to-Play on PS5",
+        "url": "https://www.pushsquare.com/news/2026/08/path-of-exile-2-reaches-1-0-on-11th-december-goes-free-to-play-on-ps5",
+        "published_at": "2026. 8. 26",
+        "published_key": "2026-08-26 00:00:00",
+        "score": "",
+        "keyword": "PS5",
+        "integrated_note": "- <패스 오브 엑자일 2>는 얼리 액세스 단계에서 유료 패키지 판매를 통해 코어 유저층을 선점하고 피드백을 수렴한 뒤, 정식 출시 시점에 F2P로 전환하여 대규모 대중 유저를 유입시키는 하이브리드 출시 전략을 취하고 있음\n- 전작이 장기 흥행하며 글로벌 시장에서 확고한 팬덤을 형성한 만큼, 정식 출시 이후 장르적 라이벌인 블리자드의 <디아블로 4> 등 웰메이드 핵앤슬래시 게임들과의 본격적인 시장 주도권 경쟁이 심화될 것으로 전망됨"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[全球/竞争사] 콜 오브 듀티: 모던 워페어 4, 베타 테스트 진행 속 혹평 직면",
+        "summary_ko": "- 최근 액티비전 블리자드는 신작 FPS 게임 <콜 오브 듀티: 모던 워페어 4(이하 MW4)>의 베타 테스트를 시작했으며, 스팀 기준 최대 동시 접속자 수 11만 5천 명을 기록하는 등 초기 흥행을 보임\n- 그러나 스팀 내 사용자 평가에서 36.63%의 저조한好评률(호평률)을 기록했으며, 특히 서구권과 중국 시장 등 핵심 지역에서 이용자들의 불만이 고조되고 있음\n- 주요 비판 요소로는 테스트 첫날부터 기승을 부리는 핵(외국산 치트) 문제, 서버 지연(랙), 지나치게 복잡하고 색감이 혼란스러운 맵 환경으로 인한 ‘피아 식별’의 어려움 등이 지적됨\n- 또한, 특정 총기의 압도적 성능으로 인한 밸런스 붕괴와 캐릭터 모델의 중복 문제, 조작감의 이질감 및 과도한 무기 성장 시스템(레벨업) 등이 게임의 완성도와 몰입도를 떨어뜨린다는 평가가 지배적임\n- 10월 23일 정식 출시를 앞둔 가운데, 개발진은 남은 기간 동안 최적화와 서버 문제 등 핵심 피드백을 반영해야 하는 과제를 안게 됨\n\n[Comment]\n- <콜 오브 듀티> 시리즈는 액티비전 블리자드의 핵심 IP로서, 최근 전작의 부진과 경쟁작들의 추격 속에서 입지를 방어해야 하는 중요한 기로에 서 있음\n- 특히 이번 베타 테스트는 단순한 흥행 수치보다 유저들이 체감하는 게임의 ‘조작감’과 ‘네트워크 환경’에서 심각한 균열을 노출했다는 점에서 정식 출시 후 평가를 장담하기 어려운 상황임\n- IW 스튜디오의 기술력 자체는 높게 평가받으나, 지나친 리얼리즘 추구가 오히려 대중적인 슈팅 게임의 가독성을 해치고 있다는 지적이 나오는 만큼, 향후 밸런스 패치 및 시스템 개선 방향이 흥행의 관건이 될 것으로 보임",
+        "original_title": "Steam测试超11万在线！COD重磅新作《现代战争4》遭遇口碑低迷？",
+        "url": "http://www.gamelook.com.cn/2026/08/600682/",
+        "published_at": "2026. 8. 26",
+        "published_key": "2026-08-26 00:00:00",
+        "score": "",
+        "keyword": "新作",
+        "integrated_note": "- <콜 오브 듀티> 시리즈는 액티비전 블리자드의 핵심 IP로서, 최근 전작의 부진과 경쟁작들의 추격 속에서 입지를 방어해야 하는 중요한 기로에 서 있음\n- 특히 이번 베타 테스트는 단순한 흥행 수치보다 유저들이 체감하는 게임의 ‘조작감’과 ‘네트워크 환경’에서 심각한 균열을 노출했다는 점에서 정식 출시 후 평가를 장담하기 어려운 상황임\n- IW 스튜디오의 기술력 자체는 높게 평가받으나, 지나친 리얼리즘 추구가 오히려 대중적인 슈팅 게임의 가독성을 해치고 있다는 지적이 나오는 만큼, 향후 밸런스 패치 및 시스템 개선 방향이 흥행의 관건이 될 것으로 보임"
+      },
+      {
+        "company_ko": "닌텐도",
+        "title_ko": "[글로벌/동향] 구글, ‘구글북스’ 통해 안드로이드-PC 연동 강화 및 플레이 스토어 AI 기능 업데이트",
+        "summary_ko": "- 구글이 최근 ‘구글 플레이 서비스(v26.33)’ 및 ‘구글 플레이 스토어(v52.9)’ 시스템 업데이트를 통해 안드로이드 스마트폰과 PC 간의 원활한 연동을 지원하고 크로스 디바이스 생태계를 한층 더 확장함\n- 이번 업데이트의 핵심은 오는 9월 출시 예정인 신규 디바이스 '구글북스(Googlebooks)'와의 연동성 강화로, 이용자는 PC와 스마트폰 환경에서 구글북스를 통해 모바일 앱에 간편하게 접근할 수 있게 됨\n- 이와 함께 플레이 스토어의 AI 기반 검색 비서 기능인 ‘에스크 플레이(Ask Play)’가 고도화되어, 이용자가 다른 화면으로 이동하지 않고도 에스크 플레이 내부에서 앱 및 게임의 하이라이트 비디오를 즉시 시청할 수 있도록 지원함\n- 기타 업데이트로는 대화면 기기를 위한 홈·검색 칩 추가, 악성 앱 감지 솔루션인 ‘플레이 프로텍트’의 기능 개선, 다운로드 완료 후 연관 앱 꾸러미를 제안하는 기능 등이 포함됨\n[Comment]\n- 구글은 애플의 폐쇄적이지만 강력한 생태계 연동성에 대응하기 위해 안드로이드 디바이스와 PC(크롬OS/윈도우 기반 스마트 디바이스) 간의 경계를 허무는 ‘크로스 디바이스’ 전략을 지속적으로 강화하고 있음\n- 특히 9월 출시를 앞둔 구글북스에 모바일 앱 직접 접근 기능을 선제적으로 탑재함으로써, 하드웨어 출시 초기부터 원활한 멀티디바이스 경험을 제공하여 초기 시장 안착을 도모하려는 의도로 풀이됨\n- 또한 플레이 스토어 내에 제미나이(Gemini) 기반 AI 검색 에이전트인 'Ask Play'를 고도화하는 것은 검색 광고 모델 중심의 앱 마켓에서 AI 대화형 탐색 및 추천 중심으로 사용자 경험(UX)을 패러다임 시프트하려는 시도로 분석됨",
+        "original_title": "Googlebooks could make switching between Android and PC much easier",
+        "url": "https://www.androidauthority.com/googlebooks-android-apps-pc-switching-easier-3702716/",
+        "published_at": "2026. 8. 26",
+        "published_key": "2026-08-26 00:00:00",
+        "score": "",
+        "keyword": "Google",
+        "integrated_note": "- 구글은 애플의 폐쇄적이지만 강력한 생태계 연동성에 대응하기 위해 안드로이드 디바이스와 PC(크롬OS/윈도우 기반 스마트 디바이스) 간의 경계를 허무는 ‘크로스 디바이스’ 전략을 지속적으로 강화하고 있음\n- 특히 9월 출시를 앞둔 구글북스에 모바일 앱 직접 접근 기능을 선제적으로 탑재함으로써, 하드웨어 출시 초기부터 원활한 멀티디바이스 경험을 제공하여 초기 시장 안착을 도모하려는 의도로 풀이됨\n- 또한 플레이 스토어 내에 제미나이(Gemini) 기반 AI 검색 에이전트인 'Ask Play'를 고도화하는 것은 검색 광고 모델 중심의 앱 마켓에서 AI 대화형 탐색 및 추천 중심으로 사용자 경험(UX)을 패러다임 시프트하려는 시도로 분석됨"
+      },
+      {
+        "company_ko": "소니",
+        "title_ko": "[글로벌/동향] 넷이즈, 서브컬처 오픈월드 신작 <아난타> 2027년 1월 15일 글로벌 출시 확정",
+        "summary_ko": "- 넷이즈는 게임스컴 오프닝 나이트 라이브(Gamescom ONL)를 통해 서브컬처 오픈월드 신작 <아난타(Ananta, 프로젝트 무겐)>의 공식 출시일을 2027년 1월 15일로 확정하고 신규 트레일러를 공개함\n- 본 타이틀은 플레이스테이션 5(PS5) 콘솔 독점작으로 출시될 예정이며, 사전 예약 보상을 포함하여 글로벌 시장에 동시에 론칭될 계획으로, 이는 대작 <GTA 6> 출시 이후 불과 8주 만의 행보임\n- <아난타>는 스파이더맨 스타일의 오픈월드 스윙 이동을 비롯해 축구, 아케이드 게임 등 풍성한 샌드박스 콘텐츠를 제공하며, 기존 서브컬처 게임과 달리 캐릭터 뽑기(가챠)를 전면 배제하고 코스메틱(꾸미기) 아이템 판매 중심의 비즈니스 모델을 채택한 것이 특징임\n[Comment]\n- 네이키드 레인(Naked Rain)이 개발하고 약 800명의 대규모 인력이 투입된 <아난타>는 넷이즈의 막대한 자본과 기술력이 집중된 대형 프로젝트로 평가받고 있음\n- 특히 캐릭터 가챠를 배제하는 파격적인 수익 모델 선언으로 많은 관심을 모았으나, 게임 역사상 최고 기대작 중 하나로 꼽히는 <GTA 6> 출시 직후의 영향권 내에서 글로벌 시장 안착과 장기 흥행을 이끌어낼 수 있을지가 향후의 주요 관전 포인트임",
+        "original_title": "Anime Open World Ananta Launches as a PS5 Console Exclusive 8 Weeks After GTA 6",
+        "url": "https://www.pushsquare.com/news/2026/08/anime-open-world-ananta-launches-as-a-ps5-console-exclusive-8-weeks-after-gta-6",
+        "published_at": "2026. 8. 26",
+        "published_key": "2026-08-26 00:00:00",
+        "score": "",
+        "keyword": "PS5",
+        "integrated_note": "- 네이키드 레인(Naked Rain)이 개발하고 약 800명의 대규모 인력이 투입된 <아난타>는 넷이즈의 막대한 자본과 기술력이 집중된 대형 프로젝트로 평가받고 있음\n- 특히 캐릭터 가챠를 배제하는 파격적인 수익 모델 선언으로 많은 관심을 모았으나, 게임 역사상 최고 기대작 중 하나로 꼽히는 <GTA 6> 출시 직후의 영향권 내에서 글로벌 시장 안착과 장기 흥행을 이끌어낼 수 있을지가 향후의 주요 관전 포인트임"
+      },
+      {
+        "company_ko": "소니",
+        "title_ko": "[글로벌/동향] 스퀘어 에닉스, '파이널 판타지 7 레벨레이션' 신규 트레일러 공개… 2027년 봄 출시 목표",
+        "summary_ko": "- 스퀘어 에닉스는 '게임스컴 오프닝 나이트 라이브(Gamescom Opening Night Live)'를 통해 <파이널 판타지 7 리메이크> 3부작의 최종장인 <파이널 판타지 VII 레벨레이션(Final Fantasy VII Revelation)>의 신규 트레일러를 공개함\n- 이번 트레일러에서는 세피로스의 메테오 낙하 계획에 대응해 폭주하는 행성의 거대 수호 생명체 '웨폰(Weapons)'들의 모습이 담겼으며, 비공정을 활용한 공중 전투를 포함한 대규모 전투 연출이 예고됨\n- 본 작은 플레이스테이션 5(PS5) 플랫폼으로 2027년 봄(2분기) 출시를 목표로 하고 있으며, 전작 <파이널 판타지 VII 리버스>에서 피로감을 유발했던 과도한 미니게임 요소를 줄이고 유저의 불만을 최소화하는 개선 작업이 진행 중임\n- 아울러 캐릭터당 최대 4개의 직업을 간편하게 지정해 플레이할 수 있는 새로운 '잡 시스템(Job System)'이 도입되어 게임플레이에 신선한 변화를 줄 예정임\n[Comment]\n- <파이널 판타지 VII 레벨레이션>은 원작의 방대한 후반부 서사와 비공정 이동 등을 현대적 기술로 구현하는 도전적인 타이틀로, 스퀘어 에닉스의 차세대 RPG 역량을 증명할 핵심 기대작임\n- 특히 전작의 단점으로 지적받은 미니게임 비중을 조절하고 직관적인 잡 시스템을 도입하겠다고 밝힌 만큼, 전투의 깊이를 더하면서도 플레이 편의성을 크게 개선하려는 개발진의 전략적 판단으로 분석됨",
+        "original_title": "The Weapons Star in Fresh Look at Final Fantasy 7 Revelation, Still Set for Spring 2027 on PS5",
+        "url": "https://www.pushsquare.com/news/2026/08/the-weapons-star-in-fresh-look-at-final-fantasy-7-revelation-still-set-for-spring-2027-on-ps5",
+        "published_at": "2026. 8. 26",
+        "published_key": "2026-08-26 00:00:00",
+        "score": "",
+        "keyword": "PS5",
+        "integrated_note": "- <파이널 판타지 VII 레벨레이션>은 원작의 방대한 후반부 서사와 비공정 이동 등을 현대적 기술로 구현하는 도전적인 타이틀로, 스퀘어 에닉스의 차세대 RPG 역량을 증명할 핵심 기대작임\n- 특히 전작의 단점으로 지적받은 미니게임 비중을 조절하고 직관적인 잡 시스템을 도입하겠다고 밝힌 만큼, 전투의 깊이를 더하면서도 플레이 편의성을 크게 개선하려는 개발진의 전략적 판단으로 분석됨"
+      },
+      {
+        "company_ko": "소니",
+        "title_ko": "[글로벌/동향] <패스 오브 엑자일 2>, 얼리 액세스 거쳐 2026년 12월 정식 출시 및 무료화 전환 발표",
+        "summary_ko": "- 개발사 그라인딩 기어 게임즈(Grinding Gear Games)는 액션 RPG <패스 오브 엑자일 2>의 정식 1.0 버전을 약 1년간의 얼리 액세스 과정을 거친 후 2026년 12월 11일에 출시한다고 발표함\n- 정식 출시 시점부터 게임은 기존의 유료 판매 방식을 탈피하여 전면 무료 플레이(Free-to-Play) 서비스로 전환될 예정임\n- 개발사는 얼리 액세스 시작 이후 전작 <패스 오브 엑자일>의 개발 및 라이브 서비스를 유지하는 동시에 후속작의 업데이트를 지속해 왔으며, 이번 1.0 업데이트를 통해 새로운 콘텐츠를 대거 선보일 계획임\n- 현재 공식 웹사이트를 통해 사전 등록을 진행 중이며, 신청한 이용자들에게는 정식 출시 후 인게임 보상이 제공될 예정임\n[Comment]\n- <패스 오브 엑자일 2>는 얼리 액세스 단계에서 유료 패키지 판매를 통해 코어 유저층을 선점하고 피드백을 수렴한 뒤, 정식 출시 시점에 F2P로 전환하여 대규모 대중 유저를 유입시키는 하이브리드 출시 전략을 취하고 있음\n- 전작이 장기 흥행하며 글로벌 시장에서 확고한 팬덤을 형성한 만큼, 정식 출시 이후 장르적 라이벌인 블리자드의 <디아블로 4> 등 웰메이드 핵앤슬래시 게임들과의 본격적인 시장 주도권 경쟁이 심화될 것으로 전망됨",
+        "original_title": "Path of Exile 2 Reaches 1.0 on 11th December, Goes Free-to-Play on PS5",
+        "url": "https://www.pushsquare.com/news/2026/08/path-of-exile-2-reaches-1-0-on-11th-december-goes-free-to-play-on-ps5",
+        "published_at": "2026. 8. 26",
+        "published_key": "2026-08-26 00:00:00",
+        "score": "",
+        "keyword": "PS5",
+        "integrated_note": "- <패스 오브 엑자일 2>는 얼리 액세스 단계에서 유료 패키지 판매를 통해 코어 유저층을 선점하고 피드백을 수렴한 뒤, 정식 출시 시점에 F2P로 전환하여 대규모 대중 유저를 유입시키는 하이브리드 출시 전략을 취하고 있음\n- 전작이 장기 흥행하며 글로벌 시장에서 확고한 팬덤을 형성한 만큼, 정식 출시 이후 장르적 라이벌인 블리자드의 <디아블로 4> 등 웰메이드 핵앤슬래시 게임들과의 본격적인 시장 주도권 경쟁이 심화될 것으로 전망됨"
+      },
+      {
+        "company_ko": "넷이즈",
+        "title_ko": "[글로벌/동향] 넷이즈, 서브컬처 오픈월드 신작 <아난타> 2027년 1월 15일 글로벌 출시 확정",
+        "summary_ko": "- 넷이즈는 게임스컴 오프닝 나이트 라이브(Gamescom ONL)를 통해 서브컬처 오픈월드 신작 <아난타(Ananta, 프로젝트 무겐)>의 공식 출시일을 2027년 1월 15일로 확정하고 신규 트레일러를 공개함\n- 본 타이틀은 플레이스테이션 5(PS5) 콘솔 독점작으로 출시될 예정이며, 사전 예약 보상을 포함하여 글로벌 시장에 동시에 론칭될 계획으로, 이는 대작 <GTA 6> 출시 이후 불과 8주 만의 행보임\n- <아난타>는 스파이더맨 스타일의 오픈월드 스윙 이동을 비롯해 축구, 아케이드 게임 등 풍성한 샌드박스 콘텐츠를 제공하며, 기존 서브컬처 게임과 달리 캐릭터 뽑기(가챠)를 전면 배제하고 코스메틱(꾸미기) 아이템 판매 중심의 비즈니스 모델을 채택한 것이 특징임\n[Comment]\n- 네이키드 레인(Naked Rain)이 개발하고 약 800명의 대규모 인력이 투입된 <아난타>는 넷이즈의 막대한 자본과 기술력이 집중된 대형 프로젝트로 평가받고 있음\n- 특히 캐릭터 가챠를 배제하는 파격적인 수익 모델 선언으로 많은 관심을 모았으나, 게임 역사상 최고 기대작 중 하나로 꼽히는 <GTA 6> 출시 직후의 영향권 내에서 글로벌 시장 안착과 장기 흥행을 이끌어낼 수 있을지가 향후의 주요 관전 포인트임",
+        "original_title": "Anime Open World Ananta Launches as a PS5 Console Exclusive 8 Weeks After GTA 6",
+        "url": "https://www.pushsquare.com/news/2026/08/anime-open-world-ananta-launches-as-a-ps5-console-exclusive-8-weeks-after-gta-6",
+        "published_at": "2026. 8. 26",
+        "published_key": "2026-08-26 00:00:00",
+        "score": "",
+        "keyword": "PS5",
+        "integrated_note": "- 네이키드 레인(Naked Rain)이 개발하고 약 800명의 대규모 인력이 투입된 <아난타>는 넷이즈의 막대한 자본과 기술력이 집중된 대형 프로젝트로 평가받고 있음\n- 특히 캐릭터 가챠를 배제하는 파격적인 수익 모델 선언으로 많은 관심을 모았으나, 게임 역사상 최고 기대작 중 하나로 꼽히는 <GTA 6> 출시 직후의 영향권 내에서 글로벌 시장 안착과 장기 흥행을 이끌어낼 수 있을지가 향후의 주요 관전 포인트임"
+      },
+      {
+        "company_ko": "테이크투",
+        "title_ko": "[글로벌/동향] 넷이즈, 서브컬처 오픈월드 신작 <아난타> 2027년 1월 15일 글로벌 출시 확정",
+        "summary_ko": "- 넷이즈는 게임스컴 오프닝 나이트 라이브(Gamescom ONL)를 통해 서브컬처 오픈월드 신작 <아난타(Ananta, 프로젝트 무겐)>의 공식 출시일을 2027년 1월 15일로 확정하고 신규 트레일러를 공개함\n- 본 타이틀은 플레이스테이션 5(PS5) 콘솔 독점작으로 출시될 예정이며, 사전 예약 보상을 포함하여 글로벌 시장에 동시에 론칭될 계획으로, 이는 대작 <GTA 6> 출시 이후 불과 8주 만의 행보임\n- <아난타>는 스파이더맨 스타일의 오픈월드 스윙 이동을 비롯해 축구, 아케이드 게임 등 풍성한 샌드박스 콘텐츠를 제공하며, 기존 서브컬처 게임과 달리 캐릭터 뽑기(가챠)를 전면 배제하고 코스메틱(꾸미기) 아이템 판매 중심의 비즈니스 모델을 채택한 것이 특징임\n[Comment]\n- 네이키드 레인(Naked Rain)이 개발하고 약 800명의 대규모 인력이 투입된 <아난타>는 넷이즈의 막대한 자본과 기술력이 집중된 대형 프로젝트로 평가받고 있음\n- 특히 캐릭터 가챠를 배제하는 파격적인 수익 모델 선언으로 많은 관심을 모았으나, 게임 역사상 최고 기대작 중 하나로 꼽히는 <GTA 6> 출시 직후의 영향권 내에서 글로벌 시장 안착과 장기 흥행을 이끌어낼 수 있을지가 향후의 주요 관전 포인트임",
+        "original_title": "Anime Open World Ananta Launches as a PS5 Console Exclusive 8 Weeks After GTA 6",
+        "url": "https://www.pushsquare.com/news/2026/08/anime-open-world-ananta-launches-as-a-ps5-console-exclusive-8-weeks-after-gta-6",
+        "published_at": "2026. 8. 26",
+        "published_key": "2026-08-26 00:00:00",
+        "score": "",
+        "keyword": "PS5",
+        "integrated_note": "- 네이키드 레인(Naked Rain)이 개발하고 약 800명의 대규모 인력이 투입된 <아난타>는 넷이즈의 막대한 자본과 기술력이 집중된 대형 프로젝트로 평가받고 있음\n- 특히 캐릭터 가챠를 배제하는 파격적인 수익 모델 선언으로 많은 관심을 모았으나, 게임 역사상 최고 기대작 중 하나로 꼽히는 <GTA 6> 출시 직후의 영향권 내에서 글로벌 시장 안착과 장기 흥행을 이끌어낼 수 있을지가 향후의 주요 관전 포인트임"
+      },
+      {
+        "company_ko": "스퀘어에닉스",
+        "title_ko": "[글로벌/동향] 스퀘어 에닉스, '파이널 판타지 7 레벨레이션' 신규 트레일러 공개… 2027년 봄 출시 목표",
+        "summary_ko": "- 스퀘어 에닉스는 '게임스컴 오프닝 나이트 라이브(Gamescom Opening Night Live)'를 통해 <파이널 판타지 7 리메이크> 3부작의 최종장인 <파이널 판타지 VII 레벨레이션(Final Fantasy VII Revelation)>의 신규 트레일러를 공개함\n- 이번 트레일러에서는 세피로스의 메테오 낙하 계획에 대응해 폭주하는 행성의 거대 수호 생명체 '웨폰(Weapons)'들의 모습이 담겼으며, 비공정을 활용한 공중 전투를 포함한 대규모 전투 연출이 예고됨\n- 본 작은 플레이스테이션 5(PS5) 플랫폼으로 2027년 봄(2분기) 출시를 목표로 하고 있으며, 전작 <파이널 판타지 VII 리버스>에서 피로감을 유발했던 과도한 미니게임 요소를 줄이고 유저의 불만을 최소화하는 개선 작업이 진행 중임\n- 아울러 캐릭터당 최대 4개의 직업을 간편하게 지정해 플레이할 수 있는 새로운 '잡 시스템(Job System)'이 도입되어 게임플레이에 신선한 변화를 줄 예정임\n[Comment]\n- <파이널 판타지 VII 레벨레이션>은 원작의 방대한 후반부 서사와 비공정 이동 등을 현대적 기술로 구현하는 도전적인 타이틀로, 스퀘어 에닉스의 차세대 RPG 역량을 증명할 핵심 기대작임\n- 특히 전작의 단점으로 지적받은 미니게임 비중을 조절하고 직관적인 잡 시스템을 도입하겠다고 밝힌 만큼, 전투의 깊이를 더하면서도 플레이 편의성을 크게 개선하려는 개발진의 전략적 판단으로 분석됨",
+        "original_title": "The Weapons Star in Fresh Look at Final Fantasy 7 Revelation, Still Set for Spring 2027 on PS5",
+        "url": "https://www.pushsquare.com/news/2026/08/the-weapons-star-in-fresh-look-at-final-fantasy-7-revelation-still-set-for-spring-2027-on-ps5",
+        "published_at": "2026. 8. 26",
+        "published_key": "2026-08-26 00:00:00",
+        "score": "",
+        "keyword": "PS5",
+        "integrated_note": "- <파이널 판타지 VII 레벨레이션>은 원작의 방대한 후반부 서사와 비공정 이동 등을 현대적 기술로 구현하는 도전적인 타이틀로, 스퀘어 에닉스의 차세대 RPG 역량을 증명할 핵심 기대작임\n- 특히 전작의 단점으로 지적받은 미니게임 비중을 조절하고 직관적인 잡 시스템을 도입하겠다고 밝힌 만큼, 전투의 깊이를 더하면서도 플레이 편의성을 크게 개선하려는 개발진의 전략적 판단으로 분석됨"
+      },
+      {
         "company_ko": "마이크로소프트",
         "title_ko": "[글로벌/동향] Xbox, 멀티플랫폼 게임 트레일러에서 경쟁사 'PS5' 로고 노출 배제 움직임",
         "summary_ko": "- 올해 초 서머 게임 페스트(Summer Game Fest) 당시 마이크로소프트(MS)의 콘텐츠 총괄 책임자 맷 부티(Matt Booty)는 Xbox 쇼케이스의 멀티플랫폼 게임 트레일러에 PS5 로고를 포함할 것이라고 밝혔으나, 이에 대한 팬들의 반발이 일자 신임 CEO 아샤 샤르마(Asha Sharma)는 이를 \"실수\"로 인정하고 향후 마케팅 방향을 조정하겠다고 밝힘\n- 이러한 정책 변화의 징후로, 최근 Xbox 공식 유튜브 채널에 업로드된 <Minecraft Dungeons 2>의 신규 트레일러에는 타 플랫폼(PS5, 스팀, 닌텐도 스위치 등)이 표시된 타 매체 버전과 달리 오직 'Xbox Series X|S' 및 'PC' 플랫폼만 표기됨\n- 경쟁사인 소니의 경우 자사 채널에 업로드하는 트레일러에 오직 PS4 및 PS5 플랫폼만 표시하는 마케팅 관행을 유지하고 있으며, Xbox 역시 타사 플랫폼 노출을 배제하는 표준적인 마케팅 방식으로 복귀하는 것으로 분석됨\n[Comment]\n- 이번 조치는 자사 마케팅 채널에서 경쟁 플랫폼의 브랜드를 무료로 홍보해 주지 않겠다는 의도로 보이며, 자사 하드웨어 및 PC 생태계의 브랜드 입지를 강화하려는 전략적 변화로 풀이됨\n- 다만, MS가 자사 게임을 플레이스테이션 등 타 플랫폼으로도 출시하는 멀티플랫폼 전략을 완전히 포기한 것은 아니며, 단지 마케팅 단계에서 경쟁사 로고 노출을 제한하는 것에 가깝기 때문에 향후 유저들이 특정 타이틀의 타 플랫폼 출시 여부를 확인하는 데 다소 시간이 걸릴 수 있음",
@@ -3821,6 +3990,42 @@
         "score": "",
         "keyword": "PS5",
         "integrated_note": "- 이번 조치는 자사 마케팅 채널에서 경쟁 플랫폼의 브랜드를 무료로 홍보해 주지 않겠다는 의도로 보이며, 자사 하드웨어 및 PC 생태계의 브랜드 입지를 강화하려는 전략적 변화로 풀이됨\n- 다만, MS가 자사 게임을 플레이스테이션 등 타 플랫폼으로도 출시하는 멀티플랫폼 전략을 완전히 포기한 것은 아니며, 단지 마케팅 단계에서 경쟁사 로고 노출을 제한하는 것에 가깝기 때문에 향후 유저들이 특정 타이틀의 타 플랫폼 출시 여부를 확인하는 데 다소 시간이 걸릴 수 있음"
+      },
+      {
+        "company_ko": "마이크로소프트",
+        "title_ko": "[글로벌/동향] MS·소니, 멀티플랫폼 홍보 축소하고 콘솔 독점 전략으로 재선회",
+        "summary_ko": "- 최근 마이크로소프트(MS)와 소니가 그간 추진해 온 멀티플랫폼 확장 마케팅을 축소하고, 자사 콘솔의 독점 지위를 다시 강조하는 방향으로 전략을 수정하고 있음\n- MS는 최근 공개한 <Minecraft Dungeons 2> 트레일러에서 닌텐도 및 소니 콘솔 표기를 제외함. 신임 Xbox CEO 아샤 샤마(Asha Sharma)는 타사 플랫폼 로고를 노출하던 기존 방침을 \"실수(a miss)\"로 규정했으며, <Gears of War: E-Day>의 PS5 미출시 선언 및 <Halo: Campaign Evolved> 프로모션의 플레이스테이션 행사 제외 등 독점 기조를 다시 강화하고 있음\n- 소니 역시 퍼스트파티 타이틀의 PC 포팅 속도를 조절하는 움직임을 보임. 소니의 2026년 전략 문서에서 \"퍼스트파티 타이틀을 PC 등 멀티플랫폼으로 계속 확장하겠다\"는 문구가 삭제되었으며, <Ghost of Yotei>, <Saros>, <Marvel’s Wolverine> 등의 신작 광고에 \"PlayStation 5 독점(exclusive)\" 문구를 전면에 내세워 PC 출시 계획이 없음을 시사함\n- 이에 따라 소니가 배급하는 PS5 독점 라이브 서비스 신작 <Marvel Tokon: Fighting Souls>의 타 플랫폼(Xbox 및 닌텐도 스위치 2) 포팅 가능성도 매우 불투명해진 상황임\n[Comment]\n- 과거 PC 중심의 개방형 생태계가 콘솔의 대안으로 부상하며 멀티플랫폼 확장이 대세가 되는 듯했으나, 하드웨어 판매 방어와 자사 플랫폼 독점 IP 가치 보존을 위해 양사 모두 다시 보수적인 독점 전략으로 회귀하는 양상을 보이고 있음\n- 특히 소니는 <Helldivers 2>의 멀티플랫폼 출시 성공 이후에도 추가적인 플랫폼 확장 실험에 소극적인 태도를 취하고 있으며, 강력한 독점 타이틀 라인업을 앞세워 플레이스테이션 생태계 내 유저 락인(Lock-in) 효과를 극대화하려는 것으로 분석됨",
+        "original_title": "Companies Back Off Multiplatform Messaging As Xbox Pulls PS5 Mentions And Sony Doubles Down On Console Exclusivity",
+        "url": "https://kotaku.com/companies-back-off-multiplatform-messaging-as-xbox-pulls-ps5-mentions-and-sony-doubles-down-on-console-exclusivity-2000727865",
+        "published_at": "2026. 8. 25",
+        "published_key": "2026-08-25 00:00:00",
+        "score": "",
+        "keyword": "Xbox",
+        "integrated_note": "- 과거 PC 중심의 개방형 생태계가 콘솔의 대안으로 부상하며 멀티플랫폼 확장이 대세가 되는 듯했으나, 하드웨어 판매 방어와 자사 플랫폼 독점 IP 가치 보존을 위해 양사 모두 다시 보수적인 독점 전략으로 회귀하는 양상을 보이고 있음\n- 특히 소니는 <Helldivers 2>의 멀티플랫폼 출시 성공 이후에도 추가적인 플랫폼 확장 실험에 소극적인 태도를 취하고 있으며, 강력한 독점 타이틀 라인업을 앞세워 플레이스테이션 생태계 내 유저 락인(Lock-in) 효과를 극대화하려는 것으로 분석됨"
+      },
+      {
+        "company_ko": "마이크로소프트",
+        "title_ko": "[글로벌/동향] ASUS, 차세대 OLED 탑재한 ‘ROG Xbox Ally X20’ 예약 판매 실시… 단순 기념판 넘어선 사양 업그레이드",
+        "summary_ko": "- ASUS는 자사 20주년을 기념하는 휴대용 게임 PC(UMPC) 'ROG Xbox Ally X20'의 사전 예약을 공식 시작했으며, 오는 10월 15일 정식 출시와 함께 단품 모델은 USD 1,299.99, 프리미엄 번들 패키지는 USD 2,499.99로 Best Buy와 ASUS Store를 통해 판매될 예정임\n- 이번 신제품은 단순한 기념 에디션을 넘어 기존 'ROG Xbox Ally X'의 실질적인 미드젠(mid-generation) 업그레이드 모델로, 디스플레이가 기존 7인치에서 7.4인치 OLED 패널로 커졌으며 최대 1,400니트의 HDR 밝기와 돌비 비전을 지원해 시각적 경험이 크게 개선됨\n- 내부 설계 또한 대폭 변경되어, 재설계된 PCB와 개선된 팬·방열판 구조를 통해 내부 공기 흐름과 쿨링 효율을 극대화했으며, 입력 정밀도를 높인 하이브리드 메탈 돔 D-pad 및 전력 소모를 줄인 TMR 자기 유도 아날로그 스틱을 도입함\n- 또한, 기존의 일반 microSD 슬롯 대신 최대 1GB/s의 전송 속도를 지원하는 microSD Express 카드 리더를 탑재해 저장 공간 확장 속도를 SSD급으로 끌어올렸으며, 프로세서(AMD Ryzen AI Z2 Extreme)와 배터리 용량(80Wh) 등 핵심 성능 사양은 기존의 검증된 스펙을 그대로 유지함\n[Comment]\n- 이번 신제품 출시로 인해 ASUS는 ROG Xbox Ally(USD 599), ROG Xbox Ally X(USD 999), ROG Xbox Ally X20(USD 1,299)으로 이어지는 체계적인 가격대별 UMPC 라인업을 구축하는 데 성공함\n- 번들 패키지의 높은 가격(USD 2,499.99)은 단품 가격이 USD 849.99에 달하는 240Hz 마이크로 OLED 탑재 'ROG XREAL R1 에디션 20 AR 글래스'가 포함되었기 때문이며, 수집가가 아닌 일반 하이엔드 유저들을 위해 단품 구매 옵션을 제공해 접근성을 높였다는 평가를 받음\n- MSI의 '클러 8 EX AI+(Claw 8 EX AI+)' 등 프리미엄 UMPC 시장 내 경쟁이 치열해지는 가운데, ASUS는 램이나 저장 용량의 단순 수치 경쟁 대신 디스플레이, 조작감, 쿨링 등 실제 게임 플레이 환경을 개선하는 사용자 경험(QoL) 중심의 업그레이드로 시장 우위를 굳히려는 전략을 취하고 있음",
+        "original_title": "Pre‑orders are live for the new ROG Xbox Ally X20, featuring a larger OLED display, a refreshed design, and clear advantages over the current Ally X",
+        "url": "https://www.windowscentral.com/hardware/handheld-gaming-pc/pre-orders-are-live-for-the-rog-xbox-ally-x20",
+        "published_at": "2026. 8. 25",
+        "published_key": "2026-08-25 00:00:00",
+        "score": "",
+        "keyword": "hardware",
+        "integrated_note": "- 이번 신제품 출시로 인해 ASUS는 ROG Xbox Ally(USD 599), ROG Xbox Ally X(USD 999), ROG Xbox Ally X20(USD 1,299)으로 이어지는 체계적인 가격대별 UMPC 라인업을 구축하는 데 성공함\n- 번들 패키지의 높은 가격(USD 2,499.99)은 단품 가격이 USD 849.99에 달하는 240Hz 마이크로 OLED 탑재 'ROG XREAL R1 에디션 20 AR 글래스'가 포함되었기 때문이며, 수집가가 아닌 일반 하이엔드 유저들을 위해 단품 구매 옵션을 제공해 접근성을 높였다는 평가를 받음\n- MSI의 '클러 8 EX AI+(Claw 8 EX AI+)' 등 프리미엄 UMPC 시장 내 경쟁이 치열해지는 가운데, ASUS는 램이나 저장 용량의 단순 수치 경쟁 대신 디스플레이, 조작감, 쿨링 등 실제 게임 플레이 환경을 개선하는 사용자 경험(QoL) 중심의 업그레이드로 시장 우위를 굳히려는 전략을 취하고 있음"
+      },
+      {
+        "company_ko": "마이크로소프트",
+        "title_ko": "[글로벌/동향] 레벨 울브스, 신작 <더 블러드 오브 던워커> 데이원 패치로 60fps 모드 도입… Xbox Series S는 제외",
+        "summary_ko": "- <더 위쳐 3: 와일드 헌트>의 디렉터 콘라드 토마시키에비치가 설립한 폴란드의 신생 개발사 '레벨 울브스(Rebel Wolves)'는 신작 RPG <더 블러드 오브 던워커(The Blood of Dawnwalker)>의 출시를 앞두고, 유저 피드백을 수용해 데이원(Day-One) 패치를 통해 60fps '성능 모드(Performance Mode)'를 추가한다고 발표함\n- 당초 개발사는 PS5, PS5 Pro, Xbox Series X 기기에서 30fps 품질 모드와 40fps 균형 모드만 지원할 예정이었으나, 콘솔 유저들의 거센 반발과 PC 버전 대기 여론에 직면하자 내부 테스트를 신속히 완료하고 60fps 성능 모드 공식 탑재를 확정함\n- 반면 저사양 보급형 기기인 Xbox Series S의 경우, GPU 연산 능력(4 테라플롭스) 및 메모리 대역폭 등 하드웨어 사양의 구조적 한계로 인해 60fps 및 40fps 옵션이 지원 대상에서 완전히 제외되며 출시 시점에는 30fps 품질 모드만 단독 지원함\n- <더 블러드 오브 던워커>는 14세기 가상의 뱀파이어 침공 세계관을 배경으로 한 오픈월드 액션 RPG로, 반다이남코가 퍼블리싱을 맡아 오는 9월 3일 PC, PS5, Xbox Series X|S 플랫폼으로 정식 출시될 예정임\n[Comment]\n- 레벨 울브스는 유저 비판에 대해 변명 대신 빠른 피드백 수용과 개발 일정 조율을 보여주며 긍정적인 이미지를 구축했으나, 출시 직전에 급하게 검증된 성능 모드인 만큼 실제 플레이 시 프레임 저하 없이 안정적으로 구동될지는 출시 후 검증이 필요함\n- 이번 Xbox Series S의 성능 모드 제외 건은 언리얼 엔진 5(UE5) 기반의 고사양 차세대 타이틀을 개발하는 과정에서 중저가 콘솔의 하드웨어 한계가 개발사들에게 지속적인 병목 현상 및 최적화 리스크로 작용하고 있음을 다시 한번 입증함\n- CD 프로젝트 레드, 테크랜드, 락스타 게임즈 출신의 베테랑 개발자 150여 명이 참여한 신생 스튜디오의 데뷔작인 만큼, 본 게임이 '위쳐' 시리즈에 버금가는 탄탄한 스토리텔링과 완성도를 보여줄 수 있을지 글로벌 업계의 기대감이 높아지고 있음",
+        "original_title": "Blood of Dawnwalker Adds 60fps Performance Mode via Day-One Patch, But Not for Xbox Series S",
+        "url": "https://www.techtimes.com/articles/325442/20260825/blood-dawnwalker-adds-60fps-performance-mode-via-day-one-patch-not-xbox-series-s.htm",
+        "published_at": "2026. 8. 25",
+        "published_key": "2026-08-25 00:00:00",
+        "score": "",
+        "keyword": "Xbox",
+        "integrated_note": "- 레벨 울브스는 유저 비판에 대해 변명 대신 빠른 피드백 수용과 개발 일정 조율을 보여주며 긍정적인 이미지를 구축했으나, 출시 직전에 급하게 검증된 성능 모드인 만큼 실제 플레이 시 프레임 저하 없이 안정적으로 구동될지는 출시 후 검증이 필요함\n- 이번 Xbox Series S의 성능 모드 제외 건은 언리얼 엔진 5(UE5) 기반의 고사양 차세대 타이틀을 개발하는 과정에서 중저가 콘솔의 하드웨어 한계가 개발사들에게 지속적인 병목 현상 및 최적화 리스크로 작용하고 있음을 다시 한번 입증함\n- CD 프로젝트 레드, 테크랜드, 락스타 게임즈 출신의 베테랑 개발자 150여 명이 참여한 신생 스튜디오의 데뷔작인 만큼, 본 게임이 '위쳐' 시리즈에 버금가는 탄탄한 스토리텔링과 완성도를 보여줄 수 있을지 글로벌 업계의 기대감이 높아지고 있음"
       },
       {
         "company_ko": "일렉트로닉 아츠",
@@ -3845,6 +4050,42 @@
         "score": "",
         "keyword": "PS5",
         "integrated_note": "- 이번 조치는 자사 마케팅 채널에서 경쟁 플랫폼의 브랜드를 무료로 홍보해 주지 않겠다는 의도로 보이며, 자사 하드웨어 및 PC 생태계의 브랜드 입지를 강화하려는 전략적 변화로 풀이됨\n- 다만, MS가 자사 게임을 플레이스테이션 등 타 플랫폼으로도 출시하는 멀티플랫폼 전략을 완전히 포기한 것은 아니며, 단지 마케팅 단계에서 경쟁사 로고 노출을 제한하는 것에 가깝기 때문에 향후 유저들이 특정 타이틀의 타 플랫폼 출시 여부를 확인하는 데 다소 시간이 걸릴 수 있음"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[유럽/동향] 유럽 게임 산업, 2024년 매출 240억 유로 돌파… 스튜디오 수는 늘었으나 고용은 정체",
+        "summary_ko": "- 유럽게임개발자연맹(EGDF)과 비디오게임스유럽(VGA)이 공동 발표한 보고서에 따르면, 2024년 유럽 게임 산업은 총 240억 유로(한화 약 35조 7,800억 원)의 매출을 기록했으며, 6,600개 이상의 스튜디오에서 95,000명 이상이 종사하고 있는 것으로 나타남\n- 유럽 내 스튜디오 수는 전년 대비 5%에서 10% 증가했고 핀란드, 이탈리아, 체코 등 일부 국가에서는 고용이 소폭 성장했으나, 업계 전반의 정리해고와 기업 합병 등의 여파로 전체 고용 성장은 정체되었으며 일부 국가에서는 사상 처음으로 고용 감소 세를 기록함\n- 국가별로는 폴란드가 유럽연합(EU) 내에서 게임 개발 및 유통 분야 가장 많은 고용 인원을 기록하고 450개의 신작을 출시해 가장 활발한 모습을 보였으며, 영국의 게임 산업 인력은 28,516명에 도달함\n- 이번 보고서에 처음 포함된 키프러스는 43억 유로(한화 약 6조 4,100억 원)의 매출을 올리며 누적 수익 기준 유럽 게임 산업의 핵심 허브로 자리매김했으며, 불가리아 역시 루마니아와 튀르키예를 잇는 전략적 인재 요충지로 평가받음\n[Comment]\n- 전 세계적인 게임 업계 불황과 구조조정의 여파가 유럽 시장에도 고스란히 반영되어, 매출 규모와 스튜디오 수라는 양적 성장에도 불구하고 고용 지표가 사상 최초로 감소하거나 정체되는 등의 이면을 보여줌\n- 그럼에도 불구하고 동유럽의 전통 강자인 폴란드뿐만 아니라, 키프러스와 불가리아 같은 신흥 지역들이 새로운 세제 혜택이나 지리적 이점을 바탕으로 유럽 게임 산업의 새로운 허브이자 인재 공급처로 급부상하고 있는 흐름에 주목할 필요가 있음",
+        "original_title": "EU games industry generated €24bn in 2024, studios reached 6,600 and workforce exceeded 95,000",
+        "url": "https://www.gamesindustry.biz/eu-games-industry-generated-24bn-in-2024-studios-reached-6600-and-workforce-exceeded-95000",
+        "published_at": "2026. 8. 25",
+        "published_key": "2026-08-25 00:00:00",
+        "score": "",
+        "keyword": "iOS",
+        "integrated_note": "- 전 세계적인 게임 업계 불황과 구조조정의 여파가 유럽 시장에도 고스란히 반영되어, 매출 규모와 스튜디오 수라는 양적 성장에도 불구하고 고용 지표가 사상 최초로 감소하거나 정체되는 등의 이면을 보여줌\n- 그럼에도 불구하고 동유럽의 전통 강자인 폴란드뿐만 아니라, 키프러스와 불가리아 같은 신흥 지역들이 새로운 세제 혜택이나 지리적 이점을 바탕으로 유럽 게임 산업의 새로운 허브이자 인재 공급처로 급부상하고 있는 흐름에 주목할 필요가 있음"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/동향] ASUS, 차세대 OLED 탑재한 ‘ROG Xbox Ally X20’ 예약 판매 실시… 단순 기념판 넘어선 사양 업그레이드",
+        "summary_ko": "- ASUS는 자사 20주년을 기념하는 휴대용 게임 PC(UMPC) 'ROG Xbox Ally X20'의 사전 예약을 공식 시작했으며, 오는 10월 15일 정식 출시와 함께 단품 모델은 USD 1,299.99, 프리미엄 번들 패키지는 USD 2,499.99로 Best Buy와 ASUS Store를 통해 판매될 예정임\n- 이번 신제품은 단순한 기념 에디션을 넘어 기존 'ROG Xbox Ally X'의 실질적인 미드젠(mid-generation) 업그레이드 모델로, 디스플레이가 기존 7인치에서 7.4인치 OLED 패널로 커졌으며 최대 1,400니트의 HDR 밝기와 돌비 비전을 지원해 시각적 경험이 크게 개선됨\n- 내부 설계 또한 대폭 변경되어, 재설계된 PCB와 개선된 팬·방열판 구조를 통해 내부 공기 흐름과 쿨링 효율을 극대화했으며, 입력 정밀도를 높인 하이브리드 메탈 돔 D-pad 및 전력 소모를 줄인 TMR 자기 유도 아날로그 스틱을 도입함\n- 또한, 기존의 일반 microSD 슬롯 대신 최대 1GB/s의 전송 속도를 지원하는 microSD Express 카드 리더를 탑재해 저장 공간 확장 속도를 SSD급으로 끌어올렸으며, 프로세서(AMD Ryzen AI Z2 Extreme)와 배터리 용량(80Wh) 등 핵심 성능 사양은 기존의 검증된 스펙을 그대로 유지함\n[Comment]\n- 이번 신제품 출시로 인해 ASUS는 ROG Xbox Ally(USD 599), ROG Xbox Ally X(USD 999), ROG Xbox Ally X20(USD 1,299)으로 이어지는 체계적인 가격대별 UMPC 라인업을 구축하는 데 성공함\n- 번들 패키지의 높은 가격(USD 2,499.99)은 단품 가격이 USD 849.99에 달하는 240Hz 마이크로 OLED 탑재 'ROG XREAL R1 에디션 20 AR 글래스'가 포함되었기 때문이며, 수집가가 아닌 일반 하이엔드 유저들을 위해 단품 구매 옵션을 제공해 접근성을 높였다는 평가를 받음\n- MSI의 '클러 8 EX AI+(Claw 8 EX AI+)' 등 프리미엄 UMPC 시장 내 경쟁이 치열해지는 가운데, ASUS는 램이나 저장 용량의 단순 수치 경쟁 대신 디스플레이, 조작감, 쿨링 등 실제 게임 플레이 환경을 개선하는 사용자 경험(QoL) 중심의 업그레이드로 시장 우위를 굳히려는 전략을 취하고 있음",
+        "original_title": "Pre‑orders are live for the new ROG Xbox Ally X20, featuring a larger OLED display, a refreshed design, and clear advantages over the current Ally X",
+        "url": "https://www.windowscentral.com/hardware/handheld-gaming-pc/pre-orders-are-live-for-the-rog-xbox-ally-x20",
+        "published_at": "2026. 8. 25",
+        "published_key": "2026-08-25 00:00:00",
+        "score": "",
+        "keyword": "hardware",
+        "integrated_note": "- 이번 신제품 출시로 인해 ASUS는 ROG Xbox Ally(USD 599), ROG Xbox Ally X(USD 999), ROG Xbox Ally X20(USD 1,299)으로 이어지는 체계적인 가격대별 UMPC 라인업을 구축하는 데 성공함\n- 번들 패키지의 높은 가격(USD 2,499.99)은 단품 가격이 USD 849.99에 달하는 240Hz 마이크로 OLED 탑재 'ROG XREAL R1 에디션 20 AR 글래스'가 포함되었기 때문이며, 수집가가 아닌 일반 하이엔드 유저들을 위해 단품 구매 옵션을 제공해 접근성을 높였다는 평가를 받음\n- MSI의 '클러 8 EX AI+(Claw 8 EX AI+)' 등 프리미엄 UMPC 시장 내 경쟁이 치열해지는 가운데, ASUS는 램이나 저장 용량의 단순 수치 경쟁 대신 디스플레이, 조작감, 쿨링 등 실제 게임 플레이 환경을 개선하는 사용자 경험(QoL) 중심의 업그레이드로 시장 우위를 굳히려는 전략을 취하고 있음"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/동향] 1인 개발 인디게임 <샌더스트리(Sandustry)>, 독특한 물리 시뮬레이션 앞세워 스팀 12만 장 판매 돌파",
+        "summary_ko": "- 지난 8월 13일 스팀 얼리 액세스로 출시된 1인 개발 인디게임 <샌더스트리(Sandustry)>가 스팀에서 긍정적 평가 93%(리뷰 3,200개 이상)를 기록하며, 누적 판매량 12만 장을 돌파하고 일일 수천 명의 동시 접속자 수를 유지하며 흥행 중임\n- 이 게임은 <노이타(Noita)>의 픽셀 단위 물리 시뮬레이션, <팩토리오(Factorio)>의 자동화 컨베이어 벨트, <테라리아(Terraria)>의 2D 횡스크롤 탐험 요소를 결합했으며, 물리 엔진 기반으로 실시간 움직이는 모래, 물, 증기 등을 활용해 자신만의 '사금 채취 자동화 흐름선'을 구축하는 독창적인 게임성을 선사함\n- 개발사인 1인 인디게임 스튜디오 'LanttoGames'의 개발자 Lantto는 자체 게임 엔진을 직접 제작했으며, 데모 버전 출시 이후 피드백을 바탕으로 시뮬레이션 시스템을 완전히 재구축하는 등 기술적 완성도를 높였고 커뮤니티를 통해 유저들과 적극적으로 소통하고 있음\n- 다만 얼리 액세스 초기 단계인 만큼, 플레이 타임이 약 10시간 내외로 콘텐츠 볼륨이 다소 부족하다는 점과 플레이 진행에 따른 최적화 성능 저하 및 일부 버그 발생 등은 향후 업데이트를 통해 개선해야 할 과제로 지적됨\n[Comment]\n- <샌더스트리>의 글로벌 퍼블리싱을 맡은 후디드 호스(Hooded Horse)의 CEO 팀 벤더(Tim Bender)는 과거 300만 장 이상의 판매고를 올린 1인 개발 작 <매너로드(Manor Lords)>를 성공시킨 인물로, 이번에도 유망한 1인 개발 인디게임을 발굴해 내며 뛰어난 선구안을 다시 한번 증명함\n- 팀 벤더 CEO는 하버드대 출신의 '지중파(중국통)'로 아시아 시장에 높은 이해도를 가지고 있으며, 특히 업계의 관행적인 '선 수수료 회수 조항(Recoupment Clause)'을 비판하며 개발자 65%, 퍼블리셔 35%의 고정 수익 배분을 제안하는 상생 중심의 퍼블리싱 계약 구조를 지향함\n- 이러한 퍼블리셔의 리스크 분담 정책과 전폭적인 지원은 개발자가 온전히 개발에만 집중할 수 있는 환경을 제공하며, <샌더스트리>와 같은 독창적인 인디게임이 글로벌 시장에서 빠르게 두각을 나타낼 수 있었던 핵심 요인으로 분석됨",
+        "original_title": "手搓“炼金流水线”多上头？1人开发《沙金工业》Steam爆卖12万套，画面抽象！",
+        "url": "http://www.gamelook.com.cn/2026/08/600619/",
+        "published_at": "2026. 8. 25",
+        "published_key": "2026-08-25 00:00:00",
+        "score": "",
+        "keyword": "爆",
+        "integrated_note": "- <샌더스트리>의 글로벌 퍼블리싱을 맡은 후디드 호스(Hooded Horse)의 CEO 팀 벤더(Tim Bender)는 과거 300만 장 이상의 판매고를 올린 1인 개발 작 <매너로드(Manor Lords)>를 성공시킨 인물로, 이번에도 유망한 1인 개발 인디게임을 발굴해 내며 뛰어난 선구안을 다시 한번 증명함\n- 팀 벤더 CEO는 하버드대 출신의 '지중파(중국통)'로 아시아 시장에 높은 이해도를 가지고 있으며, 특히 업계의 관행적인 '선 수수료 회수 조항(Recoupment Clause)'을 비판하며 개발자 65%, 퍼블리셔 35%의 고정 수익 배분을 제안하는 상생 중심의 퍼블리싱 계약 구조를 지향함\n- 이러한 퍼블리셔의 리스크 분담 정책과 전폭적인 지원은 개발자가 온전히 개발에만 집중할 수 있는 환경을 제공하며, <샌더스트리>와 같은 독창적인 인디게임이 글로벌 시장에서 빠르게 두각을 나타낼 수 있었던 핵심 요인으로 분석됨"
       },
       {
         "company_ko": "닌텐도",
@@ -3893,6 +4134,18 @@
         "score": "",
         "keyword": "PS5",
         "integrated_note": "- 이번 조치는 자사 마케팅 채널에서 경쟁 플랫폼의 브랜드를 무료로 홍보해 주지 않겠다는 의도로 보이며, 자사 하드웨어 및 PC 생태계의 브랜드 입지를 강화하려는 전략적 변화로 풀이됨\n- 다만, MS가 자사 게임을 플레이스테이션 등 타 플랫폼으로도 출시하는 멀티플랫폼 전략을 완전히 포기한 것은 아니며, 단지 마케팅 단계에서 경쟁사 로고 노출을 제한하는 것에 가깝기 때문에 향후 유저들이 특정 타이틀의 타 플랫폼 출시 여부를 확인하는 데 다소 시간이 걸릴 수 있음"
+      },
+      {
+        "company_ko": "소니",
+        "title_ko": "[글로벌/동향] MS·소니, 멀티플랫폼 홍보 축소하고 콘솔 독점 전략으로 재선회",
+        "summary_ko": "- 최근 마이크로소프트(MS)와 소니가 그간 추진해 온 멀티플랫폼 확장 마케팅을 축소하고, 자사 콘솔의 독점 지위를 다시 강조하는 방향으로 전략을 수정하고 있음\n- MS는 최근 공개한 <Minecraft Dungeons 2> 트레일러에서 닌텐도 및 소니 콘솔 표기를 제외함. 신임 Xbox CEO 아샤 샤마(Asha Sharma)는 타사 플랫폼 로고를 노출하던 기존 방침을 \"실수(a miss)\"로 규정했으며, <Gears of War: E-Day>의 PS5 미출시 선언 및 <Halo: Campaign Evolved> 프로모션의 플레이스테이션 행사 제외 등 독점 기조를 다시 강화하고 있음\n- 소니 역시 퍼스트파티 타이틀의 PC 포팅 속도를 조절하는 움직임을 보임. 소니의 2026년 전략 문서에서 \"퍼스트파티 타이틀을 PC 등 멀티플랫폼으로 계속 확장하겠다\"는 문구가 삭제되었으며, <Ghost of Yotei>, <Saros>, <Marvel’s Wolverine> 등의 신작 광고에 \"PlayStation 5 독점(exclusive)\" 문구를 전면에 내세워 PC 출시 계획이 없음을 시사함\n- 이에 따라 소니가 배급하는 PS5 독점 라이브 서비스 신작 <Marvel Tokon: Fighting Souls>의 타 플랫폼(Xbox 및 닌텐도 스위치 2) 포팅 가능성도 매우 불투명해진 상황임\n[Comment]\n- 과거 PC 중심의 개방형 생태계가 콘솔의 대안으로 부상하며 멀티플랫폼 확장이 대세가 되는 듯했으나, 하드웨어 판매 방어와 자사 플랫폼 독점 IP 가치 보존을 위해 양사 모두 다시 보수적인 독점 전략으로 회귀하는 양상을 보이고 있음\n- 특히 소니는 <Helldivers 2>의 멀티플랫폼 출시 성공 이후에도 추가적인 플랫폼 확장 실험에 소극적인 태도를 취하고 있으며, 강력한 독점 타이틀 라인업을 앞세워 플레이스테이션 생태계 내 유저 락인(Lock-in) 효과를 극대화하려는 것으로 분석됨",
+        "original_title": "Companies Back Off Multiplatform Messaging As Xbox Pulls PS5 Mentions And Sony Doubles Down On Console Exclusivity",
+        "url": "https://kotaku.com/companies-back-off-multiplatform-messaging-as-xbox-pulls-ps5-mentions-and-sony-doubles-down-on-console-exclusivity-2000727865",
+        "published_at": "2026. 8. 25",
+        "published_key": "2026-08-25 00:00:00",
+        "score": "",
+        "keyword": "Xbox",
+        "integrated_note": "- 과거 PC 중심의 개방형 생태계가 콘솔의 대안으로 부상하며 멀티플랫폼 확장이 대세가 되는 듯했으나, 하드웨어 판매 방어와 자사 플랫폼 독점 IP 가치 보존을 위해 양사 모두 다시 보수적인 독점 전략으로 회귀하는 양상을 보이고 있음\n- 특히 소니는 <Helldivers 2>의 멀티플랫폼 출시 성공 이후에도 추가적인 플랫폼 확장 실험에 소극적인 태도를 취하고 있으며, 강력한 독점 타이틀 라인업을 앞세워 플레이스테이션 생태계 내 유저 락인(Lock-in) 효과를 극대화하려는 것으로 분석됨"
       },
       {
         "company_ko": "텐센트",
@@ -4651,102 +4904,6 @@
         "integrated_note": "- 과거 베데스다는 <폴아웃 76>이나 <엘더스크롤 온라인>의 출시 초기 흥행 실패 당시에도 감원 대신 개발진에게 프로젝트를 개선할 기회를 부여하는 문화를 가지고 있었으나, MS 인수 이후 단기 성과 중심의 구조조정이 일상화된 것으로 분석됨\n- 노조 관계자들은 이번 해고가 사측의 주장처럼 '중간 관리직'에 국한된 것이 아니라 실제 게임을 만드는 현장 핵심 개발자들을 향하고 있어, 장기 근속자들의 노하우 상실 및 개발 동력 저하가 실제 게임 품질 하락으로 이어질 수 있다고 우려하고 있음"
       },
       {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] <Among Us> 수익으로 투자받은 필리핀 1인 개발 레트로 소울라이크 <Memoirium> 스팀 출시",
-        "summary_ko": "- 필리핀의 1인 개발자 파올로 빌라누에바(Paolo Villanueva)가 개발하고, <Among Us> 개발사 이너슬로스(Innersloth)의 인디 게임 투자 프로그램인 '아우터슬로스(Outersloth)'의 자금 지원을 받은 레트로 소울라이크 신작 <Memoirium>이 2026년 8월 13일 스팀에 정식 출시됨\n- 본작은 개발자가 블렌더(Blender)를 통해 모든 3D 에셋을 직접 제작했으며, 텍스처 해상도를 최대 256x256 픽셀로 제한한 의도적인 PS1 스타일의 그래픽 추상화를 통해 꿈속 세계의 불완전하고 모호한 분위기를 시각적으로 구현해 냄\n- 일반적인 소울라이크 게임과 달리 행동을 할 때 스태미나와 마나가 소모되는 것이 아니라 오히려 채워지는 역방향 자원 시스템을 탑재했으며, 자원이 고갈된 상태에서 주문(Lullaby)을 무리하게 시전할 경우 직접 자해 피해를 입는 독특한 리스크-리턴 규칙을 가짐\n- 장비 아이템은 단 14종에 불과하지만 미미한 수치 변화 대신 회피 성공 시 반격 피해를 주거나 적의 행동 패턴을 바꾸는 등 질적인 변화를 제공하며, 전투와 무관하게 플레이어가 수집품으로 꾸미고 생각에 잠길 수 있는 감성적인 '안전 가옥(Safe Room)' 시스템을 특징으로 내세움\n[Comment]\n- <Memoirium>은 아우터슬로스가 지원한 최초의 동남아시아 개발사 타이틀로, 파트너십을 통해 개발자가 전업 개발로 전환하고 음악 외주, 전문 QA 및 현지화를 진행할 수 있는 안정적인 기반을 마련함\n- 아우터슬로스는 개발사로부터 IP나 크리에이티브 권한을 빼앗지 않고 투자금 회수 전까지 수익의 50%, 회수 후에는 15%만을 배분받는 개발자 친화적 정산 모델을 유지하고 있으며, AI 기술을 사용한 게임의 투자 신청을 엄격히 금지하는 방침을 고수하고 있음\n- 미니맵이 없어 길을 잃기 쉽고 추상적인 그래픽 특성상 적과의 거리 조절이 어려우며 사운드 디자인이 다소 단순하다는 한계가 있으나, 독창적인 게임 시스템과 명확한 개발 철학에 힘입어 출시 초기 스팀 유저 평가 91%의 높은 긍정적 반응을 얻고 있음",
-        "original_title": "Memoirium Launches on Steam: Filipino Soulslike Built on Among Us Revenue",
-        "url": "https://www.techtimes.com/articles/324912/20260818/memoirium-launches-steam-filipino-soulslike-built-among-us-revenue.htm",
-        "published_at": "2026. 8. 19",
-        "published_key": "2026-08-19 00:00:00",
-        "score": "",
-        "keyword": "Steam",
-        "integrated_note": "- <Memoirium>은 아우터슬로스가 지원한 최초의 동남아시아 개발사 타이틀로, 파트너십을 통해 개발자가 전업 개발로 전환하고 음악 외주, 전문 QA 및 현지화를 진행할 수 있는 안정적인 기반을 마련함\n- 아우터슬로스는 개발사로부터 IP나 크리에이티브 권한을 빼앗지 않고 투자금 회수 전까지 수익의 50%, 회수 후에는 15%만을 배분받는 개발자 친화적 정산 모델을 유지하고 있으며, AI 기술을 사용한 게임의 투자 신청을 엄격히 금지하는 방침을 고수하고 있음\n- 미니맵이 없어 길을 잃기 쉽고 추상적인 그래픽 특성상 적과의 거리 조절이 어려우며 사운드 디자인이 다소 단순하다는 한계가 있으나, 독창적인 게임 시스템과 명확한 개발 철학에 힘입어 출시 초기 스팀 유저 평가 91%의 높은 긍정적 반응을 얻고 있음"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] 퀄컴 스냅드래곤 X2 엘리트 익스트림, 인텔 및 AMD 칩 대비 압도적 성능 입증",
-        "summary_ko": "- 독립 성능 테스트 기관 시그널65(Signal65)가 실시한 벤치마크 결과, 퀄컴의 ‘스냅드래곤 X2 엘리트 익스트림’이 인텔 코어 울트라 X9 388H 및 AMD 라이젠 AI 9 465 대비 CPU 및 AI 성능에서 크게 앞선 것으로 나타남\n- 긱벤치 7 기준 스냅드래곤 X2 엘리트 익스트림은 인텔 칩보다 최대 53%, AMD 칩보다 최대 83% 빠른 속도를 기록했으며, 멀티스레드 성능을 측정하는 시네벤치 2026에서는 경쟁사 대비 최대 87% 높은 성능을 보임\n- 특히 전력 효율성 측면에서 배터리 구동 상태의 스냅드래곤 X2 시스템이 ‘최고 성능’ 모드로 설정된 경쟁사 기기들을 능가했으며, 온디바이스 AI 처리를 담당하는 NPU 성능에서도 인텔 대비 약 2배, AMD 대비 약 2.4배 앞선 것으로 분석됨\n- 해당 테스트 결과는 실제 시판 중인 노트북(ASUS 젠북 A16, MSI 프레스티지 16, HP 옴니북 X 16)을 대상으로 진행되었으며, 성능 우위뿐만 아니라 가격 경쟁력 면에서도 경쟁 제품 대비 우수한 것으로 평가됨\n\n[Comment]\n- 퀄컴은 스냅드래곤 X2 플랫폼을 통해 윈도우 온 ARM(Windows on ARM) 생태계에서 인텔과 AMD를 위협할 만한 확실한 퍼포먼스 기반을 마련했다는 평가를 받음\n- 다만, 통합 그래픽 성능(Arc B390 등) 면에서는 인텔이 여전히 우위를 점하고 있어 특정 작업 영역에서는 차별화된 양상이 지속될 것으로 보임\n- 이번 결과는 퀄컴이 고성능 PC 시장에서 단순한 파트너십을 넘어, 전력 효율과 AI 처리 능력을 무기로 하드웨어 시장의 판도를 변화시키고 있음을 시사함",
-        "original_title": "The Snapdragon X2 Elite Extreme beats Intel's flagship Panther Lake chip by up to 87% while costing significantly less, according to a new lab report",
-        "url": "https://www.windowscentral.com/hardware/qualcomm/snapdragon-x2-elite-extreme-intel-amd-tests-signal65",
-        "published_at": "2026. 8. 19",
-        "published_key": "2026-08-19 00:00:00",
-        "score": "",
-        "keyword": "AI",
-        "integrated_note": "- 퀄컴은 스냅드래곤 X2 플랫폼을 통해 윈도우 온 ARM(Windows on ARM) 생태계에서 인텔과 AMD를 위협할 만한 확실한 퍼포먼스 기반을 마련했다는 평가를 받음\n- 다만, 통합 그래픽 성능(Arc B390 등) 면에서는 인텔이 여전히 우위를 점하고 있어 특정 작업 영역에서는 차별화된 양상이 지속될 것으로 보임\n- 이번 결과는 퀄컴이 고성능 PC 시장에서 단순한 파트너십을 넘어, 전력 효율과 AI 처리 능력을 무기로 하드웨어 시장의 판도를 변화시키고 있음을 시사함"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] 스퀘어 에닉스 '킹덤 하츠 4' 신작 트레일러 공개 효과로 전작 시리즈 스팀 차트 역주행",
-        "summary_ko": "- 디즈니 D23 행사에서 <킹덤 하츠 4(Kingdom Hearts 4)>의 새로운 트레일러가 공개된 이후, 스팀(Steam)에서 전작 <킹덤 하츠> 시리즈의 판매량과 접속자 수가 급증하며 역주행을 기록함\n- 특히 합본팩인 <Kingdom Hearts HD 1.5+2.5 ReMIX>는 미국 스팀 최고 인기 게임 차트 3위까지 상승했으며, 최근 24시간 동안 동시 접속자 수 9,600명을 돌파하며 스팀 출시 이후 역대 최고 기록에 근접한 수치를 보임\n- 이러한 흥행 배경에는 스퀘어 에닉스가 신작 공개와 맞물려 진행한 70% 파격 할인 프로모션(전체 메인 사가를 USD 29.99에 구매할 수 있는 패키지 등, 8월 20일 종료)이 큰 역할을 했으며, 신작 출시 전 스토리를 파악하려는 신규 및 복귀 유저들이 대거 유입된 것으로 분석됨\n- 한편, 이번 D23에서 공개된 <킹덤 하츠 4>의 4분 분량 트레일러에 따르면 게임은 2027년 말 출시를 목표로 하고 있으며, 픽사의 애니메이션 <코코(Coco)>를 기반으로 한 신규 월드와 도날드, 구피 등의 플레이어블 캐릭터 추가, 그리고 닌텐도 스위치 2, PS5, Xbox Series X, PC 멀티플랫폼 동시 출시를 확정함\n[Comment]\n- 이번 행사에서는 게임 정보 외에도 디즈니 채널과 디즈니 플러스를 타깃으로 한 <킹덤 하츠> 애니메이션 시리즈의 개발 소식도 함께 발표되었으며, 원작 크리에이터인 노무라 테츠야가 참여하여 IP의 미디어 믹스 확장을 꾀하고 있음\n- 그동안 복잡한 타임라인과 플랫폼 파편화로 진입장벽이 높았던 <킹덤 하츠> IP가 PC(스팀) 플랫폼 진출 및 공격적인 할인 전략, 그리고 차기작의 차세대 콘솔·PC 동시 출시 선언을 통해 글로벌 대중성을 대폭 확장하려는 전략으로 풀이됨",
-        "original_title": "Kingdom Hearts games hit Steam’s bestseller charts after D23 reveal and 70% off sale",
-        "url": "https://www.polygon.com/kingdom-hearts-steam-bestseller-charts-d23-reveal-70-off-sale/",
-        "published_at": "2026. 8. 19",
-        "published_key": "2026-08-19 00:00:00",
-        "score": "",
-        "keyword": "Steam",
-        "integrated_note": "- 이번 행사에서는 게임 정보 외에도 디즈니 채널과 디즈니 플러스를 타깃으로 한 <킹덤 하츠> 애니메이션 시리즈의 개발 소식도 함께 발표되었으며, 원작 크리에이터인 노무라 테츠야가 참여하여 IP의 미디어 믹스 확장을 꾀하고 있음\n- 그동안 복잡한 타임라인과 플랫폼 파편화로 진입장벽이 높았던 <킹덤 하츠> IP가 PC(스팀) 플랫폼 진출 및 공격적인 할인 전략, 그리고 차기작의 차세대 콘솔·PC 동시 출시 선언을 통해 글로벌 대중성을 대폭 확장하려는 전략으로 풀이됨"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] 2인 개발 디젤펑크 포병 시뮬레이션 <철둥지 중포(铁巢重炮)>, 출시 첫 주 스팀 40만 장 돌파하며 흥행",
-        "summary_ko": "- 지난 8월 6일 스팀(Steam)에 정식 출시된 디젤펑크 스타일의 중형 화포 시뮬레이션 인디 게임 <철둥지 중포(铁巢重炮)>가 출시 첫날 글로벌 최고 매출 5위에 오르고, 최고 동시 접속자 수 1.7만 명 돌파, 출시 첫 주 만에 판매량 40만 장을 돌파하는 등 이례적인 흥행을 기록함\n- 이 게임은 20년 경력의 베테랑 개발자 '닉(Nick)'과 마케팅·퍼블리싱 전문가 '도미닉 라토스(Dominik Latos)'로 구성된 2인 개발팀이 약 1년 동안 주 7일, 하루 12시간의 고강도 협업을 거쳐 개발을 완료함\n- 플레이어는 1920년대 말 디젤펑크 세계관을 배경으로, 외부가 보이지 않는 폐쇄된 포탑 내부에서 전술 지도, 무전 보고, 삼각측량 등을 활용해 적의 좌표를 분석하고 탄도를 직접 계산해 포를 쏘는 극도의 현실적인 수동 기계 조작과 몰입감을 경험할 수 있음\n- 틱톡, 엑스(구 트위터), 비리비리(Bilibili) 등 SNS와 숏폼 플랫폼에서 육중한 기계음과 포격의 타격감을 강조한 영상이 입소문을 탔으며, 이용자들 사이에서 '돈 주고 사는 수학 숙제' 등의 유쾌한 밈(Meme)이 형성되며 대중적인 인지도 확산과 구매로 이어짐\n[Comment]\n- 대규모 자본이 투입된 대작들이 주를 이루는 게임 시장에서, <철둥지 중포>는 특정 마니아층을 타깃으로 삼아 극도의 디테일과 '조작하는 재미'를 살린 하이퍼 리얼리즘 장르가 시장에서 충분히 강력한 경쟁력을 가질 수 있음을 보여줌\n- 시청각적 타격감과 독특한 게임 플레이 메커니즘을 숏폼 비디오 마케팅과 결합하여 유저들의 자발적인 홍보와 밈 형성을 유도한 전략은 예산이 한정된 인디 게임 개발사가 참고할 만한 글로벌 마케팅 성공 사례로 평가됨",
-        "original_title": "首周Steam爆卖40万套！两人开发“开炮模拟器”，凭什么成为8月大黑马？",
-        "url": "http://www.gamelook.com.cn/2026/08/600192/",
-        "published_at": "2026. 8. 19",
-        "published_key": "2026-08-19 00:00:00",
-        "score": "",
-        "keyword": "爆",
-        "integrated_note": "- 대규모 자본이 투입된 대작들이 주를 이루는 게임 시장에서, <철둥지 중포>는 특정 마니아층을 타깃으로 삼아 극도의 디테일과 '조작하는 재미'를 살린 하이퍼 리얼리즘 장르가 시장에서 충분히 강력한 경쟁력을 가질 수 있음을 보여줌\n- 시청각적 타격감과 독특한 게임 플레이 메커니즘을 숏폼 비디오 마케팅과 결합하여 유저들의 자발적인 홍보와 밈 형성을 유도한 전략은 예산이 한정된 인디 게임 개발사가 참고할 만한 글로벌 마케팅 성공 사례로 평가됨"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] 레이저, AI 및 카메라 탑재한 웨어러블 헤드셋 ‘프로젝트 모토코’ 실제 출시 예고",
-        "summary_ko": "- 레이저(Razer)의 CEO 민량탄은 과거 CES에서 컨셉으로 공개했던 AI 기반 무선 헤드셋 ‘프로젝트 모토코(Project Motoko)’를 조만간 실제 제품으로 공식 출시할 예정이라고 밝힘\n- ‘프로젝트 모토코’는 양쪽 이어컵에 눈높이에 맞춘 FPV 카메라를 탑재하여 디스플레이 없이도 사용자가 보는 것과 듣는 것을 실시간으로 인식하고 소통하는 AI 네이티브 헤드셋임\n- 해당 기기는 스냅드래곤 칩셋으로 구동되며 Grok, OpenAI, Gemini 등 다양한 대형 언어 모델(LLM)을 지원하고, 일상적인 요리 가이드, 실시간 번역, 업무 관리뿐만 아니라 게임 내 AI 가이드까지 제공하는 ‘상시 가동형 개인 AI 비서’ 역할을 지향함\n- 최근 애플이 카메라와 비주얼 인텔리전스 기능을 탑재한 ‘에어팟 울트라(AirPods Ultra)’를 준비 중이라는 루머 및 영상이 유출된 시점과 맞물려, 웨어러블 AI 디바이스 시장의 새로운 경쟁 구도가 형성되고 있음\n[Comment]\n- 게이밍 기어 전문 브랜드인 레이저가 AI 하드웨어 시장에 도전장을 내밀었으나, 사용자들이 일상생활 속에서 부피가 큰 게이밍 헤드셋을 온종일 착용할지 여부와 착용감의 한계를 극복하는 것이 대중화의 주요 관건임\n- 스마트 글래스 등 카메라 탑재 웨어러블 기기들이 공통으로 직면한 개인정보 침해 및 사생활 노출 우려에 대해, 레이저가 수집되는 영상·음성 데이터의 실시간 처리 및 보안 문제를 어떻게 해결할지가 흥행의 핵심 변수가 될 전망임",
-        "original_title": "Apple's leaked AirPods Ultra already have competition — Razer's Motoko is a PC gaming headset with built-in cameras, and it's no longer just a concept",
-        "url": "https://www.windowscentral.com/hardware/razer/razer-motoko-airpods-ultra-leak-concept",
-        "published_at": "2026. 8. 19",
-        "published_key": "2026-08-19 00:00:00",
-        "score": "",
-        "keyword": "AI",
-        "integrated_note": "- 게이밍 기어 전문 브랜드인 레이저가 AI 하드웨어 시장에 도전장을 내밀었으나, 사용자들이 일상생활 속에서 부피가 큰 게이밍 헤드셋을 온종일 착용할지 여부와 착용감의 한계를 극복하는 것이 대중화의 주요 관건임\n- 스마트 글래스 등 카메라 탑재 웨어러블 기기들이 공통으로 직면한 개인정보 침해 및 사생활 노출 우려에 대해, 레이저가 수집되는 영상·음성 데이터의 실시간 처리 및 보안 문제를 어떻게 해결할지가 흥행의 핵심 변수가 될 전망임"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] 엔비디아 지포스 나우, 파이어폭스 브라우저 공식 지원 개시",
-        "summary_ko": "- 엔비디아의 클라우드 게임 플랫폼 '지포스 나우(GeForce NOW)'가 모질라(Mozilla)의 웹 브라우저 '파이어폭스(Firefox)'에 대한 공식 지원을 추가했다고 발표함\n- 이에 따라 파이어폭스를 사용하는 유료 요금제 구독자들은 별도 앱 설치 없이 브라우저를 통해 스팀, PC 게임패스, GOG, 에픽게임즈 스토어, 유비소프트 커넥트 라이브러리에 있는 지원 대상 PC 게임들을 최대 1440p 해상도와 120 FPS로 플레이할 수 있음\n- 지포스 나우의 요금제는 광고 기반의 무료 '베이직 리그(Basic Rig, 1080p 해상도 및 1시간 제한)'와 유료인 '퍼포먼스(최대 1440p 해상도 및 6시간 제한)', '얼티메이트(최대 5K 해상도 및 8시간 제한)' 등으로 구성되어 있음\n- 해당 업데이트는 최신 버전의 파이어폭스 브라우저에서 즉시 이용 가능하며, 모질라 측은 오는 8월 25일 게임스컴(Gamescom)에서 이번 파트너십이 게이머들에게 갖는 의미를 추가로 공개할 예정임\n[Comment]\n- 현재 파이어폭스의 전 세계 웹 브라우저 시장 점유율은 약 2.45% 수준으로 다소 낮으나, 크로미움(Chromium) 기반 브라우저의 광고 차단 기능 제한 정책 등에 반발해 파이어폭스로 전환한 이용자들에게 지포스 나우의 공식 지원은 매우 유용한 옵션이 될 것으로 분석됨\n- 지포스 나우는 대용량 PC 게임의 긴 설치 대기 시간을 줄여주고 스팀덱(Steam Deck) 등 휴대용 기기에서 고사양 타이틀을 즐길 수 있도록 돕는 유용한 해결책이며, 저지연 기가비트 인터넷 및 Wi-Fi 6E 등의 네트워크 인프라가 확보된 환경에서는 미세한 입력 지연 외에 매우 만족스러운 클라우드 스트리밍 경험을 제공함",
-        "original_title": "I tried GeForce NOW on Firefox as NVIDIA and Mozilla team up for 1440p at 120 FPS — Yeah, it's still the best for cloud gaming.",
-        "url": "https://www.windowscentral.com/hardware/nvidia/geforce-now-adds-firefox-support-1440p-120fps",
-        "published_at": "2026. 8. 19",
-        "published_key": "2026-08-19 00:00:00",
-        "score": "",
-        "keyword": "cloud",
-        "integrated_note": "- 현재 파이어폭스의 전 세계 웹 브라우저 시장 점유율은 약 2.45% 수준으로 다소 낮으나, 크로미움(Chromium) 기반 브라우저의 광고 차단 기능 제한 정책 등에 반발해 파이어폭스로 전환한 이용자들에게 지포스 나우의 공식 지원은 매우 유용한 옵션이 될 것으로 분석됨\n- 지포스 나우는 대용량 PC 게임의 긴 설치 대기 시간을 줄여주고 스팀덱(Steam Deck) 등 휴대용 기기에서 고사양 타이틀을 즐길 수 있도록 돕는 유용한 해결책이며, 저지연 기가비트 인터넷 및 Wi-Fi 6E 등의 네트워크 인프라가 확보된 환경에서는 미세한 입력 지연 외에 매우 만족스러운 클라우드 스트리밍 경험을 제공함"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] '스톱 킬링 게임즈', <GTA 6> 해킹 유출 그룹 규탄 및 후원 금지 당부",
-        "summary_ko": "- 최근 <Grand Theft Auto 6 (GTA 6)>의 실제 플레이로 추정되는 영상이 대거 유출된 가운데, 유출 배후로 알려진 해커 그룹 'Cyberleek'이 소비자 권리 옹호를 명분으로 내세우며 불법적인 행위를 저지르고 밈 코인을 홍보하는 행태를 보임\n- 이에 디지털 권리 및 소비자 보호 단체인 '스톱 킬링 게임즈(Stop Killing Games, 이하 SKG)'는 성명을 발표하고, 해커들의 불법적인 수단을 강력히 규탄하며 유저들에게 이들이 추진하는 암호화폐나 프로젝트에 절대 후원하지 말 것을 촉구함\n- 해커 그룹 'Cyberleek'은 싱글 플레이 게임의 오프라인 실행 보장 등 SKG의 설립 취지와 유사한 요구사항을 주장하고 있으나, 유출 영상에 밈 코인 구매를 유도하는 QR 코드와 웹사이트 링크를 삽입하는 등 사익을 취하려는 정황이 포착됨\n- SKG의 사무총장 모리츠 카츠너(Moritz Katzner)는 합법적인 법적 채널을 벗어난 범죄 행위는 소비자 권익 보호에 전혀 도움이 되지 않으며, 열심히 일한 수많은 개발자들에게 큰 피해를 줄 뿐만 아니라 합리적인 규제 마련을 설득해야 할 정치인들에게 게임 커뮤니티에 대한 부정적인 인식을 심어줄 수 있다고 지적함\n[Comment]\n- 이번 유출 사건은 록스타 게임즈가 <GTA 6>의 공식 'Extended Look(확장 프리뷰)' 공개를 불과 일주일 앞둔 시점에 발생하여 개발진에게 큰 정신적·물질적 피해를 준 것으로 알려짐\n- '스톱 킬링 게임즈'는 구매한 게임의 영구적인 소유 및 플레이 권리를 주장하는 글로벌 소비자 운동 단체로, 자신들의 정당한 법적 캠페인이 해커들의 범죄 행위 및 암호화폐 사기 마케팅과 연관되어 오해받는 것을 방지하기 위해 신속하게 선을 그은 것으로 분석됨\n- 해커들이 '소비자 권리 옹호'라는 대의명분을 앞세워 불법 유출을 정당화하고 투기성 자금을 모집하는 정황이 드러나면서, 게임 업계와 이용자 커뮤니티 모두 이들의 이중적인 행태에 대해 비판의 목소리를 높이고 있음",
-        "original_title": "Stop Killing Games Condemns ‘Destructive’ GTA 6 Leakers: ‘Do Not Send These People Your Money’",
-        "url": "https://kotaku.com/gta-6-leaks-stop-killing-games-skg-cyberleek-meme-coin-2000725806",
-        "published_at": "2026. 8. 19",
-        "published_key": "2026-08-19 00:00:00",
-        "score": "",
-        "keyword": "leak",
-        "integrated_note": "- 이번 유출 사건은 록스타 게임즈가 <GTA 6>의 공식 'Extended Look(확장 프리뷰)' 공개를 불과 일주일 앞둔 시점에 발생하여 개발진에게 큰 정신적·물질적 피해를 준 것으로 알려짐\n- '스톱 킬링 게임즈'는 구매한 게임의 영구적인 소유 및 플레이 권리를 주장하는 글로벌 소비자 운동 단체로, 자신들의 정당한 법적 캠페인이 해커들의 범죄 행위 및 암호화폐 사기 마케팅과 연관되어 오해받는 것을 방지하기 위해 신속하게 선을 그은 것으로 분석됨\n- 해커들이 '소비자 권리 옹호'라는 대의명분을 앞세워 불법 유출을 정당화하고 투기성 자금을 모집하는 정황이 드러나면서, 게임 업계와 이용자 커뮤니티 모두 이들의 이중적인 행태에 대해 비판의 목소리를 높이고 있음"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] 구글 플레이 스토어, 서드파티 앱스토어 통합 추진... 이용자 설문서 찬반 교차",
-        "summary_ko": "- 구글 플레이 스토어가 외부 서드파티 앱스토어의 앱들을 플레이 스토어 내에서 직접 편리하게 설치할 수 있도록 지원하는 대대적인 개편을 준비 중임\n- IT 매체 안드로이드 오소리티(Android Authority)가 독자 약 2,000명을 대상으로 진행한 설문조사에 따르면, 응답자의 47%는 \"더 많은 선택권을 선호한다\"며 긍정적인 반응을 보였으나, 34%는 새로운 앱스토어 제품들이 섞이면서 검색 및 관리가 \"번거로워질 것\"이라며 우려를 표함 (기타 약 20%는 보류)\n- 독자 의견 중에는 이번 조치가 소비자보다는 에픽게임즈 등 서드파티 개발사들에게만 유리한 결정이라는 회의적인 시각과, 여러 개의 개별 앱스토어를 다운로드할 필요 없이 플레이 스토어 하나로 통합 관리할 수 있어 편리하다는 긍정적인 반응이 대립하고 있음\n[Comment]\n- 이번 통합은 구글이 최근 플레이 스토어 외부에서 앱을 개별 설치하는 '사이드로딩(Sideloading)'에 대한 단속을 강화하는 동시에, 제도권 안의 공식 서드파티 스토어는 플레이 스토어 내부로 포섭하려는 통제 및 확장 전략의 일환으로 해석됨\n- 소비자들이 보안 위험을 감수하며 외부 스토어 앱을 직접 설치하던 번거로움이 해소됨에 따라, 서드파티 플랫폼의 접근성이 높아지고 모바일 앱 유통 생태계 내 구글의 영향력이 더욱 공고해질 가능성이 있음",
-        "original_title": "Survey says this fundamental Play Store change has many readers excited",
-        "url": "https://www.androidauthority.com/third-party-app-stores-google-play-poll-results-3700356/",
-        "published_at": "2026. 8. 19",
-        "published_key": "2026-08-19 00:00:00",
-        "score": "",
-        "keyword": "Play Store",
-        "integrated_note": "- 이번 통합은 구글이 최근 플레이 스토어 외부에서 앱을 개별 설치하는 '사이드로딩(Sideloading)'에 대한 단속을 강화하는 동시에, 제도권 안의 공식 서드파티 스토어는 플레이 스토어 내부로 포섭하려는 통제 및 확장 전략의 일환으로 해석됨\n- 소비자들이 보안 위험을 감수하며 외부 스토어 앱을 직접 설치하던 번거로움이 해소됨에 따라, 서드파티 플랫폼의 접근성이 높아지고 모바일 앱 유통 생태계 내 구글의 영향력이 더욱 공고해질 가능성이 있음"
-      },
-      {
         "company_ko": "소니",
         "title_ko": "[글로벌/동향] 소니의 패키지 게임 중단 결정에 맞서 ‘PS5 블랙아웃’ 캠페인 시작",
         "summary_ko": "- 소니가 2028년부터 패키지 디스크 생산을 중단하겠다고 발표함에 따라, 이에 반발하는 게이머들이 8월 23일부터 30일까지 PS5 콘솔 전원을 끄고 접속을 차단하는 ‘PS5 블랙아웃’ 캠페인을 진행함\n- 시위 참여자들은 소니의 주요 지표인 ‘일일 활성 이용자 수(DAU)’를 감소시키고 생태계 내 소비를 거부함으로써, 패키지 미디어의 중요성을 알리고 소비자의 권리를 주장하고자 함\n- 그러나 소니 측은 지난달 재무 보고를 통해 소셜 미디어 등에서 거론되는 여러 보이콧 활동이 실제 사업에 미치는 영향은 ‘제로(Zero)’라고 밝힌 바 있어, 이번 캠페인의 실질적인 타격 여부에 이목이 쏠리고 있음\n[Comment]\n- 이번 캠페인 기간 중 <콜 오브 듀티: 모던 워페어 4> 베타 테스트를 비롯해 여러 신작 출시가 예정되어 있어, 실제 참여율이 소니의 매출이나 지표에 유의미한 변화를 줄 수 있을지 귀추가 주목됨\n- 소니는 이미 디지털 전환 전략을 가속화하고 있으나, 물리적 미디어를 선호하는 핵심 게이머 층과의 갈등은 향후 브랜드 신뢰도와 생태계 유지 측면에서 장기적인 과제로 남을 전망임",
@@ -4831,18 +4988,6 @@
         "integrated_note": "- 애플은 그동안 앱스토어 내 디지털 구매에 대해 15%에서 30%의 수수료를 징수하며 막대한 수익을 올려왔으나, 미국 법원의 금지 명령 및 글로벌 규제 당국의 압박으로 인해 강력했던 수수료 독점 생태계가 흔들리고 있음\n- 특히 애플의 핵심 성장 동력인 서비스 부문의 매출이 시장 예상치를 밑돌며 타격을 입기 시작한 가운데, 영국 등 다른 국가에서도 외부 결제 허용을 강제하려는 규제 움직임이 이어지고 있어 애플의 플랫폼 통제력 약화와 수수료 매출 감소 흐름은 당분간 지속될 것으로 전망됨"
       },
       {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] 닌텐도 신작 '파이어 엠블렘: 포춘스 위브', 차세대 콘솔 '스위치 2' 독점 출시",
-        "summary_ko": "- 닌텐도와 인텔리전트 시스템즈의 대표 전략 RPG 시리즈 차기작인 <Fire Emblem: Fortune's Weave(파이어 엠블렘: 포춘스 위브)>가 이전 세대 기기인 스위치 1 버전을 제외하고, 차세대 콘솔 '스위치 2(Switch 2)' 독점작으로 오는 9월 17일 출시될 예정임\n- 이번 독점 출지는 과거 게임큐브 시절 <Path of Radiance(창염의 궤적)>의 속편인 <Radiant Dawn(새벽의 여신)>을 Wii 독점으로 출시해 하드웨어 판매를 견인하고자 했던 닌텐도의 과거 플랫폼 세대교체 전략과 유사함\n- 전 세계적으로 스위치 1의 생산이 점차 줄어들고 있는 현 상황에서, 개발사는 전작 <Three Houses(풍화설월)>가 스위치 1 하드웨어 한계로 인해 겪었던 그래픽 저하(텍스처 흐림 등) 및 긴 로딩 시간 등의 기술적 문제를 해결하기 위해 차세대 독점 출시를 결정한 것으로 보임\n[Comment]\n- 사전 체험(프리뷰)에 따르면, 신작 <Fortune's Weave>는 메인 허브인 '닥시온(Dagsion)'의 규모가 전작보다 훨씬 커졌으며 탐험 가능한 수십 개의 세계 지도 스폿 및 복잡한 맵 상호작용 요소를 포함하고 있음\n- 독(Dock) 모드 플레이 시 로딩 시간이 거의 즉각적이며 휴대 모드에서도 미미한 대기 시간만 존재할 정도로 최적화가 이루어져, 스위치 1의 스펙으로는 그래픽과 시스템의 대대적인 타협 없이는 구동이 불가능했을 것으로 평가됨\n- 과거 닌텐도가 3DS(2013년 단해 1,150만 대 판매)와 Wii U(수명 주기 전체 1,300만 대 판매)를 통해 겪었던 하드웨어 보급량에 따른 비즈니스 영향력을 감안할 때, 스위치 2의 성공적인 시장 안착을 위해 자사의 강력한 IP인 '파이어 엠블렘' 독점 카드를 꺼내든 것으로 해석됨",
-        "original_title": "Fire Emblem: Fortune's Weave's Switch 2 exclusivity actually makes a lot of sense",
-        "url": "https://www.polygon.com/fire-emblem-fortunes-weave-switch-2-exclusive/",
-        "published_at": "2026. 8. 18",
-        "published_key": "2026-08-18 00:00:00",
-        "score": "",
-        "keyword": "Switch 2",
-        "integrated_note": "- 사전 체험(프리뷰)에 따르면, 신작 <Fortune's Weave>는 메인 허브인 '닥시온(Dagsion)'의 규모가 전작보다 훨씬 커졌으며 탐험 가능한 수십 개의 세계 지도 스폿 및 복잡한 맵 상호작용 요소를 포함하고 있음\n- 독(Dock) 모드 플레이 시 로딩 시간이 거의 즉각적이며 휴대 모드에서도 미미한 대기 시간만 존재할 정도로 최적화가 이루어져, 스위치 1의 스펙으로는 그래픽과 시스템의 대대적인 타협 없이는 구동이 불가능했을 것으로 평가됨\n- 과거 닌텐도가 3DS(2013년 단해 1,150만 대 판매)와 Wii U(수명 주기 전체 1,300만 대 판매)를 통해 겪었던 하드웨어 보급량에 따른 비즈니스 영향력을 감안할 때, 스위치 2의 성공적인 시장 안착을 위해 자사의 강력한 IP인 '파이어 엠블렘' 독점 카드를 꺼내든 것으로 해석됨"
-      },
-      {
         "company_ko": "닌텐도",
         "title_ko": "[글로벌/동향] 닌텐도 신작 '파이어 엠블렘: 포춘스 위브', 차세대 콘솔 '스위치 2' 독점 출시",
         "summary_ko": "- 닌텐도와 인텔리전트 시스템즈의 대표 전략 RPG 시리즈 차기작인 <Fire Emblem: Fortune's Weave(파이어 엠블렘: 포춘스 위브)>가 이전 세대 기기인 스위치 1 버전을 제외하고, 차세대 콘솔 '스위치 2(Switch 2)' 독점작으로 오는 9월 17일 출시될 예정임\n- 이번 독점 출지는 과거 게임큐브 시절 <Path of Radiance(창염의 궤적)>의 속편인 <Radiant Dawn(새벽의 여신)>을 Wii 독점으로 출시해 하드웨어 판매를 견인하고자 했던 닌텐도의 과거 플랫폼 세대교체 전략과 유사함\n- 전 세계적으로 스위치 1의 생산이 점차 줄어들고 있는 현 상황에서, 개발사는 전작 <Three Houses(풍화설월)>가 스위치 1 하드웨어 한계로 인해 겪었던 그래픽 저하(텍스처 흐림 등) 및 긴 로딩 시간 등의 기술적 문제를 해결하기 위해 차세대 독점 출시를 결정한 것으로 보임\n[Comment]\n- 사전 체험(프리뷰)에 따르면, 신작 <Fortune's Weave>는 메인 허브인 '닥시온(Dagsion)'의 규모가 전작보다 훨씬 커졌으며 탐험 가능한 수십 개의 세계 지도 스폿 및 복잡한 맵 상호작용 요소를 포함하고 있음\n- 독(Dock) 모드 플레이 시 로딩 시간이 거의 즉각적이며 휴대 모드에서도 미미한 대기 시간만 존재할 정도로 최적화가 이루어져, 스위치 1의 스펙으로는 그래픽과 시스템의 대대적인 타협 없이는 구동이 불가능했을 것으로 평가됨\n- 과거 닌텐도가 3DS(2013년 단해 1,150만 대 판매)와 Wii U(수명 주기 전체 1,300만 대 판매)를 통해 겪었던 하드웨어 보급량에 따른 비즈니스 영향력을 감안할 때, 스위치 2의 성공적인 시장 안착을 위해 자사의 강력한 IP인 '파이어 엠블렘' 독점 카드를 꺼내든 것으로 해석됨",
@@ -4877,30 +5022,6 @@
         "score": "",
         "keyword": "Switch 2",
         "integrated_note": "- 이번 리마스터 버전은 버추어스(Virtuos)가 포팅을 담당하여 2026년 8월 11일 출시되었으며, 높은 스위치 2 판매 비중을 통해 차세대 콘솔 시장에서의 IP 경쟁력을 입증함\n- 다만, 디지털 파운드리(Digital Foundry) 등 기술 분석 매체에서 스위치 2 버전의 불안정한 프레임과 아쉬운 성능을 지적함에 따라, 향후 최적화 패치 등 사후 지원이 장기 흥행의 주요 변수가 될 전망임"
-      },
-      {
-        "company_ko": "소니",
-        "title_ko": "[글로벌/동향] 소니, 차세대 콘솔 ‘PS6’ 개발 계획 공식화... 고비용 및 디지털 전환 예고",
-        "summary_ko": "- 소니의 히로키 토토키 CEO는 월스트리트저널(WSJ)과의 인터뷰를 통해 차세대 게임기인 ‘플레이스테이션 6(PS6)’ 개발을 공식화했으나, 구체적인 출시 일정은 정해진 바 없다고 밝힘\n- 현재 메모리 칩 등 핵심 부품 비용 상승과 공급망 불안정으로 인해 하드웨어 생산 단가에 어려움을 겪고 있으며, 이는 향후 기기 가격 책정에 큰 부담으로 작용할 것으로 보임\n- 소니는 <갓 오브 워>, <라스트 오브 어스> 등 주요 IP를 TV 시리즈 및 애니메이션으로 확장하는 ‘플라이휠(flywheel)’ 전략을 강화 중이며, 2028년 블루레이 디스크 생산 중단 계획과 맞물려 PS6는 물리적 매체(디스크)를 지원하지 않는 디지털 전용 기기가 될 가능성이 매우 높음\n- 디지털 전용화 전략에 대해 게임 이용자들은 구매한 게임의 소유권 보호나 삭제(delisting) 문제 등을 우려하며 강한 반발을 보이고 있으나, 소니는 현재의 위기 대응 및 생존 전략 차원에서 해당 기조를 유지할 것으로 전망됨\n\n[Comment]\n- 소니는 부품 수급난과 글로벌 무역 환경 변화 속에서 수익성을 방어하기 위해 하드웨어 마진보다는 디지털 생태계 확장에 사활을 걸고 있음\n- 특히 2028년 블루레이 생산 중단은 소니의 게임 사업이 물리적 소유권 모델에서 구독 및 디지털 서비스 모델로 완전히 이전함을 시사하며, 이는 향후 하드웨어 가격 정책과 함께 팬덤과의 갈등을 심화시키는 주요 변수가 될 것으로 분석됨",
-        "original_title": "PlayStation 6 release date still undecided amid AI crunch, Sony CEO says",
-        "url": "https://www.polygon.com/ps6-release-date-when-is-ceo-hiroki-totoki-wsj-august-interview/",
-        "published_at": "2026. 8. 18",
-        "published_key": "2026-08-18 00:00:00",
-        "score": "",
-        "keyword": "PlayStation",
-        "integrated_note": "- 소니는 부품 수급난과 글로벌 무역 환경 변화 속에서 수익성을 방어하기 위해 하드웨어 마진보다는 디지털 생태계 확장에 사활을 걸고 있음\n- 특히 2028년 블루레이 생산 중단은 소니의 게임 사업이 물리적 소유권 모델에서 구독 및 디지털 서비스 모델로 완전히 이전함을 시사하며, 이는 향후 하드웨어 가격 정책과 함께 팬덤과의 갈등을 심화시키는 주요 변수가 될 것으로 분석됨"
-      },
-      {
-        "company_ko": "소니",
-        "title_ko": "[글로벌/경쟁사] 넷이즈, 대규모 서브컬처 신작 <아난타> 게임스컴 ONL서 베일 벗는다",
-        "summary_ko": "- 넷이즈가 개발 중인 야심작 서브컬처 오픈월드 게임 <아난타(Ananta, 구 프로젝트 무겐/이환)>가 오는 8월 25일 개최되는 '게임스컴 오프닝 나이트 라이브(Opening Night Live)' 무대에서 새로운 정보를 공개할 예정임\n- 게임스컴의 호스트 제프 킬리는 SNS를 통해 이번 라이브스트림에서 GTA 스타일의 F2P 게임인 <아난타>의 새로운 모습을 보여줄 것이라고 예고하며 글로벌 유저들의 기대감을 높임\n- 본작은 약 800명의 개발 인력이 투입된 대형 프로젝트로, F2P(부분 유료화) 방식으로 서비스되지만 기존의 전형적인 캐릭터 뽑기(가챠) 시스템을 배제하고 코스메틱(꾸미기 요소)을 중심으로 한 BM(비즈니스 모델)을 채택해 차별화를 꾀함\n[Comment]\n- <아난타>는 화려한 그래픽의 오픈월드 도시 안에서 펼쳐지는 자유로운 액션과 축구 미니게임 등 다채로운 콘텐츠 융합을 특징으로 내세우며 큰 기대를 모으고 있음\n- 다만 넷이즈 측이 완성도 높은 빌드를 구현하기 위해 신중하게 개발을 진행 중인 만큼, 업계에서는 게임의 압도적인 스케일을 고려할 때 정식 출시 또는 오픈 베타는 이르면 2027년쯤이 되어야 가능할 것으로 내다보고 있음",
-        "original_title": "PS5's Most Promising Anime Open World Will Re-Emerge Next Week",
-        "url": "https://www.pushsquare.com/news/2026/08/ps5s-most-promising-anime-open-world-will-re-emerge-next-week",
-        "published_at": "2026. 8. 18",
-        "published_key": "2026-08-18 00:00:00",
-        "score": "",
-        "keyword": "PS5",
-        "integrated_note": "- <아난타>는 화려한 그래픽의 오픈월드 도시 안에서 펼쳐지는 자유로운 액션과 축구 미니게임 등 다채로운 콘텐츠 융합을 특징으로 내세우며 큰 기대를 모으고 있음\n- 다만 넷이즈 측이 완성도 높은 빌드를 구현하기 위해 신중하게 개발을 진행 중인 만큼, 업계에서는 게임의 압도적인 스케일을 고려할 때 정식 출시 또는 오픈 베타는 이르면 2027년쯤이 되어야 가능할 것으로 내다보고 있음"
       },
       {
         "company_ko": "넷이즈",
@@ -4951,18 +5072,6 @@
         "integrated_note": "- <포켓몬 포코피아>의 사례는 최근 콘솔 시장에서 흥행작의 수명을 연장하기 위해 단순한 후속작 개발보다 확장팩 위주의 라이브 서비스 모델이 얼마나 유효한지를 보여주는 사례임\n- 특히 '틈새 시간형 콘텐츠'와 같은 가벼운 게임성을 선호하는 최신 이용자 트렌드와 맞물려, IP의 생명력을 유지하고 장기적인 매출을 창출하기 위한 영리한 전략으로 평가됨\n- 해당 게임의 성공적인 안착은 포켓몬 IP가 향후 스위치 2 생태계에서 어떤 방향으로 콘텐츠 확장을 이어갈지 가늠할 수 있는 중요한 지표가 될 전망임"
       },
       {
-        "company_ko": "소니",
-        "title_ko": "[글로벌/동향] 소니, PS 스토어 '양산형 게임' 규제 중 무고한 인디 개발사 퇴출 논란",
-        "summary_ko": "- 소니가 플레이스테이션 스토어(PS 스토어)에서 무성의한 양산형 게임(Shovelware)을 퇴출하는 과정에서, 우크라이나의 인디게임 개발사 'Ternox'의 개발자 및 퍼블리셔 계약을 일방적으로 종료하는 일이 발생함\n- 이로 인해 스팀 얼리 액세스에서 1,000개 이상의 리뷰와 '압도적으로 긍정적(Overwhelmingly Positive)' 평가를 받으며 기대를 모았던 신작 주식 시장 시뮬레이터 <Stonks-9800: Stock Market Simulator>의 PS5 출시가 무산됨\n- 또한, <Nexoria: Dungeon Rogue Heroes>, <Retro Highway> 등 이미 PS 스토어에 출시되어 4.0 이상의 양호한 유저 평점을 기록 중이던 Ternox의 기존 게임 라인업 전체가 8월 23일 이후 스토어에서 일괄 삭제될 예정임\n- 개발사 측은 듀얼센스의 적응형 트리거를 활용해 쉽게 플래티넘 트로피를 획득할 수 있도록 설계된 자사의 방치형 게임 <Finger Fitness>가 소니의 엄격해진 양산형 게임 가이드라인에 저촉되었을 가능성을 제기했으나, 소니로부터 구체적인 계약 종료 사유는 전달받지 못했다고 밝힘\n[Comment]\n- 소니는 스토어의 품질 저하를 막기 위해 트로피 획득만을 목적으로 하는 무성의한 복제·양산형 게임들을 지속적으로 단속해 왔으나, 이번 사례처럼 정상적인 게임성을 갖춘 인디게임 개발사까지 억울하게 피해를 보는 부작용이 발생하고 있음\n- 특히 플랫폼 홀더가 구체적인 규정 위반 소명 기회나 사전 경고 없이 일방적으로 파트너십 계약을 해지하고 기존 포트폴리오를 전면 퇴출하는 방식은 인디 생태계 위축을 초래할 수 있다는 지적을 받음\n- Ternox는 플레이스테이션 플랫폼에서의 출시는 좌절되었으나, 규제 기준이 다른 닌텐도 스위치 및 Xbox 플랫폼을 통해서는 <Stonks-9800>의 출시를 차질 없이 진행할 예정이라고 밝힘",
-        "original_title": "Sony's Purge on PS5 Shovelware May Now Have Hit a Legit Indie Dev",
-        "url": "https://www.pushsquare.com/news/2026/08/sonys-purge-on-ps5-shovelware-may-now-have-hit-a-legit-indie-dev",
-        "published_at": "2026. 8. 17",
-        "published_key": "2026-08-17 00:00:00",
-        "score": "",
-        "keyword": "PS5",
-        "integrated_note": "- 소니는 스토어의 품질 저하를 막기 위해 트로피 획득만을 목적으로 하는 무성의한 복제·양산형 게임들을 지속적으로 단속해 왔으나, 이번 사례처럼 정상적인 게임성을 갖춘 인디게임 개발사까지 억울하게 피해를 보는 부작용이 발생하고 있음\n- 특히 플랫폼 홀더가 구체적인 규정 위반 소명 기회나 사전 경고 없이 일방적으로 파트너십 계약을 해지하고 기존 포트폴리오를 전면 퇴출하는 방식은 인디 생태계 위축을 초래할 수 있다는 지적을 받음\n- Ternox는 플레이스테이션 플랫폼에서의 출시는 좌절되었으나, 규제 기준이 다른 닌텐도 스위치 및 Xbox 플랫폼을 통해서는 <Stonks-9800>의 출시를 차질 없이 진행할 예정이라고 밝힘"
-      },
-      {
         "company_ko": "마이크로소프트",
         "title_ko": "[글로벌/동향] 마이크로소프트, 9월 게임패스에 <듄: 어웨이크닝> 및 <마인크래프트 던전스 2> 등 신작 추가",
         "summary_ko": "- 마이크로소프트는 9월 게임패스 라인업으로 <듄: 어웨이크닝>(9월 22일)과 <마인크래프트 던전스 2>(9월 29일)를 포함한 4종의 데이원(Day-one) 타이틀을 발표함\n- 특히 <듄: 어웨이크닝>은 기존 PC 버전과 달리 콘솔 출시와 함께 싱글 플레이 모드가 전면 도입되어, 멀티플레이어 참여 없이도 전체 캠페인을 즐길 수 있게 되었으며, 이는 게임패스 얼티밋 및 PC 게임패스에서 즉시 이용 가능함\n- <마인크래프트 던전스 2>는 모장 스튜디오와 더블 일레븐이 협업한 액션 RPG 후속작으로, 멀티 플랫폼으로 출시되는 동시에 게임패스 데이원 라인업에 포함됨\n- 이번 신작들은 게임패스 얼티밋 및 PC 게임패스 구독자에게 제공되며, 하위 요금제인 에센셜이나 프리미엄 구독자는 해당 타이틀을 데이원에 이용할 수 없음\n\n[Comment]\n- 마이크로소프트는 2026년 상반기 <Call of Duty> 시리즈의 게임패스 데이원 정책 제외 이후, 구독자 이탈을 방지하고 서비스를 유지하기 위해 서드파티 퍼블리셔와의 공격적인 데이원 계약 전략을 강화하고 있음\n- 1인 플레이를 선호하는 유저층을 포섭하기 위해 멀티플레이 중심이었던 게임을 싱글 모드로 확장하여 제공하는 방식은, 게임패스 생태계의 다양성을 확보하고 기존의 하드코어한 서비스 이미지를 탈피하려는 시도로 분석됨\n- 오는 10월 <Gears of War: E-Day> 등 퍼스트파티 대작 출시가 예정된 가운데, 9월의 서드파티 타이틀들이 신규 구독자 유입과 기존 이용자 유지에 어느 정도 기여할 수 있을지 업계의 이목이 쏠리고 있음",
@@ -4985,18 +5094,6 @@
         "score": "",
         "keyword": "Switch",
         "integrated_note": "- 닌텐도 사장 후루카와 슌타로는 주주들에게 이번 인상에 대해 사과하며 비용 상승 부담을 원인으로 지목함. 실제로 삼성전자, SK하이닉스, 마이크론 등 글로벌 D램 공급의 95% 이상을 차지하는 주요 제조사들이 마진이 높은 AI GPU용 고대역폭메모(HBM) 생산에 집중하면서, 스위치 2에 탑재되는 12GB LPDDR5X 메모리의 부품 단가가 폭등(2026년 1분기 기준 전분기 대비 90~95% 상승)한 것이 핵심 원인으로 작용함\n- 타 플랫폼의 2026년 가격 인상폭(소니 PS5 디스크 에디션 18%, MS Xbox Series X 23%, 밸브 스팀덱 OLED 최대 46%)과 비교할 때 스위치 2의 11% 인상은 업계에서 가장 낮은 수준이며, 인상 후에도 현세대 홈 콘솔 플랫폼 중에서는 여전히 가장 낮은 가격대를 유지하고 있음\n- 주요 시장 분석 기관들에 따르면 AI 인프라 수요 지속으로 인해 메모리 공급 부족 현상이 최소 2027년 하반기나 2028년까지 이어질 것으로 내다보고 있어, 이번에 인상된 USD 499.99가 향후 스위치 2의 사실상의 최저 가격선(Floor)으로 고착화될 가능성이 높음"
-      },
-      {
-        "company_ko": "소니",
-        "title_ko": "[글로벌/동향] 스퀘어에닉스, D23에서 <킹덤 하츠 4> 신규 트레일러 공개 및 2027년 말 출시 예고",
-        "summary_ko": "- 디즈니와 스퀘어에닉스는 올해 D23 엑스포에서 많은 기대를 모으고 있는 액션 RPG <킹덤 하츠 4>의 신규 트레일러를 공개하고, 출시 예정 시기를 '2027년 말'로 공식 발표함\n- 이번 트레일러를 통해 주인공 '소라'가 픽사의 애니메이션 <코코(Coco)> 세계관으로 이동해 주인공 '미구엘'과 함께 사후세계를 모험하는 장면이 공개되며 새로운 디즈니 영역의 추가를 알림\n- 실제 게임플레이와 컷신이 혼합된 이번 영상에서는 미키, 도날드, 구피 등 시리즈의 기존 핵심 캐릭터들의 복귀가 함께 확인되었으며, 디즈니는 <킹덤 하츠> 시리즈가 이미 10억 달러(한화 약 1조 4,000억 원) 규모의 가치를 지닌 거대 브랜드라고 강조함\n[Comment]\n- 이번 신작은 플레이스테이션 5(PS5)와 닌텐도의 차세대 기기(Switch 2) 등을 타깃 플랫폼으로 준비 중인 것으로 확인되며, 오랜 기간 신작을 기다려온 팬들의 갈증을 일부 해소한 것으로 평가됨\n- 출시 예정 시기가 2027년 말로 다소 멀게 설정되었음에도 불구하고, 디즈니의 인기 IP인 <코코>의 합류와 고품질 비주얼을 선보임으로써 글로벌 시장에서의 장기적인 기대감을 유지하려는 전략으로 풀이됨",
-        "original_title": "Pixar's Coco Confirmed for Kingdom Hearts 4, Launching on PS5 in Late 2027",
-        "url": "https://www.pushsquare.com/news/2026/08/pixars-coco-confirmed-for-kingdom-hearts-4-launching-on-ps5-in-late-2027",
-        "published_at": "2026. 8. 15",
-        "published_key": "2026-08-15 00:00:00",
-        "score": "",
-        "keyword": "PS5",
-        "integrated_note": "- 이번 신작은 플레이스테이션 5(PS5)와 닌텐도의 차세대 기기(Switch 2) 등을 타깃 플랫폼으로 준비 중인 것으로 확인되며, 오랜 기간 신작을 기다려온 팬들의 갈증을 일부 해소한 것으로 평가됨\n- 출시 예정 시기가 2027년 말로 다소 멀게 설정되었음에도 불구하고, 디즈니의 인기 IP인 <코코>의 합류와 고품질 비주얼을 선보임으로써 글로벌 시장에서의 장기적인 기대감을 유지하려는 전략으로 풀이됨"
       },
       {
         "company_ko": "스퀘어에닉스",
@@ -5227,18 +5324,6 @@
         "integrated_note": "- 펄어비스는 <붉은사막>의 시장 저변 확대를 위해 다양한 플랫폼 지원을 검토 중이며, 이번 차세대 기기 대응은 기술적 난도가 높은 작업인 만큼 퀄리티 확보에 집중하고 있음\n- 과거 PS5 출시 초기 성능 및 그래픽 관련 이슈가 있었던 점을 고려할 때, 펄어비스는 차세대 기기 버전에서 더욱 안정적인 퍼포먼스를 구현하여 이용자 만족도를 높이는 것을 최우선 과제로 삼고 있는 것으로 분석됨"
       },
       {
-        "company_ko": "닌텐도",
-        "title_ko": "[글로벌/동향] 닌텐도, '젤다의 전설: 시간의 오카리나' 리메이크 및 스페셜 에디션 출시 임박",
-        "summary_ko": "- 최근 온라인상에 ‘젤다의 전설’ 40주년 기념 닌텐도 스위치 2 스페셜 에디션의 패키지 사진이 유출되면서, 해당 하드웨어와 함께 <젤다의 전설: 시간의 오카리나> 리메이크 버전의 11월 출시 가능성이 매우 높아짐\n- ESRB(미국 엔터테인먼트 소프트웨어 등급 위원회) 등급 분류 과정에서 과거 3DS 버전에 포함되었던 '선정적 주제(Suggestive Themes)' 항목이 삭제되고 '판타지 폭력' 등만 명시된 점을 미루어 볼 때, 리메이크 과정에서 캐릭터 디자인(대요정 등)의 대대적인 수정이 이루어졌을 것으로 분석됨\n- 닌텐도는 9월 1일부터 스위치 2 본체 가격을 인상할 예정이며, 유출된 스페셜 에디션 번들은 가격 인상 이후 출시될 것으로 보여 구매 희망자들의 전략적 선택이 필요한 상황임\n- 이번 리메이크는 1998년 원작의 구조를 보존하면서 최신 그래픽과 시스템으로 재구성하는 '풀 리메이크' 형태가 될 것으로 보이며, 9월 중 예정된 '젤다 다이렉트'를 통해 정확한 개발 스튜디오와 출시일이 공개될 전망임\n\n[Comment]\n- 닌텐도는 게임 소프트웨어뿐만 아니라 영화, 하드웨어 번들, 굿즈를 동시다발적으로 전개하는 ‘프랜차이즈 재활성화’ 전략을 취하고 있음. 2027년 개봉 예정인 실사 영화와 맞물려 젤다 IP의 영향력을 극대화하려는 의도로 풀이됨\n- 이번 리메이크의 가격 책정은 닌텐도의 향후 IP 리메이크 전략의 가늠자가 될 것임. 59.99달러로 책정될 경우 기존 '스타 폭스' 모델과 같은 충실한 리메이크 노선을, 그 이상의 가격이라면 대대적인 시스템 개편이 포함된 프로젝트로 해석할 수 있음\n- 11월은 GTA 6 출시와 겹치는 시기이지만, 닌텐도는 독점작의 강점과 다른 타겟층을 공략해 시장 점유율을 방어할 것으로 보임. 다만, 9월 1일 기점으로 본체 가격 인상과 기존 번들 혜택 종료가 예정되어 있어 소비자들은 구매 타이밍을 신중히 고려해야 함",
-        "original_title": "Zelda 40th Anniversary Switch 2 Leaks: Ocarina of Time ESRB Clue Points to Great Fairy Redesign",
-        "url": "https://www.techtimes.com/articles/324074/20260812/zelda-40th-anniversary-switch-2-leaks-ocarina-time-esrb-clue-points-great-fairy-redesign.htm",
-        "published_at": "2026. 8. 12",
-        "published_key": "2026-08-12 00:00:00",
-        "score": "",
-        "keyword": "Switch",
-        "integrated_note": "- 닌텐도는 게임 소프트웨어뿐만 아니라 영화, 하드웨어 번들, 굿즈를 동시다발적으로 전개하는 ‘프랜차이즈 재활성화’ 전략을 취하고 있음. 2027년 개봉 예정인 실사 영화와 맞물려 젤다 IP의 영향력을 극대화하려는 의도로 풀이됨\n- 이번 리메이크의 가격 책정은 닌텐도의 향후 IP 리메이크 전략의 가늠자가 될 것임. 59.99달러로 책정될 경우 기존 '스타 폭스' 모델과 같은 충실한 리메이크 노선을, 그 이상의 가격이라면 대대적인 시스템 개편이 포함된 프로젝트로 해석할 수 있음\n- 11월은 GTA 6 출시와 겹치는 시기이지만, 닌텐도는 독점작의 강점과 다른 타겟층을 공략해 시장 점유율을 방어할 것으로 보임. 다만, 9월 1일 기점으로 본체 가격 인상과 기존 번들 혜택 종료가 예정되어 있어 소비자들은 구매 타이밍을 신중히 고려해야 함"
-      },
-      {
         "company_ko": "텐센트",
         "title_ko": "[글로벌/동향] 텐센트, '크로스파이어' 18주년 맞아 3A급 싱글 패키지 신작 <크로스파이어: 잠입> 최초 공개",
         "summary_ko": "- 지난 8월 8일 중국 지난에서 개최된 '2026 크로스파이어 IP 카니발'에서 서비스 18주년을 맞이한 <크로스파이어> IP의 새로운 이정표가 될 3A급 싱글 플레이 패키지 게임 <크로스파이어: 잠입(穿越火线：潜伏)>이 세계 최초로 공개됨\n- 본 신작은 'That's No Moon'과 스마일게이트가 공동 개발하고, 텐센트 Team K1과 스마일게이트가 글로벌 공동 퍼블리싱을 담당하며, 언리얼 엔진 5를 활용한 현실 과학소설(Sci-Fi) 테마의 3인칭 전술 잠입 슈팅 게임으로 제작 중임\n- 기존의 단순한 '글로벌 리스크(보안관)'와 '블랙 리스트(침입자)'의 대립 구도를 탈피하여 인물들의 복잡한人性(인성)과 입장 차이를 심도 있게 다룰 예정이며, 전 세계 유저를 타깃으로 하면서도 중국 현지 크로스파이어 유저들의 감성과 문화를 시나리오에 반영하기 위해 개발진이 5년간 중국을 오가며 연구를 진행함\n- 텐센트는 기존의 온라인 제품군인 CF(PC), CFM(모바일 게임), CFHD(고화질 버전)의 안정적인 서비스와 글로벌 e스포츠 리그(CFPL, CFML 및 EWC 전자체육월드컵 출전 등)에 이어, 이번 3A급 싱글 패키지 영역까지 진출함으로써 완전한 글로벌 IP 플랫폼 생태계를 구축하겠다는 전략을 공고히 함\n[Comment]\n- <크로스파이어>는 중국 내에서 '국민 FPS 게임'으로 자리 잡으며 막대한 유저층을 유지해 왔으나, 멀티플레이어 온라인 경쟁 장르에 국한되어 고유한 세계관과 깊이 있는 내러티브를 전달하는 데 한계가 있었음. 이번 3A 패키지 타이틀 선언은 IP의 수명을 한 단계 끌어올려 글로벌 종합 IP로 진화하기 위한 핵심 퍼즐로 분석됨\n- 특히 서구권 3A급 게임 개발 경험이 풍부한 'That's No Moon'과의 협업을 통해 서구권 유저들에게 친숙한 문법의 완성도를 확보하는 동시에, 스마일게이트 및 텐센트의 퍼블리싱 역량을 결합하여 기존 핵심 팬덤인 아시아 시장과 글로벌 콘솔/PC 패키지 시장을 동시에 공략하려는 의도가 돋보임",
@@ -5455,30 +5540,6 @@
         "integrated_note": "- 이번 사례는 클라우드 기반의 생산성 도구를 사용하는 개발자들에게 보안 및 데이터 주권에 관한 경각심을 일깨우는 계기가 됨\n- 구글의 정책 변경이 사전에 충분히 고지되지 않고 이메일 등으로만 전달되어 이용자들의 거센 반발과 불신을 사고 있으며, 향후 기업용 서비스와 개인 서비스 간의 데이터 보호 기준에 대한 논란이 지속될 것으로 보임"
       },
       {
-        "company_ko": "마이크로소프트",
-        "title_ko": "[글로벌/동향] MS Xbox, 美 콘솔 사용률 조사에서 플레이스테이션·닌텐도에 밀려 최하위 기록",
-        "summary_ko": "- 시장조사업체 스태티스타(Statista)가 미국의 콘솔 게이머 3,200명 이상을 대상으로 자주 플레이하는 플랫폼을 설문조사한 결과, 플레이스테이션이 85%, 닌텐도가 76%를 기록한 반면 Xbox는 58%로 최하위에 머무름 (PC 및 모바일 제외)\n- Xbox의 신임 CEO 아샤 샤르마(Asha Sharma)가 현재 Xbox 사업 상태를 \"건강하지 않다(unhealthy)\"고 언급한 가운데, 실제로 지난 회계연도 마이크로소프트(MS)의 게임 부문 매출은 <Call of Duty> 시리즈의 부진 등으로 인해 약 11% 감소함\n- <포트나이트>나 <마인크래프트>처럼 구형 기기(Xbox One, PS4)에서도 원활히 작동하는 라이브 서비스 게임들의 장기 흥행으로 인해 유저들이 신형 콘솔(Xbox Series X|S)로 업그레이드해야 할 유인이 부족한 상황임\n- 여기에 메모리 등 부품 가격 상승으로 인해 콘솔 기기 생산 비용이 높아지면서 하드웨어 보급 확장에 어려움을 겪고 있으며, 향후 차세대 기기인 '프로젝트 헬릭스(Project Helix)' 등으로 경쟁력을 회복할 수 있을지 주목받고 있음\n[Comment]\n- 이번 조사에서는 구형 기기인 Xbox 360의 이용률이 여전히 높게 유지되고 있는 독특한 지표가 확인되었으며, 이는 기존 충성 유저들이 신형 기기로 전환하지 않고 구형 플랫폼에 머물러 있는 과제를 안고 있음을 보여줌\n- 샤르마 CEO는 전체 Xbox 플레이어 수가 \"2억 명\"에 달한다고 밝혔으나, 타사 플랫폼에서 구동되는 <마인크래프트> 이용자 등이 포함된 수치인지 불분명하여 실제 콘솔 하드웨어의 생태계 규모를 객관적으로 대변하기 어렵다는 분석이 있음\n- 향후 대작 <Grand Theft Auto 6(GTA 6)>가 현세대 콘솔 독점으로 출시되어 기기 전환 모멘텀이 올 수 있으나, 경쟁사 대비 높은 가격과 마케팅 부족으로 인해 Xbox가 판매량 반사이익을 크게 누리기는 어려울 것이라는 우려가 제기됨",
-        "original_title": "A new survey shows the scale of Xbox's fall vs. PlayStation — and the scale of Asha Sharma's opportunity",
-        "url": "https://www.windowscentral.com/gaming/xbox/a-new-survey-shows-the-scale-of-xboxs-fall-vs-playstation-and-the-scale-of-asha-sharmas-opportunity",
-        "published_at": "2026. 8. 8",
-        "published_key": "2026-08-08 00:00:00",
-        "score": "",
-        "keyword": "AI",
-        "integrated_note": "- 이번 조사에서는 구형 기기인 Xbox 360의 이용률이 여전히 높게 유지되고 있는 독특한 지표가 확인되었으며, 이는 기존 충성 유저들이 신형 기기로 전환하지 않고 구형 플랫폼에 머물러 있는 과제를 안고 있음을 보여줌\n- 샤르마 CEO는 전체 Xbox 플레이어 수가 \"2억 명\"에 달한다고 밝혔으나, 타사 플랫폼에서 구동되는 <마인크래프트> 이용자 등이 포함된 수치인지 불분명하여 실제 콘솔 하드웨어의 생태계 규모를 객관적으로 대변하기 어렵다는 분석이 있음\n- 향후 대작 <Grand Theft Auto 6(GTA 6)>가 현세대 콘솔 독점으로 출시되어 기기 전환 모멘텀이 올 수 있으나, 경쟁사 대비 높은 가격과 마케팅 부족으로 인해 Xbox가 판매량 반사이익을 크게 누리기는 어려울 것이라는 우려가 제기됨"
-      },
-      {
-        "company_ko": "마이크로소프트",
-        "title_ko": "[글로벌/동향] id 소프트웨어 베테랑 개발자, Xbox의 대규모 구조조정과 게임패스 정책 강력 비판",
-        "summary_ko": "- id 소프트웨어에서 15년 이상 근무한 리드 서비스 프로그래머 크리스 헤이스(Chris Hays)는 최근 팟캐스트 인터뷰를 통해 지난 7월 단행된 Xbox의 대규모 정리해고 이후 스튜디오의 실태를 폭로하며 경영진을 강하게 비판함\n- 헤이스는 인력이 절반으로 줄어든 상태에서 과거 <둠(Doom)> 시리즈와 같은 AAA급 게임을 개발하는 것은 \"불가능\"하다고 단언하며, 핵심 부서가 해체되어 스튜디오의 제작 역량이 심각하게 훼손되었다고 지적함\n- 또한, 모든 신작을 게임패스에 출시해 패키지 판매가 감소할 수밖에 없는 구조를 만들어 놓고, 베데스다 산하 스튜디오들의 매출 실적 저조를 탓하는 Xbox 경영진의 모순적인 평가 방식을 꼬집음\n- 그는 Xbox가 팀원 간의 결속력이 게임 흥행에 미치는 영향을 무시한 채 감원을 단행했다며, MS와 Xbox 경영진이 \"예술과 비디오 게임을 근본적으로 이해하지 못하고 있다\"라고 주장함\n[Comment]\n- 지난 7월 Xbox 사장 아샤 샤르마는 당월 1,600명 감원에 이어 연말까지 추가로 1,600명을 해고(전체 인력의 약 20%)하는 역사상 가장 큰 규모의 구조조정 계획을 발표한 바 있음\n- 이 과정에서 Xbox는 더블 파인(Double Fine) 및 컴펄션 게임즈(Compulsion Games) 등 과거 인수했던 일부 스튜디오들을 분사시키는 조치를 취하기도 함\n- 이번 개발자의 직접적인 폭로는 글로벌 대형 게임사들의 무리한 인력 감축과 구독 서비스 중심 모델이 실제 개발 스튜디오의 제작 환경과 개발진 사기에 미치는 부정적인 영향을 단적으로 보여주고 있음",
-        "original_title": "Id Software Dev Says Xbox Doesn’t ‘Understand Art’ And That After Layoffs It Is ‘Impossible’ To Make Big Games Like Doom: The Dark Ages",
-        "url": "https://kotaku.com/id-software-dev-says-xbox-doesnt-understand-art-and-that-after-layoffs-it-is-impossible-to-make-big-games-like-doom-the-dark-ages-2000722563",
-        "published_at": "2026. 8. 8",
-        "published_key": "2026-08-08 00:00:00",
-        "score": "",
-        "keyword": "Xbox",
-        "integrated_note": "- 지난 7월 Xbox 사장 아샤 샤르마는 당월 1,600명 감원에 이어 연말까지 추가로 1,600명을 해고(전체 인력의 약 20%)하는 역사상 가장 큰 규모의 구조조정 계획을 발표한 바 있음\n- 이 과정에서 Xbox는 더블 파인(Double Fine) 및 컴펄션 게임즈(Compulsion Games) 등 과거 인수했던 일부 스튜디오들을 분사시키는 조치를 취하기도 함\n- 이번 개발자의 직접적인 폭로는 글로벌 대형 게임사들의 무리한 인력 감축과 구독 서비스 중심 모델이 실제 개발 스튜디오의 제작 환경과 개발진 사기에 미치는 부정적인 영향을 단적으로 보여주고 있음"
-      },
-      {
         "company_ko": "네오위즈",
         "title_ko": "[국내/동향] 네오위즈 'P의 거짓', 신규 다큐멘터리 통해 후속작 티저 깜짝 공개",
         "summary_ko": "- 네오위즈와 라운드8 스튜디오의 내부 개발팀인 노우(NOUGH) 스튜디오가 글로벌 흥행작 <P의 거짓(Lies of P)>의 제작 과정을 담은 신규 다큐멘터리 영상을 공개함\n- 해당 다큐멘터리는 주로 1편의 개발 비하인드에 초점을 맞추고 있으나, 영상 후반부에 최지원 디렉터가 직접 등장해 현재 개발 중인 후속작에 대한 짧은 티저 메시지를 전달함\n- 최지원 디렉터는 \"정말 재미있고 감동적인 게임을 만들기 위해 모든 것을 바쳐 최선을 다하고 있다\"며, 기다려 주는 팬들에게 \"절대 실망시키지 않을 것을 약속하며, 이것은 거짓이 아닌 진실\"이라고 포부를 밝힘\n[Comment]\n- <P의 거짓> 1편은 출시 당시 프롬소프트웨어의 명작들에 비견될 만큼 몰입감 넘치는 세계관과 깊이 있는 완성도를 선보이며 글로벌 매체로부터 9/10점의 높은 평가를 받은 바 있음\n- 속편은 전작의 크로스 제너레이션(PS4, Xbox One 포함) 개발 환경에서 벗어나 시각적·기술적으로 더욱 발전된 형태가 될 것으로 예상되며, 차세대 플랫폼(닌텐도 스위치 2 등) 출시 여부를 두고 글로벌 유저들의 기대와 관심이 집중되고 있음",
@@ -5525,18 +5586,6 @@
         "score": "",
         "keyword": "Google",
         "integrated_note": "- 안드로이드 포토 피커는 사용자 프라이버시 보호를 위해 서드파티 앱이 전체 미디어 라이브러리 접근 권한 없이 특정 콘텐츠만 공유하도록 돕는 핵심 시스템 컴포넌트임\n- 구글은 최근 포토 피커 내 카메라 바로가기 기능 추가 등 꾸준히 편의성 개선을 진행 중이며, 이번 미디어 편집 기능 도입은 서드파티 앱 사용 경험의 마찰을 줄여 시스템 생태계의 완성도를 높이려는 전략으로 해석됨\n- 현재까지는 초기 코드 단계로 실제 배포 시점은 미정이나, 향후 안드로이드 기기 사용자들의 콘텐츠 공유 및 편집 과정이 한층 효율적으로 변화할 것으로 기대됨"
-      },
-      {
-        "company_ko": "마이크로소프트",
-        "title_ko": "[글로벌/동향] Xbox, 플레이스테이션 '플래티넘 트로피'에 상응하는 신규 업적 시스템 개발 중",
-        "summary_ko": "- 아샤 샤르마(Asha Sharma) 신임 Xbox CEO는 최근 자신의 SNS를 통해 플레이스테이션(PS)의 '플래티넘 트로피'와 같이 한 게임의 모든 업적을 완수했을 때 주어지는 특별 업적 시스템을 올해 말 출시를 목표로 개발 중이라고 밝힘\n- 현재 Xbox의 업적 시스템은 개별 업적 달성 시 누적되는 '게이머스코어(Gamerscore)' 방식만 존재하여 완결성을 직관적으로 나타내기 어려웠으나, 이번 개편을 통해 플레이스테이션의 플래티넘 트로피처럼 완벽한 게임 클리어를 상징하는 최종 보상 체계가 마련될 예정임\n- 한편, Xbox는 최신 기능 업데이트의 일환으로 그룹 채팅 오디오가 포함된 게임플레이 클립 녹화 기능, 업적 진행 상황 정렬 및 보기 편의성 개선, 콘솔에서 클라우드 세이브 데이터 직접 복원 기능, 위시리스트 최대 1,000개 확장 등을 Xbox 인사이더를 통해 테스트 중임\n[Comment]\n- 플레이스테이션의 '플래티넘 트로피'는 유저들에게 도전 욕구와 게임 완결의 성취감을 제공하며 강력한 코어 팬덤을 형성하는 핵심 요소로 평가받아 왔음. Xbox 역시 유사한 시스템 도입을 요구하는 팬들의 목소리를 적극 수용하여 플랫폼 인게이지먼트를 강화하려는 행보로 분석됨\n- 이번 신규 시스템 개발 및 편의성 기능의 빠른 업데이트는 아샤 샤르마 CEO 취임 이후 강조되어 온 '플랫폼 경험의 빠른 고도화 및 이터레이션(반복 개선)' 전략이 본격적으로 가시화되고 있음을 보여줌",
-        "original_title": "Xbox Is Getting The PlayStation Platinum Trophy Equivalent Fans Have Long Asked For",
-        "url": "https://kotaku.com/xbox-is-getting-the-playstation-platinum-trophy-equivalent-fans-have-long-asked-for-2000721984",
-        "published_at": "2026. 8. 6",
-        "published_key": "2026-08-06 00:00:00",
-        "score": "",
-        "keyword": "Xbox",
-        "integrated_note": "- 플레이스테이션의 '플래티넘 트로피'는 유저들에게 도전 욕구와 게임 완결의 성취감을 제공하며 강력한 코어 팬덤을 형성하는 핵심 요소로 평가받아 왔음. Xbox 역시 유사한 시스템 도입을 요구하는 팬들의 목소리를 적극 수용하여 플랫폼 인게이지먼트를 강화하려는 행보로 분석됨\n- 이번 신규 시스템 개발 및 편의성 기능의 빠른 업데이트는 아샤 샤르마 CEO 취임 이후 강조되어 온 '플랫폼 경험의 빠른 고도화 및 이터레이션(반복 개선)' 전략이 본격적으로 가시화되고 있음을 보여줌"
       },
       {
         "company_ko": "애플",
@@ -6581,18 +6630,6 @@
         "score": "",
         "keyword": "Google",
         "integrated_note": "- 독점적 플랫폼의 생태계 개방을 강제하는 EU DMA의 본격적인 시행을 앞두고, 구글을 비롯한 빅테크 기업들은 '보안 및 프라이버시 약화'를 주요 논거로 내세우며 규제 당국과 팽팽한 대립각을 세우고 있음\n- 이와 관련해 프라이버시 중심 검색 엔진인 덕덕고(DuckDuckGo)와 일부 학계 연구진은 EU의 규제안에 담긴 익명화 기술과 안전장치가 충분히 견고하다고 반박하고 있으나, 데이터 유출에 따른 위험성이 엄연히 존재하는 만큼 규제 적용 속도와 수위에 대한 논쟁은 지속될 것으로 보임\n- 한편, 그동안 독자적인 폐쇄형 생태계를 고수하며 구글과 경쟁 관계에 있던 애플이 이번 운영체제(OS) 보안 및 접근 권한 제한 조치에 대해서는 구글의 입장을 일부 지지하며 이례적으로 의견을 같이하는 모습을 보임"
-      },
-      {
-        "company_ko": "알파벳",
-        "title_ko": "[글로벌/동향] 구글, 스마트폰으로 PC용 제미나이 원격 제어하는 기능 준비 중",
-        "summary_ko": "- 안드로이드용 구글 앱 최신 버전(v17.36.12)의 코드 분석 결과, 스마트폰의 제미나이 앱을 통해 맥(Mac) 등 PC에서 작업을 원격 실행하고 제어할 수 있는 새로운 코드 문자열이 발견됨\n- 이 기능은 멀티스텝 워크플로우를 처리하는 구글의 24시간 개인용 AI 에이전트인 ‘제미나이 스파크(Gemini Spark)’와 밀접하게 연관되어 있으며, 이용자는 모바일 화면에서 PC의 연결 상태(마지막 활성화 시간, 사용 불가 등)를 실시간으로 모니터링할 수 있음\n- 구글은 사용자가 동일한 계정으로 연결된 여러 대의 온라인 컴퓨터 중 원하는 기기를 골라 관리할 수 있도록 전용 '기기 선택(device picker)' 인터페이스와 에이전트 대시보드 등의 추가 기능도 함께 개발 중인 것으로 파악됨\n[Comment]\n- 지난달 오픈AI가 ChatGPT 모바일 앱을 통해 노트북이나 개발 환경 등 원격 디바이스에서의 작업 상태를 모니터링하는 기능을 도입한 데 이어, 구글 또한 제미나이 스파크를 모바일과 데스크톱 생태계를 잇는 전천후 AI 비서로 구축하려는 행보로 해석됨\n- 해당 기능들의 구체적인 출시일은 미정이지만, 구글이 예고했던 맥OS(macOS)용 제미나이 스파크의 로컬 파일 처리 및 워크플로우 자동화 업데이트와 함께 정식 도입될 가능성이 높게 평가됨",
-        "original_title": "Google could soon let you control desktop Gemini from your phone",
-        "url": "https://www.androidauthority.com/google-gemini-mac-remote-control-apk-teardown-3682746/",
-        "published_at": "2026. 6. 30",
-        "published_key": "2026-06-30 00:00:00",
-        "score": "",
-        "keyword": "Google",
-        "integrated_note": "- 지난달 오픈AI가 ChatGPT 모바일 앱을 통해 노트북이나 개발 환경 등 원격 디바이스에서의 작업 상태를 모니터링하는 기능을 도입한 데 이어, 구글 또한 제미나이 스파크를 모바일과 데스크톱 생태계를 잇는 전천후 AI 비서로 구축하려는 행보로 해석됨\n- 해당 기능들의 구체적인 출시일은 미정이지만, 구글이 예고했던 맥OS(macOS)용 제미나이 스파크의 로컬 파일 처리 및 워크플로우 자동화 업데이트와 함께 정식 도입될 가능성이 높게 평가됨"
       },
       {
         "company_ko": "유비소프트",
@@ -7651,18 +7688,6 @@
         "integrated_note": "- <마라톤>은 출시 전 라이브 서비스 모델에 대한 유저들의 우려가 컸으나, 초기 판매량(약 13만 장) 대비 실제 플레이 경험에 대한 긍정적인 평가가 이어지며 번지의 새로운 성장 동력으로서 안착하는 모양새임\n- <붉은사막>의 15위 진입은 글로벌 대작들이 쏟아진 3월 시장 환경과 디지털 판매가 제외된 순위임을 감안할 때 매우 고무적인 성과이며, 서구권 시장의 높은 디지털 구매 비중을 고려하면 실제 매출 규모는 최상위권에 근접했을 가능성이 큼\n- 닌텐도 스위치 2는 역대 콘솔 중 GBA에 이어 두 번째로 빠른 판매 속도를 기록 중이나, 초기 폭발적인 수요 대비 성장세가 점차 완만해지고 있어 향후 <Pokémon Pokopia>와 같은 킬러 타이틀이 기기 판매를 얼마나 다시 견인할 수 있을지가 관건임"
       },
       {
-        "company_ko": "넷이즈",
-        "title_ko": "[글로벌/동향] 포켓페어 유통 신작 <풍계지려>, 스팀 동접 22만 돌파하며 ‘대항해 시대’ 부활 예고",
-        "summary_ko": "- <팰월드>의 개발사 포켓페어가 퍼블리싱한 해적 테마 생존 어드벤처 신작 <풍계지려(Windrose)>가 지난 4월 14일 스팀 얼리 액세스 출시 이후 6일 만에 글로벌 판매량 100만 장을 돌파하고, 역대 최고 동시 접속자 수 22.2만 명을 기록하며 흥행 중임\n- 이 게임은 PVE 중심의 오픈 월드 생존 제작 게임으로, 가리브해를 배경으로 한 함선 건설, 해상전, 심리스(Seamless)한 육해공 전환 시스템을 특징으로 내세워 유저들로부터 87%의 '매우 긍정적' 평가를 이끌어냄\n- 특히 인디 게임 특유의 높은 자유도를 바탕으로 NPC를 고용해 생산을 자동화하거나, 정교한 함선 커스터마이징을 지원하는 등 기존 해적 게임들의 단점을 보완한 게임 디자인이 유효했던 것으로 분석됨\n- 이러한 해양 어드벤처 장르의 연이은 흥행에 힘입어, 넷이즈가 <제5인격> 개발진을 투입해 준비 중인 크로스 플랫폼 대작 <유망지해(遗忘之海)>에 대한 시장의 기대감도 동반 상승하고 있음\n\n[Comment]\n- 과거 <도둑의 바다>, <뉴 월드> 등이 증명했듯 해양 어드벤처는 '성공하기 어려운 장르'라는 편견을 깨고 강력한 팬덤을 보유하고 있으며, <풍계지려>의 성공은 해당 시장의 잠재력이 여전히 거대함을 시사함\n- 포켓페어는 <팰월드>로 쌓은 퍼블리싱 선구안을 통해 인디 개발팀의 창의적인 콘텐츠를 시장에 안착시키며, 대형 퍼블리셔로서의 입지를 굳히고 있음\n- 2026년 3분기 출시 예정인 넷이즈의 <유망지해>는 모바일·PC·콘솔을 아우르는 3A급 자본이 투입된 프로젝트로, 인디 게임이 보여준 장르적 가능성을 라이브 서비스 모델로 확장해 시장을 장악하려는 전략을 취할 것으로 보임",
-        "original_title": "Steam 22万在线！“海贼游戏”又火一款，即将压轴登场的网易笑了！",
-        "url": "http://www.gamelook.com.cn/2026/04/591665/",
-        "published_at": "2026. 4. 21",
-        "published_key": "2026-04-21 00:00:00",
-        "score": "",
-        "keyword": "网易",
-        "integrated_note": "- 과거 <도둑의 바다>, <뉴 월드> 등이 증명했듯 해양 어드벤처는 '성공하기 어려운 장르'라는 편견을 깨고 강력한 팬덤을 보유하고 있으며, <풍계지려>의 성공은 해당 시장의 잠재력이 여전히 거대함을 시사함\n- 포켓페어는 <팰월드>로 쌓은 퍼블리싱 선구안을 통해 인디 개발팀의 창의적인 콘텐츠를 시장에 안착시키며, 대형 퍼블리셔로서의 입지를 굳히고 있음\n- 2026년 3분기 출시 예정인 넷이즈의 <유망지해>는 모바일·PC·콘솔을 아우르는 3A급 자본이 투입된 프로젝트로, 인디 게임이 보여준 장르적 가능성을 라이브 서비스 모델로 확장해 시장을 장악하려는 전략을 취할 것으로 보임"
-      },
-      {
         "company_ko": "크래프톤",
         "title_ko": "[인도/동향] 크래프톤·네이버·미래에셋, 인도 스타트업 육성 위해 1조 원 규모 ‘UGF’ 펀드 본격 운용",
         "summary_ko": "- 크래프톤은 네이버, 미래에셋과 함께 인도 뉴델리에서 최대 KRW 1조 규모의 '유니콘 그로스 펀드(UGF)' 조성을 발표하고, 인도 유망 스타트업의 성장을 지원하기 위한 간담회를 개최함\n- UGF는 크래프톤이 KRW 2,000억을 출자하고 네이버, 미래에셋 및 외부 투자액을 합쳐 총 KRW 5,000억 원 이상 규모로 1차 결성되었으며, 인도의 AI·핀테크·콘텐츠 등 고성장 기술 기업을 주요 투자 대상으로 삼음\n- 이번 행사는 대통령의 인도 순방을 계기로 마련되었으며, 김창한 크래프톤 대표와 최수연 네이버 대표 등 주요 경영진은 인도의 풍부한 IT 인재와 생태계를 바탕으로 3사의 핵심 역량을 결합해 전략적 시너지를 창출하겠다는 비전을 공유함\n\n[Comment]\n- 크래프톤은 2020년 인도 법인 설립 이후 현재까지 약 USD 2억 5,000만(KRW 약 3,500억)을 투자해왔으며, 대표작인 <배틀그라운드 모바일 인도(BGMI)>가 누적 2억 6,000만 다운로드를 기록하는 등 현지에서 독보적인 입지를 구축하고 있음\n- 이번 펀드 조성은 단순한 게임 서비스를 넘어 AI와 인프라 등 기술 전반으로 투자 영역을 확대하려는 전략으로 풀이되며, 특히 네이버의 AI 기술력과 미래에셋의 금융 네트워크가 결합되어 인도 내 'K-IT' 생태계 확장이 가속화될 것으로 보임\n- 인도 시장이 글로벌 디지털 혁신의 중심으로 급부상함에 따라, 크래프톤은 현지 정부 및 산업계와의 협력을 강화해 단순 투자를 넘어 인도 게임 및 IT 산업 생태계의 중장기적 파트너로 자리매김하려는 의지를 보이고 있음",
@@ -8635,18 +8660,6 @@
         "integrated_note": "- 시프트업의 이번 행보는 하이퍼그리프 등 중국의 주요 서브컬처 게임사들이 개발사에서 퍼블리셔로 거듭나며 '연운일체(개발과 운영의 통합)'를 실현한 사례를 벤치마킹하려는 전략으로 풀이됨\n- 2025년 신작 부재로 인해 상장 초기 대비 시가총액이 하락했으나, <니케>의 중국 서비스 안정화와 <스텔라 블레이드> PC 버전의 성공적인 안착이 실적 성장을 견인하며 펀더멘털을 증명함\n- 향후 핵심 관전 포인트는 텐센트와의 전략적 협력을 유지하면서도, 자체 퍼블리싱 조직을 통해 얼마나 효율적으로 글로벌 팬덤과 직접 소통하며 수익 구조를 개선할 수 있을지에 달려 있음\n- 또한, 2027년 출시를 목표로 개발 중인 <스텔라 블레이드 2>가 전작의 글로벌 인지도를 바탕으로 시프트업의 독자적인 퍼블리싱 역량을 시험하는 첫 번째 시험대가 될 것으로 전망됨"
       },
       {
-        "company_ko": "테이크투",
-        "title_ko": "[글로벌/경쟁사] 완미세계 신작 ‘이환’, 2026년 4월 29일 정식 출시… 콘솔은 PS5 독점",
-        "summary_ko": "- 완미세계 산하 호타 스튜디오가 개발 중인 어반 오픈월드 RPG <이환(Neverness to Everness, NTE)>이 2026년 4월 29일 정식 글로벌 출시를 확정함\n- 해당 플랫폼은 PC, 안드로이드, iOS, Mac이며, 콘솔 플랫폼의 경우 플레이스테이션 5(PS5) 독점으로 출시될 예정임. 또한 모든 플랫폼 간의 풀 크로스 플레이 및 데이터 공유를 지원함\n- <이환>은 초자연적 현상이 일상화된 도시 '헤테로(Hethereau)'를 배경으로 한 오픈월드 게임으로, 차량 운전과 도시 탐험 등 <GTA> 스타일의 자유도에 서브컬처 애니메이션 그래픽과 <X파일> 스타일의 미스터리 서사를 결합함\n- 가챠(캐릭터 뽑기) 시스템에서 유저들의 불만이 컸던 '50/50(픽업 확률 반반)' 시스템을 폐지하고, 지정된 횟수 도달 시 100% 확률로 캐릭터를 획득할 수 있는 확정 천장 시스템을 도입한 것이 큰 특징임\n- 현재 사전 예약을 진행 중이며, 예약자에게는 캐릭터 '하니엘'과 가챠 재화인 '조작된 주사위(Fabricated Dice)' 20개 등 풍성한 보상을 제공할 계획임\n[Comment]\n- <이환>은 <타워 오브 판타지>를 개발한 호타 스튜디오의 기술력이 집약된 기대작으로, 고유의 높은 비주얼 완성도와 최적화 수준은 <젠레스 존 제로> 등 동종 장르 경쟁작들에게 강력한 위협이 될 것으로 보임\n- 특히 '50/50' 시스템 제거는 가챠 게임 이용자들이 가장 환영하는 파격적인 행보로, 과금 피로도를 낮춰 신규 유저층을 대거 흡수하려는 전략적 승부수로 풀이됨\n- 오픈월드 내 아파트 꾸미기, 아르바이트 등 풍부한 라이프 시뮬레이션 요소를 포함하고 있어, 단순 액션 RPG를 넘어선 메타버스형 콘텐츠로서의 확장성 또한 기대되는 부분임",
-        "original_title": "News We're Really Getting Anime GTA on PS5 Before GTA 6",
-        "url": "https://www.pushsquare.com/news/2026/02/were-really-getting-anime-gta-on-ps5-before-gta-6",
-        "published_at": "2026. 2. 26",
-        "published_key": "2026-02-26 00:00:00",
-        "score": "",
-        "keyword": "PS5",
-        "integrated_note": "- <이환>은 <타워 오브 판타지>를 개발한 호타 스튜디오의 기술력이 집약된 기대작으로, 고유의 높은 비주얼 완성도와 최적화 수준은 <젠레스 존 제로> 등 동종 장르 경쟁작들에게 강력한 위협이 될 것으로 보임\n- 특히 '50/50' 시스템 제거는 가챠 게임 이용자들이 가장 환영하는 파격적인 행보로, 과금 피로도를 낮춰 신규 유저층을 대거 흡수하려는 전략적 승부수로 풀이됨\n- 오픈월드 내 아파트 꾸미기, 아르바이트 등 풍부한 라이프 시뮬레이션 요소를 포함하고 있어, 단순 액션 RPG를 넘어선 메타버스형 콘텐츠로서의 확장성 또한 기대되는 부분임"
-      },
-      {
         "company_ko": "반다이남코",
         "title_ko": "[일본/경쟁사] 반다이남코 그룹, '건담' 글로벌 시장 확대 및 IP 경쟁력 강화를 위한 대규모 조직 개편",
         "summary_ko": "- 반다이남코 그룹은 '건담' 시리즈의 글로벌 사업 확대와 효율적인 IP 관리를 위해 영상·음악 유닛 내 3개 사를 재편하고, 그룹 내 분산되어 있던 음악 출판 사업을 하나로 집약한다고 발표함\n- 반다이남코 홀딩스는 주요 계열사의 기구 개혁 및 인사를 단행했으며, 특히 기존 '765 프로덕션'을 'IP & 콘텐츠 프로덕션'으로 명칭을 변경하고 역할을 확대하여 콘텐츠 제작 체제를 전면적으로 정비함\n- 이번 조직 개편의 핵심은 그룹 내 제작 역량과 IP 매니지먼트 기능을 통합하여 시너지를 극대화하고, 급변하는 글로벌 엔터테인먼트 시장에서의 의사결정 속도와 실행력을 높이는 데 있음\n\n[Comment]\n- 반다이남코는 '건담'을 필두로 한 핵심 IP의 미디어 믹스 전략을 강화하고 있으며, 이번 영상과 음악 부문의 통합은 콘텐츠 제작부터 글로벌 유통까지의 밸류체인을 최적화하려는 의도로 분석됨\n- 특히 상징적이었던 '765 프로덕션'의 명칭 변경은 특정 타이틀에 국한되지 않고 다양한 신규 IP를 발굴·육성하여 'IP 중심 경영'을 가속화하겠다는 강력한 의지를 보여줌\n- 최근 엔터테인먼트 산업의 글로벌 경쟁이 심화됨에 따라, 음악·영상·게임 등 각 부문에 흩어진 역량을 IP 단위로 결집시켜 해외 OTT 플랫폼 및 글로벌 시장에서의 경쟁 우위를 확보하려는 전략적 포석으로 평가됨",
@@ -8681,18 +8694,6 @@
         "score": "",
         "keyword": "game",
         "integrated_note": "- <드래곤볼 제노버스 2>가 닌텐도 스위치를 포함한 멀티 플랫폼에서 장기 흥행하며 탄탄한 팬층을 보유하고 있는 만큼, 속편에 대한 기대감이 매우 높은 상황임\n- 이번 신작은 고(故) 토리야마 아키라 작가의 유작 격인 캐릭터 디자인이 포함되었다는 점에서 IP의 정통성과 상징성이 더욱 강조될 것으로 보임\n- 최근 출시된 <드래곤볼 스파킹! 제로>의 흥행과 더불어, 반다이남코가 <제노버스> 시리즈를 통해 드래곤볼 게임 라인업을 더욱 공고히 하며 글로벌 시장에서의 IP 영향력을 지속적으로 확대하려는 전략으로 풀이됨"
-      },
-      {
-        "company_ko": "스퀘어에닉스",
-        "title_ko": "[일본/동향] 스퀘어 에닉스, ‘FF7 리버스’ 차세대 스위치서 안정적인 30fps 구동 목표",
-        "summary_ko": "- 스퀘어 에닉스는 최근 인터뷰를 통해 <파이널 판타지 VII 리버스(이하 리버스)>를 2026년 6월 닌텐도 스위치 2(가칭)로 출시할 계획이며, 전작보다 방대해진 오픈월드 환경에서도 기술적 완성도를 높이는 데 주력하고 있다고 밝힘\n- 나오키 하마구치 디렉터는 엔지니어 팀이 <리버스>와 향후 출시될 3부작의 마지막 타이틀 모두에서 \"가능한 모든 구간에서 안정적인 30fps\"를 유지하는 것을 목표로 삼고 있으며, 이를 위해 강도 높은 최적화 작업을 진행 중이라고 언급함\n- 제작진은 프레임 레이트의 안정성을 확보하는 동시에 시각적 품질을 최대한으로 끌어올리는 것을 병행하고 있으며, 차세대 스위치 버전에서도 타 플랫폼과 완전히 동일한 게임 플레이 경험을 제공할 것을 약속함\n[Comment]\n- 앞서 PS5로 출시된 <리버스>는 뛰어난 게임성에도 불구하고 출시 초기 퍼포먼스 모드에서의 저해상도 및 시각적 노이즈 문제로 유저들의 비판을 받은 바 있어, 하드웨어 성능이 상대적으로 제한적인 휴대용 기기에서의 최적화 결과가 주목됨\n- 닌텐도 스위치 2용 <파이널 판타지 VII 리메이크 인터그레이드>가 일부 프레임 드랍에도 불구하고 전반적으로 우수한 이식도를 보여주며 긍정적인 평가를 받은 만큼, 제작진은 해당 경험을 바탕으로 후속작의 안정성을 확보하려는 전략으로 보임\n- 이번 이식 결정은 스퀘어 에닉스가 최근 강조하고 있는 ‘멀티 플랫폼 확장 전략’의 핵심 행보로 풀이되며, 닌텐도의 강력한 차세대 기기 보급력을 활용해 IP의 영향력을 더욱 공고히 하려는 의도로 분석됨",
-        "original_title": "News Final Fantasy VII Rebirth Team Consistently Aiming For 30fps On Switch 2 \"Wherever Possible\"",
-        "url": "https://www.nintendolife.com/news/2026/02/final-fantasy-vii-rebirth-team-consistently-aiming-for-30fps-on-switch-2-wherever-possible",
-        "published_at": "2026. 2. 24",
-        "published_key": "2026-02-24 00:00:00",
-        "score": "",
-        "keyword": "Switch 2",
-        "integrated_note": "- 앞서 PS5로 출시된 <리버스>는 뛰어난 게임성에도 불구하고 출시 초기 퍼포먼스 모드에서의 저해상도 및 시각적 노이즈 문제로 유저들의 비판을 받은 바 있어, 하드웨어 성능이 상대적으로 제한적인 휴대용 기기에서의 최적화 결과가 주목됨\n- 닌텐도 스위치 2용 <파이널 판타지 VII 리메이크 인터그레이드>가 일부 프레임 드랍에도 불구하고 전반적으로 우수한 이식도를 보여주며 긍정적인 평가를 받은 만큼, 제작진은 해당 경험을 바탕으로 후속작의 안정성을 확보하려는 전략으로 보임\n- 이번 이식 결정은 스퀘어 에닉스가 최근 강조하고 있는 ‘멀티 플랫폼 확장 전략’의 핵심 행보로 풀이되며, 닌텐도의 강력한 차세대 기기 보급력을 활용해 IP의 영향력을 더욱 공고히 하려는 의도로 분석됨"
       },
       {
         "company_ko": "유비소프트",
