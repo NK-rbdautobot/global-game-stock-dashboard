@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-27T01:16:34Z",
+  "generated_at_utc": "2026-10-28T01:01:55Z",
   "financial_archive": {
     "source": "Google Sheets per-company tabs; Nexon excluded until cleaned",
     "sheet_url": "https://docs.google.com/spreadsheets/d/1jzdID-ZY39VhKgHdvpSIcGiJq0Gk_qsOj1k6hNi3jh8/edit",
@@ -481,17 +481,18 @@
           "operating_profit_krw_eok": -18001.8
         },
         "source_links": [
-          "https://s27.q4cdn.com/984876518/files/doc_financials/2025/q1/Q1-2025-Financial-Results-Press-Release.pdf",
-          "https://s27.q4cdn.com/984876518/files/doc_financials/2024/q4/Q4-2024-Press-Release.pdf",
-          "https://s27.q4cdn.com/984876518/files/doc_financials/2024/q3/Q3-2024-Press-Release.pdf",
-          "https://s27.q4cdn.com/984876518/files/doc_financials/2024/q1/RBLX-Q1-2024-Press-Relase-FINAL.pdf",
-          "https://s27.q4cdn.com/984876518/files/doc_financials/2024/q2/RBLX-2024-08-01-Exhibit-99-1-IR.pdf",
-          "https://s27.q4cdn.com/984876518/files/doc_financials/2025/q2/Q2-25-Press-Release.pdf",
-          "https://s27.q4cdn.com/984876518/files/doc_financials/2025/q3/Q3-2025-Shareholder-Letter.pdf",
-          "https://s27.q4cdn.com/984876518/files/doc_financials/2025/q4/Q4-2025-Shareholder-Letter.pdf",
-          "https://s27.q4cdn.com/984876518/files/doc_financials/2026/q1/Q1-2026-Earnings-Shareholder-Letter.pdf",
-          "https://s27.q4cdn.com/984876518/files/doc_financials/2026/q2/Roblox-Q2-2026-Supplemental-Materials.pdf",
-          "https://s27.q4cdn.com/984876518/files/doc_financials/2026/q2/Roblox-Q2-2026-Earnings-Shareholder-Letter.pdf"
+          "https://s27.q4cdn.com/984876518/files/doc_financials/2021/q1/Q1-'21-Supplemental-Materials-final.pdf",
+          "https://s27.q4cdn.com/984876518/files/doc_financials/2021/q2/Earnings-Q2'21-Supplemental-Materials-Adj.-8.23.2021.pdf",
+          "https://s27.q4cdn.com/984876518/files/doc_financials/2021/q3/Earnings-Q3'21-Supplemental-Materials-(FINAL-11-8-21).pdf",
+          "https://s27.q4cdn.com/984876518/files/doc_financials/2021/q4/Q4'21-Supplemental-Materials-(FINAL-2-11-22).pdf",
+          "https://s27.q4cdn.com/984876518/files/doc_financials/2022/q1/Q1'22-Supplemental-Materials-FINAL.pdf",
+          "https://s27.q4cdn.com/984876518/files/doc_financials/2022/q2/Q2'22-Supplemental-Materials-FINAL.pdf",
+          "https://s27.q4cdn.com/984876518/files/doc_financials/2022/q3/Q3'22-Supplemental-Materials-FINAL.pdf",
+          "https://s27.q4cdn.com/984876518/files/doc_financials/2022/q4/Q4'22-Supplemental-Materials-[FINAL].pdf",
+          "https://s27.q4cdn.com/984876518/files/doc_financials/2023/q1/Q1-23-Supplemental-Materials-FINAL.pdf",
+          "https://s27.q4cdn.com/984876518/files/doc_financials/2023/q2/Q2-23-Supplemental-Materials-FINAL.pdf",
+          "https://s27.q4cdn.com/984876518/files/doc_financials/2023/q3/Q3-23-Supplemental-Materials-FINAL.pdf",
+          "https://s27.q4cdn.com/984876518/files/doc_financials/2023/q4/Q4-23-Supplemental-Materials.pdf"
         ]
       },
       {
@@ -3319,14 +3320,6 @@
         "operating_profit_unit": "영업이익(십억 JPY)",
         "quarters": [
           {
-            "period": "2025 Q1",
-            "revenue": 80.8,
-            "operating_profit": 34.8,
-            "revenue_krw_eok": 7272.0,
-            "operating_profit_krw_eok": 3132.0,
-            "source_range": "B1:G3"
-          },
-          {
             "period": "2025 Q2",
             "revenue": 45.5,
             "operating_profit": 24.6,
@@ -3364,6 +3357,14 @@
             "operating_profit": 41.1,
             "revenue_krw_eok": 6336.0,
             "operating_profit_krw_eok": 3699.0,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q3",
+            "revenue": 50.5,
+            "operating_profit": 19.7,
+            "revenue_krw_eok": 4545.0,
+            "operating_profit_krw_eok": 1773.0,
             "source_range": "B1:G3"
           }
         ],
@@ -3405,11 +3406,11 @@
           }
         ],
         "latest_quarter": {
-          "period": "2026 Q2",
-          "revenue": 70.4,
-          "operating_profit": 41.1,
-          "revenue_krw_eok": 6336.0,
-          "operating_profit_krw_eok": 3699.0,
+          "period": "2026 Q3",
+          "revenue": 50.5,
+          "operating_profit": 19.7,
+          "revenue_krw_eok": 4545.0,
+          "operating_profit_krw_eok": 1773.0,
           "source_range": "B1:G3"
         },
         "latest_year": {
@@ -3813,6 +3814,150 @@
     "sheet_url": "https://docs.google.com/spreadsheets/d/1nA4GhaJA14_2tpHimX0-AsCpCE2G5YFySjGX79hzrCw/edit?gid=1688880659#gid=1688880659",
     "count": 463,
     "rows": [
+      {
+        "company_ko": "마이크로소프트",
+        "title_ko": "[글로벌/경쟁사] 마이크로소프트, Xbox 재편 대상인 아케인 스튜디오 매각 협의 기한 1개월 연장",
+        "summary_ko": "- 마이크로소프트(MS)의 Xbox 부문 재편 계획으로 인해 매각 또는 폐쇄 위기에 놓인 개발사 아케인 스튜디오(Arkane Studios)의 매각 협의 기한이 1개월 연장됨\n- 프랑스 노동법인 'フロランジュ法(플로랑주법)'에 따라 리용에 위치한 아케인 리용(Arkane Lyon)은 당초 11월 13일까지 3개월간 인수자를 찾아야 했으나, 노동조합 등의 요청으로 협의 기간이 12월 13일까지로 늘어남\n- MS 담당자는 다양한 선택지를 검토하기 위해 기간을 연장했다고 밝혔으며, 유명 저널리스트인 제이ソン 슈라이어 역시 스튜디오가 폐쇄될 가능성은 낮고 여러 생존 방안이 모색되고 있다고 언급함\n[Comment]\n- 아케인 스튜디오는 <Dishonored> 등의 대표작을 배출한 개발사로, 최근 Xbox 대규모 재편 및 구조조정의 영향권에 들며 업계의 이목이 집중된 바 있음\n- 프랑스 현지 법률에 따른 필수 협의 절차와 노동 단체의 적극적인 개입으로 인해 스튜디오가 곧바로 폐쇄되기보다는 제3자 매각이나 독립 등의 대안이 실현될 가능성에 무게가 실리고 있음",
+        "original_title": "『Dishonored』などで知られる「Arkane Studios」XBOX再編計画における買収案の協議期限が1か月の延長。デッドラインは12月13日までか",
+        "url": "https://www.gamebusiness.jp/article/2026/10/27/28457.html",
+        "published_at": "2026. 10. 27",
+        "published_key": "2026-10-27 00:00:00",
+        "score": "",
+        "keyword": "買収",
+        "integrated_note": "- 아케인 스튜디오는 <Dishonored> 등의 대표작을 배출한 개발사로, 최근 Xbox 대규모 재편 및 구조조정의 영향권에 들며 업계의 이목이 집중된 바 있음\n- 프랑스 현지 법률에 따른 필수 협의 절차와 노동 단체의 적극적인 개입으로 인해 스튜디오가 곧바로 폐쇄되기보다는 제3자 매각이나 독립 등의 대안이 실현될 가능성에 무게가 실리고 있음"
+      },
+      {
+        "company_ko": "마이크로소프트",
+        "title_ko": "[글로벌/동향] AI 기술 발전으로 부상한 게임 재컴파일(recomp) 기술, 업계의 새로운 화두로 떠올라",
+        "summary_ko": "- 최근 인공지능(AI)의 급격한 발전이 Xbox, 플레이스테이션, 닌텐도 등 주요 플랫폼의 과거 타이틀을 원본 하드웨어가 아닌 PC나 모바일 기기에서 구동할 수 있도록 재컴파일(recomp)하는 기술의 핵심 동력으로 작용하고 있음\n- 최근 신설된 실험적 조직인 Xbox 랩스의 CEO 아샤 샤르마(Asha Sharma)는 이러한 디컴파일/재컴파일된 게임들이 소프트웨어와 하드웨어의 경계 등 업계의 오랜 통념에 도전하고 있다고 언급하며 긍정적인 기대감을 표명함\n- 다만, 비공식적으로 재컴파일된 게임을 다운로드하는 것은 저작권 및 안정성 측면에서 권장되지 않으며, AI의 과도한 사용으로 인해 빈번한 크래시와 버그가 발생하는 등 품질 관리 측면에서 한계가 지적되고 있음\n[Comment]\n- AI 기반 재컴파일 기술은 과거 명작들에 새로운 생명력을 불어넣고 플레이어의 접근성을 높이는 긍정적인 측면이 있으나, 기존의 비즈니스 모델과 저작권 체계에 도전 과제를 던지고 있음\n- Xbox를 비롯한 주요 게임사들은 이에 대응하여 PC 플랫폼을 위한 공식적인 하위 호환(backwards compatibility) 기능을 확대하는 등 자체적인 해결책과 공식 출시를 모색하고 있음",
+        "original_title": "Xbox Knows Its Games Are Getting Recompiled For PC, And It's Impacting Their Future",
+        "url": "https://www.purexbox.com/news/2026/10/xbox-knows-its-games-are-getting-recompiled-for-pc-and-its-impacting-their-future",
+        "published_at": "2026. 10. 27",
+        "published_key": "2026-10-27 00:00:00",
+        "score": "",
+        "keyword": "hardware",
+        "integrated_note": "- AI 기반 재컴파일 기술은 과거 명작들에 새로운 생명력을 불어넣고 플레이어의 접근성을 높이는 긍정적인 측면이 있으나, 기존의 비즈니스 모델과 저작권 체계에 도전 과제를 던지고 있음\n- Xbox를 비롯한 주요 게임사들은 이에 대응하여 PC 플랫폼을 위한 공식적인 하위 호환(backwards compatibility) 기능을 확대하는 등 자체적인 해결책과 공식 출시를 모색하고 있음"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/동향] <Ghost of Yotei> 개발사 서커 펀치, 차기 프로젝트 준비 과정서 26명 이상 감원 단행",
+        "summary_ko": "- 소니 산하 플레이스테이션 스튜디오이자 <Ghost of Yotei>의 개발사인 서커 펀치 프로덕션(Sucker Punch Productions)이 인력 감축을 단행함\n- 외신 애프터매스(Aftermath)가 인용한 전 직원의 증언에 따르면, 전체 직원 약 230명 중 최소 26개의 일자리가 축소된 것으로 전해짐\n- 서커 펀치 내부 이메일에 따르면 \"시장 환경의 어려움을 주시하고 다음 프로젝트의 요구 사항을 검토한 끝에 감원을 결정했다\"며 전사적으로 여러 직책이 정리될 예정임을 밝힘\n[Comment]\n- <Ghost of Yotei>가 PS5 출시작 중 최다 판매량을 기록한 타이틀 중 하나로 평가받으며 상업적 성공을 거두었음에도 불구하고 이뤄진 감원이라는 점에서 이례적이라는 반응이 나옴\n- 이번 감원은 스튜디오가 차기 신작 개발 단계로 전환하는 과정에서 조직 규모와 인력 구성을 재정비하는 구조조정의 일환으로 풀이됨",
+        "original_title": "Ghost of Yotei Dev Sucker Punch Hit with Layoffs as Leadership Eyes Next PlayStation Project",
+        "url": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-dev-sucker-punch-hit-with-layoffs-as-leadership-eyes-next-playstation-project",
+        "published_at": "2026. 10. 27",
+        "published_key": "2026-10-27 00:00:00",
+        "score": "",
+        "keyword": "PlayStation",
+        "integrated_note": "- <Ghost of Yotei>가 PS5 출시작 중 최다 판매량을 기록한 타이틀 중 하나로 평가받으며 상업적 성공을 거두었음에도 불구하고 이뤄진 감원이라는 점에서 이례적이라는 반응이 나옴\n- 이번 감원은 스튜디오가 차기 신작 개발 단계로 전환하는 과정에서 조직 규모와 인력 구성을 재정비하는 구조조정의 일환으로 풀이됨"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/경쟁사] 에픽게임즈 CEO 팀 스위니, 스팀의 AI 공개 정책을 ‘정치적 행위’라며 강하게 비판",
+        "summary_ko": "- 에픽게임즈의 CEO 팀 스위니가 소셜미디어를 통해 스팀의 개발자 AI 사용 여부 공개 정책을 다시 한번 강하게 비판하며, 이를 “정치적 행위”이자 “혐오 몰이를 조장하는 행위”로 규정함\n- 스위니는 스팀의 정책이 개발자들에게 정치적 성명서 작성을 강제하여, 이를 통해 특정 집단이 게임에 대한 불매 운동이나 수익 창출 방해 캠페인을 벌이도록 돕는 수단으로 악용되고 있다고 주장함\n- 또한 생산성을 높이는 기술의 도입을 가로막는 것은 소비자 친화적이지 않으며, 개발자에게 투표 이력이나 정치적 성향을 공개하라고 강요하는 것과 다르지 않다고 지적함\n- 앞서 지난 6월에도 스위니는 스팀의 AI 공개 라벨 도입이 개발자들의 성공 가능성을 떨어뜨리며 무책임한 조치라고 비판한 바 있으며, 에픽게임즈는 AI 활용 방식에 대해 개발자와 대중에게 투명하게 공개해왔다고 강조함\n[Comment]\n- 이번 발언은 에픽게임즈와 밸브 간의 플랫폼 주도권 경쟁 및 AI 기술 수용 방식을 둘러싼 지속적인 마찰의 연장선으로 해석됨\n- 게임 개발 생태계에서 AI 도입이 가속화되는 가운데, 플랫폼별 규제와 정책 차이가 개발사들의 퍼블리싱 전략에 미치는 영향이 더욱 커질 것으로 전망됨",
+        "original_title": "Epic Games CEO calls Steam's AI disclosure policies \"a political act\"",
+        "url": "https://www.gamesindustry.biz/epic-games-ceo-calls-steams-ai-disclosure-policies-a-political-act",
+        "published_at": "2026. 10. 27",
+        "published_key": "2026-10-27 00:00:00",
+        "score": "",
+        "keyword": "Epic",
+        "integrated_note": "- 이번 발언은 에픽게임즈와 밸브 간의 플랫폼 주도권 경쟁 및 AI 기술 수용 방식을 둘러싼 지속적인 마찰의 연장선으로 해석됨\n- 게임 개발 생태계에서 AI 도입이 가속화되는 가운데, 플랫폼별 규제와 정책 차이가 개발사들의 퍼블리싱 전략에 미치는 영향이 더욱 커질 것으로 전망됨"
+      },
+      {
+        "company_ko": "소니",
+        "title_ko": "[글로벌/동향] <Ghost of Yotei> 개발사 서커 펀치, 차기 프로젝트 준비 과정서 26명 이상 감원 단행",
+        "summary_ko": "- 소니 산하 플레이스테이션 스튜디오이자 <Ghost of Yotei>의 개발사인 서커 펀치 프로덕션(Sucker Punch Productions)이 인력 감축을 단행함\n- 외신 애프터매스(Aftermath)가 인용한 전 직원의 증언에 따르면, 전체 직원 약 230명 중 최소 26개의 일자리가 축소된 것으로 전해짐\n- 서커 펀치 내부 이메일에 따르면 \"시장 환경의 어려움을 주시하고 다음 프로젝트의 요구 사항을 검토한 끝에 감원을 결정했다\"며 전사적으로 여러 직책이 정리될 예정임을 밝힘\n[Comment]\n- <Ghost of Yotei>가 PS5 출시작 중 최다 판매량을 기록한 타이틀 중 하나로 평가받으며 상업적 성공을 거두었음에도 불구하고 이뤄진 감원이라는 점에서 이례적이라는 반응이 나옴\n- 이번 감원은 스튜디오가 차기 신작 개발 단계로 전환하는 과정에서 조직 규모와 인력 구성을 재정비하는 구조조정의 일환으로 풀이됨",
+        "original_title": "Ghost of Yotei Dev Sucker Punch Hit with Layoffs as Leadership Eyes Next PlayStation Project",
+        "url": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-dev-sucker-punch-hit-with-layoffs-as-leadership-eyes-next-playstation-project",
+        "published_at": "2026. 10. 27",
+        "published_key": "2026-10-27 00:00:00",
+        "score": "",
+        "keyword": "PlayStation",
+        "integrated_note": "- <Ghost of Yotei>가 PS5 출시작 중 최다 판매량을 기록한 타이틀 중 하나로 평가받으며 상업적 성공을 거두었음에도 불구하고 이뤄진 감원이라는 점에서 이례적이라는 반응이 나옴\n- 이번 감원은 스튜디오가 차기 신작 개발 단계로 전환하는 과정에서 조직 규모와 인력 구성을 재정비하는 구조조정의 일환으로 풀이됨"
+      },
+      {
+        "company_ko": "마이크로소프트",
+        "title_ko": "[글로벌/경쟁사] 넷플릭스, Xbox IP 영상화 위해 5억 달러 제안했으나 마이크로소프트 거절",
+        "summary_ko": "- 외신 보도에 따르면 넷플릭스는 Xbox IP를 활용한 영화 및 TV 시리즈 제작 라이선스 계약을 위해 7년간 5억 달러 규모의 금액을 제안함\n- 아샤 샤르마를 비롯한 Xbox 임원진은 해당 제안을 거절하고 8억 달러를 요구했으며, 이후 넷플릭스 최고 콘텐츠 책임자의 교체와 함께 해당 제안은 철회됨\n- 현재 Xbox는 대규모 독점 계약 대신 여러 파트너와 함께 소규모 계약을 추진하고 있으며, 최근 영화, TV, 테마파크 등 미디어 믹스 스핀오프를 담당할 신규 조직 'XP'를 신설함\n[Comment]\n- 이번 협상 결렬은 Xbox가 자사 IP의 가치를 높게 평가하고 있으며, 단일 플랫폼에 묶이기보다 다각화된 협력을 모색하고 있음을 보여줌\n- 한편, 마이크로소프트는 최근 구조조정을 통해 대규모 감원과 일부 스튜디오 매각을 진행하는 등 전반적인 사업 재편을 이어가고 있음",
+        "original_title": "Netflix reportedly offered $500m to Microsoft to license Xbox IP for seven years",
+        "url": "https://www.gamesindustry.biz/netflix-reportedly-offered-500m-to-microsoft-to-license-xbox-ip-for-seven-years",
+        "published_at": "2026. 10. 26",
+        "published_key": "2026-10-26 00:00:00",
+        "score": "",
+        "keyword": "Xbox",
+        "integrated_note": "- 이번 협상 결렬은 Xbox가 자사 IP의 가치를 높게 평가하고 있으며, 단일 플랫폼에 묶이기보다 다각화된 협력을 모색하고 있음을 보여줌\n- 한편, 마이크로소프트는 최근 구조조정을 통해 대규모 감원과 일부 스튜디오 매각을 진행하는 등 전반적인 사업 재편을 이어가고 있음"
+      },
+      {
+        "company_ko": "마이크로소프트",
+        "title_ko": "[글로벌/동향] 마이크로소프트, 미국 T-모바일과 제휴해 무선 요금제에 게임패스 도입",
+        "summary_ko": "- 마이크로소프트(MS)가 T-모바일과의 협력을 통해 새로운 무선 요금제 ‘T-믹스(T-Mix)’의 혜택으로 Xbox 게임패스를 제공한다고 공식 발표함\n- 오는 11월부터 조건을 충족하는 T-믹스 가입자는 ‘게임패스 얼티밋’ 또는 ‘게임패스 프리미엄’ 중 선택할 수 있으며, 이를 통해 콘솔, PC, 클라우드 게이밍 등 다양한 기기에서 게임 라이브러리를 이용할 수 있음\n- 이번 제휴는 미국 내 무선 요금제를 통해 Xbox 게임패스가 제공되는 최초의 사례로, 더 많은 이용자가 쉽게 게임에 접근할 수 있는 새로운 경로를 마련함\n[Comment]\n- 미국에서 통신사 요금제와 결합해 게임패스가 제공되는 것은 이번이 처음이지만, 영국의 EE 네트워크 등 해외 시장에서는 유사한 제휴 모델이 이미 도입되어 좋은 반응을 얻은 바 있음\n- 마이크로소프트는 콘솔 하드웨어 판매 의존도를 낮추고, 모바일 및 클라우드 등 다양한 플랫폼과 요금제 연계를 통해 구독자 저변을 확대하는 전략을 지속적으로 강화하고 있음",
+        "original_title": "Xbox Partners With T-Mobile For 'First Time' Deal Involving Game Pass",
+        "url": "https://www.purexbox.com/news/2026/10/xbox-partners-with-t-mobile-for-first-time-deal-involving-game-pass",
+        "published_at": "2026. 10. 26",
+        "published_key": "2026-10-26 00:00:00",
+        "score": "",
+        "keyword": "Game Pass",
+        "integrated_note": "- 미국에서 통신사 요금제와 결합해 게임패스가 제공되는 것은 이번이 처음이지만, 영국의 EE 네트워크 등 해외 시장에서는 유사한 제휴 모델이 이미 도입되어 좋은 반응을 얻은 바 있음\n- 마이크로소프트는 콘솔 하드웨어 판매 의존도를 낮추고, 모바일 및 클라우드 등 다양한 플랫폼과 요금제 연계를 통해 구독자 저변을 확대하는 전략을 지속적으로 강화하고 있음"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/경쟁사] 해커들, 생성형 AI 활용해 닌텐도 스위치 2 보안 우회 및 시스템 덤프 성공",
+        "summary_ko": "- 해커들이 생성형 AI 모델의 지원을 받아 닌텐도 스위치 2의 첫 번째 탈옥(Jailbreak)을 넘어선 추가 취약점(Exploit)을 발견하고, 시스템 보안을 완전히 무력화하는 데 성공함\n- 초기에는 스토어에서 삭제된 스위치 앱 '스마일베이직(SmileBASIC)'을 통한 제한적인 모드 및 홈브류 설치에 그쳤으나, 최근 파일 시스템과 메모리를 과부하시키는 새로운 취약점을 통해 콘솔의 펌웨어를 PC로 완전히 덤프하고 백업할 수 있게 됨\n- 해당 해커들은 대형 언어 모델(LLM)을 활용해 콘솔이 메모리의 특정 영역을 읽도록 유도하는 일련의 액션을 찾아냈으며, 이를 통해 KIP 레벨 이하의 모든 바이너리에 접근하여 게임 및 앱을 PC로 직접 추출할 수 있게 됨\n- 이번 발견으로 에뮬레이션, 불법 복제, 리버스 엔지니어링의 문이 열렸으며, 닌텐도가 즉각적인 패치를 통해 대응할 것으로 예상되나 AI가 해킹을 돕는 현 상황에서 보안 유지가 더욱 어려워질 것이라는 우려가 제기됨\n[Comment]\n- 생성형 AI가 소프트웨어 보안 우회 및 리버스 엔지니어링 과정에 적극적으로 활용되기 시작하면서, 플랫폼 홀더들의 보안 유지 난이도가 급격히 상승하고 있음\n- 초기 스위치 기기 생태계와 유사하게 닌텐도 스위치 2 역시 출시 초기부터 강력한 해킹 시도에 직면함에 따라, 향후 닌텐도의 신속한 펌웨어 패치 대응과 보안 강화 조치가 플랫폼의 장기적 성패를 가를 핵심 요소로 작용할 전망임",
+        "original_title": "Hackers Begin Dumping Nintendo Switch 2 Games As Expanded Exploit Breaks Console Security",
+        "url": "https://kotaku.com/hackers-begin-dumping-nintendo-switch-2-games-as-expanded-exploit-breaks-console-security-2000749440",
+        "published_at": "2026. 10. 26",
+        "published_key": "2026-10-26 00:00:00",
+        "score": "",
+        "keyword": "Nintendo",
+        "integrated_note": "- 생성형 AI가 소프트웨어 보안 우회 및 리버스 엔지니어링 과정에 적극적으로 활용되기 시작하면서, 플랫폼 홀더들의 보안 유지 난이도가 급격히 상승하고 있음\n- 초기 스위치 기기 생태계와 유사하게 닌텐도 스위치 2 역시 출시 초기부터 강력한 해킹 시도에 직면함에 따라, 향후 닌텐도의 신속한 펌웨어 패치 대응과 보안 강화 조치가 플랫폼의 장기적 성패를 가를 핵심 요소로 작용할 전망임"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/경쟁사] 넷플릭스, Xbox IP 영상화 위해 5억 달러 제안했으나 마이크로소프트 거절",
+        "summary_ko": "- 외신 보도에 따르면 넷플릭스는 Xbox IP를 활용한 영화 및 TV 시리즈 제작 라이선스 계약을 위해 7년간 5억 달러 규모의 금액을 제안함\n- 아샤 샤르마를 비롯한 Xbox 임원진은 해당 제안을 거절하고 8억 달러를 요구했으며, 이후 넷플릭스 최고 콘텐츠 책임자의 교체와 함께 해당 제안은 철회됨\n- 현재 Xbox는 대규모 독점 계약 대신 여러 파트너와 함께 소규모 계약을 추진하고 있으며, 최근 영화, TV, 테마파크 등 미디어 믹스 스핀오프를 담당할 신규 조직 'XP'를 신설함\n[Comment]\n- 이번 협상 결렬은 Xbox가 자사 IP의 가치를 높게 평가하고 있으며, 단일 플랫폼에 묶이기보다 다각화된 협력을 모색하고 있음을 보여줌\n- 한편, 마이크로소프트는 최근 구조조정을 통해 대규모 감원과 일부 스튜디오 매각을 진행하는 등 전반적인 사업 재편을 이어가고 있음",
+        "original_title": "Netflix reportedly offered $500m to Microsoft to license Xbox IP for seven years",
+        "url": "https://www.gamesindustry.biz/netflix-reportedly-offered-500m-to-microsoft-to-license-xbox-ip-for-seven-years",
+        "published_at": "2026. 10. 26",
+        "published_key": "2026-10-26 00:00:00",
+        "score": "",
+        "keyword": "Xbox",
+        "integrated_note": "- 이번 협상 결렬은 Xbox가 자사 IP의 가치를 높게 평가하고 있으며, 단일 플랫폼에 묶이기보다 다각화된 협력을 모색하고 있음을 보여줌\n- 한편, 마이크로소프트는 최근 구조조정을 통해 대규모 감원과 일부 스튜디오 매각을 진행하는 등 전반적인 사업 재편을 이어가고 있음"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/동향] 마이크로소프트, 미국 T-모바일과 제휴해 무선 요금제에 게임패스 도입",
+        "summary_ko": "- 마이크로소프트(MS)가 T-모바일과의 협력을 통해 새로운 무선 요금제 ‘T-믹스(T-Mix)’의 혜택으로 Xbox 게임패스를 제공한다고 공식 발표함\n- 오는 11월부터 조건을 충족하는 T-믹스 가입자는 ‘게임패스 얼티밋’ 또는 ‘게임패스 프리미엄’ 중 선택할 수 있으며, 이를 통해 콘솔, PC, 클라우드 게이밍 등 다양한 기기에서 게임 라이브러리를 이용할 수 있음\n- 이번 제휴는 미국 내 무선 요금제를 통해 Xbox 게임패스가 제공되는 최초의 사례로, 더 많은 이용자가 쉽게 게임에 접근할 수 있는 새로운 경로를 마련함\n[Comment]\n- 미국에서 통신사 요금제와 결합해 게임패스가 제공되는 것은 이번이 처음이지만, 영국의 EE 네트워크 등 해외 시장에서는 유사한 제휴 모델이 이미 도입되어 좋은 반응을 얻은 바 있음\n- 마이크로소프트는 콘솔 하드웨어 판매 의존도를 낮추고, 모바일 및 클라우드 등 다양한 플랫폼과 요금제 연계를 통해 구독자 저변을 확대하는 전략을 지속적으로 강화하고 있음",
+        "original_title": "Xbox Partners With T-Mobile For 'First Time' Deal Involving Game Pass",
+        "url": "https://www.purexbox.com/news/2026/10/xbox-partners-with-t-mobile-for-first-time-deal-involving-game-pass",
+        "published_at": "2026. 10. 26",
+        "published_key": "2026-10-26 00:00:00",
+        "score": "",
+        "keyword": "Game Pass",
+        "integrated_note": "- 미국에서 통신사 요금제와 결합해 게임패스가 제공되는 것은 이번이 처음이지만, 영국의 EE 네트워크 등 해외 시장에서는 유사한 제휴 모델이 이미 도입되어 좋은 반응을 얻은 바 있음\n- 마이크로소프트는 콘솔 하드웨어 판매 의존도를 낮추고, 모바일 및 클라우드 등 다양한 플랫폼과 요금제 연계를 통해 구독자 저변을 확대하는 전략을 지속적으로 강화하고 있음"
+      },
+      {
+        "company_ko": "닌텐도",
+        "title_ko": "[글로벌/경쟁사] 해커들, 생성형 AI 활용해 닌텐도 스위치 2 보안 우회 및 시스템 덤프 성공",
+        "summary_ko": "- 해커들이 생성형 AI 모델의 지원을 받아 닌텐도 스위치 2의 첫 번째 탈옥(Jailbreak)을 넘어선 추가 취약점(Exploit)을 발견하고, 시스템 보안을 완전히 무력화하는 데 성공함\n- 초기에는 스토어에서 삭제된 스위치 앱 '스마일베이직(SmileBASIC)'을 통한 제한적인 모드 및 홈브류 설치에 그쳤으나, 최근 파일 시스템과 메모리를 과부하시키는 새로운 취약점을 통해 콘솔의 펌웨어를 PC로 완전히 덤프하고 백업할 수 있게 됨\n- 해당 해커들은 대형 언어 모델(LLM)을 활용해 콘솔이 메모리의 특정 영역을 읽도록 유도하는 일련의 액션을 찾아냈으며, 이를 통해 KIP 레벨 이하의 모든 바이너리에 접근하여 게임 및 앱을 PC로 직접 추출할 수 있게 됨\n- 이번 발견으로 에뮬레이션, 불법 복제, 리버스 엔지니어링의 문이 열렸으며, 닌텐도가 즉각적인 패치를 통해 대응할 것으로 예상되나 AI가 해킹을 돕는 현 상황에서 보안 유지가 더욱 어려워질 것이라는 우려가 제기됨\n[Comment]\n- 생성형 AI가 소프트웨어 보안 우회 및 리버스 엔지니어링 과정에 적극적으로 활용되기 시작하면서, 플랫폼 홀더들의 보안 유지 난이도가 급격히 상승하고 있음\n- 초기 스위치 기기 생태계와 유사하게 닌텐도 스위치 2 역시 출시 초기부터 강력한 해킹 시도에 직면함에 따라, 향후 닌텐도의 신속한 펌웨어 패치 대응과 보안 강화 조치가 플랫폼의 장기적 성패를 가를 핵심 요소로 작용할 전망임",
+        "original_title": "Hackers Begin Dumping Nintendo Switch 2 Games As Expanded Exploit Breaks Console Security",
+        "url": "https://kotaku.com/hackers-begin-dumping-nintendo-switch-2-games-as-expanded-exploit-breaks-console-security-2000749440",
+        "published_at": "2026. 10. 26",
+        "published_key": "2026-10-26 00:00:00",
+        "score": "",
+        "keyword": "Nintendo",
+        "integrated_note": "- 생성형 AI가 소프트웨어 보안 우회 및 리버스 엔지니어링 과정에 적극적으로 활용되기 시작하면서, 플랫폼 홀더들의 보안 유지 난이도가 급격히 상승하고 있음\n- 초기 스위치 기기 생태계와 유사하게 닌텐도 스위치 2 역시 출시 초기부터 강력한 해킹 시도에 직면함에 따라, 향후 닌텐도의 신속한 펌웨어 패치 대응과 보안 강화 조치가 플랫폼의 장기적 성패를 가를 핵심 요소로 작용할 전망임"
+      },
+      {
+        "company_ko": "소니",
+        "title_ko": "[글로벌/동향] 소니, 차세대 휴대용 기기에 AMD RDNA 5 독점 탑재 가능성 제기",
+        "summary_ko": "- 외신 보도에 따르면, 소니가 준비 중인 차세대 휴대용 기기(코드명 카니스)에 AMD의 차세대 GPU 기술인 'RDNA 5'가 독점 탑재될 가능성이 제기됨\n- 디지털 파운드리의 전문가 리치 리드베터의 발언에 따르면, 소니와 AMD의 긴밀한 파트너십과 강력한 판매 전망을 바탕으로 한 협상력이 작용해 모바일 기기용 RDNA 5 칩셋에 대한 사실상의 독점권을 확보한 것으로 분석됨\n- RDNA 5는 전력 효율성, 레이 트레이싱, AI 기반 프로세싱 솔루션을 우선시하는 최신 기술로, 해당 기기가 출시될 경우 시장에서 가장 강력한 성능을 발휘하는 휴대용 기기가 될 수 있음\n- 다만, 부품 비용 상승으로 인해 PS6 라인업 전체의 가격이 크게 상승할 것으로 예상되며, 거치형 시스템과 휴대용 기기가 각각 고가로 책정될 경우 소비자 진입 장벽이 높아질 수 있다는 우려도 공존함\n[Comment]\n- 소니와 AMD는 PSSR 및 FSR 등 그래픽 기술 개발에서 긴밀한 협력 관계를 유지해 왔으며, 이번 휴대용 기기 칩셋 독점 루머는 소니의 콘솔 시장 내 강력한 영향력을 다시 한번 입증하는 대목임\n- 최근 차세대 하드웨어 가격 상승에 대한 우려가 커지는 가운데, 소니가 거치형 콘솔과 휴대용 기기를 어떤 가격 전략으로 패키징하여 선보일지가 향후 시장 경쟁의 주요 관전 포인트가 될 것으로 보임",
+        "original_title": "Sony's PS6 Handheld May Be More Capable Than Every Other Device on the Market",
+        "url": "https://www.pushsquare.com/news/2026/10/sonys-ps6-handheld-may-be-more-capable-than-every-other-device-on-the-market",
+        "published_at": "2026. 10. 26",
+        "published_key": "2026-10-26 00:00:00",
+        "score": "",
+        "keyword": "exclusive",
+        "integrated_note": "- 소니와 AMD는 PSSR 및 FSR 등 그래픽 기술 개발에서 긴밀한 협력 관계를 유지해 왔으며, 이번 휴대용 기기 칩셋 독점 루머는 소니의 콘솔 시장 내 강력한 영향력을 다시 한번 입증하는 대목임\n- 최근 차세대 하드웨어 가격 상승에 대한 우려가 커지는 가운데, 소니가 거치형 콘솔과 휴대용 기기를 어떤 가격 전략으로 패키징하여 선보일지가 향후 시장 경쟁의 주요 관전 포인트가 될 것으로 보임"
+      },
       {
         "company_ko": "마이크로소프트",
         "title_ko": "[글로벌/경쟁사] MS의 Xbox 부문 구조조정 여파, 아케인 스튜디오 폐쇄 협의 기한 임박",
@@ -4450,30 +4595,6 @@
         "integrated_note": "- 생성형 AI에 대한 게이머들의 반발과 우려가 지속되는 가운데, 캡콤 등 주요 게임사들이 개발 과정에서 AI 활용을 인정하는 등 업계 전반의 AI 도입은 점차 가시화되고 있음\n- MS 역시 최근 'Xbox Labs'를 통해 AI 기반의 게임 개발 및 모딩 실험을 진행하는 등 신기술 탐색에 나서고 있으나, 무분별한 AI 코드 도입에 따른 스파게티 코드 양산 및 품질 관리 문제는 여전히 해결해야 할 과제로 지적됨"
       },
       {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] AI 디컴파일·바이브 코딩 논란 속 인디게임 복제작 간 '코드 표절' 공방 발생",
-        "summary_ko": "- 스튜디오 빗닷(Studio Bitdot)의 바이럴 인디게임 <Needle In A Haystack Simulator>의 클론작을 출시했던 개발사 노글리프(NoGlyph)가, 또 다른 클론작인 리틀 필드 스튜디오(Little Field Studios)의 게임에 대해 코드 도용 의혹을 제기함\n- 노글리프 측은 리틀 필드 스튜디오의 파일 내에 동일한 명칭의 클래스 13개와 바이트 단위까지 완전히 일치하는 39개의 메서드가 존재하며, 상대 게임에는 존재하지도 않는 셰이더를 가리키는 오류 메시지까지 토씨 하나 틀리지 않고 복제되었다고 주장함\n- 전문가 및 개발자들은 이를 폐쇄형 소스 게임을 클로드(Claude) 등 AI 도구로 디컴파일해 소스코드를 추출·복제한 전형적인 'AI 지원 디컴파일' 사례로 분석함\n[Comment]\n- 생성형 AI와 바이브 코딩(Vibe coding)의 확산으로 인해 인디게임 씬에서 아이디어 및 소스코드 탈취 문제가 심각한 위험 요소로 부상하고 있음\n- 최근 로블록스의 한 크리에이터가 공개된 트레일러 영상 하나만으로 AI(Claude)를 활용해 24시간 만에 인디게임 <Escape the Walls>의 복제 버전을 만들어 논란이 된 바 있으며, 또 다른 인디 개발사는 AI 기반의 신속한 모방작 출시를 우려해 스팀 무료 데모 배포 계획을 취소하기도 함\n- 대형 게임사와 달리 소규모 인디 개발진은 불법 복제물에 법적으로 대응할 자금과 여력이 부족하여, 향후 인디게임 업계 전반에서 신작 트레일러 공개, 무료 데모 제공, 얼리 액세스 진행을 기피하는 방어적 기조가 확산될 것으로 전망됨",
-        "original_title": "Gaming’s Vibe-Coded Apocalypse Even Has Devs Who Rip Off Viral Steam Hits Complaining",
-        "url": "https://kotaku.com/devs-behind-needle-in-a-haystack-clone-complain-their-clone-has-been-cloned-by-vibe-coder-2000747284",
-        "published_at": "2026. 10. 19",
-        "published_key": "2026-10-19 00:00:00",
-        "score": "",
-        "keyword": "PS",
-        "integrated_note": "- 생성형 AI와 바이브 코딩(Vibe coding)의 확산으로 인해 인디게임 씬에서 아이디어 및 소스코드 탈취 문제가 심각한 위험 요소로 부상하고 있음\n- 최근 로블록스의 한 크리에이터가 공개된 트레일러 영상 하나만으로 AI(Claude)를 활용해 24시간 만에 인디게임 <Escape the Walls>의 복제 버전을 만들어 논란이 된 바 있으며, 또 다른 인디 개발사는 AI 기반의 신속한 모방작 출시를 우려해 스팀 무료 데모 배포 계획을 취소하기도 함\n- 대형 게임사와 달리 소규모 인디 개발진은 불법 복제물에 법적으로 대응할 자금과 여력이 부족하여, 향후 인디게임 업계 전반에서 신작 트레일러 공개, 무료 데모 제공, 얼리 액세스 진행을 기피하는 방어적 기조가 확산될 것으로 전망됨"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[유럽/동향] 호요버스 <젠레스 존 제로>, 유럽 PS5 이용 등급 PEGI 12에서 16으로 상향",
-        "summary_ko": "- 유럽 플레이스테이션 5(PS5) 버전의 <젠레스 존 제로(Zenless Zone Zero)> 연령 등급이 기존 PEGI 12(12세 이용가)에서 PEGI 16(16세 이용가)으로 상향 조정됨\n- 등급 정보 항목에는 등급 상향 사유로 ‘보통 수준의 폭력(moderate violence)’과 ‘성적 암시(sexual innuendo)’가 새롭게 명시됨\n- 현재 미국(ESRB Teen) 및 앱스토어(13+) 등 타 지역 및 플랫폼의 등급에는 변동이 없으며, 이번 조정은 유럽 PS5 버전에 한해 적용된 것으로 확인됨\n[Comment]\n- 개발사 호요버스는 캐릭터의 3D 모션과 물리 연출 등 비주얼 요소를 점차 강화해왔으며, 이러한 과감한 팬서비스 연출이 유럽 등급 분류 기구(PEGI)의 재심의 과정에 영향을 준 것으로 분석됨\n- 이용자 사이에서는 향후 콘텐츠 표현 수위가 완화될 것이라는 기대도 나오고 있으나, 타 국가 및 모바일 플랫폼의 등급이 유지되고 있어 전반적인 게임 수위 확대보다는 유럽 현지 심의 기준에 맞춘 조정으로 풀이됨\n- 캐릭터 매력도가 수익과 직결되는 서브컬처 가챠 모델 특성상, 표현 수위와 플랫폼별 연령 등급 규제 사이의 조율이 주요 과제로 이어질 것으로 보임",
-        "original_title": "Gooner Game' Zenless Zone Zero Gets an Age Rating Increase on PS5",
-        "url": "https://www.pushsquare.com/news/2026/10/gooner-game-zenless-zone-zero-gets-an-age-rating-increase-on-ps5",
-        "published_at": "2026. 10. 19",
-        "published_key": "2026-10-19 00:00:00",
-        "score": "",
-        "keyword": "PS5",
-        "integrated_note": "- 개발사 호요버스는 캐릭터의 3D 모션과 물리 연출 등 비주얼 요소를 점차 강화해왔으며, 이러한 과감한 팬서비스 연출이 유럽 등급 분류 기구(PEGI)의 재심의 과정에 영향을 준 것으로 분석됨\n- 이용자 사이에서는 향후 콘텐츠 표현 수위가 완화될 것이라는 기대도 나오고 있으나, 타 국가 및 모바일 플랫폼의 등급이 유지되고 있어 전반적인 게임 수위 확대보다는 유럽 현지 심의 기준에 맞춘 조정으로 풀이됨\n- 캐릭터 매력도가 수익과 직결되는 서브컬처 가챠 모델 특성상, 표현 수위와 플랫폼별 연령 등급 규제 사이의 조율이 주요 과제로 이어질 것으로 보임"
-      },
-      {
         "company_ko": "소니",
         "title_ko": "[유럽/동향] 호요버스 <젠레스 존 제로>, 유럽 PS5 이용 등급 PEGI 12에서 16으로 상향",
         "summary_ko": "- 유럽 플레이스테이션 5(PS5) 버전의 <젠레스 존 제로(Zenless Zone Zero)> 연령 등급이 기존 PEGI 12(12세 이용가)에서 PEGI 16(16세 이용가)으로 상향 조정됨\n- 등급 정보 항목에는 등급 상향 사유로 ‘보통 수준의 폭력(moderate violence)’과 ‘성적 암시(sexual innuendo)’가 새롭게 명시됨\n- 현재 미국(ESRB Teen) 및 앱스토어(13+) 등 타 지역 및 플랫폼의 등급에는 변동이 없으며, 이번 조정은 유럽 PS5 버전에 한해 적용된 것으로 확인됨\n[Comment]\n- 개발사 호요버스는 캐릭터의 3D 모션과 물리 연출 등 비주얼 요소를 점차 강화해왔으며, 이러한 과감한 팬서비스 연출이 유럽 등급 분류 기구(PEGI)의 재심의 과정에 영향을 준 것으로 분석됨\n- 이용자 사이에서는 향후 콘텐츠 표현 수위가 완화될 것이라는 기대도 나오고 있으나, 타 국가 및 모바일 플랫폼의 등급이 유지되고 있어 전반적인 게임 수위 확대보다는 유럽 현지 심의 기준에 맞춘 조정으로 풀이됨\n- 캐릭터 매력도가 수익과 직결되는 서브컬처 가챠 모델 특성상, 표현 수위와 플랫폼별 연령 등급 규제 사이의 조율이 주요 과제로 이어질 것으로 보임",
@@ -4534,18 +4655,6 @@
         "integrated_note": "- 생성형 AI 기술 발전과 함께 실제 인물의 사진을 무단으로 합성·나체화하는 딥페이크 악용 문제가 심각해짐에 따라, 플랫폼 운영사인 애플이 개발자의 사전 방지 책임을 공식적으로 명문화한 조치로 풀이됨\n- 앞서 xAI의 챗봇 'Grok'이 음란성 딥페이크 생성 문제로 애플의 경고를 받고 안전장치를 마련한 사례가 있었던 만큼, 생성형 AI를 탑재한 모든 앱에 대한 심사 및 안전 필터링 요구 기준이 전반적으로 한층 강화될 것으로 전망됨"
       },
       {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] 신작 호러 게임 <Drunken Goddess Reflux>, 생성형 AI 표절 우려로 스팀 공개 데모 전격 취소",
-        "summary_ko": "- 개발사 얼라이언스 아츠(Alliance Arts)는 스팀 넥스트 페스트를 앞두고 오는 10월 19일 공개 예정이었던 애니메이션 호러 신작 <Drunken Goddess Reflux>의 무료 데모 배포를 전격 취소하고, 소수의 인원만 참여하는 비공개 플레이 세션으로 전환한다고 발표함\n- 개발팀은 당초 스트리밍 및 영상 공유를 금지하는 조건으로 데모를 선보이려 했으나 소규모 팀 특성상 이를 현실적으로 단속하기 어렵다고 판단했으며, 데모가 공개될 경우 생성형 AI 등을 이용해 연출과 게임플레이를 모방·복제한 작품이 본편보다 먼저 출시될 것을 우려해 취소를 결정했다고 밝힘\n- 해당 게임은 악마와 러시안 룰렛을 진행하는 독특한 도박 및 호러 메카닉을 특징으로 하며, 올해 초 처음 공개된 이후 스팀 찜 목록(위시리스트) 65위, 팔로워 2만 5천 명 이상을 기록하는 등 인디게임 팬들의 높은 관심을 받아왔음\n[Comment]\n- 최근 생성형 AI 기술과 신속한 프로토타이핑 툴의 발전으로 인해 소셜 미디어나 로블록스 등 플랫폼에서 스팀 인기작의 모방작이 단기간 내 제작·유통되는 사례가 늘어나면서 인디 개발진의 지식재산권(IP) 보호 문제가 부각됨\n- 특히 스팀 넥스트 페스트처럼 수많은 신작이 쏟아져 나오는 대형 행사에서 독창적인 아이디어와 비주얼을 조기에 전면 노출하는 것이 중소 규모 개발사에게는 복제 및 표절 위험을 가중시킬 수 있다는 우려를 단적으로 보여준 사례로 평가됨",
-        "original_title": "Anime Gambling Horror Game Ditches Free Steam Demo Over Fears Of Getting Ripped Off By AI",
-        "url": "https://kotaku.com/anime-gambling-horror-game-ditches-free-steam-demo-over-fears-of-getting-ripped-off-by-ai-2000746794",
-        "published_at": "2026. 10. 17",
-        "published_key": "2026-10-17 00:00:00",
-        "score": "",
-        "keyword": "Steam",
-        "integrated_note": "- 최근 생성형 AI 기술과 신속한 프로토타이핑 툴의 발전으로 인해 소셜 미디어나 로블록스 등 플랫폼에서 스팀 인기작의 모방작이 단기간 내 제작·유통되는 사례가 늘어나면서 인디 개발진의 지식재산권(IP) 보호 문제가 부각됨\n- 특히 스팀 넥스트 페스트처럼 수많은 신작이 쏟아져 나오는 대형 행사에서 독창적인 아이디어와 비주얼을 조기에 전면 노출하는 것이 중소 규모 개발사에게는 복제 및 표절 위험을 가중시킬 수 있다는 우려를 단적으로 보여준 사례로 평가됨"
-      },
-      {
         "company_ko": "닌텐도",
         "title_ko": "[글로벌/동향] <Call of Duty: Modern Warfare 4>, 스위치 2 버전서 엔비디아 DLSS 지원 확인",
         "summary_ko": "- <Call of Duty: Modern Warfare 4>의 캠페인 사전 체험이 시작된 가운데, 닌텐도 스위치 2 버전의 그래픽 설정에 엔비디아의 AI 업스케일링 기술인 'DLSS'와 인피니티 워드 자체 안티앨리어싱 기술인 'Filmic SMAA T2X'가 포함된 것으로 확인됨\n- 디지털 파운드리의 초기 분석에 따르면, DLSS와 Filmic SMAA 옵션 모두 동일한 픽셀 데이터를 해석하지만 DLSS가 누적 프레임 데이터를 활용해 계단 현상을 더 부드럽게 다듬고 외곽선을 깔끔하게 표현하는 우위를 보임\n- 나뭇잎, 문의 데칼 등 불규칙하고 복잡한 텍스처 디테일 처리에서도 DLSS 적용 시 선명도가 크게 개선되는 것으로 나타남\n- 이 외에도 AMD의 콘트라스트 적응형 샤프닝 기술인 'FidelityFX CAS' 옵션도 함께 탑재되어 있어, 이용자가 휴대용 기기에서 세부적인 포스트 프로세싱 설정을 조정할 수 있도록 지원함\n[Comment]\n- 차세대 콘솔 스위치 2에서 엔비디아 DLSS의 실제 적용 사례가 확인됨에 따라, 기기의 성능 한계를 극복하고 AAA급 멀티플랫폼 타이틀을 원활히 구동하기 위한 AI 업스케일링 기술의 중요성이 부각되고 있음\n- 정지 화면에서는 DLSS가 시각적 우위를 점하고 있으나, 동적 플레이 환경에서 DLSS 구동에 따른 프레임 저하나 엔진 간 결합에서 발생하는 그래픽 왜곡(아티팩트) 여부 등 정밀한 성능 검증이 추후 과제로 남아 있음\n- 이번 스위치 2 이식 개발을 담당한 디지털 레전즈(Digital Legends)가 콘솔 유저에게 PC 수준의 정밀한 그래픽 옵션을 제공했다는 점에서도 긍정적인 평가를 받고 있음",
@@ -4595,30 +4704,6 @@
       },
       {
         "company_ko": "로블록스",
-        "title_ko": "[일본/동향] XR 개발사 MyDearest, 로블록스 전문 스튜디오 moze 전격 인수",
-        "summary_ko": "- <8번 출구 VR> 등을 개발한 일본의 XR 콘텐츠 스튜디오 MyDearest가 로블록스(Roblox) 게임 스튜디오 moze의 전 주식을 취득해 완전 자회사화했다고 16일 발표함\n- MyDearest는 전 세계 누적 플레이어 수 300만 명을 돌파한 VR 게임 경험과 이번 인수를 결합해, 로블록스·VR·PC(Steam)를 아우르는 알파 세대 타깃 콘텐츠 개발 및 운영 체제를 강화하고 법인 대상 B2B 지원 사업을 확대할 계획임\n- 2023년 설립된 일본 개발사 moze는 <Troll Escalator Tower> 등 누적 2,000만 플레이 이상의 오리지널 타이틀을 다수 개발했으며, 가루비(Calbee) 등 기업 협업을 포함해 관여 콘텐츠의 누적 플레이 수가 5,000만 회를 돌파한 개발사임\n- 인수와 함께 moze의 CTO 마츠사코 쇼고가 신임 대표이사로 취임했으며, MyDearest는 향후 moze를 공식 흡수합병할 예정임\n[Comment]\n- 2026년 2분기 기준 로블록스의 글로벌 일일 활성 이용자 수(DAU)는 약 1억 2,300만 명에 달하며, 특히 북미 알파 세대의 핵심 문화 및 놀이 공간으로 확고히 자리 잡고 있음\n- MyDearest 역시 자사 VR 타이틀 이용자의 약 70%가 미국 알파 세대이며, 2025년 9월 공개한 <8번 출구 for Roblox>가 누적 방문 1,000만 회를 넘어서는 등 해당 타깃층 공략에 집중해 옴\n- 로블록스의 성공 공식과 유저 트렌드가 VR 및 PC(Steam) 플랫폼으로도 확산됨에 따라, moze의 로블록스 운영 노하우를 바탕으로 멀티플랫폼 글로벌 흥행작 발굴과 2026년 1월 경영통합한 Mogura와의 법인 연계 사업 시너지를 노리는 전략으로 평가됨",
-        "original_title": "『8番出口VR』のMyDearest、Robloxゲームスタジオmozeを完全子会社化―Robloxの知見をVR・Steamにも展開",
-        "url": "https://www.gamebusiness.jp/article/2026/10/16/28342.html",
-        "published_at": "2026. 10. 16",
-        "published_key": "2026-10-16 00:00:00",
-        "score": "",
-        "keyword": "子会社化",
-        "integrated_note": "- 2026년 2분기 기준 로블록스의 글로벌 일일 활성 이용자 수(DAU)는 약 1억 2,300만 명에 달하며, 특히 북미 알파 세대의 핵심 문화 및 놀이 공간으로 확고히 자리 잡고 있음\n- MyDearest 역시 자사 VR 타이틀 이용자의 약 70%가 미국 알파 세대이며, 2025년 9월 공개한 <8번 출구 for Roblox>가 누적 방문 1,000만 회를 넘어서는 등 해당 타깃층 공략에 집중해 옴\n- 로블록스의 성공 공식과 유저 트렌드가 VR 및 PC(Steam) 플랫폼으로도 확산됨에 따라, moze의 로블록스 운영 노하우를 바탕으로 멀티플랫폼 글로벌 흥행작 발굴과 2026년 1월 경영통합한 Mogura와의 법인 연계 사업 시너지를 노리는 전략으로 평가됨"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[海外/경쟁사] 에픽게임즈, AI로 재구축한 신규 EGS 스토어 프리뷰 공개… 스팀과의 정면 대결 예고",
-        "summary_ko": "- 에픽게임즈가 AI 기반 ‘분위기 프로그래밍(Vibe Coding)’을 활용해 속도와 반응성을 대폭 개선한 신규 에픽게임즈 스토어(EGS) 프리뷰 버전을 공개함\n- 이번에 공개된 신규 EGS는 기존 대비 구동 시간이 절반으로 단축되었으며, Windows와 macOS 지원에 이어 최초로 Linux 버전까지 제공하고 타 플랫폼 게임의 통합 뷰 기능을 도입함\n- 에픽게임즈 CEO 팀 스위니는 내부 개발자들을 재교육하여 AI 가속을 극한으로 활용하는 전사적 전환을 추진 중이며, 개발자들이 더 많은 양질의 콘텐츠를 제작할 수 있도록 지원하겠다는 입장을 밝힘\n- 반면, 스팀(Steam)이 AI 생성 콘텐츠의 투명한 공개를 요구하며 개발자에게 관련 태그 부착을 의무화하는 정책을 고수하는 것과 달리, 에픽게임즈는 이러한 규제가 오히려 개발자에게 부담을 준다고 비판하며 AI 기술을 적극적인 제품 셀링 포인트로 활용하고 있음\n[Comment]\n- 에픽게임즈는 AI 기술 도입을 단순한 효율성 제고를 넘어 자사 플랫폼과 언리얼 엔진 생태계를 확장하는 핵심 전략으로 삼고 있으며, 최근 디즈니 협업 슈팅 게임 프로젝트에도 AI 우선(AI-first) 제작 워크플로우를 도입하는 등 전사적 실험을 가속화하고 있음\n- 다만, 유저들 사이에서는 AI 도입에 대한 반발이나 스팀과 같은 커뮤니티 리뷰 및 소통 기능의 부재 등 플랫폼 완성도에 대한 아쉬움이 여전히 제기되고 있어, 향후 유저 경험 개선이 성패의 주요 요인이 될 것으로 전망됨",
-        "original_title": "Epic CEO豪言“全公司AI加速到极致”：AI编程重造EGS商店，“性能锤爆Steam”",
-        "url": "http://www.gamelook.com.cn/2026/10/603991/",
-        "published_at": "2026. 10. 16",
-        "published_key": "2026-10-16 00:00:00",
-        "score": "",
-        "keyword": "AI",
-        "integrated_note": "- 에픽게임즈는 AI 기술 도입을 단순한 효율성 제고를 넘어 자사 플랫폼과 언리얼 엔진 생태계를 확장하는 핵심 전략으로 삼고 있으며, 최근 디즈니 협업 슈팅 게임 프로젝트에도 AI 우선(AI-first) 제작 워크플로우를 도입하는 등 전사적 실험을 가속화하고 있음\n- 다만, 유저들 사이에서는 AI 도입에 대한 반발이나 스팀과 같은 커뮤니티 리뷰 및 소통 기능의 부재 등 플랫폼 완성도에 대한 아쉬움이 여전히 제기되고 있어, 향후 유저 경험 개선이 성패의 주요 요인이 될 것으로 전망됨"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
         "title_ko": "[일본/동향] XR 개발사 MyDearest, 로블록스 전문 스튜디오 moze 전격 인수",
         "summary_ko": "- <8번 출구 VR> 등을 개발한 일본의 XR 콘텐츠 스튜디오 MyDearest가 로블록스(Roblox) 게임 스튜디오 moze의 전 주식을 취득해 완전 자회사화했다고 16일 발표함\n- MyDearest는 전 세계 누적 플레이어 수 300만 명을 돌파한 VR 게임 경험과 이번 인수를 결합해, 로블록스·VR·PC(Steam)를 아우르는 알파 세대 타깃 콘텐츠 개발 및 운영 체제를 강화하고 법인 대상 B2B 지원 사업을 확대할 계획임\n- 2023년 설립된 일본 개발사 moze는 <Troll Escalator Tower> 등 누적 2,000만 플레이 이상의 오리지널 타이틀을 다수 개발했으며, 가루비(Calbee) 등 기업 협업을 포함해 관여 콘텐츠의 누적 플레이 수가 5,000만 회를 돌파한 개발사임\n- 인수와 함께 moze의 CTO 마츠사코 쇼고가 신임 대표이사로 취임했으며, MyDearest는 향후 moze를 공식 흡수합병할 예정임\n[Comment]\n- 2026년 2분기 기준 로블록스의 글로벌 일일 활성 이용자 수(DAU)는 약 1억 2,300만 명에 달하며, 특히 북미 알파 세대의 핵심 문화 및 놀이 공간으로 확고히 자리 잡고 있음\n- MyDearest 역시 자사 VR 타이틀 이용자의 약 70%가 미국 알파 세대이며, 2025년 9월 공개한 <8번 출구 for Roblox>가 누적 방문 1,000만 회를 넘어서는 등 해당 타깃층 공략에 집중해 옴\n- 로블록스의 성공 공식과 유저 트렌드가 VR 및 PC(Steam) 플랫폼으로도 확산됨에 따라, moze의 로블록스 운영 노하우를 바탕으로 멀티플랫폼 글로벌 흥행작 발굴과 2026년 1월 경영통합한 Mogura와의 법인 연계 사업 시너지를 노리는 전략으로 평가됨",
         "original_title": "『8番出口VR』のMyDearest、Robloxゲームスタジオmozeを完全子会社化―Robloxの知見をVR・Steamにも展開",
@@ -4858,18 +4943,6 @@
         "integrated_note": "- 2011년 출시된 원작 <Total War: Shogun 2>는 메타크리틱 고평가와 함께 시리즈 최고의 걸작 중 하나로 꼽혀왔으나, 무성의한 품질 관리와 기습적인 구버전 판매 중단으로 인해 팬덤의 신뢰를 크게 잃은 상황임\n- 밸브의 스팀 가이드라인상 생성형 AI 사용 시 상점 페이지 내 사전 명시가 의무화되어 있어 규정 위반 소지가 크며, 개발사인 크리에이티브 어셈블리(Creative Assembly) 측의 공식 해명과 패치 대응 여부가 주목됨"
       },
       {
-        "company_ko": "마이크로소프트",
-        "title_ko": "[미국/동향] 콘솔 판매 급감 및 가격 상승… 미 하드웨어 시장, 1980년대 이후 최대 위기 직면",
-        "summary_ko": "- 시장조사기관 서카나(Circana)의 분석가 맷 피스카텔라에 따르면, 2026년 8월 누적(YTD) 기준 미국 내 Xbox 콘솔 하드웨어 판매량은 전년 동기 대비 33% 감소하며 사상 최저치를 기록함\n- 플레이스테이션 하드웨어 판매량 또한 전년 동기 대비 25% 감소해 2013년 이후 최저 수준으로 떨어짐\n- 반면 지난 수년간 지속된 부품 공급 위기(Component Crisis)의 여파로 평균 콘솔 판매 가격은 Xbox가 전년 대비 26%, 플레이스테이션이 20% 상승하며 양사 모두 역대 최고치를 기록함\n- 피스카텔라는 현 상황을 두고 비디오 게임 시장 침체기였던 1980년대 초(1983년 아타리 쇼크 시기) 이후 미국 하드웨어 시장이 가장 위태로운 국면에 처해 있다고 평가함\n[Comment]\n- 부품 수급난에 따른 하드웨어 가격 상승과 소비 위축이 맞물리며 미국 콘솔 시장 전반의 침체 장기화에 대한 우려가 확산되고 있음\n- 11월 예정된 대형 신작 출시가 판매 감소세를 일부 완화할 가능성은 있으나, RAM을 비롯한 핵심 부품 수급난과 높은 기기 가격이 시장 반등의 주요 걸림돌로 지목됨\n- 시장의 불확실성이 커짐에 따라, 마이크로소프트의 차세대 콘솔 '프로젝트 헬릭스(Project Helix)'를 포함한 차세대 기기들의 출시 시점을 둘러싼 플랫폼 홀더들의 셈법도 복잡해질 것으로 분석됨",
-        "original_title": "US Hardware Market Said To Be Most 'Precarious' Since 1980s Following Xbox & PS5 Sales Slumps",
-        "url": "https://www.purexbox.com/news/2026/10/us-hardware-market-said-to-be-most-precarious-since-1980s-following-xbox-and-ps5-sales-slumps",
-        "published_at": "2026. 10. 13",
-        "published_key": "2026-10-13 00:00:00",
-        "score": "",
-        "keyword": "hardware",
-        "integrated_note": "- 부품 수급난에 따른 하드웨어 가격 상승과 소비 위축이 맞물리며 미국 콘솔 시장 전반의 침체 장기화에 대한 우려가 확산되고 있음\n- 11월 예정된 대형 신작 출시가 판매 감소세를 일부 완화할 가능성은 있으나, RAM을 비롯한 핵심 부품 수급난과 높은 기기 가격이 시장 반등의 주요 걸림돌로 지목됨\n- 시장의 불확실성이 커짐에 따라, 마이크로소프트의 차세대 콘솔 '프로젝트 헬릭스(Project Helix)'를 포함한 차세대 기기들의 출시 시점을 둘러싼 플랫폼 홀더들의 셈법도 복잡해질 것으로 분석됨"
-      },
-      {
         "company_ko": "소니",
         "title_ko": "[미국/동향] 콘솔 판매 급감 및 가격 상승… 미 하드웨어 시장, 1980년대 이후 최대 위기 직면",
         "summary_ko": "- 시장조사기관 서카나(Circana)의 분석가 맷 피스카텔라에 따르면, 2026년 8월 누적(YTD) 기준 미국 내 Xbox 콘솔 하드웨어 판매량은 전년 동기 대비 33% 감소하며 사상 최저치를 기록함\n- 플레이스테이션 하드웨어 판매량 또한 전년 동기 대비 25% 감소해 2013년 이후 최저 수준으로 떨어짐\n- 반면 지난 수년간 지속된 부품 공급 위기(Component Crisis)의 여파로 평균 콘솔 판매 가격은 Xbox가 전년 대비 26%, 플레이스테이션이 20% 상승하며 양사 모두 역대 최고치를 기록함\n- 피스카텔라는 현 상황을 두고 비디오 게임 시장 침체기였던 1980년대 초(1983년 아타리 쇼크 시기) 이후 미국 하드웨어 시장이 가장 위태로운 국면에 처해 있다고 평가함\n[Comment]\n- 부품 수급난에 따른 하드웨어 가격 상승과 소비 위축이 맞물리며 미국 콘솔 시장 전반의 침체 장기화에 대한 우려가 확산되고 있음\n- 11월 예정된 대형 신작 출시가 판매 감소세를 일부 완화할 가능성은 있으나, RAM을 비롯한 핵심 부품 수급난과 높은 기기 가격이 시장 반등의 주요 걸림돌로 지목됨\n- 시장의 불확실성이 커짐에 따라, 마이크로소프트의 차세대 콘솔 '프로젝트 헬릭스(Project Helix)'를 포함한 차세대 기기들의 출시 시점을 둘러싼 플랫폼 홀더들의 셈법도 복잡해질 것으로 분석됨",
@@ -5026,18 +5099,6 @@
         "integrated_note": "- 과거 세대인 PS4가 동일 시점에 타이틀 번들 기준 200달러 선까지 가격이 내려가며 보급을 확대했던 것과 달리, 현세대 콘솔은 부품 가격 인상 등으로 인해 가격 인하가 불가능한 구조적 한계에 직면함\n- 콘솔뿐만 아니라 PC 출하량(20% 감소) 및 스마트폰 수요 등 전자기기 전반이 침체된 상황에서, 소니는 하드웨어 외의 유저 수익화 모델을 모색하고 있어 차세대기(PS6)로의 완전 전환까지 크로스젠 기간이 극도로 길어질 것으로 전망됨"
       },
       {
-        "company_ko": "마이크로소프트",
-        "title_ko": "[미국/동향] AI 데이터센터발 부품 부족에 콘솔 가격 인상...美 콘솔 판매량 급감",
-        "summary_ko": "- 미국 시장조사업체 서카나(Circana)의 리테일 데이터에 따르면, 부품 품귀 현상에 따른 기기 가격 인상 여파로 2026년 8월 기준 미국 내 콘솔 하드웨어 판매량이 급감함\n- 2026년 8월까지의 연간 누적(YTD) 판매량 기준 Xbox는 전년 동기 대비 33% 감소하며 역대 최저치를 기록했고, 플레이스테이션(PlayStation)은 25% 감소해 2013년 이후 최저치를 기록함\n- 8월 단일 판매량 역시 플레이스테이션이 전년 대비 11% 감소하며 2013년 이후 8월 기준 최저치를 기록했고, Xbox는 31% 감소해 2020년 이후 최저치를 기록했으며, 닌텐도 역시 15% 감소세를 보임\n- 주요 원인으로는 빅테크 기업들의 AI 데이터센터 확장으로 인해 삼성, SK하이닉스, 마이크론 등 주요 메모리 제조사들이 생산 라인을 데이터센터용 메모리로 전환하면서 소비자 가전용 부품 품귀 및 가격 폭등이 발생한 점이 지목됨\n[Comment]\n- 콘솔 기기는 출시 후 시간이 지나면서 가격이 하락하는 것이 일반적이나, 부품 비용 증가로 인해 제조사들이 가격 인상을 단행하면서 출시 6년 차에 접어든 기기 가격이 역대 최고가를 경신하고 있음 (Xbox 평균 구매가 USD 529, PS5 USD 597)\n- 마이크로소프트의 Xbox Series X는 출시가 대비 USD 300 인상된 USD 799.99에 판매 중이며, 소니의 PS5와 닌텐도 스위치 2 역시 잇따라 가격을 인상함\n- 향후 <Grand Theft Auto 6(GTA 6)> 출시가 단기적인 콘솔 판매량 반등을 이끌 것으로 기대되나, 핵심 부품의 가격 안정화가 단기간 내 이뤄지기 어려워 하드웨어 가격 부담은 지속될 전망임",
-        "original_title": "High console prices push PlayStation and Xbox sales to new lows",
-        "url": "https://www.polygon.com/game-console-sales-down-ai-component-crisis-ram/",
-        "published_at": "2026. 10. 10",
-        "published_key": "2026-10-10 00:00:00",
-        "score": "",
-        "keyword": "Xbox",
-        "integrated_note": "- 콘솔 기기는 출시 후 시간이 지나면서 가격이 하락하는 것이 일반적이나, 부품 비용 증가로 인해 제조사들이 가격 인상을 단행하면서 출시 6년 차에 접어든 기기 가격이 역대 최고가를 경신하고 있음 (Xbox 평균 구매가 USD 529, PS5 USD 597)\n- 마이크로소프트의 Xbox Series X는 출시가 대비 USD 300 인상된 USD 799.99에 판매 중이며, 소니의 PS5와 닌텐도 스위치 2 역시 잇따라 가격을 인상함\n- 향후 <Grand Theft Auto 6(GTA 6)> 출시가 단기적인 콘솔 판매량 반등을 이끌 것으로 기대되나, 핵심 부품의 가격 안정화가 단기간 내 이뤄지기 어려워 하드웨어 가격 부담은 지속될 전망임"
-      },
-      {
         "company_ko": "소니",
         "title_ko": "[미국/동향] AI 데이터센터발 부품 부족에 콘솔 가격 인상...美 콘솔 판매량 급감",
         "summary_ko": "- 미국 시장조사업체 서카나(Circana)의 리테일 데이터에 따르면, 부품 품귀 현상에 따른 기기 가격 인상 여파로 2026년 8월 기준 미국 내 콘솔 하드웨어 판매량이 급감함\n- 2026년 8월까지의 연간 누적(YTD) 판매량 기준 Xbox는 전년 동기 대비 33% 감소하며 역대 최저치를 기록했고, 플레이스테이션(PlayStation)은 25% 감소해 2013년 이후 최저치를 기록함\n- 8월 단일 판매량 역시 플레이스테이션이 전년 대비 11% 감소하며 2013년 이후 8월 기준 최저치를 기록했고, Xbox는 31% 감소해 2020년 이후 최저치를 기록했으며, 닌텐도 역시 15% 감소세를 보임\n- 주요 원인으로는 빅테크 기업들의 AI 데이터센터 확장으로 인해 삼성, SK하이닉스, 마이크론 등 주요 메모리 제조사들이 생산 라인을 데이터센터용 메모리로 전환하면서 소비자 가전용 부품 품귀 및 가격 폭등이 발생한 점이 지목됨\n[Comment]\n- 콘솔 기기는 출시 후 시간이 지나면서 가격이 하락하는 것이 일반적이나, 부품 비용 증가로 인해 제조사들이 가격 인상을 단행하면서 출시 6년 차에 접어든 기기 가격이 역대 최고가를 경신하고 있음 (Xbox 평균 구매가 USD 529, PS5 USD 597)\n- 마이크로소프트의 Xbox Series X는 출시가 대비 USD 300 인상된 USD 799.99에 판매 중이며, 소니의 PS5와 닌텐도 스위치 2 역시 잇따라 가격을 인상함\n- 향후 <Grand Theft Auto 6(GTA 6)> 출시가 단기적인 콘솔 판매량 반등을 이끌 것으로 기대되나, 핵심 부품의 가격 안정화가 단기간 내 이뤄지기 어려워 하드웨어 가격 부담은 지속될 전망임",
@@ -5048,30 +5109,6 @@
         "score": "",
         "keyword": "Xbox",
         "integrated_note": "- 콘솔 기기는 출시 후 시간이 지나면서 가격이 하락하는 것이 일반적이나, 부품 비용 증가로 인해 제조사들이 가격 인상을 단행하면서 출시 6년 차에 접어든 기기 가격이 역대 최고가를 경신하고 있음 (Xbox 평균 구매가 USD 529, PS5 USD 597)\n- 마이크로소프트의 Xbox Series X는 출시가 대비 USD 300 인상된 USD 799.99에 판매 중이며, 소니의 PS5와 닌텐도 스위치 2 역시 잇따라 가격을 인상함\n- 향후 <Grand Theft Auto 6(GTA 6)> 출시가 단기적인 콘솔 판매량 반등을 이끌 것으로 기대되나, 핵심 부품의 가격 안정화가 단기간 내 이뤄지기 어려워 하드웨어 가격 부담은 지속될 전망임"
-      },
-      {
-        "company_ko": "마이크로소프트",
-        "title_ko": "[글로벌/동향] XBOX, 게임 외 IP 사업 확장 전담할 신규 부문 'XP' 설립",
-        "summary_ko": "- 10월 8일, XBOX의 CSO 매튜 볼은 공식 채널인 Xbox Wire를 통해 영화, 굿즈, 라이브 이벤트 등 게임 외 다양한 분야로 프랜차이즈를 확장하기 위한 신규 부문 ‘XP’의 설립을 발표함\n- 신설 부문인 XP의 최고책임자(President)로는 전 모장(Mojang) 총괄이었던 케이린 월터스가 선임되어 부문을 이끌 예정임\n- XP 부문은 'Experience Points(경험치)'에서 이름을 따왔으며, 구체적으로 다음 4개 핵심 투자 분야로 나뉘어 운영됨\n  - XBOX PICTURES: 영화 및 TV 등 영상 콘텐츠를 통해 IP 세계관과 캐릭터를 신규 시청자에게 전달\n  - XBOX PRODUCTS: 팬층을 겨냥한 공식 굿즈 및 라이선스 상품 개발\n  - XBOX PLACES: 라이브 이벤트, 몰입형 체험관, 어트랙션, 관광 연계 등을 통한 커뮤니티 연결\n  - XBOX PARTNERSHIPS: 크리에이터 및 글로벌 브랜드 협업, 스폰서십 기반 파트너십 발굴\n- XBOX의 CEO 아샤 샤르마는 해당 부문에 대해 “훌륭한 게임이 단순한 게임에 머무르지 않고 더 큰 경험으로 진화할 수 있도록 돕는 역할을 할 것”이라고 설명함\n[Comment]\n- 이번 신설 부문 설립은 XBOX가 콘솔 하드웨어 판매를 넘어 보유 중인 대형 게임 IP들을 트랜스미디어(미디어믹스) 및 라이프스타일 브랜드로 적극 확장하겠다는 전략적 포석으로 풀이됨\n- 최근 게임 IP 기반 영상화(드라마, 영화) 및 오프라인 체험형 엔터테인먼트가 글로벌 시장에서 높은 파급력을 증명하고 있는 만큼, <마인크래프트> 등 주요 프랜차이즈의 다각화 작업이 한층 속도를 낼 것으로 전망됨",
-        "original_title": "XBOXが新部門XPの設立を発表―ゲームを映画、グッズ、イベントなどの分野に広げていく",
-        "url": "https://www.gamebusiness.jp/article/2026/10/09/28269.html",
-        "published_at": "2026. 10. 9",
-        "published_key": "2026-10-09 00:00:00",
-        "score": "",
-        "keyword": "設立",
-        "integrated_note": "- 이번 신설 부문 설립은 XBOX가 콘솔 하드웨어 판매를 넘어 보유 중인 대형 게임 IP들을 트랜스미디어(미디어믹스) 및 라이프스타일 브랜드로 적극 확장하겠다는 전략적 포석으로 풀이됨\n- 최근 게임 IP 기반 영상화(드라마, 영화) 및 오프라인 체험형 엔터테인먼트가 글로벌 시장에서 높은 파급력을 증명하고 있는 만큼, <마인크래프트> 등 주요 프랜차이즈의 다각화 작업이 한층 속도를 낼 것으로 전망됨"
-      },
-      {
-        "company_ko": "마이크로소프트",
-        "title_ko": "[글로벌/경쟁사] Xbox, 모장 신임 CEO 선임 및 프랜차이즈 확장 신설 조직 ‘XP’ 출범",
-        "summary_ko": "- 마이크로소프트(MS) Xbox는 게임 IP의 다각적 확장을 전담하는 신설 조직 ‘XP(Experience Points)’의 수장으로 케일린 월터스(Kayleen Walters)를 사장으로 임명하고, 산하 개발사 모장(Mojang) 및 <마인크래프트>를 이끌 신임 CEO로 마리아 안젤리두-스미스(Maria Angelidou-Smith)를 선임함\n- 안젤리두-스미스 신임 모장 CEO는 오는 10월 19일 공식 취임할 예정이며, 과거 메타(Meta)에서 월간 18억 명 이상이 이용하는 페이스북 그룹을 이끌었고 레딧(Reddit)의 최고제품책임자(CPO), 페르소니오(Personio)의 제품·기술 총괄을 역임하는 등 대규모 커뮤니티 기반 제품 구축에 전문성을 보유함\n- XP 사장으로 선임된 케일린 월터스는 과거 루카스필름에서 13년간 <스타워즈> 관련 영화 및 파트너십을 이끌었으며, 모장으로 이직 후 250개 이상의 라이선스 파트너를 확보해 <마인크래프트> 소비자 제품 부문을 수십억 달러 규모로 성장시키고 영화 <마인크래프트 무비>의 총괄 프로듀서를 맡은 바 있음\n- 신설 부서 XP는 게임의 영역을 넘어 영화·TV 영상화, 라이선스 및 머천다이징, 브랜드 파트너십, 테마파크 및 라이브 이벤트 등 오프라인·위치 기반 경험(LBE)의 4대 핵심 분야에 집중할 계획임\n[Comment]\n- 이번 리더십 개편은 Xbox가 단순 콘솔·게임 퍼블리셔의 한계를 넘어, 자사 핵심 IP를 엔터테인먼트 전반의 멀티미디어 프랜차이즈로 본격 확장하려는 전략적 행보로 풀이됨\n- 특히 글로벌 메가 IP인 <마인크래프트>의 영화화 및 관련 사업 확장을 성공적으로 이끈 케일린 월터스에게 신설 조직을 맡겨 Xbox 전체 프랜차이즈의 IP 비즈니스를 본격적으로 상업화하려는 의도가 엿보임\n- 한편 대규모 소셜 플랫폼 및 커뮤니티 전문가인 안젤리두-스미스를 모장 CEO로 영입함으로써, 두터운 글로벌 유저 기반을 갖춘 <마인크래프트>의 커뮤니티 생태계 강화 및 지속 가능한 라이브 서비스 혁신에 집중할 것으로 전망됨",
-        "original_title": "Xbox appoints new leaders for Mojang and franchise experiences",
-        "url": "https://www.pocketgamer.biz/xbox-appoints-new-leaders-for-mojang-and-franchise-experiences/",
-        "published_at": "2026. 10. 9",
-        "published_key": "2026-10-09 00:00:00",
-        "score": "",
-        "keyword": "Xbox",
-        "integrated_note": "- 이번 리더십 개편은 Xbox가 단순 콘솔·게임 퍼블리셔의 한계를 넘어, 자사 핵심 IP를 엔터테인먼트 전반의 멀티미디어 프랜차이즈로 본격 확장하려는 전략적 행보로 풀이됨\n- 특히 글로벌 메가 IP인 <마인크래프트>의 영화화 및 관련 사업 확장을 성공적으로 이끈 케일린 월터스에게 신설 조직을 맡겨 Xbox 전체 프랜차이즈의 IP 비즈니스를 본격적으로 상업화하려는 의도가 엿보임\n- 한편 대규모 소셜 플랫폼 및 커뮤니티 전문가인 안젤리두-스미스를 모장 CEO로 영입함으로써, 두터운 글로벌 유저 기반을 갖춘 <마인크래프트>의 커뮤니티 생태계 강화 및 지속 가능한 라이브 서비스 혁신에 집중할 것으로 전망됨"
       },
       {
         "company_ko": "닌텐도",
@@ -5110,18 +5147,6 @@
         "integrated_note": "- 기존 PS4 버전들은 PS5에서 하위 호환으로 구동될 때 30fps로 제한되어 있었으나, 이번 네이티브 버전들을 통해 프레임 레이트가 해제되며 향상된 퍼포먼스를 제공할 것으로 기대됨\n- 2K 게임즈는 최근 <마피아> 시리즈의 리메이크 및 신작 준비와 더불어 기존 타이틀의 차세대 콘솔 최적화 작업을 순차적으로 진행하며 프랜차이즈 생태계를 확장하고 있음"
       },
       {
-        "company_ko": "소니",
-        "title_ko": "[중국/기대작] S-GAME, <팬텀 블레이드 제로> 프리뷰 통해 뛰어난 액션성과 전투 시스템 호평",
-        "summary_ko": "- S-GAME이 개발 중인 액션 RPG <팬텀 블레이드 제로>의 빌드를 약 6시간 동안 직접 체험한 결과, 뛰어난 액션성과 보스전으로 올해 최고의 기대작 중 하나로 평가받음\n- 게임은 소울라이크 장르와 유사해 보이지만, 사망 시 페널티가 없고 적이 리스폰되지 않으며 일시 정지 메뉴에서 난이도를 조절할 수 있어 차별점을 둠\n- 주인공 소울이 새로운 심장을 얻고 66일의 시한부 삶 속에서 누명과 저주를 풀기 위해 여정을 떠나는 스토리를 담고 있으며, 초반부는 다소 복잡하지만 몰입감 있는 서사를 제공함\n[Comment]\n- <팬텀 블레이드 제로>는 일반 공격 시 스태미나를 소모하지 않는 직관적이고 속도감 있는 전투 시스템을 채택하여 플레이어에게 높은 타격감과 콤보의 재미를 선사함\n- 사자춤 그랜드마스터 등 독창적인 패턴을 지닌 보스들과의 전투는 게임의 완성도를 한층 높여주며, 정식 출시를 앞두고 글로벌 액션 게임 팬들 사이에서 큰 기대를 모으고 있음",
-        "original_title": "Preview: Phantom Blade Zero Is the Next Truly Essential PS5 Game",
-        "url": "https://www.pushsquare.com/previews/phantom-blade-zero-is-the-next-truly-essential-ps5-game",
-        "published_at": "2026. 10. 9",
-        "published_key": "2026-10-09 00:00:00",
-        "score": "",
-        "keyword": "PS5",
-        "integrated_note": "- <팬텀 블레이드 제로>는 일반 공격 시 스태미나를 소모하지 않는 직관적이고 속도감 있는 전투 시스템을 채택하여 플레이어에게 높은 타격감과 콤보의 재미를 선사함\n- 사자춤 그랜드마스터 등 독창적인 패턴을 지닌 보스들과의 전투는 게임의 완성도를 한층 높여주며, 정식 출시를 앞두고 글로벌 액션 게임 팬들 사이에서 큰 기대를 모으고 있음"
-      },
-      {
         "company_ko": "엔씨소프트",
         "title_ko": "[글로벌/동향] 엔씨소프트, <아이온 2> 글로벌 출시로 스팀 최고 동접자 기록 경신",
         "summary_ko": "- 엔씨소프트(NC)의 신작 MMORPG <아이온 2>가 지난 10월 5일 글로벌 시장에 무료로 출시되며 스팀 최고 동시 접속자 수 397,905명을 기록해 자사 역대 최고 기록을 경신함\n- 이는 전작인 <쓰론 앤 리버티(TL)>의 스팀 최고 기록(336,300명)을 뛰어넘는 수치이며, 10시간 이상 플레이한 유저들 사이에서 86%의 긍정적인 평가(Very Positive)를 기록하며 초기 흥행에 성공함\n- 과거 한국 및 대만 출시 당시 논란이 되었던 '이중 페이투윈(P2W)' 시스템에 대한 비판을 수용하여, 글로벌 버전에서는 경쟁력 확보가 아닌 치장성 아이템 중심의 과금 모델을 채택함\n- 언리얼 엔진 5 기반으로 개발되어 로딩 없는 1,200제곱킬로미터 규모의 심리스 오픈월드를 구현했으며, 전작과 달리 특정 구역에 국한되지 않는 전면적인 자유 비행 및 수중 탐험 등 3차원 전투 시스템을 도입함\n[Comment]\n- 엔씨소프트는 이번 글로벌 버전을 퍼블리셔를 거치지 않고 자체 플랫폼(스팀 및 퍼플)을 통해 직접 서비스하며 수익 구조와 유저 피드백을 직접 관리하고 있음\n- <아이온 2>는 연간 매출 목표 달성을 위한 핵심 성장 동력 중 하나로, 이번 글로벌 흥행이 향후 지속 가능한 서비스로 이어질지 업계의 이목이 집중되고 있음",
@@ -5156,18 +5181,6 @@
         "score": "",
         "keyword": "Nintendo",
         "integrated_note": "- 닌텐도 오브 캐나다의 수전 펜파더(Susan Pennefather) 부사장 겸 총괄 매니저는 이번 공간이 북미 지역 최초로 선보이는 독창적인 소비자 체험 공간이 될 것이라고 강조함\n- 이번 매장 내 숍인숍 오픈은 단순한 제품 판매를 넘어 오프라인 공간을 활용해 팬들과의 접점을 강화하고 브랜드 경험을 극대화하려는 닌텐도의 리테일 전략의 일환으로 풀이됨"
-      },
-      {
-        "company_ko": "소니",
-        "title_ko": "[글로벌/동향] Wi-Fi 얼라이언스 인증 문서에서 신형 플레이스테이션 포탈로 추정되는 미발표 기기 2종 유출",
-        "summary_ko": "- 최근 Wi-Fi 얼라이언스 인증 문서에서 ‘게임 콘솔/주변기기’로 분류된 미발표 플레이스테이션 기기 2종(모델명 CFI-Y2000, CFI-Y2105)이 포착됨\n- 해당 기기들의 모델명은 기존 플레이스테이션 포탈의 모델명(CFI-Y1001)의 후속작으로 보이는 체계이며, 현재 모델과 마찬가지로 안드로이드 15 기반으로 구동되는 것으로 확인됨\n- 이번에 유출된 기기들은 2.4GHz 및 5GHz Wi-Fi를 지원하며 6GHz는 지원하지 않는 것으로 나타났으며, 하드웨어 유출가 KeplerL2가 올해 초 언급했던 플레이스테이션 포탈의 OLED 버전일 가능성이 제기됨\n[Comment]\n- 기존 플레이스테이션 포탈은 8인치 LCD 화면을 탑재하고 2023년 말에 출시된 바 있음\n- 소니는 자사의 클라우드 스트리밍 기능이 최소한의 메모리만 요구하므로, 메모리 가격이 상승하는 현 시장 환경에서 매력적인 저비용 클라이언트 기기가 될 수 있다고 강조해 옴\n- 만약 신형 기기가 OLED 화면을 탑재한 플레이스테이션 포탈의 후속작으로 공식 출시될 경우, 휴대용 스트리밍 기기 시장에서 디스플레이 품질을 개선한 선택지를 제공할 것으로 전망됨",
-        "original_title": "Two mystery PlayStation products have leaked — one might be a PlayStation Portal OLED",
-        "url": "https://www.theverge.com/games/1006092/playstation-portal-oled-wi-fi-alliance-certifications",
-        "published_at": "2026. 10. 7",
-        "published_key": "2026-10-07 00:00:00",
-        "score": "",
-        "keyword": "PlayStation",
-        "integrated_note": "- 기존 플레이스테이션 포탈은 8인치 LCD 화면을 탑재하고 2023년 말에 출시된 바 있음\n- 소니는 자사의 클라우드 스트리밍 기능이 최소한의 메모리만 요구하므로, 메모리 가격이 상승하는 현 시장 환경에서 매력적인 저비용 클라이언트 기기가 될 수 있다고 강조해 옴\n- 만약 신형 기기가 OLED 화면을 탑재한 플레이스테이션 포탈의 후속작으로 공식 출시될 경우, 휴대용 스트리밍 기기 시장에서 디스플레이 품질을 개선한 선택지를 제공할 것으로 전망됨"
       },
       {
         "company_ko": "테이크투",
@@ -5708,18 +5721,6 @@
         "score": "",
         "keyword": "爆",
         "integrated_note": "- <黎明行者之血>의 성공은 막대한 자금과 인력을 쏟아붓는 기존 3A 게임 개발 방식 대신, 철저한 프로젝트 관리와 명확한 방향성이 성공의 열쇠임을 증명함\n- 넷이즈의 투자는 단순히 자금을 대는 것을 넘어, 개발사에 대한 존중과 자율성 보장이 글로벌 시장에서 성공적인 결과로 이어질 수 있음을 보여주는 모범적인 사례로 평가됨\n- 첫 주 판매량만으로도 개발 비용을 대부분 회수함에 따라, 향후 DLC 및 장기 판매를 통한 순수익 창출이 기대되며 신생 스튜디오로서는 매우 고무적인 성과를 기록함"
-      },
-      {
-        "company_ko": "닌텐도",
-        "title_ko": "[글로벌/동향] 닌텐도, 2027년 4월 개봉 예정인 실사 영화 <젤다의 전설>로 새로운 팬덤 확장 기대",
-        "summary_ko": "- 닌텐도 오브 아메리카(NOA)의 사장 겸 COO 데번 프리차드는 최근 외신 인터뷰를 통해 2027년 4월 말 개봉을 앞둔 실사 영화 <젤다의 전설>이 소니 픽처스(Sony Pictures)와의 파트너십을 바탕으로 기존 팬뿐만 아니라 새로운 이용자층을 유입할 중요한 기회가 될 것이라고 밝힘\n- 닌텐도는 최근 진행된 40주년 기념 방송에서 영화의 공식 제목이 <젤다의 전설>로 확정되었다고 발표하며, 주요 등장인물의 공식 사진을 공개함\n- 영화 외에도 닌텐도는 40주년 기념 하드웨어, 콘서트, 다양한 굿즈를 선보일 예정이며, <젤다의 전설 시간의 오카리나(The Legend of Zelda: Ocarina of Time)> 리메이크 타이틀을 닌텐도 스위치 2 플랫폼으로 2026년 11월에 출시할 계획임\n[Comment]\n- 닌텐도는 게임 IP의 영향력을 영화 등 미디어 확장으로 넓히며 글로벌 대중과의 접점을 강화하는 전략을 지속하고 있음\n- 소니 픽처스와의 협업을 통한 실사 영화 제작은 향후 닌텐도의 IP 다각화 사업에서 핵심적인 역할을 할 것으로 보이며, 시리즈 40주년을 맞이한 다양한 이벤트와 신작 타이틀 출시가 맞물려 팬들의 기대를 모으고 있음",
-        "original_title": "Nintendo Excited About Broadening Zelda's Audience With Live-Action Movie",
-        "url": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
-        "published_at": "2026. 9. 18",
-        "published_key": "2026-09-18 00:00:00",
-        "score": "",
-        "keyword": "Nintendo",
-        "integrated_note": "- 닌텐도는 게임 IP의 영향력을 영화 등 미디어 확장으로 넓히며 글로벌 대중과의 접점을 강화하는 전략을 지속하고 있음\n- 소니 픽처스와의 협업을 통한 실사 영화 제작은 향후 닌텐도의 IP 다각화 사업에서 핵심적인 역할을 할 것으로 보이며, 시리즈 40주년을 맞이한 다양한 이벤트와 신작 타이틀 출시가 맞물려 팬들의 기대를 모으고 있음"
       },
       {
         "company_ko": "텐센트",
