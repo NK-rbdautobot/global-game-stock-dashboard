@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-05T02:01:44Z",
+  "generated_at_utc": "2026-11-06T02:03:35Z",
   "financial_archive": {
     "source": "Google Sheets per-company tabs; Nexon excluded until cleaned",
     "sheet_url": "https://docs.google.com/spreadsheets/d/1jzdID-ZY39VhKgHdvpSIcGiJq0Gk_qsOj1k6hNi3jh8/edit",
@@ -630,14 +630,6 @@
         "operating_profit_unit": "영업이익(십억 JPY)",
         "quarters": [
           {
-            "period": "2025 Q1",
-            "revenue": 208.7,
-            "operating_profit": 35.0,
-            "revenue_krw_eok": 18783.0,
-            "operating_profit_krw_eok": 3150.0,
-            "source_range": "B1:G3"
-          },
-          {
             "period": "2025 Q2",
             "revenue": 572.4,
             "operating_profit": 56.9,
@@ -675,6 +667,14 @@
             "operating_profit": 142.6,
             "revenue_krw_eok": 46601.99999999999,
             "operating_profit_krw_eok": 12834.0,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q3",
+            "revenue": 448.2,
+            "operating_profit": 73.9,
+            "revenue_krw_eok": 40338.0,
+            "operating_profit_krw_eok": 6651.0,
             "source_range": "B1:G3"
           }
         ],
@@ -716,11 +716,11 @@
           }
         ],
         "latest_quarter": {
-          "period": "2026 Q2",
-          "revenue": 517.8,
-          "operating_profit": 142.6,
-          "revenue_krw_eok": 46601.99999999999,
-          "operating_profit_krw_eok": 12834.0,
+          "period": "2026 Q3",
+          "revenue": 448.2,
+          "operating_profit": 73.9,
+          "revenue_krw_eok": 40338.0,
+          "operating_profit_krw_eok": 6651.0,
           "source_range": "B1:G3"
         },
         "latest_year": {
@@ -878,14 +878,6 @@
         "operating_profit_unit": "영업이익(십억 JPY)",
         "quarters": [
           {
-            "period": "2025 Q1",
-            "revenue": 2630.2,
-            "operating_profit": 203.6,
-            "revenue_krw_eok": 236718.0,
-            "operating_profit_krw_eok": 18324.0,
-            "source_range": "B1:G3"
-          },
-          {
             "period": "2025 Q2",
             "revenue": 2621.6,
             "operating_profit": 340.0,
@@ -923,6 +915,14 @@
             "operating_profit": 476.5,
             "revenue_krw_eok": 255402.0,
             "operating_profit_krw_eok": 42885.0,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q3",
+            "revenue": 3429.4,
+            "operating_profit": 622.3,
+            "revenue_krw_eok": 308646.0,
+            "operating_profit_krw_eok": 56007.0,
             "source_range": "B1:G3"
           }
         ],
@@ -964,11 +964,11 @@
           }
         ],
         "latest_quarter": {
-          "period": "2026 Q2",
-          "revenue": 2837.8,
-          "operating_profit": 476.5,
-          "revenue_krw_eok": 255402.0,
-          "operating_profit_krw_eok": 42885.0,
+          "period": "2026 Q3",
+          "revenue": 3429.4,
+          "operating_profit": 622.3,
+          "revenue_krw_eok": 308646.0,
+          "operating_profit_krw_eok": 56007.0,
           "source_range": "B1:G3"
         },
         "latest_year": {
@@ -987,7 +987,8 @@
           "https://www.sony.com/en/SonyInfo/IR/library/presen/er/pdf/25q2_sony.pdf",
           "https://www.sony.com/en/SonyInfo/IR/library/presen/er/pdf/25q3_sony.pdf",
           "https://www.sony.com/en/SonyInfo/IR/library/presen/er/pdf/25q4_sony.pdf",
-          "https://www.sony.com/en/SonyInfo/IR/library/presen/er/pdf/26q1_sony.pdf"
+          "https://www.sony.com/en/SonyInfo/IR/library/presen/er/pdf/26q1_sony.pdf",
+          "https://www.sony.com/en/SonyInfo/IR/library/presen/er/pdf/26q2_sony.pdf"
         ]
       },
       {
@@ -2090,14 +2091,6 @@
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
           {
-            "period": "2025 Q1",
-            "revenue": 6239.0,
-            "operating_profit": 497.0,
-            "revenue_krw_eok": 6239.0,
-            "operating_profit_krw_eok": 497.0,
-            "source_range": "B1:G3"
-          },
-          {
             "period": "2025 Q2",
             "revenue": 7176.0,
             "operating_profit": 1011.0,
@@ -2135,6 +2128,14 @@
             "operating_profit": 801.0,
             "revenue_krw_eok": 7492.0,
             "operating_profit_krw_eok": 801.0,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q3",
+            "revenue": 6347.0,
+            "operating_profit": 504.0,
+            "revenue_krw_eok": 6347.0,
+            "operating_profit_krw_eok": 504.0,
             "source_range": "B1:G3"
           }
         ],
@@ -2176,11 +2177,11 @@
           }
         ],
         "latest_quarter": {
-          "period": "2026 Q2",
-          "revenue": 7492.0,
-          "operating_profit": 801.0,
-          "revenue_krw_eok": 7492.0,
-          "operating_profit_krw_eok": 801.0,
+          "period": "2026 Q3",
+          "revenue": 6347.0,
+          "operating_profit": 504.0,
+          "revenue_krw_eok": 6347.0,
+          "operating_profit_krw_eok": 504.0,
           "source_range": "B1:G3"
         },
         "latest_year": {
@@ -2200,7 +2201,8 @@
           "https://sgimage.netmarble.com/images/netmarble/nmOfficial/20251106/9lje1762407104934.pdf",
           "https://sgimage.netmarble.com/images/netmarble/nmOfficial/20260205/d71t1770273378592.pdf",
           "https://sgimage.netmarble.com/images/netmarble/nmOfficial/20260507/xtno1778131221520.pdf",
-          "https://sgimage.netmarble.com/images/netmarble/nmOfficial/20260805/ixro1785911002019.pdf"
+          "https://sgimage.netmarble.com/images/netmarble/nmOfficial/20260805/ixro1785911002019.pdf",
+          "https://sgimage.netmarble.com/images/netmarble/nmOfficial/20261105/04xs1793858969590.pdf"
         ]
       },
       {
@@ -3820,6 +3822,150 @@
     "count": 464,
     "rows": [
       {
+        "company_ko": "닌텐도",
+        "title_ko": "[일본/경쟁사] Nintendo 후루카와 사장, Switch 2 추가 가격 인상 검토 안 해…메모리 물량도 충분히 확보",
+        "summary_ko": "- Nintendo의 후루카와 슌타로 사장이 올해 초 인상한 Switch 2 가격을 추가로 조정하는 방안은 현재 검토하지 않는다고 밝혔다고 Reuters가 보도함\n- 실적 발표에서 Switch 2 판매량이 전년 대비 37% 이상 줄며 투자자 우려가 나오자, 후루카와 사장은 메모리 공급난이 이어지는 가운데서도 충분한 메모리 물량을 확보할 수 있는 상황이라고 설명함\n- 연간 전망은 유지돼 이번 회계연도 Switch 2 판매 목표는 1,600만 대 이상임\n- ※ Switch 2는 시장 여건을 이유로 올해 초 전 세계적으로 가격이 올랐으며, 인상 폭은 미국 USD 50 (KRW 약 7.3만 원), 영국 GBP 24였음\n[Comment]\n- Sony·Microsoft가 하드웨어 가격을 여러 차례 올린 것과 달리 가격 동결을 공식화하며 연말 판매 경쟁에서 가격 경쟁력을 앞세우려는 것으로 보임\n- 재고를 사상 최대 수준으로 쌓아 메모리 원가 상승에 대비한 전략이 가격 동결의 바탕이 된 것으로 해석됨",
+        "original_title": "Nintendo Is Currently Not Considering More Switch 2 Price Changes",
+        "url": "https://www.nintendolife.com/news/2026/11/nintendo-is-currently-not-considering-more-switch-2-price-changes",
+        "published_at": "2026. 11. 6",
+        "published_key": "2026-11-06 00:00:00",
+        "score": "",
+        "keyword": "Switch 2",
+        "integrated_note": "- Sony·Microsoft가 하드웨어 가격을 여러 차례 올린 것과 달리 가격 동결을 공식화하며 연말 판매 경쟁에서 가격 경쟁력을 앞세우려는 것으로 보임\n- 재고를 사상 최대 수준으로 쌓아 메모리 원가 상승에 대비한 전략이 가격 동결의 바탕이 된 것으로 해석됨"
+      },
+      {
+        "company_ko": "마이크로소프트",
+        "title_ko": "[글로벌/동향] 마이크로소프트, Windows 11 대규모 메모리 최적화 단행… 8GB RAM 성능 최대 40% 향상",
+        "summary_ko": "- 마이크로소프트(MS)는 최근 8GB RAM을 탑재한 저사양 기기의 실행 경험을 개선하기 위해 Windows 11의 최신 업데이트를 배포하며, 하드웨어 요구 사양을 높이지 않고도 성능을 대폭 개선했다고 밝힘\n- 이번 업데이트는 시스템의 메모리 압축 기술을 개편하여 비활성 상태의 백그라운드 데이터를 느린 저장장치로 보내는 대신 물리 메모리에 더 압축된 형태로 유지해, 최대 약 2GB의 활성 백그라운드 데이터를 추가로 보존함\n- 이를 통해 8GB RAM 환경에서 일상적인 작업 응답 속도는 최고 20%, 다중 작업 병행 시 전체 성능은 최고 40% 향상되었으며, Edge 브라우저와 Microsoft 365 앱들의 메모리 최적화를 통해 시스템 전반에서 최대 약 900MB의 상주 메모리 점유를 줄임\n[Comment]\n- MS는 이번 업데이트가 전체 메모리 최적화 작업의 시작점이며, 향후 수개월 동안 메모리 압축 메커니즘을 지속적으로 고도화하여 더욱 스마트하고 효율적인 자원 관리 시스템을 구축할 계획이라고 밝힘\n- 과거 8GB RAM 환경에서의 잦은 멈춤 현상과 다중 작업 시의 성능 저하 문제를 근본적으로 해결함으로써, 저사양 PC 사용자들의 운영체제 사용 만족도가 크게 높아질 것으로 기대됨",
+        "original_title": "微软大幅优化Windows 11：实测8GB内存电脑性能最高提升40%",
+        "url": "http://www.gamekezhan.com/news/20261105/65392.html",
+        "published_at": "2026. 11. 5",
+        "published_key": "2026-11-05 00:00:00",
+        "score": "",
+        "keyword": "%",
+        "integrated_note": "- MS는 이번 업데이트가 전체 메모리 최적화 작업의 시작점이며, 향후 수개월 동안 메모리 압축 메커니즘을 지속적으로 고도화하여 더욱 스마트하고 효율적인 자원 관리 시스템을 구축할 계획이라고 밝힘\n- 과거 8GB RAM 환경에서의 잦은 멈춤 현상과 다중 작업 시의 성능 저하 문제를 근본적으로 해결함으로써, 저사양 PC 사용자들의 운영체제 사용 만족도가 크게 높아질 것으로 기대됨"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[일본/경쟁사] Sony 게임 부문, 2분기 영업이익 83% 증가…네트워크 서비스·퍼스트파티 호조에 연간 전망 6% 상향",
+        "summary_ko": "- Sony가 9/30 마감 2분기 실적을 발표함. 게임&네트워크서비스(G&NS) 부문 2분기 매출은 JPY 1.2조 (KRW 약 11.4조)로 9%, 영업이익은 JPY 2,200억 (KRW 약 2조 900억)으로 83% 증가함. 상반기 기준으로는 매출 JPY 2.1조 (KRW 약 20조, +2.9%), 영업이익 JPY 4,220억 (KRW 약 4조 90억, +57%)임\n- 영업이익 증가에는 전년 동기 Bungie 손상차손 USD 7.65억을 포함한 일회성 손실 JPY 498억이 올해 없었던 영향도 있음. 이를 제외하면 2분기 G&NS 영업이익은 29% 증가함\n- 게임 소프트웨어 매출은 JPY 7,085억 (KRW 약 6조 7,310억)으로 12.5% 증가했으며, 9/15 출시된 Insomniac Games의 <마블 울버린>이 240만 장 판매되며 실적에 기여함. 네트워크 서비스 매출은 JPY 2,183억 (KRW 약 2조 740억)으로 19.7% 늘었고, PS Plus 월간 활성 이용자는 1억 2,700만 명(전년 1억 1,900만 명)으로 9월 기준 최고치를 기록함\n- 하드웨어 매출은 PS5 판매가 전년 동기 400만 대에서 260만 대로 줄며 4.8% 감소함. Lin Tao CFO는 프로모션·가격 조정과 원가 절감으로 메모리 가격 상승을 상쇄했으며, 다음 회계연도 예상 판매량에 필요한 메모리 물량도 공급사들과 합의했다고 밝힘\n- ※ 연간 G&NS 매출 전망은 JPY 4.8조 (KRW 약 45.6조), 영업이익 전망은 JPY 7,000억 (KRW 약 6조 6,500억)으로 각각 6% 상향함\n[Comment]\n- PS5 하드웨어 판매가 둔화되는 가운데 구독·디지털·추가 콘텐츠 중심으로 수익 구조가 옮겨가며 이익률이 높아지는 흐름으로 보임\n- 연간 전망 상향 근거로 서드파티 소프트웨어와 네트워크 서비스를 꼽은 만큼, 연말 <GTA 6> 출시 효과가 하반기 실적의 주요 변수가 될 전망임",
+        "original_title": "PlayStation raises full-year forecast after revenue growth in network services and first-party software",
+        "url": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software",
+        "published_at": "2026. 11. 5",
+        "published_key": "2026-11-05 00:00:00",
+        "score": "",
+        "keyword": "PlayStation",
+        "integrated_note": "- PS5 하드웨어 판매가 둔화되는 가운데 구독·디지털·추가 콘텐츠 중심으로 수익 구조가 옮겨가며 이익률이 높아지는 흐름으로 보임\n- 연간 전망 상향 근거로 서드파티 소프트웨어와 네트워크 서비스를 꼽은 만큼, 연말 <GTA 6> 출시 효과가 하반기 실적의 주요 변수가 될 전망임"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/동향] Sensor Tower, <GTA 6> 사전 예약 771만 장·매출 USD 7.5억 추정…PS5 비중 74%",
+        "summary_ko": "- 출시를 2주 앞둔 <GTA 6>의 사전 예약 수량이 771만 장, 추정 총매출은 USD 7.51억 (KRW 약 1조 970억)에 달한다고 Sensor Tower가 집계함\n- 플랫폼별로는 PS5판이 74%로 USD 5.59억 (KRW 약 8,160억), Xbox Series X|S판이 26%로 USD 1.92억 (KRW 약 2,800억)을 차지함. 8월 집계 기준 USD 100 얼티밋 에디션 비중이 89%로 USD 80 스탠다드 에디션(11%)을 크게 웃돎\n- Newzoo는 7월 사전 예약 첫 주 매출을 USD 2.6억 (KRW 약 3,800억)으로 추정했으며, <GTA 6> 영향으로 올해 풀 게임 지출이 17.5% 증가할 것으로 전망함\n- Sensor Tower의 Karl Kontus SVP는 실제 사전 예약이 2,500만 장 수준에 이르러 출시 시점까지 약 USD 20억 (KRW 약 2.9조) 매출을 올릴 것으로 예상했으며, 이는 개발비와 마케팅비 대부분을 즉시 회수하는 수준이라고 평가함\n- ※ 지난달 분석 기준 <GTA 6> 사전 예약은 같은 시점의 <콜 오브 듀티: 모던 워페어 2>(2022) 대비 148% 앞섬. 애널리스트들은 판매량을 2,500만~5,000만 장 이상으로 예상함\n[Comment]\n- PS5 비중이 74%에 달해 연말 콘솔 시장에서 PlayStation 쪽 수혜가 집중될 것으로 보이며, Sony가 연간 전망 상향 근거로 서드파티 소프트웨어 매출을 꼽은 것과도 맞물리는 흐름임\n- 단일 타이틀이 연간 풀 게임 지출 증가를 견인할 정도의 규모인 만큼, 출시 전후로 경쟁작들의 출시 일정 회피와 마케팅 예산 조정이 이어질 전망임",
+        "original_title": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5",
+        "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
+        "published_at": "2026. 11. 5",
+        "published_key": "2026-11-05 00:00:00",
+        "score": "",
+        "keyword": "GTA 6",
+        "integrated_note": "- PS5 비중이 74%에 달해 연말 콘솔 시장에서 PlayStation 쪽 수혜가 집중될 것으로 보이며, Sony가 연간 전망 상향 근거로 서드파티 소프트웨어 매출을 꼽은 것과도 맞물리는 흐름임\n- 단일 타이틀이 연간 풀 게임 지출 증가를 견인할 정도의 규모인 만큼, 출시 전후로 경쟁작들의 출시 일정 회피와 마케팅 예산 조정이 이어질 전망임"
+      },
+      {
+        "company_ko": "닌텐도",
+        "title_ko": "[일본/경쟁사] Nintendo, 상반기 매출 12.1% 감소에도 영업이익 49.1% 증가…소프트웨어 판매·미국 관세 환급이 견인",
+        "summary_ko": "- Nintendo가 9/30 마감 상반기 실적을 발표함. 매출 JPY 9,660억 (KRW 약 9.2조)으로 전년 대비 12.1% 감소했으나, 영업이익은 JPY 2,165억 (KRW 약 2조 570억)으로 49.1%, 경상이익은 JPY 3,006억 (KRW 약 2조 8,560억)으로 27.4% 증가함\n- 영업이익 증가는 <Splatoon Raiders> 등 신작의 꾸준한 소프트웨어 판매와 1분기 미국 관세 환급 효과에 따른 것임. Nintendo는 환급 대상 관세를 제품 가격에 전가하지 않고 회사가 주로 부담했다고 설명함\n- Switch 2 하드웨어 판매량은 649만 대로 전년(1,036만 대) 대비 37.4% 감소했으나, Switch 2 소프트웨어는 2,449만 장으로 18.8% 증가함. 7월 <Splatoon Raiders> 242만 장, 9월 <Fire Emblem: Fortune's Weave> 134만 장, 6월 <Star Fox> 117만 장을 기록함\n- 기존 Switch는 하드웨어 127만 대(-32.7%), 소프트웨어 6,573만 장(+6.8%)으로, <Tomodachi Life: Living the Dream>(881만 장)과 <Rhythm Heaven Groove>(289만 장)가 판매를 견인함. 디지털 매출은 JPY 2,496억 (KRW 약 2조 3,710억)으로 소프트웨어 매출의 60.7%를 차지함\n- ※ 게임 전용 플랫폼 부문 매출은 JPY 9,033억 (KRW 약 8조 5,810억)으로 15.3% 감소함. 향후 라인업으로 <Nintendo Switch Sports Resort>, <젤다의 전설 시간의 오카리나> 리메이크, <Metroid Ravenous>(2027년 1월) 등을 제시함\n[Comment]\n- 출시 2년차에 접어든 Switch 2는 하드웨어 판매가 꺾였으나 소프트웨어·디지털 비중이 높아지며 수익성이 개선되는, 전형적인 플랫폼 2년차 구조를 보이는 것으로 해석됨\n- 다만 영업이익 증가분에는 미국 관세 환급이라는 일회성 요인이 포함돼 있어, 하반기에는 연말 신작 효과로 설치 기반을 얼마나 늘리는지가 실적의 핵심 변수가 될 전망임",
+        "original_title": "Nintendo H1 operating profit rises 49.1% supported by new titles including Splatoon Raiders",
+        "url": "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders",
+        "published_at": "2026. 11. 5",
+        "published_key": "2026-11-05 00:00:00",
+        "score": "",
+        "keyword": "Nintendo",
+        "integrated_note": "- 출시 2년차에 접어든 Switch 2는 하드웨어 판매가 꺾였으나 소프트웨어·디지털 비중이 높아지며 수익성이 개선되는, 전형적인 플랫폼 2년차 구조를 보이는 것으로 해석됨\n- 다만 영업이익 증가분에는 미국 관세 환급이라는 일회성 요인이 포함돼 있어, 하반기에는 연말 신작 효과로 설치 기반을 얼마나 늘리는지가 실적의 핵심 변수가 될 전망임"
+      },
+      {
+        "company_ko": "닌텐도",
+        "title_ko": "[일본/경쟁사] Nintendo 재고 JPY 8,146억으로 사상 최대…메모리 대란 대비해 부품·완제품 비축",
+        "summary_ko": "- Nintendo의 9/30 기준 재고자산이 JPY 약 8,146억 (KRW 약 7.7조)으로 사상 최대를 기록함. 직전 분기 JPY 약 5,398억에서 크게 늘어난 규모임\n- 전 세계적인 RAM 부족 속에서 추가 가격 인상을 피하거나 늦추기 위해 재고를 쌓은 것으로, Nintendo Patents Watch는 게임사로서는 천문학적인 수치지만 메모리 비용 상승에 대비한 헤지 성격이라고 분석함\n- Nintendo는 Switch 2 출시 전에도 상당한 재고를 확보한 바 있으며, <젤다의 전설 시간의 오카리나> 리메이크 출시와 젤다 40주년 Switch 2 등과 맞물려 연말 성수기 물량을 최대한 확보하려는 것으로 보임\n- 같은 분기 연구개발비는 JPY 962억 (KRW 약 9,140억)으로 16.8% 증가해, 'Switch 2 Lite' 등 신규 하드웨어 개발설에 힘을 싣는 요인으로 거론됨\n- ※ Nintendo Patents Watch는 3개월간 재고 증가액을 JPY 1,970억으로 집계해 기사 내 직전 분기 수치와 차이가 있음\n[Comment]\n- PS5·Xbox Series X|S가 2020년 출시된 것과 달리 Switch 2는 2025년 출시돼, 원가 압박 국면에서 단기적으로는 경쟁사보다 유리한 위치에 있다는 평가가 나옴\n- Switch Lite가 Switch 출시 2년 반 뒤인 2019년 나온 전례를 적용하면 2027년 연말이 가상의 Switch 2 Lite 출시 시점이 될 수 있으나, 메모리 수급과 경기 여건을 고려하면 쉽지 않을 전망임",
+        "original_title": "Nintendo's Inventory Levels At A Record High As RAM Crisis Continues",
+        "url": "https://www.nintendolife.com/news/2026/11/nintendos-inventory-levels-at-a-record-high-as-ram-crisis-continues",
+        "published_at": "2026. 11. 5",
+        "published_key": "2026-11-05 00:00:00",
+        "score": "",
+        "keyword": "Nintendo",
+        "integrated_note": "- PS5·Xbox Series X|S가 2020년 출시된 것과 달리 Switch 2는 2025년 출시돼, 원가 압박 국면에서 단기적으로는 경쟁사보다 유리한 위치에 있다는 평가가 나옴\n- Switch Lite가 Switch 출시 2년 반 뒤인 2019년 나온 전례를 적용하면 2027년 연말이 가상의 Switch 2 Lite 출시 시점이 될 수 있으나, 메모리 수급과 경기 여건을 고려하면 쉽지 않을 전망임"
+      },
+      {
+        "company_ko": "소니",
+        "title_ko": "[일본/경쟁사] Sony 게임 부문, 2분기 영업이익 83% 증가…네트워크 서비스·퍼스트파티 호조에 연간 전망 6% 상향",
+        "summary_ko": "- Sony가 9/30 마감 2분기 실적을 발표함. 게임&네트워크서비스(G&NS) 부문 2분기 매출은 JPY 1.2조 (KRW 약 11.4조)로 9%, 영업이익은 JPY 2,200억 (KRW 약 2조 900억)으로 83% 증가함. 상반기 기준으로는 매출 JPY 2.1조 (KRW 약 20조, +2.9%), 영업이익 JPY 4,220억 (KRW 약 4조 90억, +57%)임\n- 영업이익 증가에는 전년 동기 Bungie 손상차손 USD 7.65억을 포함한 일회성 손실 JPY 498억이 올해 없었던 영향도 있음. 이를 제외하면 2분기 G&NS 영업이익은 29% 증가함\n- 게임 소프트웨어 매출은 JPY 7,085억 (KRW 약 6조 7,310억)으로 12.5% 증가했으며, 9/15 출시된 Insomniac Games의 <마블 울버린>이 240만 장 판매되며 실적에 기여함. 네트워크 서비스 매출은 JPY 2,183억 (KRW 약 2조 740억)으로 19.7% 늘었고, PS Plus 월간 활성 이용자는 1억 2,700만 명(전년 1억 1,900만 명)으로 9월 기준 최고치를 기록함\n- 하드웨어 매출은 PS5 판매가 전년 동기 400만 대에서 260만 대로 줄며 4.8% 감소함. Lin Tao CFO는 프로모션·가격 조정과 원가 절감으로 메모리 가격 상승을 상쇄했으며, 다음 회계연도 예상 판매량에 필요한 메모리 물량도 공급사들과 합의했다고 밝힘\n- ※ 연간 G&NS 매출 전망은 JPY 4.8조 (KRW 약 45.6조), 영업이익 전망은 JPY 7,000억 (KRW 약 6조 6,500억)으로 각각 6% 상향함\n[Comment]\n- PS5 하드웨어 판매가 둔화되는 가운데 구독·디지털·추가 콘텐츠 중심으로 수익 구조가 옮겨가며 이익률이 높아지는 흐름으로 보임\n- 연간 전망 상향 근거로 서드파티 소프트웨어와 네트워크 서비스를 꼽은 만큼, 연말 <GTA 6> 출시 효과가 하반기 실적의 주요 변수가 될 전망임",
+        "original_title": "PlayStation raises full-year forecast after revenue growth in network services and first-party software",
+        "url": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software",
+        "published_at": "2026. 11. 5",
+        "published_key": "2026-11-05 00:00:00",
+        "score": "",
+        "keyword": "PlayStation",
+        "integrated_note": "- PS5 하드웨어 판매가 둔화되는 가운데 구독·디지털·추가 콘텐츠 중심으로 수익 구조가 옮겨가며 이익률이 높아지는 흐름으로 보임\n- 연간 전망 상향 근거로 서드파티 소프트웨어와 네트워크 서비스를 꼽은 만큼, 연말 <GTA 6> 출시 효과가 하반기 실적의 주요 변수가 될 전망임"
+      },
+      {
+        "company_ko": "소니",
+        "title_ko": "[글로벌/동향] Sensor Tower, <GTA 6> 사전 예약 771만 장·매출 USD 7.5억 추정…PS5 비중 74%",
+        "summary_ko": "- 출시를 2주 앞둔 <GTA 6>의 사전 예약 수량이 771만 장, 추정 총매출은 USD 7.51억 (KRW 약 1조 970억)에 달한다고 Sensor Tower가 집계함\n- 플랫폼별로는 PS5판이 74%로 USD 5.59억 (KRW 약 8,160억), Xbox Series X|S판이 26%로 USD 1.92억 (KRW 약 2,800억)을 차지함. 8월 집계 기준 USD 100 얼티밋 에디션 비중이 89%로 USD 80 스탠다드 에디션(11%)을 크게 웃돎\n- Newzoo는 7월 사전 예약 첫 주 매출을 USD 2.6억 (KRW 약 3,800억)으로 추정했으며, <GTA 6> 영향으로 올해 풀 게임 지출이 17.5% 증가할 것으로 전망함\n- Sensor Tower의 Karl Kontus SVP는 실제 사전 예약이 2,500만 장 수준에 이르러 출시 시점까지 약 USD 20억 (KRW 약 2.9조) 매출을 올릴 것으로 예상했으며, 이는 개발비와 마케팅비 대부분을 즉시 회수하는 수준이라고 평가함\n- ※ 지난달 분석 기준 <GTA 6> 사전 예약은 같은 시점의 <콜 오브 듀티: 모던 워페어 2>(2022) 대비 148% 앞섬. 애널리스트들은 판매량을 2,500만~5,000만 장 이상으로 예상함\n[Comment]\n- PS5 비중이 74%에 달해 연말 콘솔 시장에서 PlayStation 쪽 수혜가 집중될 것으로 보이며, Sony가 연간 전망 상향 근거로 서드파티 소프트웨어 매출을 꼽은 것과도 맞물리는 흐름임\n- 단일 타이틀이 연간 풀 게임 지출 증가를 견인할 정도의 규모인 만큼, 출시 전후로 경쟁작들의 출시 일정 회피와 마케팅 예산 조정이 이어질 전망임",
+        "original_title": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5",
+        "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
+        "published_at": "2026. 11. 5",
+        "published_key": "2026-11-05 00:00:00",
+        "score": "",
+        "keyword": "GTA 6",
+        "integrated_note": "- PS5 비중이 74%에 달해 연말 콘솔 시장에서 PlayStation 쪽 수혜가 집중될 것으로 보이며, Sony가 연간 전망 상향 근거로 서드파티 소프트웨어 매출을 꼽은 것과도 맞물리는 흐름임\n- 단일 타이틀이 연간 풀 게임 지출 증가를 견인할 정도의 규모인 만큼, 출시 전후로 경쟁작들의 출시 일정 회피와 마케팅 예산 조정이 이어질 전망임"
+      },
+      {
+        "company_ko": "소니",
+        "title_ko": "[일본/경쟁사] Sony, 2028년 3월까지 콘솔 수요 대응할 메모리 물량 확보…AI발 메모리 대란 속 공급 리스크 차단",
+        "summary_ko": "- Sony가 최신 실적 보고에서 다음 회계연도(2028년 3월 마감)의 하드웨어 예상 판매량에 필요한 메모리 물량을 여러 공급사와 합의했다고 밝힘\n- AI 수요로 메모리 부품이 부족해지며 하드웨어 가격이 오르는 가운데, 최소한 출하할 재고는 확보했다는 점에서 투자자를 안심시키려는 메시지로 풀이됨. 다만 다음 회계연도 판매 전망과 PS5 추가 가격 조정 여부는 아직 공개되지 않음\n- Sony는 차세대기 PS6 준비가 '견실하게 진행 중'이라고 했으나, 2027년 출시 여부는 여전히 불투명함\n- ※ Xbox는 2027년 신규 휴대 기기, 2028년 차세대 콘솔 출시를 계획 중이며 가격이 최대 USD 1,800 (KRW 약 263만 원)에 이를 수 있다는 전망이 나옴. PS6는 제조 원가가 더 낮을 것으로 예상되나 USD 1,000 이상일 가능성도 거론됨\n[Comment]\n- 메모리 대란이 장기화되는 상황에서 물량 확보를 먼저 공개한 것은 PS5 공급 차질과 추가 가격 인상 우려를 누그러뜨리려는 의도로 보임\n- PS5의 큰 설치 기반이 원가 상승 충격을 일부 흡수하고 있으나, 차세대기 출시 시점과 가격은 메모리 가격 추이에 크게 좌우될 전망임",
+        "original_title": "Sony Has Secured Enough Memory to Meet Console Demand Through March 2028",
+        "url": "https://www.pushsquare.com/news/2026/11/sony-has-secured-enough-memory-to-meet-console-demand-through-march-2028",
+        "published_at": "2026. 11. 5",
+        "published_key": "2026-11-05 00:00:00",
+        "score": "",
+        "keyword": "Sony",
+        "integrated_note": "- 메모리 대란이 장기화되는 상황에서 물량 확보를 먼저 공개한 것은 PS5 공급 차질과 추가 가격 인상 우려를 누그러뜨리려는 의도로 보임\n- PS5의 큰 설치 기반이 원가 상승 충격을 일부 흡수하고 있으나, 차세대기 출시 시점과 가격은 메모리 가격 추이에 크게 좌우될 전망임"
+      },
+      {
+        "company_ko": "소니",
+        "title_ko": "[일본/경쟁사] Sony CFO, PS6 등 차세대 플랫폼 준비 일정대로 진행…다음 회계연도부터 투자 본격화",
+        "summary_ko": "- Sony의 Lin Tao CFO가 분기 실적 발표에서 차세대 PlayStation 개발이 '예정대로 진행 중'이며, 다음 회계연도에 차세대 플랫폼 준비에서 '견실한 진전'을 이룰 것이라고 밝힘\n- Lin Tao CFO는 다음 회계연도 초부터 신규 플랫폼에 필요한 투자를 진행하되 플랫폼 건전성을 고려해 합리적으로 투자하겠다고 했으며, 구체적인 내용은 적절한 시점에 발표하겠다고 언급함\n- 앞서 Totoki Hiroki CEO는 PS6 출시 시기를 아직 정하지 않았다고 밝혔으나, 업계에서는 수년 내 USD 1,000 (KRW 약 146만 원) 이상의 가격과 휴대 기기 동반 출시 가능성이 거론되고 있음\n- PS5 누적 판매량은 9,790만 대로, <GTA 6> 효과에 힘입어 다음 분기 말 1억 대를 넘어서면 1억 대를 달성한 네 번째 PlayStation 기기가 될 전망임\n- ※ Microsoft의 차세대 Xbox(코드명 Xbox Helix)는 보조금 정책에 따라 최대 USD 1,800 (KRW 약 263만 원)에 이를 수 있다는 관측이 있음\n[Comment]\n- 부품 가격 상승이 이어지는 상황이라 차세대기의 가격 수준이 이용자 전환 속도를 좌우할 최대 변수로 보이며, Push Square 설문에서도 응답자 65%가 USD 1,000 이상 콘솔은 구매하지 않겠다고 답함\n- Sony가 차세대 투자 개시 시점을 다음 회계연도로 못 박은 만큼, 멀티플랫폼 개발사들은 2027~2028년 세대 교체를 전제로 개발 로드맵을 조정할 필요가 있을 것으로 보임",
+        "original_title": "PS6 Development on Track, Sony Making 'Solid Progress' Towards Next-Gen",
+        "url": "https://www.pushsquare.com/news/2026/11/ps6-development-on-track-sony-making-solid-progress-towards-next-gen",
+        "published_at": "2026. 11. 5",
+        "published_key": "2026-11-05 00:00:00",
+        "score": "",
+        "keyword": "PS6",
+        "integrated_note": "- 부품 가격 상승이 이어지는 상황이라 차세대기의 가격 수준이 이용자 전환 속도를 좌우할 최대 변수로 보이며, Push Square 설문에서도 응답자 65%가 USD 1,000 이상 콘솔은 구매하지 않겠다고 답함\n- Sony가 차세대 투자 개시 시점을 다음 회계연도로 못 박은 만큼, 멀티플랫폼 개발사들은 2027~2028년 세대 교체를 전제로 개발 로드맵을 조정할 필요가 있을 것으로 보임"
+      },
+      {
+        "company_ko": "소니",
+        "title_ko": "[일본/경쟁사] Sony <마블 울버린>, 출시 50일간 240만 장…<마블 스파이더맨 2>·<고스트 오브 요테이> 대비 부진",
+        "summary_ko": "- Sony가 실적 발표에서 PS5 독점작 <마블 울버린>의 판매량이 11/4 기준 240만 장이라고 처음 공식 확인함. 9/15 출시 이후 50일간의 성과임\n- 같은 Insomniac Games의 <마블 스파이더맨 2>는 출시 24시간 만에 250만 장, 11일 만에 500만 장을 판매했으며, 지난해 <고스트 오브 요테이>는 첫 달 330만 장을 기록한 바 있음\n- <마블 울버린>의 제작비는 약 USD 3억 (KRW 약 4,380억)으로 알려져, 수익을 내기까지는 시간이 더 필요할 것으로 보임\n- 9월 미국 풀 게임 매출 1위, <헬다이버즈 2> 이후 Sony 타이틀 최고의 출시 월 성적을 기록했으나, 10월 PS Store 차트에서는 미국 14위로 떨어지고 유럽 상위 20위에는 들지 못함\n[Comment]\n- 대형 예산 싱글플레이 퍼스트파티 대작의 초반 흥행이 기대에 못 미치면서, Sony의 고비용 싱글 대작 전략의 수익성에 대한 의문이 제기될 수 있을 것으로 보임\n- 다만 <마블 스파이더맨> 시리즈가 누적 약 6,000만 장을 판매한 만큼 IP 전체 성과로는 부담이 크지 않으며, 첫 연말 시즌 판매가 반등 여부를 가를 전망임",
+        "original_title": "PS5 Exclusive Marvel's Wolverine Off to a Soft Start, 2.4 Million Copies Sold to Date",
+        "url": "https://www.pushsquare.com/news/2026/11/ps5-exclusive-marvels-wolverine-off-to-a-soft-start-2-4-million-copies-sold-to-date",
+        "published_at": "2026. 11. 5",
+        "published_key": "2026-11-05 00:00:00",
+        "score": "",
+        "keyword": "마블 울버린",
+        "integrated_note": "- 대형 예산 싱글플레이 퍼스트파티 대작의 초반 흥행이 기대에 못 미치면서, Sony의 고비용 싱글 대작 전략의 수익성에 대한 의문이 제기될 수 있을 것으로 보임\n- 다만 <마블 스파이더맨> 시리즈가 누적 약 6,000만 장을 판매한 만큼 IP 전체 성과로는 부담이 크지 않으며, 첫 연말 시즌 판매가 반등 여부를 가를 전망임"
+      },
+      {
+        "company_ko": "테이크투",
+        "title_ko": "[글로벌/동향] Sensor Tower, <GTA 6> 사전 예약 771만 장·매출 USD 7.5억 추정…PS5 비중 74%",
+        "summary_ko": "- 출시를 2주 앞둔 <GTA 6>의 사전 예약 수량이 771만 장, 추정 총매출은 USD 7.51억 (KRW 약 1조 970억)에 달한다고 Sensor Tower가 집계함\n- 플랫폼별로는 PS5판이 74%로 USD 5.59억 (KRW 약 8,160억), Xbox Series X|S판이 26%로 USD 1.92억 (KRW 약 2,800억)을 차지함. 8월 집계 기준 USD 100 얼티밋 에디션 비중이 89%로 USD 80 스탠다드 에디션(11%)을 크게 웃돎\n- Newzoo는 7월 사전 예약 첫 주 매출을 USD 2.6억 (KRW 약 3,800억)으로 추정했으며, <GTA 6> 영향으로 올해 풀 게임 지출이 17.5% 증가할 것으로 전망함\n- Sensor Tower의 Karl Kontus SVP는 실제 사전 예약이 2,500만 장 수준에 이르러 출시 시점까지 약 USD 20억 (KRW 약 2.9조) 매출을 올릴 것으로 예상했으며, 이는 개발비와 마케팅비 대부분을 즉시 회수하는 수준이라고 평가함\n- ※ 지난달 분석 기준 <GTA 6> 사전 예약은 같은 시점의 <콜 오브 듀티: 모던 워페어 2>(2022) 대비 148% 앞섬. 애널리스트들은 판매량을 2,500만~5,000만 장 이상으로 예상함\n[Comment]\n- PS5 비중이 74%에 달해 연말 콘솔 시장에서 PlayStation 쪽 수혜가 집중될 것으로 보이며, Sony가 연간 전망 상향 근거로 서드파티 소프트웨어 매출을 꼽은 것과도 맞물리는 흐름임\n- 단일 타이틀이 연간 풀 게임 지출 증가를 견인할 정도의 규모인 만큼, 출시 전후로 경쟁작들의 출시 일정 회피와 마케팅 예산 조정이 이어질 전망임",
+        "original_title": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5",
+        "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
+        "published_at": "2026. 11. 5",
+        "published_key": "2026-11-05 00:00:00",
+        "score": "",
+        "keyword": "GTA 6",
+        "integrated_note": "- PS5 비중이 74%에 달해 연말 콘솔 시장에서 PlayStation 쪽 수혜가 집중될 것으로 보이며, Sony가 연간 전망 상향 근거로 서드파티 소프트웨어 매출을 꼽은 것과도 맞물리는 흐름임\n- 단일 타이틀이 연간 풀 게임 지출 증가를 견인할 정도의 규모인 만큼, 출시 전후로 경쟁작들의 출시 일정 회피와 마케팅 예산 조정이 이어질 전망임"
+      },
+      {
         "company_ko": "마이크로소프트",
         "title_ko": "[글로벌/경쟁사] 유비소프트, 마이크로소프트의 아케인 스튜디오 인수전에 참여",
         "summary_ko": "- 마이크로소프트(MS)가 Xbox 및 기타 부문의 대규모 구조조정의 일환으로 <디스아너드>와 <마블 블레이드>의 개발사인 아케인 스튜디오를 매각할 예정인 가운데, 프랑스 노동법에 따라 MS는 아케인의 잠재적 매수자를 물색해야 함\n- 블룸버그 통신에 따르면, <어쌔신 크리드> 제작사인 유비소프트를 포함한 최소 3개 기업이 아케인 인수를 위한 입찰에 참여했으며, MS는 스튜디오 경영진への 매각도 고려하고 있는 것으로 전해짐\n- 아케인이 새로운 인수처를 찾지 못할 경우 폐쇄될 위기에 놓였으나 매각 협상 시한이 연장되었으며, MS는 12월 최종 시한을 앞두고 다양한 옵션을 검토 중이나 아직 확정된 인수는 없는 상태임\n- 한편, 아케인이 개발 중인 <마블 블레이드>는 내부 출시 일정이 2027년 후반으로 지연되었으나, 스튜디오가 폐쇄를 면하고 매각될 경우 향후 1~2년 내에 출시될 것으로 예상됨\n[Comment]\n- MS는 최근 지속되는 Xbox 사업부의 구조조정과 전략 재정비를 통해 핵심 역량 집중 및 비용 절감을 도모하고 있음\n- 이번 아케인 매각 추진은 프랑스의 엄격한 노동법 규제를 준수하는 동시에, 개발 중인 주요 프로젝트들의 향방을 결정짓는 중요한 분수령이 될 것으로 보임",
@@ -4780,18 +4926,6 @@
         "integrated_note": "- 이번 발언은 에픽게임즈와 밸브 간의 플랫폼 주도권 경쟁 및 AI 기술 수용 방식을 둘러싼 지속적인 마찰의 연장선으로 해석됨\n- 게임 개발 생태계에서 AI 도입이 가속화되는 가운데, 플랫폼별 규제와 정책 차이가 개발사들의 퍼블리싱 전략에 미치는 영향이 더욱 커질 것으로 전망됨"
       },
       {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] 구글, 플레이 스토어 및 플레이 서비스 업데이트로 모바일 게이밍 및 기기 연동 기능 강화",
-        "summary_ko": "- 구글이 플레이 스토어(v53.8)와 플레이 서비스(v26.42) 업데이트를 통해 새로운 모바일 게이밍 및 기기 연동 기능을 선보임\n- 플레이 스토어 업데이트에 추가된 안드로이드 사이드킥(Sidekick)의 ‘플레이백(Playbacks)’ 기능을 통해 유저는 최근 30초 동안의 게임 플레이를 소급하여 로컬에 기록하고 저장할 수 있게 됨\n- 또한 'Ask Play' 답변에 출처와 타임스탬프가 포함된 관련 영상이 제공되며, '플레이 쇼츠(Play Shorts)' 영상을 링크를 통해 안드로이드, iOS, 웹 등 다양한 플랫폼의 유저들과 공유할 수 있음\n- 플레이 서비스 업데이트에서는 안드로이드 XR 글래스를 스마트폰에 연결하는 기능이 추가되었으며, 블루투스 연결음 없이 무선 이어폰(TWS)을 백그라운드에서 매끄럽게 페어링하는 기능 등이 도입됨\n[Comment]\n- 이번 업데이트는 모바일 게이머들이 인게임 하이라이트 순간을 간편하게 캡처하고 공유할 수 있는 편의성을 높이는 데 초점이 맞춰짐\n- 특히 네이티브 수준의 녹화 기능 및 크로스 플랫폼 영상 공유 기능 도입은 모바일 e스포츠 및 커뮤니티 활성화에 긍정적인 영향을 미칠 것으로 평가됨\n- 이와 함께 안드로이드 XR 기기와의 연동성 확장은 향후 모바일 확장현실(XR) 생태계 확장과 디바이스 간 연결성을 강화하기 위한 구글의 전략적 행보로 해석됨",
-        "original_title": "Android’s Sidekick gaming overlay gets the video capture feature you were waiting for",
-        "url": "https://www.androidauthority.com/google-play-store-sidekick-playbacks-play-services-update-3728394/",
-        "published_at": "2026. 10. 27",
-        "published_key": "2026-10-27 00:00:00",
-        "score": "",
-        "keyword": "Google",
-        "integrated_note": "- 이번 업데이트는 모바일 게이머들이 인게임 하이라이트 순간을 간편하게 캡처하고 공유할 수 있는 편의성을 높이는 데 초점이 맞춰짐\n- 특히 네이티브 수준의 녹화 기능 및 크로스 플랫폼 영상 공유 기능 도입은 모바일 e스포츠 및 커뮤니티 활성화에 긍정적인 영향을 미칠 것으로 평가됨\n- 이와 함께 안드로이드 XR 기기와의 연동성 확장은 향후 모바일 확장현실(XR) 생태계 확장과 디바이스 간 연결성을 강화하기 위한 구글의 전략적 행보로 해석됨"
-      },
-      {
         "company_ko": "닌텐도",
         "title_ko": "[글로벌/동향] 포켓몬 컴퍼니, ‘포켓몬 유나이트’ 서비스 종료 발표",
         "summary_ko": "- 포켓몬 컴퍼니는 닌텐도 스위치와 모바일 버전으로 서비스 중인 MOBA 게임 <포켓몬 유나이트>의 서비스를 오는 2027년 3월 23일 자로 종료한다고 공식 발표함\n- 이에 따라 게임 내 유료 재화인 에오스 젬의 판매와 유나이트 클럽 멤버십 신규 구매 및 자동 갱신이 즉시 중단되었으며, 기존에 보유한 젬은 서비스 종료 시점까지 사용 가능함\n- 서비스 종료 전 마지막 기념 이벤트와 업데이트가 진행될 예정이며, 종료 이후에도 지정된 기한 내에 데이터를 다운로드한 이용자에 한해 인게임 기록과 콘텐츠를 열람할 수 있는 ‘라이브러리’ 기능을 제공할 계획임\n[Comment]\n- <포켓몬 유나이트>는 지난 7월 포켓몬 월드 챔피언십 종목에서 제외된 이후 서비스 종료 가능성이 제기되어 온 바 있음\n- 서비스 종료일인 2027년 3월 23일 직전까지는 ‘포켓몬 유나이트 에오스 크라운 2027 도쿄’ 대회가 예정대로 개최될 예정임",
@@ -4876,18 +5010,6 @@
         "integrated_note": "- 해당 COO 직위는 콘텐츠, 하드웨어, 플랫폼, 서비스 전반에 걸친 손익 책임을 통합하고 사업 운영 모델을 일원화하기 위한 Xbox의 광범위한 사업 개편의 일환으로 신설되었음\n- 치아그는 신설된 직위에서 투자 결정을 지원하고 결과에 대한 책임감을 높이는 역할을 맡을 것으로 기대를 모았으나, 단 3개월 만에 자리에서 물러나게 됨\n- 마이크로소프트는 개인 인사 사안에 대해 언급하지 않는다는 입장을 밝히며 퇴임 배경에 대한 말을 아꼈음"
       },
       {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/경쟁사] 해커들, 생성형 AI 활용해 닌텐도 스위치 2 보안 우회 및 시스템 덤프 성공",
-        "summary_ko": "- 해커들이 생성형 AI 모델의 지원을 받아 닌텐도 스위치 2의 첫 번째 탈옥(Jailbreak)을 넘어선 추가 취약점(Exploit)을 발견하고, 시스템 보안을 완전히 무력화하는 데 성공함\n- 초기에는 스토어에서 삭제된 스위치 앱 '스마일베이직(SmileBASIC)'을 통한 제한적인 모드 및 홈브류 설치에 그쳤으나, 최근 파일 시스템과 메모리를 과부하시키는 새로운 취약점을 통해 콘솔의 펌웨어를 PC로 완전히 덤프하고 백업할 수 있게 됨\n- 해당 해커들은 대형 언어 모델(LLM)을 활용해 콘솔이 메모리의 특정 영역을 읽도록 유도하는 일련의 액션을 찾아냈으며, 이를 통해 KIP 레벨 이하의 모든 바이너리에 접근하여 게임 및 앱을 PC로 직접 추출할 수 있게 됨\n- 이번 발견으로 에뮬레이션, 불법 복제, 리버스 엔지니어링의 문이 열렸으며, 닌텐도가 즉각적인 패치를 통해 대응할 것으로 예상되나 AI가 해킹을 돕는 현 상황에서 보안 유지가 더욱 어려워질 것이라는 우려가 제기됨\n[Comment]\n- 생성형 AI가 소프트웨어 보안 우회 및 리버스 엔지니어링 과정에 적극적으로 활용되기 시작하면서, 플랫폼 홀더들의 보안 유지 난이도가 급격히 상승하고 있음\n- 초기 스위치 기기 생태계와 유사하게 닌텐도 스위치 2 역시 출시 초기부터 강력한 해킹 시도에 직면함에 따라, 향후 닌텐도의 신속한 펌웨어 패치 대응과 보안 강화 조치가 플랫폼의 장기적 성패를 가를 핵심 요소로 작용할 전망임",
-        "original_title": "Hackers Begin Dumping Nintendo Switch 2 Games As Expanded Exploit Breaks Console Security",
-        "url": "https://kotaku.com/hackers-begin-dumping-nintendo-switch-2-games-as-expanded-exploit-breaks-console-security-2000749440",
-        "published_at": "2026. 10. 26",
-        "published_key": "2026-10-26 00:00:00",
-        "score": "",
-        "keyword": "Nintendo",
-        "integrated_note": "- 생성형 AI가 소프트웨어 보안 우회 및 리버스 엔지니어링 과정에 적극적으로 활용되기 시작하면서, 플랫폼 홀더들의 보안 유지 난이도가 급격히 상승하고 있음\n- 초기 스위치 기기 생태계와 유사하게 닌텐도 스위치 2 역시 출시 초기부터 강력한 해킹 시도에 직면함에 따라, 향후 닌텐도의 신속한 펌웨어 패치 대응과 보안 강화 조치가 플랫폼의 장기적 성패를 가를 핵심 요소로 작용할 전망임"
-      },
-      {
         "company_ko": "닌텐도",
         "title_ko": "[글로벌/경쟁사] 해커들, 생성형 AI 활용해 닌텐도 스위치 2 보안 우회 및 시스템 덤프 성공",
         "summary_ko": "- 해커들이 생성형 AI 모델의 지원을 받아 닌텐도 스위치 2의 첫 번째 탈옥(Jailbreak)을 넘어선 추가 취약점(Exploit)을 발견하고, 시스템 보안을 완전히 무력화하는 데 성공함\n- 초기에는 스토어에서 삭제된 스위치 앱 '스마일베이직(SmileBASIC)'을 통한 제한적인 모드 및 홈브류 설치에 그쳤으나, 최근 파일 시스템과 메모리를 과부하시키는 새로운 취약점을 통해 콘솔의 펌웨어를 PC로 완전히 덤프하고 백업할 수 있게 됨\n- 해당 해커들은 대형 언어 모델(LLM)을 활용해 콘솔이 메모리의 특정 영역을 읽도록 유도하는 일련의 액션을 찾아냈으며, 이를 통해 KIP 레벨 이하의 모든 바이너리에 접근하여 게임 및 앱을 PC로 직접 추출할 수 있게 됨\n- 이번 발견으로 에뮬레이션, 불법 복제, 리버스 엔지니어링의 문이 열렸으며, 닌텐도가 즉각적인 패치를 통해 대응할 것으로 예상되나 AI가 해킹을 돕는 현 상황에서 보안 유지가 더욱 어려워질 것이라는 우려가 제기됨\n[Comment]\n- 생성형 AI가 소프트웨어 보안 우회 및 리버스 엔지니어링 과정에 적극적으로 활용되기 시작하면서, 플랫폼 홀더들의 보안 유지 난이도가 급격히 상승하고 있음\n- 초기 스위치 기기 생태계와 유사하게 닌텐도 스위치 2 역시 출시 초기부터 강력한 해킹 시도에 직면함에 따라, 향후 닌텐도의 신속한 펌웨어 패치 대응과 보안 강화 조치가 플랫폼의 장기적 성패를 가를 핵심 요소로 작용할 전망임",
@@ -4970,18 +5092,6 @@
         "score": "",
         "keyword": "Xbox",
         "integrated_note": "- 블룸버그의 제이슨 슈라이어 기자는 아케인 리옹을 살리기 위한 다양한 방안이 적극 검토되고 있어 스튜디오가 실제로 완전히 폐쇄될 가능성은 낮다고 언급함\n- 과거 MS 산하에서 독립 스튜디오로 분사한 다른 개발사들처럼 독립 형태로 전환하는 방안이 유력한 대안 중 하나로 거론되나, 이 경우에도 일정 규모의 인력 감축은 불가피할 것으로 보임\n- 11월 13일 마감 시한 전까지 인수처 확보 및 협상 타결 여부가 스튜디오 존속과 <Marvel's Blade>의 최종 운명을 결정지을 핵심 변수가 될 전망임"
-      },
-      {
-        "company_ko": "마이크로소프트",
-        "title_ko": "[글로벌/동향] 마이크로소프트, Xbox 핸드헬드 기기에 AMD FSR 4.1 베타 드라이버 배포",
-        "summary_ko": "- 마이크로소프트(MS)가 최신 Xbox 기기군에 AMD의 차세대 업스케일링 기술인 'FSR 4.1'을 도입한다고 밝힌 가운데, 커뮤니티(레딧)를 통해 Xbox 핸드헬드 라인업(Xbox Ally, Xbox Ally X 등)용 FSR 4.1 프리뷰/베타 드라이버가 공개되어 다운로드가 시작된 것이 확인됨\n- AMD FSR 4.1은 게임을 낮은 해상도로 렌더링한 뒤 머신러닝을 활용해 고해상도의 선명한 이미지를 재구성하는 기술로, 그래픽 연산 부담을 줄여 기기의 프레임레이트 성능을 대폭 개선할 수 있음\n- 이번 기술 지원은 Xbox 핸드헬드 기기에 선제적으로 적용되었으며, 소식통에 따르면 거치형 콘솔인 Xbox Series X|S에도 향후 몇 주 내에 순차적으로 적용될 예정임\n[Comment]\n- 하드웨어 리소스 제약이 큰 핸드헬드 PC 및 Xbox Series S와 같은 콘솔 환경에서 머신러닝 기반 업스케일러 도입은 전력 효율과 게임 성능을 동시에 확보할 수 있는 핵심 설루션으로 평가받고 있음\n- 스팀덱 등 경쟁 기기들이 비공식 툴을 활용하거나 복잡한 설정을 거쳐야 했던 점과 달리, 시스템 차원에서 공식 프리뷰 드라이버 형태로 FSR 4.1을 빠르게 지원함으로써 Xbox 기반 휴대용 게이밍 환경의 사용자 경험 및 경쟁력이 강화될 것으로 기대됨",
-        "original_title": "AMD FSR 4.1 beta drivers roll out for Xbox Ally, Xbox Ally X, and Xbox Ally X20 handhelds",
-        "url": "https://www.windowscentral.com/gaming/xbox/amd-fsr-4-1-beta-drivers-for-xbox-ally-xbox-ally-x-and-xbox-ally-x20-have-rolled-out-and-are-ready-for-download",
-        "published_at": "2026. 10. 24",
-        "published_key": "2026-10-24 00:00:00",
-        "score": "",
-        "keyword": "Xbox Ally",
-        "integrated_note": "- 하드웨어 리소스 제약이 큰 핸드헬드 PC 및 Xbox Series S와 같은 콘솔 환경에서 머신러닝 기반 업스케일러 도입은 전력 효율과 게임 성능을 동시에 확보할 수 있는 핵심 설루션으로 평가받고 있음\n- 스팀덱 등 경쟁 기기들이 비공식 툴을 활용하거나 복잡한 설정을 거쳐야 했던 점과 달리, 시스템 차원에서 공식 프리뷰 드라이버 형태로 FSR 4.1을 빠르게 지원함으로써 Xbox 기반 휴대용 게이밍 환경의 사용자 경험 및 경쟁력이 강화될 것으로 기대됨"
       },
       {
         "company_ko": "닌텐도",
@@ -5236,42 +5346,6 @@
         "integrated_note": "- <몬스터 헌터 와일즈> 스위치 2 버전은 정식 출시 시 타 플랫폼과의 풀 크로스 플랫폼 플레이를 지원하며, 일본 현지에서는 스위치 2 기기 번들 세트도 출시될 예정임\n- 캡콤은 본편 출시 이후인 2027년에 신규 확장팩 <Monster Hunter Wilds: Ascendance>를 선보이며 장기적인 라이브 콘텐츠 확장을 이어갈 계획임"
       },
       {
-        "company_ko": "소니",
-        "title_ko": "[유럽/동향] 호요버스 <젠레스 존 제로>, 유럽 PS5 이용 등급 PEGI 12에서 16으로 상향",
-        "summary_ko": "- 유럽 플레이스테이션 5(PS5) 버전의 <젠레스 존 제로(Zenless Zone Zero)> 연령 등급이 기존 PEGI 12(12세 이용가)에서 PEGI 16(16세 이용가)으로 상향 조정됨\n- 등급 정보 항목에는 등급 상향 사유로 ‘보통 수준의 폭력(moderate violence)’과 ‘성적 암시(sexual innuendo)’가 새롭게 명시됨\n- 현재 미국(ESRB Teen) 및 앱스토어(13+) 등 타 지역 및 플랫폼의 등급에는 변동이 없으며, 이번 조정은 유럽 PS5 버전에 한해 적용된 것으로 확인됨\n[Comment]\n- 개발사 호요버스는 캐릭터의 3D 모션과 물리 연출 등 비주얼 요소를 점차 강화해왔으며, 이러한 과감한 팬서비스 연출이 유럽 등급 분류 기구(PEGI)의 재심의 과정에 영향을 준 것으로 분석됨\n- 이용자 사이에서는 향후 콘텐츠 표현 수위가 완화될 것이라는 기대도 나오고 있으나, 타 국가 및 모바일 플랫폼의 등급이 유지되고 있어 전반적인 게임 수위 확대보다는 유럽 현지 심의 기준에 맞춘 조정으로 풀이됨\n- 캐릭터 매력도가 수익과 직결되는 서브컬처 가챠 모델 특성상, 표현 수위와 플랫폼별 연령 등급 규제 사이의 조율이 주요 과제로 이어질 것으로 보임",
-        "original_title": "Gooner Game' Zenless Zone Zero Gets an Age Rating Increase on PS5",
-        "url": "https://www.pushsquare.com/news/2026/10/gooner-game-zenless-zone-zero-gets-an-age-rating-increase-on-ps5",
-        "published_at": "2026. 10. 19",
-        "published_key": "2026-10-19 00:00:00",
-        "score": "",
-        "keyword": "PS5",
-        "integrated_note": "- 개발사 호요버스는 캐릭터의 3D 모션과 물리 연출 등 비주얼 요소를 점차 강화해왔으며, 이러한 과감한 팬서비스 연출이 유럽 등급 분류 기구(PEGI)의 재심의 과정에 영향을 준 것으로 분석됨\n- 이용자 사이에서는 향후 콘텐츠 표현 수위가 완화될 것이라는 기대도 나오고 있으나, 타 국가 및 모바일 플랫폼의 등급이 유지되고 있어 전반적인 게임 수위 확대보다는 유럽 현지 심의 기준에 맞춘 조정으로 풀이됨\n- 캐릭터 매력도가 수익과 직결되는 서브컬처 가챠 모델 특성상, 표현 수위와 플랫폼별 연령 등급 규제 사이의 조율이 주요 과제로 이어질 것으로 보임"
-      },
-      {
-        "company_ko": "소니",
-        "title_ko": "[글로벌/동향] AI 부품 수요 폭증으로 소니 차세대 콘솔 'PS6' 가격 1,000달러 돌파 우려",
-        "summary_ko": "- 유명 하드웨어 유출자 KeplerL2에 따르면, 글로벌 AI 데이터 센터의 컴퓨팅 부품 수요 독점으로 인해 소니의 차세대 콘솔 'PS6'의 제조 단가가 급등하고 있음\n- 지난 3월 추정 당시 PS6의 제조 비용은 약 USD 760로 예상되어 보조금을 적용한 USD 699.99 수준의 출시가 점쳐졌으나, 7월 부품원가(BOM)가 약 USD 960까지 상승함\n- 최근 언급에 따르면 CPU, GPU, 쿨링 시스템 등을 제외하고 RAM 및 SSD 등 메모리 부품 비용만 이미 USD 680을 초과한 것으로 전해지며, 차세대 콘솔의 소매가가 USD 1,000 이상으로 책정될 수 있다는 위기감이 커짐\n- 제조 원가 급등의 주원인은 글로벌 IT 업계의 AI 인프라 투자 확대로 인한 핵심 부품 공급난 및 가격 상승으로 분석됨\n[Comment]\n- PS6은 PS5 대비 2배가량 향상된 성능과 휴대용(핸드헬드) 모델 도입 가능성이 거론되고 있으나, 지나치게 높은 출시가는 소비자들의 심리적 저항을 불러와 판매량이 크게 위축될 위험이 있음\n- 높은 가격 장벽으로 인해 신규 콘솔의 보급 속도가 늦어질 경우, PS5 기반의 오랜 크로스젠(세대 간 호환) 기간이 이어지고 차세대 전용 독점 타이틀의 출시도 상당 기간 지연될 것으로 전망됨\n- 소니의 연구개발(R&D) 완료 여부와 무관하게 글로벌 AI 수요 지속에 따른 부품가 상승 압박은 콘솔 시장 전반의 구조적 악재로 작용하고 있음",
-        "original_title": "PS6 Price Tag Facing $1,000+ Nightmare as AI Data Centres Send Component Costs Soaring",
-        "url": "https://www.pushsquare.com/news/2026/10/ps6-price-tag-facing-usd1000plus-nightmare-as-ai-data-centres-send-component-costs-soaring",
-        "published_at": "2026. 10. 18",
-        "published_key": "2026-10-18 00:00:00",
-        "score": "",
-        "keyword": "PS",
-        "integrated_note": "- PS6은 PS5 대비 2배가량 향상된 성능과 휴대용(핸드헬드) 모델 도입 가능성이 거론되고 있으나, 지나치게 높은 출시가는 소비자들의 심리적 저항을 불러와 판매량이 크게 위축될 위험이 있음\n- 높은 가격 장벽으로 인해 신규 콘솔의 보급 속도가 늦어질 경우, PS5 기반의 오랜 크로스젠(세대 간 호환) 기간이 이어지고 차세대 전용 독점 타이틀의 출시도 상당 기간 지연될 것으로 전망됨\n- 소니의 연구개발(R&D) 완료 여부와 무관하게 글로벌 AI 수요 지속에 따른 부품가 상승 압박은 콘솔 시장 전반의 구조적 악재로 작용하고 있음"
-      },
-      {
-        "company_ko": "소니",
-        "title_ko": "[글로벌/동향] 디지털 파운드리, <GTA 6> 최신 트레일러서 소니의 신규 업스케일러 'QSSR' 적용 증거 미확인",
-        "summary_ko": "- 소니가 이달 초 기본 PS5 콘솔용 업스케일링 기술인 'QSSR(PS5 Pro의 PSSR 기반 기술)'을 도입한 가운데, 최근 PS5 하드웨어에서 캡처된 것으로 명시된 <GTA 6> 런칭 트레일러에서는 해당 기술이 적용된 증거가 확인되지 않음\n- 하드웨어 및 그래픽 분석 매체 디지털 파운드리의 리치 리드베터는 <GTA 6>의 내부 렌더링 해상도가 이미 1440p 수준이라면 QSSR을 통한 4K 업스케일링은 실효성이 낮다고 분석함\n- <마블 울버린>의 수치 기준으로 볼 때 4K 업스케일링에 약 4ms가 소요되며, 이는 30fps 기준 전체 렌더링 예산(33ms)의 10% 이상을 차지해 QSSR 적용이 오히려 렌더링 자원 낭비가 될 수 있다고 지적함\n- 현재 공개된 트레일러는 이전 빌드의 영상일 가능성이 있어 정식 출시 시점에는 세부 사양이 달라질 수 있으나, 현시점에서는 QSSR 적용 근거를 찾기 어렵다고 덧붙임\n[Comment]\n- QSSR은 현재 <마블 울버린>, <고스트 오브 요테이> 등 소니의 퍼스트파티 타이틀에 우선 적용되었으며, 향후 서드파티 개발사에도 개방될 예정임\n- 락스타 게임즈가 <GTA 6> 마케팅에서 \"PS5에서 가장 최상의 경험을 제공한다\"고 내세우면서 QSSR의 도입 시점이 <GTA 6> 출시를 염두에 둔 것이 아니냐는 추측이 제기되었음\n- 정식 출시 이후 실제 PS5 하드웨어에서의 최적화 방식 및 해상도 업스케일링 기술 채택 여부에 대한 업계의 관심이 지속될 것으로 전망됨",
-        "original_title": "I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler",
-        "url": "https://www.pushsquare.com/news/2026/10/i-dont-think-were-seeing-it-here-gta-6-launch-trailer-not-using-ps5s-new-qssr-upscaler",
-        "published_at": "2026. 10. 18",
-        "published_key": "2026-10-18 00:00:00",
-        "score": "",
-        "keyword": "PS5",
-        "integrated_note": "- QSSR은 현재 <마블 울버린>, <고스트 오브 요테이> 등 소니의 퍼스트파티 타이틀에 우선 적용되었으며, 향후 서드파티 개발사에도 개방될 예정임\n- 락스타 게임즈가 <GTA 6> 마케팅에서 \"PS5에서 가장 최상의 경험을 제공한다\"고 내세우면서 QSSR의 도입 시점이 <GTA 6> 출시를 염두에 둔 것이 아니냐는 추측이 제기되었음\n- 정식 출시 이후 실제 PS5 하드웨어에서의 최적화 방식 및 해상도 업스케일링 기술 채택 여부에 대한 업계의 관심이 지속될 것으로 전망됨"
-      },
-      {
         "company_ko": "테이크투",
         "title_ko": "[글로벌/동향] 디지털 파운드리, <GTA 6> 최신 트레일러서 소니의 신규 업스케일러 'QSSR' 적용 증거 미확인",
         "summary_ko": "- 소니가 이달 초 기본 PS5 콘솔용 업스케일링 기술인 'QSSR(PS5 Pro의 PSSR 기반 기술)'을 도입한 가운데, 최근 PS5 하드웨어에서 캡처된 것으로 명시된 <GTA 6> 런칭 트레일러에서는 해당 기술이 적용된 증거가 확인되지 않음\n- 하드웨어 및 그래픽 분석 매체 디지털 파운드리의 리치 리드베터는 <GTA 6>의 내부 렌더링 해상도가 이미 1440p 수준이라면 QSSR을 통한 4K 업스케일링은 실효성이 낮다고 분석함\n- <마블 울버린>의 수치 기준으로 볼 때 4K 업스케일링에 약 4ms가 소요되며, 이는 30fps 기준 전체 렌더링 예산(33ms)의 10% 이상을 차지해 QSSR 적용이 오히려 렌더링 자원 낭비가 될 수 있다고 지적함\n- 현재 공개된 트레일러는 이전 빌드의 영상일 가능성이 있어 정식 출시 시점에는 세부 사양이 달라질 수 있으나, 현시점에서는 QSSR 적용 근거를 찾기 어렵다고 덧붙임\n[Comment]\n- QSSR은 현재 <마블 울버린>, <고스트 오브 요테이> 등 소니의 퍼스트파티 타이틀에 우선 적용되었으며, 향후 서드파티 개발사에도 개방될 예정임\n- 락스타 게임즈가 <GTA 6> 마케팅에서 \"PS5에서 가장 최상의 경험을 제공한다\"고 내세우면서 QSSR의 도입 시점이 <GTA 6> 출시를 염두에 둔 것이 아니냐는 추측이 제기되었음\n- 정식 출시 이후 실제 PS5 하드웨어에서의 최적화 방식 및 해상도 업스케일링 기술 채택 여부에 대한 업계의 관심이 지속될 것으로 전망됨",
@@ -5344,30 +5418,6 @@
         "integrated_note": "- 닌텐도는 앞서 올해 초 시장 상황 변화와 글로벌 사업 전망을 이유로 스위치 2와 스위치 기기의 글로벌 가격 인상을 단행한 바 있음\n- 지난해 3월 스위치 2 출시를 앞두고 일본 내 수리비를 인상했던 것에 이어, 이번 주요 부품 수리비 인상 역시 지속되는 물가 상승 및 비용 부담에 대응하기 위한 조치로 풀이됨"
       },
       {
-        "company_ko": "소니",
-        "title_ko": "[글로벌/동향] 6년 된 콘솔 PS5, 독보적 메모리 대역폭으로 로컬 AI 구동 기기로 주목",
-        "summary_ko": "- 최근 한 이용자가 플레이스테이션 5(PS5)를 역공학하여 로컬 AI 구동 장치로 개조했으며, Qwen 3.8 27B 대규모 언어 모델을 2bit로 양자화해 초당 약 20토큰(Token/s)의 속도로 구동하는 데 성공함\n- PS5의 연산 사양은 AMD Zen 2 CPU 및 RDNA 2 GPU(10.3 TFLOPS)로 최신 고성능 하드웨어에 미치지 못하지만, 통합 메모리 구조를 기반으로 한 256bit GDDR6를 적용해 448GB/s에 달하는 높은 메모리 대역폭을 보유함\n- 이러한 대역폭 수치는 애플의 M4 Max(410GB/s), M5 Pro(307GB/s)는 물론, 엔비디아와 AMD의 최신 AI/모바일 전용 칩셋(256~273GB/s) 대비 50~70% 이상 앞서는 성능을 나타냄\n[Comment]\n- 거대언어모델(LLM)의 로컬 추론 작업에서는 연산 유닛의 절대적인 성능 외에도 메모리 대역폭이 토큰 생성 속도를 좌우하는 핵심 병목으로 작용하며, 콘솔 기기의 고대역폭 통합 메모리 구조가 AI 작업에 유리하게 작용함\n- 고가의 전문 AI 가속기나 고성능 PC를 대체하여, 상대적으로 저렴한 콘솔 하드웨어의 아키텍처 특성을 활용한 실험적인 가성비 AI 머신 활용 가능성을 보여준 사례로 평가됨",
-        "original_title": "PS5主机都能跑本地AI了：6年的技术比AMD、NV顶级芯片还要强",
-        "url": "http://www.gamekezhan.com/news/20261016/65211.html",
-        "published_at": "2026. 10. 16",
-        "published_key": "2026-10-16 00:00:00",
-        "score": "",
-        "keyword": "AI",
-        "integrated_note": "- 거대언어모델(LLM)의 로컬 추론 작업에서는 연산 유닛의 절대적인 성능 외에도 메모리 대역폭이 토큰 생성 속도를 좌우하는 핵심 병목으로 작용하며, 콘솔 기기의 고대역폭 통합 메모리 구조가 AI 작업에 유리하게 작용함\n- 고가의 전문 AI 가속기나 고성능 PC를 대체하여, 상대적으로 저렴한 콘솔 하드웨어의 아키텍처 특성을 활용한 실험적인 가성비 AI 머신 활용 가능성을 보여준 사례로 평가됨"
-      },
-      {
-        "company_ko": "소니",
-        "title_ko": "[글로벌/동향] 소니, 막대한 <GTA 6> 마케팅 투자로 'PS5 플랫폼 락인' 효과 본격화",
-        "summary_ko": "- 소니가 락스타 게임즈의 차기 기대작 <Grand Theft Auto 6(GTA 6)>와 PlayStation 5(PS5) 브랜드를 긴밀히 연결하기 위해 수백만 달러 규모의 마케팅 투자를 단행했으며, 론칭 트레일러에 ‘Plays Best on PS5’라는 슬로건을 포함하는 등 공격적인 프로모션을 진행 중임\n- 유명 대형 스트리머 IShowSpeed가 리액션 영상 도중 해당 문구를 확인한 뒤 “GTA 6가 PS5에서 가장 잘 구동된다고 적혀 있는데 굳이 Xbox로 할 이유가 있느냐”며 PS5 플레이를 확정 짓는 등, 막대한 마케팅 효과가 소비자 인식 변화로 직접 이어지는 모습이 확인됨\n- 실제 하드웨어 사양상 기본 PS5와 Xbox Series X는 유사한 성능을 보여 실제 게임 구동 화면은 크게 다르지 않을 것으로 예상되나, 소니는 햅틱 피드백 및 적응형 트리거 등 듀얼센스(DualSense) 전용 컨트롤러 기능의 완벽한 지원을 주요 차별화 요소로 강조함\n- 아울러 고성능 모델인 PS5 Pro의 하드웨어적 이점 외에도 기본 PS5용 AI 기반 업스케일러 기술(QSSR) 적용 가능성이 열려 있어, 서드파티 개발사 협업을 통한 기술적 우위 확보 가능성도 거론됨\n[Comment]\n- 콘솔 세대 경쟁에서 플랫폼 홀더의 대형 킬러 타이틀 마케팅 권한 독점은 하드웨어 판매 견인 및 유저 유입에 결정적인 영향을 미치는 핵심 전략임\n- 실제 콘솔 간 기기 성능 격차가 크지 않더라도 대형 인플루언서를 통한 파급력과 강력한 슬로건 각인 효과를 통해, 대중적 인식을 'GTA 6는 PS5'라는 프레임으로 선점하는 데 성공한 것으로 평가됨\n- 독점 마케팅 권한과 듀얼센스의 감각적 피처를 전면에 내세운 소니의 접근법은 차세대 콘솔 점유율 유지 및 경쟁 플랫폼(Xbox Series X|S)과의 경쟁에서 유리한 고지를 점하는 데 크게 기여할 것으로 보임",
-        "original_title": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
-        "url": "https://www.pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working",
-        "published_at": "2026. 10. 16",
-        "published_key": "2026-10-16 00:00:00",
-        "score": "",
-        "keyword": "PS5",
-        "integrated_note": "- 콘솔 세대 경쟁에서 플랫폼 홀더의 대형 킬러 타이틀 마케팅 권한 독점은 하드웨어 판매 견인 및 유저 유입에 결정적인 영향을 미치는 핵심 전략임\n- 실제 콘솔 간 기기 성능 격차가 크지 않더라도 대형 인플루언서를 통한 파급력과 강력한 슬로건 각인 효과를 통해, 대중적 인식을 'GTA 6는 PS5'라는 프레임으로 선점하는 데 성공한 것으로 평가됨\n- 독점 마케팅 권한과 듀얼센스의 감각적 피처를 전면에 내세운 소니의 접근법은 차세대 콘솔 점유율 유지 및 경쟁 플랫폼(Xbox Series X|S)과의 경쟁에서 유리한 고지를 점하는 데 크게 기여할 것으로 보임"
-      },
-      {
         "company_ko": "테이크투",
         "title_ko": "[글로벌/동향] 소니, 막대한 <GTA 6> 마케팅 투자로 'PS5 플랫폼 락인' 효과 본격화",
         "summary_ko": "- 소니가 락스타 게임즈의 차기 기대작 <Grand Theft Auto 6(GTA 6)>와 PlayStation 5(PS5) 브랜드를 긴밀히 연결하기 위해 수백만 달러 규모의 마케팅 투자를 단행했으며, 론칭 트레일러에 ‘Plays Best on PS5’라는 슬로건을 포함하는 등 공격적인 프로모션을 진행 중임\n- 유명 대형 스트리머 IShowSpeed가 리액션 영상 도중 해당 문구를 확인한 뒤 “GTA 6가 PS5에서 가장 잘 구동된다고 적혀 있는데 굳이 Xbox로 할 이유가 있느냐”며 PS5 플레이를 확정 짓는 등, 막대한 마케팅 효과가 소비자 인식 변화로 직접 이어지는 모습이 확인됨\n- 실제 하드웨어 사양상 기본 PS5와 Xbox Series X는 유사한 성능을 보여 실제 게임 구동 화면은 크게 다르지 않을 것으로 예상되나, 소니는 햅틱 피드백 및 적응형 트리거 등 듀얼센스(DualSense) 전용 컨트롤러 기능의 완벽한 지원을 주요 차별화 요소로 강조함\n- 아울러 고성능 모델인 PS5 Pro의 하드웨어적 이점 외에도 기본 PS5용 AI 기반 업스케일러 기술(QSSR) 적용 가능성이 열려 있어, 서드파티 개발사 협업을 통한 기술적 우위 확보 가능성도 거론됨\n[Comment]\n- 콘솔 세대 경쟁에서 플랫폼 홀더의 대형 킬러 타이틀 마케팅 권한 독점은 하드웨어 판매 견인 및 유저 유입에 결정적인 영향을 미치는 핵심 전략임\n- 실제 콘솔 간 기기 성능 격차가 크지 않더라도 대형 인플루언서를 통한 파급력과 강력한 슬로건 각인 효과를 통해, 대중적 인식을 'GTA 6는 PS5'라는 프레임으로 선점하는 데 성공한 것으로 평가됨\n- 독점 마케팅 권한과 듀얼센스의 감각적 피처를 전면에 내세운 소니의 접근법은 차세대 콘솔 점유율 유지 및 경쟁 플랫폼(Xbox Series X|S)과의 경쟁에서 유리한 고지를 점하는 데 크게 기여할 것으로 보임",
@@ -5414,18 +5464,6 @@
         "score": "",
         "keyword": "規制",
         "integrated_note": "- 양사는 이번 조치를 통해 포켓몬 카드 게임을 둘러싼 시장 및 거래 상황을 고려하여 필요한 정보를 공유하고, 이용자가 안심하고 상품을 구매 및 거래할 수 있는 환경을 조성하기 위해 협력할 방침임\n- 최근 트레이딩 카드 시장에서의 고액 전매 및 불법 거래 문제가 대두되는 가운데, 플랫폼 차원에서 적극적인 규제를 도입하여 건전한 유통 질서를 확립하려는 움직임의 일환으로 풀이됨"
-      },
-      {
-        "company_ko": "닌텐도",
-        "title_ko": "[글로벌/동향] AI '바이브 코딩' 확산 속 닌텐도 타이틀 비공식 PC 포팅 급증... 저작권 갈등 점화",
-        "summary_ko": "- 최근 클로드(Claude) 등 최신 AI 모델을 활용한 '바이브 코딩(Vibe coding)' 열풍으로 <슈퍼 마리오 오디세이>, <슈퍼 스매시브라더스 얼티밋>, <마리오 카트 8 디럭스>, <메트로이드 프라임> 등 닌텐도 대표 IP의 비공식 디컴파일 및 네이티브 PC 포팅 프로젝트가 확산되고 있음\n- 웹 브라우저 기반으로 구동되는 <슈퍼 마리오 64> 멀티플레이 포팅 프로젝트의 X(구 트위터) 게시물이 저작권자 요청으로 비활성화되는 등 닌텐도의 법적 대응 움직임이 포착되기 시작함\n- 이번 포팅 확산의 배경에는 닌텐도 스위치 에뮬레이터 'Suyu' v0.0.4가 지원하는 CPU 코드 재컴파일(C 언어 추출) 기능이 있으며, 이를 통해 에뮬레이터 없이 윈도우 환경에서 직접 실행 가능한 네이티브 포트 제작이 용이해진 것으로 분석됨\n- Suyu 개발진은 2024년 진행된 'Yuzu' 관련 법원 명령이 자사에 직접 적용되지 않는다고 주장하며 깃허브(GitHub) 공개를 유지 중이며, 다수의 AI 포팅 프로젝트들은 법적 제재를 피하기 위해 디스코드 등을 통해 비공개로 유통되고 있음\n[Comment]\n- 닌텐도는 과거 Yuzu 소송 승소와 깃허브 포크 대량 삭제, 디스코드 서버 소환장 발부 등 자사 IP 침해에 대해 업계에서 가장 강경한 법적 대응을 이어온 기업임\n- 최근 생성형 AI의 발전으로 역공학과 코드 재컴파일 진입장벽이 크게 낮아지면서 콘솔 독점 타이틀의 무단 PC 포팅 주기가 급격히 단축되는 추세임\n- 깃허브의 DMCA 처리 지연 및 폐쇄형 커뮤니티 중심의 우회 유통이 늘어남에 따라, AI 기반 비공식 포팅 확산을 막기 위한 닌텐도의 법적 조치 범위와 강도 역시 한층 강화될 것으로 전망됨",
-        "original_title": "The Vibe-Coders Have Come For Nintendo, And Obviously This Won’t End Well",
-        "url": "https://kotaku.com/the-vibe-coders-have-come-for-nintendo-and-obviously-this-wont-end-well-2000745258",
-        "published_at": "2026. 10. 14",
-        "published_key": "2026-10-14 00:00:00",
-        "score": "",
-        "keyword": "Nintendo",
-        "integrated_note": "- 닌텐도는 과거 Yuzu 소송 승소와 깃허브 포크 대량 삭제, 디스코드 서버 소환장 발부 등 자사 IP 침해에 대해 업계에서 가장 강경한 법적 대응을 이어온 기업임\n- 최근 생성형 AI의 발전으로 역공학과 코드 재컴파일 진입장벽이 크게 낮아지면서 콘솔 독점 타이틀의 무단 PC 포팅 주기가 급격히 단축되는 추세임\n- 깃허브의 DMCA 처리 지연 및 폐쇄형 커뮤니티 중심의 우회 유통이 늘어남에 따라, AI 기반 비공식 포팅 확산을 막기 위한 닌텐도의 법적 조치 범위와 강도 역시 한층 강화될 것으로 전망됨"
       },
       {
         "company_ko": "유비소프트",
@@ -5500,18 +5538,6 @@
         "integrated_note": "- 국내 미니게임 시장의 경쟁 심화와 세금 부담 등으로 인해 개발사들이 해외로 눈을 돌리는 가운데, AI 기술이 결합된 소환 플랫폼이 새로운 변수로 작용하고 있음\n- 현재 AI 게임 창작 플랫폼들은 사용자 확보와 인지도 제고에 집중하고 있어, 향후 AI 이용료를 부과하는 'AI세' 방식이나 기존 게임의 인앱 결제 및 광고 모델 중 어떤 방식을 통해 수익화를 증명할지가 주요 과제로 평가됨"
       },
       {
-        "company_ko": "닌텐도",
-        "title_ko": "[글로벌/경쟁사] 닌텐도 임원, ‘닌텐도 스위치 2 실물 패키지 게임 지원 유지할 것’ 입장 밝혀",
-        "summary_ko": "- 소니가 실물 패키지 게임 지원 중단 결정으로 인해 ‘디스크가 없으면 사지 않겠다(No disc, no buy)’는 팬들의 거센 반발에 직면한 가운데, 닌텐도는 차세대 기기에서도 실물 패키지를 유지하겠다는 입장을 밝힘\n- 닌텐도 라틴아메리카 총괄 빌 반 질(Bill van Zyll) 부사장은 브라질 게임쇼 인터뷰를 통해 닌텐도 스위치 2(Nintendo Switch 2)에서 실물 패키지 미디어를 포기할 계획이 없다고 확인하며, 소비자의 선호도를 깊이 고려하고 팬들이 패키지를 얼마나 즐기는지 잘 알고 있다고 강조함\n- 소니의 디지털 다운로드 판매 비중이 82%에 달하는 반면, 닌텐도는 최근 실적 보고서 기준 디지털 판매 비중이 61.5% 수준에 머물러 있어 상대적으로 실물 패키지 판매에 대한 의존도가 훨씬 높은 상태임\n[Comment]\n- 마이크로소프트(MS)가 차세대 기기에서 실물 게임 지원 여부에 대해 중립적인 입장을 취하고 있는 반면, 닌텐도는 자사 유저층의 뚜렷한 실물 패키지 선호 트렌드를 적극 수용하는 행보를 보임\n- 디지털 전용으로 급격히 전환하려는 경쟁사들과 달리, 닌텐도는 견고한 실물 패키지 시장 수요를 바탕으로 유저 이탈을 방지하고 팬 친화적인 하드웨어 생태계를 유지하려는 전략으로 풀이됨",
-        "original_title": "Unlike Sony, Nintendo Exec Says Switch 2 Maker Has No Plans To Abandon Physical: ‘We Know How Much Fans Enjoy It’",
-        "url": "https://kotaku.com/unlike-sony-nintendo-exec-says-switch-2-maker-has-no-plans-to-abandon-physical-we-know-how-much-fans-enjoy-it-2000744191",
-        "published_at": "2026. 10. 12",
-        "published_key": "2026-10-12 00:00:00",
-        "score": "",
-        "keyword": "Nintendo",
-        "integrated_note": "- 마이크로소프트(MS)가 차세대 기기에서 실물 게임 지원 여부에 대해 중립적인 입장을 취하고 있는 반면, 닌텐도는 자사 유저층의 뚜렷한 실물 패키지 선호 트렌드를 적극 수용하는 행보를 보임\n- 디지털 전용으로 급격히 전환하려는 경쟁사들과 달리, 닌텐도는 견고한 실물 패키지 시장 수요를 바탕으로 유저 이탈을 방지하고 팬 친화적인 하드웨어 생태계를 유지하려는 전략으로 풀이됨"
-      },
-      {
         "company_ko": "텐센트",
         "title_ko": "[글로벌/동향] AI 기반 소환 플랫폼 Astrocade, 천만 MAU 돌파 및 텐센트·구글·메타 등 대기업 진출 가속화",
         "summary_ko": "- AI 게임 창작 플랫폼 Astrocade가 최근 1,000만 월간 활성 사용자(MAU)를 기록하며 가파른 성장세를 보이고 있으며, 자연어 기반으로 10분 만에 플레이 가능한 콘텐츠를 생성하는 방식으로 'AI 소환 버전 틱톡'으로 주목받음\n- Astrocade는 2022년 설립 이후 시드 라운드에서 5,600만 달러의 투자를 유치했으며, 현재 191개 국가에서 수십만 명의 크리에이터가 활발히 콘텐츠를 생산하고 플랫폼은 조회수에 따른 수익화 경로를 제공함\n- 이러한 흐름에 맞춰 텐센트(후야를 통한 'BinkBink' 등), 구글(Unity와의 파트너십을 통한 Playground), 메타('Horizon Create' 및 'Horizon Studio') 등 국내외 주요 IT 기업들이 AI 게임 에디터 및 플랫폼 시장에 잇달아 진출하고 있음\n[Comment]\n- 국내 미니게임 시장의 경쟁 심화와 세금 부담 등으로 인해 개발사들이 해외로 눈을 돌리는 가운데, AI 기술이 결합된 소환 플랫폼이 새로운 변수로 작용하고 있음\n- 현재 AI 게임 창작 플랫폼들은 사용자 확보와 인지도 제고에 집중하고 있어, 향후 AI 이용료를 부과하는 'AI세' 방식이나 기존 게임의 인앱 결제 및 광고 모델 중 어떤 방식을 통해 수익화를 증명할지가 주요 과제로 평가됨",
@@ -5546,18 +5572,6 @@
         "score": "",
         "keyword": "game",
         "integrated_note": "- 최근 캡콤이 'AI 시대 게임 엔진' 구축을 목표로 하고 세가가 AI 활용 방안을 신중히 검토하는 등, 게임 업계 전반에서 개발 효율성 향상과 제작 속도 단축을 위한 AI 기술 도입 움직임이 이어지고 있음\n- 다만 창작 영역에서의 AI 활용은 여전히 강한 저항감이나 논란을 동반할 수 있어, 향후 개발자들이 완성된 제품에 생성형 AI를 어떻게 적용하고 수용해 나갈지 귀추가 주목됨"
-      },
-      {
-        "company_ko": "닌텐도",
-        "title_ko": "[미국/동향] 닌텐도 스위치 2 '게임 키 카드' 소비 631% 급증... 美 실물 미디어 시장 성장 견인",
-        "summary_ko": "- 시장조사업체 서카나(Circana)의 분석가 매트 피스카텔라에 따르면, 2026년 미국 시장에서 닌텐도 스위치 2의 ‘게임 키 카드(Game-Key Card)’ 지출이 전년 대비 631% 급증함\n- 기존 실물 패키지 미디어 전반의 지출이 3% 감소했음에도 게임 키 카드의 폭발적인 성장이 이를 상쇄하면서, 2026년 연간 누적 신규 실물 소프트웨어 총 지출은 전년 대비 5% 증가한 USD 7억 3,800만을 기록함\n- 올해 게임 키 카드로 출시된 주요 타이틀로는 <포켓몬 포코피아>, <엘든 링: 타니시드 에디션>, <바이오하자드 레퀴엠> 등이 꼽히며, 특히 <엘든 링>은 스위치 2 출시 효과에 힘입어 차트 순위가 기존 41위에서 7위로 대폭 상승함\n[Comment]\n- 실물 패키지에 게임 다운로드 키를 담아 판매하는 형태에 대해 소비자들의 거부감이 클 것이라는 우려와 달리, 실제 판매 데이터에서는 높은 구매 선호도를 보이며 실물 시장의 주요 소비 방식으로 안착하는 모습임\n- 한편 하드웨어 부문에서도 닌텐도 스위치 2는 8월 및 2026년 연간 누적 기준 모두 판매량(Unit)과 매출(Dollar) 부문에서 미국 콘솔 하드웨어 시장 1위를 지속 유지하고 있음",
-        "original_title": "Spending On Switch 2 Game-Key Cards In The U.S. Has Risen By 631%",
-        "url": "https://www.nintendolife.com/news/2026/10/spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by-631percent",
-        "published_at": "2026. 10. 9",
-        "published_key": "2026-10-09 00:00:00",
-        "score": "",
-        "keyword": "Switch 2",
-        "integrated_note": "- 실물 패키지에 게임 다운로드 키를 담아 판매하는 형태에 대해 소비자들의 거부감이 클 것이라는 우려와 달리, 실제 판매 데이터에서는 높은 구매 선호도를 보이며 실물 시장의 주요 소비 방식으로 안착하는 모습임\n- 한편 하드웨어 부문에서도 닌텐도 스위치 2는 8월 및 2026년 연간 누적 기준 모두 판매량(Unit)과 매출(Dollar) 부문에서 미국 콘솔 하드웨어 시장 1위를 지속 유지하고 있음"
       },
       {
         "company_ko": "유비소프트",
@@ -6674,18 +6688,6 @@
         "score": "",
         "keyword": "console",
         "integrated_note": "- 업계 역사상 가장 영향력 있는 IP인 <GTA VI>가 실물 디스크가 없는 '다운로드 코드 전용' 패키지 출시를 선언한 것은 패키지 게임 시장의 종말과 완전한 디지털 전환을 가속화하는 결정적 계기가 될 것으로 분석됨\n- 2026년 11월이라는 구체적인 출시일이 확정되자마자 소니의 <울버린>, <Dune: Awakening> 등 주요 대기업들의 대작 타이틀이 <GTA VI>와의 경쟁을 피하기 위해 9~10월로 출시 일정을 조정하는 등 게임 업계의 출시 캘린더 전체가 크게 요동치고 있음\n- 과거 악명 높은 크런치(연장 근무) 문화로 비판받았던 락스타 게임즈가 노조 결성 압박과 기밀 유출 통제라는 이중고를 겪고 있는 가운데, 추가적인 연기 없이 2026년 말까지 완성도 높은 게임을 개발해 낼 수 있을지가 향후 시장의 핵심 관전 포인트임"
-      },
-      {
-        "company_ko": "테이크투",
-        "title_ko": "[글로벌/동향] 테이크투, <GTA VI> 게임플레이 유출 관련해 MS 및 디스코드에 소환장 발부",
-        "summary_ko": "- 최근 <Grand Theft Auto VI(GTA VI)>의 게임플레이 영상이 온라인상에 지속적으로 유출되자, 퍼블리셔인 테이크투 인터랙티브(Take-Two Interactive)가 저작권 침해 대응을 위해 마이크로소프트(MS)와 디스코드(Discord)를 상대로 소환장(Subpoena)을 발부함\n- 법원에 제출된 소환장에 따르면 테이크투는 유출된 시청각 콘텐츠, 아트워크, 이미지, 캐릭터 대사 등이 자사의 저작권을 침해했다고 주장하며, 두 회사에 유출자의 신원을 특정할 수 있는 정보를 오는 9월 4일까지 제공할 것을 요구함\n- 유출된 영상은 'CyberLeek'이라는 워터마크가 표시되어 있으며, <GTA VI>의 주인공 중 한 명인 '제이슨 듀발(Jason Duval)'이 운전 및 비행기 조종을 하거나 테이저건, 렌치 등을 사용해 적을 공격하는 등 구체적인 게임 플레이 메커니즘을 포함하고 있음\n- 이번 법적 조치는 오는 8월 27일 넷플릭스를 통해 데뷔할 예정인 락스타 게임즈의 대규모 게임플레이 프리뷰와 11월 19일로 예정된 글로벌 정식 출시를 앞두고 단행됨\n[Comment]\n- 테이크투의 이번 조치는 글로벌 시장에서 가장 기대를 모으고 있는 초대작 <GTA VI>의 마케팅 제어권을 유지하고, 정식 출시 전 추가적인 정보 유출을 원천 차단하기 위한 강력한 법적 경고로 풀이됨\n- <GTA VI>는 최근 사전 예약에서 이례적으로 폭발적인 초기 성과를 기록하는 등 흥행 보증수표로 평가받고 있으나, 최근 해커 및 유출자들이 실행 가능한 빌드(Playable build)까지 확보했다는 주장이 제기되는 등 보안 위협이 지속되고 있음\n- 이에 따라 퍼블리셔인 테이크투와 개발사 락스타 게임즈는 남은 출시 기간 동안 유출본의 확산을 막고 오리지널 마케팅 콘텐츠의 가치를 보존하는 데 총력을 기울일 것으로 보임",
-        "original_title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks",
-        "url": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
-        "published_at": "2026. 8. 22",
-        "published_key": "2026-08-22 00:00:00",
-        "score": "",
-        "keyword": "Microsoft",
-        "integrated_note": "- 테이크투의 이번 조치는 글로벌 시장에서 가장 기대를 모으고 있는 초대작 <GTA VI>의 마케팅 제어권을 유지하고, 정식 출시 전 추가적인 정보 유출을 원천 차단하기 위한 강력한 법적 경고로 풀이됨\n- <GTA VI>는 최근 사전 예약에서 이례적으로 폭발적인 초기 성과를 기록하는 등 흥행 보증수표로 평가받고 있으나, 최근 해커 및 유출자들이 실행 가능한 빌드(Playable build)까지 확보했다는 주장이 제기되는 등 보안 위협이 지속되고 있음\n- 이에 따라 퍼블리셔인 테이크투와 개발사 락스타 게임즈는 남은 출시 기간 동안 유출본의 확산을 막고 오리지널 마케팅 콘텐츠의 가치를 보존하는 데 총력을 기울일 것으로 보임"
       },
       {
         "company_ko": "넷이즈",
