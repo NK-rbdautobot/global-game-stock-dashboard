@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-10T03:59:00Z",
+  "generated_at_utc": "2026-11-11T01:44:34Z",
   "financial_archive": {
     "source": "Google Sheets per-company tabs; Nexon excluded until cleaned",
     "sheet_url": "https://docs.google.com/spreadsheets/d/1jzdID-ZY39VhKgHdvpSIcGiJq0Gk_qsOj1k6hNi3jh8/edit",
@@ -1495,14 +1495,6 @@
         "operating_profit_unit": "영업이익(백만 USD)",
         "quarters": [
           {
-            "period": "2025 Q1",
-            "revenue": 4841.1,
-            "operating_profit": 456.4,
-            "revenue_krw_eok": 70680.06,
-            "operating_profit_krw_eok": 6663.44,
-            "source_range": "B1:G3"
-          },
-          {
             "period": "2025 Q2",
             "revenue": 5259.5,
             "operating_profit": 487.7,
@@ -1540,6 +1532,14 @@
             "operating_profit": 650.3,
             "revenue_krw_eok": 113701.88,
             "operating_profit_krw_eok": 9494.38,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q3",
+            "revenue": 8582.3,
+            "operating_profit": 664.2,
+            "revenue_krw_eok": 125301.57999999999,
+            "operating_profit_krw_eok": 9697.32,
             "source_range": "B1:G3"
           }
         ],
@@ -1581,11 +1581,11 @@
           }
         ],
         "latest_quarter": {
-          "period": "2026 Q2",
-          "revenue": 7787.8,
-          "operating_profit": 650.3,
-          "revenue_krw_eok": 113701.88,
-          "operating_profit_krw_eok": 9494.38,
+          "period": "2026 Q3",
+          "revenue": 8582.3,
+          "operating_profit": 664.2,
+          "revenue_krw_eok": 125301.57999999999,
+          "operating_profit_krw_eok": 9697.32,
           "source_range": "B1:G3"
         },
         "latest_year": {
@@ -1605,7 +1605,8 @@
           "https://cdn.sea.com/investor/3Q2025/VCQyb53nURvpodOR3CpG/2025.11.11%20Sea%20Third%20Quarter%202025%20Results.pdf",
           "https://cdn.sea.com/investor/4Q2025/JcKns4LaJC8bxcQdJwXz/2026.03.03%20Sea%20Fourth%20Quarter%20and%20Full%20Year%202025%20Results.pdf",
           "https://cdn.sea.com/investor/1Q2026/HEEdeRDe0NyiZ1PrWIvH/2026.05.12%20Sea%20First%20Quarter%202026%20Results.pdf",
-          "https://cdn.sea.com/investor/2Q2026/wFBC39MbqnfLb3MGY6LP/2026.08.11%20Sea%20Second%20Quarter%202026%20Results.pdf"
+          "https://cdn.sea.com/investor/2Q2026/wFBC39MbqnfLb3MGY6LP/2026.08.11%20Sea%20Second%20Quarter%202026%20Results.pdf",
+          "https://cdn.sea.com/investor/3Q2026/VZJl6wXWX76O8otphvf6/2026.11.10%20Sea%20Third%20Quarter%202026%20Results.pdf"
         ]
       },
       {
@@ -1739,14 +1740,6 @@
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
           {
-            "period": "2025 Q1",
-            "revenue": 8742.0,
-            "operating_profit": 4573.0,
-            "revenue_krw_eok": 8742.0,
-            "operating_profit_krw_eok": 4573.0,
-            "source_range": "B1:G3"
-          },
-          {
             "period": "2025 Q2",
             "revenue": 6620.0,
             "operating_profit": 2460.0,
@@ -1784,6 +1777,14 @@
             "operating_profit": 4109.0,
             "revenue_krw_eok": 12902.0,
             "operating_profit_krw_eok": 4109.0,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q3",
+            "revenue": 9714.0,
+            "operating_profit": 2250.0,
+            "revenue_krw_eok": 9714.0,
+            "operating_profit_krw_eok": 2250.0,
             "source_range": "B1:G3"
           }
         ],
@@ -1825,11 +1826,11 @@
           }
         ],
         "latest_quarter": {
-          "period": "2026 Q2",
-          "revenue": 12902.0,
-          "operating_profit": 4109.0,
-          "revenue_krw_eok": 12902.0,
-          "operating_profit_krw_eok": 4109.0,
+          "period": "2026 Q3",
+          "revenue": 9714.0,
+          "operating_profit": 2250.0,
+          "revenue_krw_eok": 9714.0,
+          "operating_profit_krw_eok": 2250.0,
           "source_range": "B1:G3"
         },
         "latest_year": {
@@ -1846,7 +1847,8 @@
           "https://www.krafton.com/wp-content/uploads/2026/02/KRAFTON-4Q25-Earnings-Release_KOR.pdf",
           "https://www.krafton.com/wp-content/uploads/2026/04/KRAFTON-1Q26-Earnings_Release_KOR.pdf",
           "https://www.krafton.com/wp-content/uploads/2026/04/KRAFTON-1Q26-Earnings_Release_KOR-4.pdf",
-          "https://www.krafton.com/wp-content/uploads/2026/07/KRAFTON-2Q26-Earnings_Release_KOR.pdf"
+          "https://www.krafton.com/wp-content/uploads/2026/07/KRAFTON-2Q26-Earnings_Release_KOR.pdf",
+          "https://www.krafton.com/wp-content/uploads/2026/11/KRAFTON-3Q26-Earnings_Release_KOR.pdf"
         ]
       },
       {
@@ -1858,14 +1860,6 @@
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
           {
-            "period": "2025 Q1",
-            "revenue": 422.0,
-            "operating_profit": 263.0,
-            "revenue_krw_eok": 422.0,
-            "operating_profit_krw_eok": 263.0,
-            "source_range": "B1:G3"
-          },
-          {
             "period": "2025 Q2",
             "revenue": 1124.0,
             "operating_profit": 682.0,
@@ -1876,33 +1870,41 @@
           {
             "period": "2025 Q3",
             "revenue": 755.0,
-            "operating_profit": 495.0,
+            "operating_profit": 495.5,
             "revenue_krw_eok": 755.0,
-            "operating_profit_krw_eok": 495.0,
+            "operating_profit_krw_eok": 495.5,
             "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
-            "revenue": 641.0,
-            "operating_profit": 371.0,
-            "revenue_krw_eok": 641.0,
-            "operating_profit_krw_eok": 371.0,
+            "revenue": 644.3,
+            "operating_profit": 374.0,
+            "revenue_krw_eok": 644.3,
+            "operating_profit_krw_eok": 374.0,
             "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
-            "revenue": 473.0,
-            "operating_profit": 215.0,
-            "revenue_krw_eok": 473.0,
-            "operating_profit_krw_eok": 215.0,
+            "revenue": 473.1,
+            "operating_profit": 215.1,
+            "revenue_krw_eok": 473.1,
+            "operating_profit_krw_eok": 215.1,
             "source_range": "B1:G3"
           },
           {
             "period": "2026 Q2",
-            "revenue": 557.0,
-            "operating_profit": 281.0,
-            "revenue_krw_eok": 557.0,
-            "operating_profit_krw_eok": 281.0,
+            "revenue": 557.2,
+            "operating_profit": 281.2,
+            "revenue_krw_eok": 557.2,
+            "operating_profit_krw_eok": 281.2,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q3",
+            "revenue": 462.1,
+            "operating_profit": 207.0,
+            "revenue_krw_eok": 462.1,
+            "operating_profit_krw_eok": 207.0,
             "source_range": "B1:G3"
           }
         ],
@@ -1930,11 +1932,11 @@
           }
         ],
         "latest_quarter": {
-          "period": "2026 Q2",
-          "revenue": 557.0,
-          "operating_profit": 281.0,
-          "revenue_krw_eok": 557.0,
-          "operating_profit_krw_eok": 281.0,
+          "period": "2026 Q3",
+          "revenue": 462.1,
+          "operating_profit": 207.0,
+          "revenue_krw_eok": 462.1,
+          "operating_profit_krw_eok": 207.0,
           "source_range": "B1:G3"
         },
         "latest_year": {
@@ -2710,14 +2712,6 @@
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
           {
-            "period": "2025 Q1",
-            "revenue": 890.0,
-            "operating_profit": 102.0,
-            "revenue_krw_eok": 890.0,
-            "operating_profit_krw_eok": 102.0,
-            "source_range": "B1:G3"
-          },
-          {
             "period": "2025 Q2",
             "revenue": 1100.0,
             "operating_profit": 186.0,
@@ -2751,10 +2745,18 @@
           },
           {
             "period": "2026 Q2",
-            "revenue": 1021.0,
-            "operating_profit": 79.0,
-            "revenue_krw_eok": 1021.0,
-            "operating_profit_krw_eok": 79.0,
+            "revenue": 1020.7,
+            "operating_profit": 79.4,
+            "revenue_krw_eok": 1020.7,
+            "operating_profit_krw_eok": 79.4,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q3",
+            "revenue": 1105.1,
+            "operating_profit": 96.0,
+            "revenue_krw_eok": 1105.1,
+            "operating_profit_krw_eok": 96.0,
             "source_range": "B1:G3"
           }
         ],
@@ -2796,11 +2798,11 @@
           }
         ],
         "latest_quarter": {
-          "period": "2026 Q2",
-          "revenue": 1021.0,
-          "operating_profit": 79.0,
-          "revenue_krw_eok": 1021.0,
-          "operating_profit_krw_eok": 79.0,
+          "period": "2026 Q3",
+          "revenue": 1105.1,
+          "operating_profit": 96.0,
+          "revenue_krw_eok": 1105.1,
+          "operating_profit_krw_eok": 96.0,
           "source_range": "B1:G3"
         },
         "latest_year": {
@@ -3451,14 +3453,6 @@
         "operating_profit_unit": "영업이익(십억 JPY)",
         "quarters": [
           {
-            "period": "2025 Q1",
-            "revenue": 285.9,
-            "operating_profit": 1.0,
-            "revenue_krw_eok": 25731.0,
-            "operating_profit_krw_eok": 90.0,
-            "source_range": "B1:G3"
-          },
-          {
             "period": "2025 Q2",
             "revenue": 300.4,
             "operating_profit": 51.9,
@@ -3469,9 +3463,9 @@
           {
             "period": "2025 Q3",
             "revenue": 343.4,
-            "operating_profit": 53.5,
+            "operating_profit": 53.6,
             "revenue_krw_eok": 30906.0,
-            "operating_profit_krw_eok": 4815.0,
+            "operating_profit_krw_eok": 4824.0,
             "source_range": "B1:G3"
           },
           {
@@ -3496,6 +3490,14 @@
             "operating_profit": 69.2,
             "revenue_krw_eok": 29565.0,
             "operating_profit_krw_eok": 6228.0,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q3",
+            "revenue": 400.0,
+            "operating_profit": 65.1,
+            "revenue_krw_eok": 36000.0,
+            "operating_profit_krw_eok": 5858.999999999999,
             "source_range": "B1:G3"
           }
         ],
@@ -3537,11 +3539,11 @@
           }
         ],
         "latest_quarter": {
-          "period": "2026 Q2",
-          "revenue": 328.5,
-          "operating_profit": 69.2,
-          "revenue_krw_eok": 29565.0,
-          "operating_profit_krw_eok": 6228.0,
+          "period": "2026 Q3",
+          "revenue": 400.0,
+          "operating_profit": 65.1,
+          "revenue_krw_eok": 36000.0,
+          "operating_profit_krw_eok": 5858.999999999999,
           "source_range": "B1:G3"
         },
         "latest_year": {
@@ -3821,6 +3823,18 @@
     "sheet_url": "https://docs.google.com/spreadsheets/d/1nA4GhaJA14_2tpHimX0-AsCpCE2G5YFySjGX79hzrCw/edit?gid=1688880659#gid=1688880659",
     "count": 466,
     "rows": [
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/동향] Steam 공포 장르, 올해 10개월 매출 USD 13억으로 2025년 연간 대비 17% 증가…<바이오하자드 레퀴엠> 단독 USD 2.1억",
+        "summary_ko": "- 분석기관 Alinea Analytics가 할로윈 즈음 공개한 자료에 따르면, 2026년 Steam 공포 장르 매출은 두 달을 남긴 시점에 이미 USD 13억 (KRW 약 1조 8,980억)을 기록함. 2025년 연간 매출보다 17% 많고 2019년의 4배 이상 규모로, 올해 Steam 전체 매출 USD 약 181억 (KRW 약 26조 4,000억)의 7%를 차지함\n- 공포 장르 매출 중 올해 출시작 비중은 41% (USD 5.162억), 2025~2026년 출시작 비중은 54% (USD 6.835억)임. 2025년(39%/53%), 2024년(25%/48%)보다 높아져 매출 규모와 함께 신작 비중도 커지는 추세임\n- <바이오하자드 레퀴엠>은 Steam에서 USD 2.113억 (KRW 약 3,085억)을 벌어 올해 Steam 공포 장르 매출의 16.6%, 올해 출시 공포 신작 매출의 40.7%를 차지함. <바이오하자드> 시리즈 전체는 32% (USD 4.10억)로, 매출 Top 10 중 5개 타이틀, USD 3.395억을 차지했고 <Outlast> 시리즈는 5%, <Silent Hill> 시리즈는 2%에 그침\n- 인디 멀티플레이 타이틀도 강세임. <R.E.P.O.>는 올해 USD 4,470만 (KRW 약 653억)·670만 장(누적 USD 2.135억), <Phasmophobia>는 USD 2,890만 (누적 약 USD 2.7억), <The Outlast Trials>는 USD 6,210만·400만 장을 기록함. <Escape the Backrooms>는 A24 영화 <Backrooms> 흥행과 5월 콘솔 출시·Game Pass 입점 효과로 6월 월 매출 USD 560만 (KRW 약 82억)을 기록, 역대 최고치를 경신함\n- ※ 멀티플랫폼 기준 <Silent Hill: Townfall>은 출시 후 40.4만 장·USD 2,020만 (KRW 약 295억)을 판매함(PS5 비중 70.9%, PS 매출 중 실물 디스크 42.8%). 10/8 출시한 <Clive Barker's Hellraiser: Revival>은 34.4만 장·USD 1,310만을 기록함. <바이오하자드> 시리즈 5종은 PS·Steam·Xbox 합산 USD 8.5억 (KRW 약 1조 2,410억)을 벌어들임\n[Comment]\n- 공포 장르는 낮은 제작비, 협동 멀티플레이, 구작 장기 판매, 할로윈 시즌 수요, 저렴한 IP 라이선스 기회 등으로 경기 영향을 덜 받는 장르로 평가됨. 단순한 그래픽의 인디 협동 게임 두 편(<R.E.P.O.>, <Phasmophobia>)이 Steam에서만 누적 USD 약 5억을 번 점이 이를 보여주는 것으로 보임\n- 다만 올해 성장은 <바이오하자드 레퀴엠> 한 편의 비중이 커서, 대형 신작이 없는 해에도 같은 증가세가 이어질지는 지켜볼 변수임\n- <더 라스트 오브 어스 파트 I>은 PS+ Extra 편입 뒤 PS5 판매 비중이 70~85%에서 35~45%로 떨어진 반면, <Escape the Backrooms>는 영화·Game Pass와 맞물려 매출이 늘었음. 구독 서비스와 트랜스미디어 노출이 매출에 미치는 영향이 타이틀마다 다르게 나타나는 것으로 해석됨",
+        "original_title": "恐怖游戏在Steam “杀疯了”：今年10个月入账86亿元，同比大涨17%",
+        "url": "http://www.gamelook.com.cn/2026/11/605986/",
+        "published_at": "2026. 11. 10",
+        "published_key": "2026-11-10 00:00:00",
+        "score": "",
+        "keyword": "Steam",
+        "integrated_note": "- 공포 장르는 낮은 제작비, 협동 멀티플레이, 구작 장기 판매, 할로윈 시즌 수요, 저렴한 IP 라이선스 기회 등으로 경기 영향을 덜 받는 장르로 평가됨. 단순한 그래픽의 인디 협동 게임 두 편(<R.E.P.O.>, <Phasmophobia>)이 Steam에서만 누적 USD 약 5억을 번 점이 이를 보여주는 것으로 보임\n- 다만 올해 성장은 <바이오하자드 레퀴엠> 한 편의 비중이 커서, 대형 신작이 없는 해에도 같은 증가세가 이어질지는 지켜볼 변수임\n- <더 라스트 오브 어스 파트 I>은 PS+ Extra 편입 뒤 PS5 판매 비중이 70~85%에서 35~45%로 떨어진 반면, <Escape the Backrooms>는 영화·Game Pass와 맞물려 매출이 늘었음. 구독 서비스와 트랜스미디어 노출이 매출에 미치는 영향이 타이틀마다 다르게 나타나는 것으로 해석됨"
+      },
       {
         "company_ko": "일렉트로닉 아츠",
         "title_ko": "[글로벌/경쟁사] Epic Games, 리눅스용 Epic Games Launcher의 SteamOS·Steam Deck 공식 지원 확인…<포트나이트> 지원은 미정",
@@ -4792,18 +4806,6 @@
         "score": "",
         "keyword": "Xbox",
         "integrated_note": "- Xbox 부문은 2026년 2월 필 스펜서 은퇴 후 아샤 샤르마가 신임 CEO로 취임하면서 약 3,200명(부문 인력의 약 20%) 감원 및 4개 스튜디오 매각 등 Xbox 역사상 최대 규모의 구조조정을 단행한 바 있음\n- 차세대 콘솔(코드명 Project Helix)은 2027년에 개발자용 알파 하드웨어 배포 후 2027년 홀리데이 시즌 이후 출시될 것으로 예상되어, 단기적으로는 하드웨어 반등보다는 소프트웨어 성과에 의존해야 하는 상황임\n- MS는 2분기 가이던스를 통해 콘텐츠 및 서비스 부문이 1년 만에 다시 성장세로 전환될 것으로 전망했으며, 2027년 2월 출시 예정인 <Fable>과 신작 라인업들이 실질적인 흑자 전환과 장기 성장세를 이끌 수 있을지가 주요 관건임"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] 나쓰메, 닌텐도 스위치 1·2용 ‘목장이야기: 에코즈 오브 테라디아’ 2027년까지의 DLC 로드맵 공개",
-        "summary_ko": "- 나쓰메는 닌텐도 스위치 1 및 2 플랫폼으로 이달 출시된 농장 및 소셜 시뮬레이션 게임 ‘목장이야기: 에코즈 오브 테라디아(Harvest Moon: Echoes of Teradea)’의 2027년까지 이어지는 대규모 DLC 로드맵을 공식 발표함\n- 이번 로드맵을 통해 시리즈 30주년 기념 팩을 포함한 총 9개의 추가 DLC 팩이 순차적으로 선보여질 예정이며, 신규 캐릭터, 스토리, 지역, 동물, 레시피, 업그레이드 등 다채로운 콘텐츠가 추가될 계획임\n- 첫 번째 DLC인 ‘Merus’s Dilemma’가 즉시 출시(미화 6.99달러)되었으며, 시즌 패스는 미화 24.99달러에 모든 콘텐츠를 할인된 가격으로 이용할 수 있음. 아울러 게임 내 버그 수정과 카메라 속도 개선 등을 담은 패치 1.3.0 업데이트도 함께 배포됨\n[Comment]\n- 닌텐도 스위치 세대를 아우르는 타이틀로 선보인 이번 작품은 꾸준한 사후 지원과 기념비적인 콘텐츠 확장을 예고하며 팬들의 기대를 모으고 있음\n- DLC를 개별 구매하거나 시즌 패스 형태로 제공하여 이용자 선택권을 넓히고 장기적인 플레이 동기를 부여하는 전략을 취하고 있음",
-        "original_title": "Harvest Moon: Echoes of Teradea Reveals Its Roadmap For 2027, Includes Nine DLC Packs & 30th Anniversary Celebration",
-        "url": "https://www.nintendolife.com/news/2026/10/harvest-moon-echoes-of-teradea-reveals-its-roadmap-for-2027-includes-nine-dlc-packs-and-30th-anniversary-celebration",
-        "published_at": "2026. 10. 30",
-        "published_key": "2026-10-30 00:00:00",
-        "score": "",
-        "keyword": "Switch",
-        "integrated_note": "- 닌텐도 스위치 세대를 아우르는 타이틀로 선보인 이번 작품은 꾸준한 사후 지원과 기념비적인 콘텐츠 확장을 예고하며 팬들의 기대를 모으고 있음\n- DLC를 개별 구매하거나 시즌 패스 형태로 제공하여 이용자 선택권을 넓히고 장기적인 플레이 동기를 부여하는 전략을 취하고 있음"
       },
       {
         "company_ko": "닌텐도",
