@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-12T02:44:50Z",
+  "generated_at_utc": "2026-11-13T02:27:46Z",
   "financial_archive": {
     "source": "Google Sheets per-company tabs; Nexon excluded until cleaned",
     "sheet_url": "https://docs.google.com/spreadsheets/d/1jzdID-ZY39VhKgHdvpSIcGiJq0Gk_qsOj1k6hNi3jh8/edit",
@@ -1619,51 +1619,51 @@
         "operating_profit_unit": "영업이익(억 THB)",
         "quarters": [
           {
-            "period": "2025 Q1",
-            "revenue": 2.429,
-            "operating_profit": 0.322,
-            "revenue_krw_eok": 109.30499999999998,
-            "operating_profit_krw_eok": 14.49,
-            "source_range": "B1:G3"
-          },
-          {
             "period": "2025 Q2",
-            "revenue": 2.638,
-            "operating_profit": 0.377,
-            "revenue_krw_eok": 118.71,
-            "operating_profit_krw_eok": 16.965,
+            "revenue": 2.6,
+            "operating_profit": 0.4,
+            "revenue_krw_eok": 117.0,
+            "operating_profit_krw_eok": 18.0,
             "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
-            "revenue": 3.601,
-            "operating_profit": 0.615,
-            "revenue_krw_eok": 162.045,
-            "operating_profit_krw_eok": 27.675,
+            "revenue": 3.6,
+            "operating_profit": 0.6,
+            "revenue_krw_eok": 162.0,
+            "operating_profit_krw_eok": 27.0,
             "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
-            "revenue": 3.534,
-            "operating_profit": 0.334,
-            "revenue_krw_eok": 159.03,
-            "operating_profit_krw_eok": 15.030000000000003,
+            "revenue": 3.5,
+            "operating_profit": 0.3,
+            "revenue_krw_eok": 157.5,
+            "operating_profit_krw_eok": 13.5,
             "source_range": "B1:G3"
           },
           {
             "period": "2026 Q1",
-            "revenue": 2.979,
-            "operating_profit": 0.333,
-            "revenue_krw_eok": 134.055,
-            "operating_profit_krw_eok": 14.985,
+            "revenue": 3.0,
+            "operating_profit": 0.3,
+            "revenue_krw_eok": 135.0,
+            "operating_profit_krw_eok": 13.5,
             "source_range": "B1:G3"
           },
           {
             "period": "2026 Q2",
-            "revenue": 2.292,
-            "operating_profit": 0.023,
-            "revenue_krw_eok": 103.13999999999999,
-            "operating_profit_krw_eok": 1.035,
+            "revenue": 2.3,
+            "operating_profit": 0.0,
+            "revenue_krw_eok": 103.49999999999999,
+            "operating_profit_krw_eok": 0.0,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q3",
+            "revenue": 2.9,
+            "operating_profit": 0.2,
+            "revenue_krw_eok": 130.5,
+            "operating_profit_krw_eok": 9.0,
             "source_range": "B1:G3"
           }
         ],
@@ -1705,11 +1705,11 @@
           }
         ],
         "latest_quarter": {
-          "period": "2026 Q2",
-          "revenue": 2.292,
-          "operating_profit": 0.023,
-          "revenue_krw_eok": 103.13999999999999,
-          "operating_profit_krw_eok": 1.035,
+          "period": "2026 Q3",
+          "revenue": 2.9,
+          "operating_profit": 0.2,
+          "revenue_krw_eok": 130.5,
+          "operating_profit_krw_eok": 9.0,
           "source_range": "B1:G3"
         },
         "latest_year": {
@@ -1729,7 +1729,8 @@
           "https://core.shareinvestor.app/documents/viewer/as/financials/0963FIN121120251702180139E/NOTES.DOCX",
           "https://core.shareinvestor.app/documents/viewer/as/financials/0963FIN260220261917400378E/NOTES.DOCX",
           "https://core.shareinvestor.app/documents/viewer/as/financials/0963FIN150520261549560018E/NOTES.DOCX",
-          "https://core.shareinvestor.app/documents/viewer/as/financials/0963FIN130820261811100678E/NOTES.DOCX"
+          "https://core.shareinvestor.app/documents/viewer/as/financials/0963FIN130820261811100678E/NOTES.DOCX",
+          "https://core.shareinvestor.app/documents/viewer/as/financials/0963FIN121120261838560359E/NOTES.DOCX"
         ]
       },
       {
@@ -1971,14 +1972,6 @@
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
           {
-            "period": "2025 Q1",
-            "revenue": 3603.0,
-            "operating_profit": 52.0,
-            "revenue_krw_eok": 3603.0,
-            "operating_profit_krw_eok": 52.0,
-            "source_range": "B1:G3"
-          },
-          {
             "period": "2025 Q2",
             "revenue": 3824.0,
             "operating_profit": 151.0,
@@ -2013,9 +2006,17 @@
           {
             "period": "2026 Q2",
             "revenue": 7705.0,
-            "operating_profit": 1739.0,
+            "operating_profit": 1738.6,
             "revenue_krw_eok": 7705.0,
-            "operating_profit_krw_eok": 1739.0,
+            "operating_profit_krw_eok": 1738.6,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q3",
+            "revenue": 6864.9,
+            "operating_profit": 1196.4,
+            "revenue_krw_eok": 6864.9,
+            "operating_profit_krw_eok": 1196.4,
             "source_range": "B1:G3"
           }
         ],
@@ -2057,11 +2058,11 @@
           }
         ],
         "latest_quarter": {
-          "period": "2026 Q2",
-          "revenue": 7705.0,
-          "operating_profit": 1739.0,
-          "revenue_krw_eok": 7705.0,
-          "operating_profit_krw_eok": 1739.0,
+          "period": "2026 Q3",
+          "revenue": 6864.9,
+          "operating_profit": 1196.4,
+          "revenue_krw_eok": 6864.9,
+          "operating_profit_krw_eok": 1196.4,
           "source_range": "B1:G3"
         },
         "latest_year": {
@@ -2082,7 +2083,8 @@
           "https://ncsoft-brand-web.s3.ap-northeast-2.amazonaws.com/ncsoft/invest/result/20260210/report/4Q25_PT_KOR.pdf",
           "https://ncsoft-brand-web.s3.ap-northeast-2.amazonaws.com/ncsoft/invest/result/20260513/report/1Q26_PT_KOR.pdf",
           "https://ncsoft-brand-web.s3.ap-northeast-2.amazonaws.com/ncsoft/invest/result/20260512/report/4Q25_PT_KOR.pdf",
-          "https://ncsoft-brand-web.s3.ap-northeast-2.amazonaws.com/ncsoft/invest/result/20260811/report/2Q26_PT_KOR.pdf"
+          "https://ncsoft-brand-web.s3.ap-northeast-2.amazonaws.com/ncsoft/invest/result/20260811/report/2Q26_PT_KOR.pdf",
+          "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261111800311"
         ]
       },
       {
@@ -2465,35 +2467,27 @@
         "operating_profit_unit": "영업이익(억 원)",
         "quarters": [
           {
-            "period": "2025 Q1",
-            "revenue": 837.0,
-            "operating_profit": -52.0,
-            "revenue_krw_eok": 837.0,
-            "operating_profit_krw_eok": -52.0,
-            "source_range": "B1:G3"
-          },
-          {
             "period": "2025 Q2",
-            "revenue": 796.0,
-            "operating_profit": -118.0,
-            "revenue_krw_eok": 796.0,
-            "operating_profit_krw_eok": -118.0,
+            "revenue": 553.9,
+            "operating_profit": 9.0,
+            "revenue_krw_eok": 553.9,
+            "operating_profit_krw_eok": 9.0,
             "source_range": "B1:G3"
           },
           {
             "period": "2025 Q3",
-            "revenue": 1068.0,
-            "operating_profit": 106.0,
-            "revenue_krw_eok": 1068.0,
-            "operating_profit_krw_eok": 106.0,
+            "revenue": 859.7,
+            "operating_profit": 227.1,
+            "revenue_krw_eok": 859.7,
+            "operating_profit_krw_eok": 227.1,
             "source_range": "B1:G3"
           },
           {
             "period": "2025 Q4",
-            "revenue": 955.0,
-            "operating_profit": -84.0,
-            "revenue_krw_eok": 955.0,
-            "operating_profit_krw_eok": -84.0,
+            "revenue": 681.3,
+            "operating_profit": 7.5,
+            "revenue_krw_eok": 681.3,
+            "operating_profit_krw_eok": 7.5,
             "source_range": "B1:G3"
           },
           {
@@ -2510,6 +2504,14 @@
             "operating_profit": 676.0,
             "revenue_krw_eok": 1926.0,
             "operating_profit_krw_eok": 676.0,
+            "source_range": "B1:G3"
+          },
+          {
+            "period": "2026 Q3",
+            "revenue": 1015.0,
+            "operating_profit": 206.7,
+            "revenue_krw_eok": 1015.0,
+            "operating_profit_krw_eok": 206.7,
             "source_range": "B1:G3"
           }
         ],
@@ -2551,11 +2553,11 @@
           }
         ],
         "latest_quarter": {
-          "period": "2026 Q2",
-          "revenue": 1926.0,
-          "operating_profit": 676.0,
-          "revenue_krw_eok": 1926.0,
-          "operating_profit_krw_eok": 676.0,
+          "period": "2026 Q3",
+          "revenue": 1015.0,
+          "operating_profit": 206.7,
+          "revenue_krw_eok": 1015.0,
+          "operating_profit_krw_eok": 206.7,
           "source_range": "B1:G3"
         },
         "latest_year": {
@@ -3826,6 +3828,66 @@
     "rows": [
       {
         "company_ko": "마이크로소프트",
+        "title_ko": "[글로벌/경쟁사] Xbox CEO Asha Sharma, 25주년 메시지에서 '소규모 팀이 대작 구현'…AI 활용 개발 전환 시사",
+        "summary_ko": "- Xbox 25주년(원조 Xbox 2001년 11/15 출시)을 앞두고 Xbox CEO Asha Sharma가 X에 장문의 글을 올림. 현대 게임은 개발 비용·자원·리스크가 급증해 많은 아이디어가 게임으로 나오지 못한다며 '이를 바꿔야 한다'고 밝힘\n- Sharma는 '한 사람이 국가 단위의 역량을 다루고, 소규모 팀이 지금은 개발자 수백 명과 수억 달러가 드는 월드를 만들게 될 것'이라고 언급함. 'AI'라는 단어는 쓰지 않았으나 Polygon은 생성형 AI 활용을 염두에 둔 발언으로 해석함\n- Sharma는 최근 Xbox 사업이 '건강하지 않다'며 '리셋' 중이라고 밝혔고, 이 과정에서 1,000명 이상이 감원되고 Double Fine 등 여러 스튜디오가 매각됨\n- Sharma는 Microsoft AI 플랫폼 제품 총괄과 CoreAI 제품 조직 리더를 지낸 인물임. 2월 블로그에서는 '영혼 없는 AI 슬롭으로 생태계를 채우지 않겠다'고 했으나, 10/13 AI 생성 코드를 다루는 실험 조직 Xbox Labs를 발표함\n- ※ Stack Overflow 2025년 설문에서는 응답한 소프트웨어 개발자의 84%가 AI 도구를 사용 중이라고 답함\n[Comment]\n- 대규모 감원과 스튜디오 매각에 이어, AI로 퍼스트파티 개발 원가 구조를 바꾸려는 방향으로 해석됨. 다만 이용자 반발을 의식해 'AI'라는 표현은 공개적으로 피하는 기조를 유지하는 것으로 보임\n- Microsoft 퍼스트파티 대형 스튜디오의 AI 도입 범위와 속도가 업계 AAA 개발 방식의 기준점이 될 수 있어 향후 구체적 행보를 지켜볼 필요가 있음",
+        "original_title": "Xbox CEO hints its studios will heavily use AI to make future games",
+        "url": "https://www.polygon.com/xbox-ceo-asha-sharma-ai-use-games/",
+        "published_at": "2026. 11. 13",
+        "published_key": "2026-11-13 00:00:00",
+        "score": "",
+        "keyword": "Xbox",
+        "integrated_note": "- 대규모 감원과 스튜디오 매각에 이어, AI로 퍼스트파티 개발 원가 구조를 바꾸려는 방향으로 해석됨. 다만 이용자 반발을 의식해 'AI'라는 표현은 공개적으로 피하는 기조를 유지하는 것으로 보임\n- Microsoft 퍼스트파티 대형 스튜디오의 AI 도입 범위와 속도가 업계 AAA 개발 방식의 기준점이 될 수 있어 향후 구체적 행보를 지켜볼 필요가 있음"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/경쟁사] Xbox CEO Asha Sharma, 25주년 메시지에서 '소규모 팀이 대작 구현'…AI 활용 개발 전환 시사",
+        "summary_ko": "- Xbox 25주년(원조 Xbox 2001년 11/15 출시)을 앞두고 Xbox CEO Asha Sharma가 X에 장문의 글을 올림. 현대 게임은 개발 비용·자원·리스크가 급증해 많은 아이디어가 게임으로 나오지 못한다며 '이를 바꿔야 한다'고 밝힘\n- Sharma는 '한 사람이 국가 단위의 역량을 다루고, 소규모 팀이 지금은 개발자 수백 명과 수억 달러가 드는 월드를 만들게 될 것'이라고 언급함. 'AI'라는 단어는 쓰지 않았으나 Polygon은 생성형 AI 활용을 염두에 둔 발언으로 해석함\n- Sharma는 최근 Xbox 사업이 '건강하지 않다'며 '리셋' 중이라고 밝혔고, 이 과정에서 1,000명 이상이 감원되고 Double Fine 등 여러 스튜디오가 매각됨\n- Sharma는 Microsoft AI 플랫폼 제품 총괄과 CoreAI 제품 조직 리더를 지낸 인물임. 2월 블로그에서는 '영혼 없는 AI 슬롭으로 생태계를 채우지 않겠다'고 했으나, 10/13 AI 생성 코드를 다루는 실험 조직 Xbox Labs를 발표함\n- ※ Stack Overflow 2025년 설문에서는 응답한 소프트웨어 개발자의 84%가 AI 도구를 사용 중이라고 답함\n[Comment]\n- 대규모 감원과 스튜디오 매각에 이어, AI로 퍼스트파티 개발 원가 구조를 바꾸려는 방향으로 해석됨. 다만 이용자 반발을 의식해 'AI'라는 표현은 공개적으로 피하는 기조를 유지하는 것으로 보임\n- Microsoft 퍼스트파티 대형 스튜디오의 AI 도입 범위와 속도가 업계 AAA 개발 방식의 기준점이 될 수 있어 향후 구체적 행보를 지켜볼 필요가 있음",
+        "original_title": "Xbox CEO hints its studios will heavily use AI to make future games",
+        "url": "https://www.polygon.com/xbox-ceo-asha-sharma-ai-use-games/",
+        "published_at": "2026. 11. 13",
+        "published_key": "2026-11-13 00:00:00",
+        "score": "",
+        "keyword": "Xbox",
+        "integrated_note": "- 대규모 감원과 스튜디오 매각에 이어, AI로 퍼스트파티 개발 원가 구조를 바꾸려는 방향으로 해석됨. 다만 이용자 반발을 의식해 'AI'라는 표현은 공개적으로 피하는 기조를 유지하는 것으로 보임\n- Microsoft 퍼스트파티 대형 스튜디오의 AI 도입 범위와 속도가 업계 AAA 개발 방식의 기준점이 될 수 있어 향후 구체적 행보를 지켜볼 필요가 있음"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[일본/경쟁사] Nintendo, 미국 블랙프라이데이에 Switch 2 번들 USD 499.99 판매…연초 USD 50 인상분 사실상 상쇄",
+        "summary_ko": "- Nintendo가 미국 블랙프라이데이 프로모션으로 Switch 2 본체, <마리오 카트 월드> 디지털판, Nintendo Switch Online 개인 3개월 이용권을 묶은 번들을 USD 499.99 (KRW 약 73만)에 판매함. 판매 기간은 11/22~12/5임\n- 해당 가격은 올해 초 단행한 USD 50 (KRW 약 7.3만) 가격 인상분을 사실상 상쇄하는 수준임\n- 11/22~11/29에는 <동키콩 바난자>, <슈퍼 마리오 갤럭시 + 슈퍼 마리오 갤럭시 2> 등 일부 퍼스트파티 타이틀을 권장소비자가에서 USD 20 (KRW 약 2.9만) 할인하며, eShop 블랙프라이데이 세일은 11/19부터 시작함\n- ※ Switch 2는 누적 판매 2,600만 대를 넘었으나 하드웨어 판매는 전년 대비 약 37% 감소함. 최근 출시된 <젤다의 전설 시간의 오카리나>는 판매 500만 장을 넘김\n[Comment]\n- 하드웨어 판매가 전년 대비 크게 줄어든 상황에서 번들 가격 인하와 이례적인 퍼스트파티 할인으로 연말 판매를 끌어올리려는 전략으로 보임\n- <젤다의 전설 시간의 오카리나> 흥행과 블랙프라이데이 가격 정책이 맞물려 연말 하드웨어 판매 반등 여부가 주목됨",
+        "original_title": "Nintendo Reveals Switch 2 Black Friday Deals (US)",
+        "url": "https://www.nintendolife.com/news/2026/11/nintendo-reveals-switch-2-black-friday-deals-us",
+        "published_at": "2026. 11. 13",
+        "published_key": "2026-11-13 00:00:00",
+        "score": "",
+        "keyword": "Switch 2",
+        "integrated_note": "- 하드웨어 판매가 전년 대비 크게 줄어든 상황에서 번들 가격 인하와 이례적인 퍼스트파티 할인으로 연말 판매를 끌어올리려는 전략으로 보임\n- <젤다의 전설 시간의 오카리나> 흥행과 블랙프라이데이 가격 정책이 맞물려 연말 하드웨어 판매 반등 여부가 주목됨"
+      },
+      {
+        "company_ko": "닌텐도",
+        "title_ko": "[일본/경쟁사] Nintendo, 미국 블랙프라이데이에 Switch 2 번들 USD 499.99 판매…연초 USD 50 인상분 사실상 상쇄",
+        "summary_ko": "- Nintendo가 미국 블랙프라이데이 프로모션으로 Switch 2 본체, <마리오 카트 월드> 디지털판, Nintendo Switch Online 개인 3개월 이용권을 묶은 번들을 USD 499.99 (KRW 약 73만)에 판매함. 판매 기간은 11/22~12/5임\n- 해당 가격은 올해 초 단행한 USD 50 (KRW 약 7.3만) 가격 인상분을 사실상 상쇄하는 수준임\n- 11/22~11/29에는 <동키콩 바난자>, <슈퍼 마리오 갤럭시 + 슈퍼 마리오 갤럭시 2> 등 일부 퍼스트파티 타이틀을 권장소비자가에서 USD 20 (KRW 약 2.9만) 할인하며, eShop 블랙프라이데이 세일은 11/19부터 시작함\n- ※ Switch 2는 누적 판매 2,600만 대를 넘었으나 하드웨어 판매는 전년 대비 약 37% 감소함. 최근 출시된 <젤다의 전설 시간의 오카리나>는 판매 500만 장을 넘김\n[Comment]\n- 하드웨어 판매가 전년 대비 크게 줄어든 상황에서 번들 가격 인하와 이례적인 퍼스트파티 할인으로 연말 판매를 끌어올리려는 전략으로 보임\n- <젤다의 전설 시간의 오카리나> 흥행과 블랙프라이데이 가격 정책이 맞물려 연말 하드웨어 판매 반등 여부가 주목됨",
+        "original_title": "Nintendo Reveals Switch 2 Black Friday Deals (US)",
+        "url": "https://www.nintendolife.com/news/2026/11/nintendo-reveals-switch-2-black-friday-deals-us",
+        "published_at": "2026. 11. 13",
+        "published_key": "2026-11-13 00:00:00",
+        "score": "",
+        "keyword": "Switch 2",
+        "integrated_note": "- 하드웨어 판매가 전년 대비 크게 줄어든 상황에서 번들 가격 인하와 이례적인 퍼스트파티 할인으로 연말 판매를 끌어올리려는 전략으로 보임\n- <젤다의 전설 시간의 오카리나> 흥행과 블랙프라이데이 가격 정책이 맞물려 연말 하드웨어 판매 반등 여부가 주목됨"
+      },
+      {
+        "company_ko": "알파벳",
+        "title_ko": "[글로벌/동향] Meta·Google·TikTok, 16세 미만 '개인화 피드' 금지하는 캘리포니아주 AB1709에 각각 소송",
+        "summary_ko": "- 11/4 Meta, Google(YouTube), TikTok 3사가 캘리포니아주 신법 AB1709의 시행 금지를 요구하며 각각 연방지방법원에 소송을 제기함. 피고는 모두 캘리포니아주 법무장관 Rob Bonta임\n- Meta는 북부 캘리포니아 연방지법 샌프란시스코 지원(Case No. 3:26-cv-13201), Google·YouTube LLC는 같은 법원 산호세 지원(5:26-cv-13204), TikTok Inc.·TikTok USDS Joint Venture LLC는 중부 캘리포니아 연방지법(2:26-cv-12965)에 소장을 제출함\n- AB1709는 16세 미만 이용자 대상 '개인화 피드' 제공 금지를 포함한 2개 금지 조항을 담고 있음\n- ※ 원문은 요약 기사로, 금지 조항 세부 내용은 media-innovation.jp 원문 기사에 게재됨\n[Comment]\n- 미성년자 대상 알고리즘 추천 규제가 확대되는 가운데 빅테크 3사가 동시에 법적 대응에 나선 양상임\n- 소송 결과에 따라 미성년자 대상 추천·광고 정책 전반의 기준이 정해질 수 있어, 게임 플랫폼의 추천 피드와 광고 운영에도 영향을 줄 가능성이 있음",
+        "original_title": "メタ・グーグル・TikTok、16歳未満への「パーソナライズフィード」禁止を定めるカリフォルニア州法を提訴",
+        "url": "https://www.gamebusiness.jp/article/2026/11/12/28653.html",
+        "published_at": "2026. 11. 12",
+        "published_key": "2026-11-12 00:00:00",
+        "score": "",
+        "keyword": "AB1709",
+        "integrated_note": "- 미성년자 대상 알고리즘 추천 규제가 확대되는 가운데 빅테크 3사가 동시에 법적 대응에 나선 양상임\n- 소송 결과에 따라 미성년자 대상 추천·광고 정책 전반의 기준이 정해질 수 있어, 게임 플랫폼의 추천 피드와 광고 운영에도 영향을 줄 가능성이 있음"
+      },
+      {
+        "company_ko": "마이크로소프트",
         "title_ko": "[글로벌/경쟁사] Microsoft, 광고 기반 무료 Xbox 클라우드 게이밍 전 세계 정식 출시…세션당 30분 제한",
         "summary_ko": "- Xbox가 7월 발표 후 테스트해 온 광고 기반 무료 Xbox Cloud Gaming 티어를 11/11부터 정식 출시해, 전 세계 대부분의 Xbox 이용자가 쓸 수 있게 됨\n- 세션을 시작하기 전에 광고를 보면 보유 라이브러리 중 일부 게임과 일부 F2P 게임을 30분 동안 스트리밍할 수 있으며, 세션이 끝나면 광고를 다시 보고 새 세션을 시작하는 방식임\n- 같은 날 Game Pass 회원의 클라우드 이용 시간 제한도 적용되기 시작했으며, 부족한 시간은 'Cloud Playtime'으로 추가 구매할 수 있음. 영국 가격은 10시간 GBP 2.99, 25시간 GBP 5.99, 50시간 GBP 8.99임\n- ※ <GTA 6>가 무료 티어 지원 게임에 포함되는지는 아직 확정되지 않음\n[Comment]\n- 구독 중심이던 클라우드 게이밍에 광고 기반 무료 티어와 시간제 유료 구매를 더해 '광고·구독·종량제'로 수익 구조를 나누려는 시도로 해석됨\n- <GTA 6>를 클라우드로 Xbox One에서 플레이할 수 있게 되는 시점과 맞물려 클라우드 이용자가 크게 늘 수 있으나, Ultimate 회원에게 시간 제한이 표시되지 않는 등 초기 적용에 혼선도 있는 상황임",
         "original_title": "Xbox Brings Its Free Tier Of Cloud Gaming To Loads More Players Today",
@@ -3835,6 +3897,78 @@
         "score": "",
         "keyword": "Xbox Cloud Gaming",
         "integrated_note": "- 구독 중심이던 클라우드 게이밍에 광고 기반 무료 티어와 시간제 유료 구매를 더해 '광고·구독·종량제'로 수익 구조를 나누려는 시도로 해석됨\n- <GTA 6>를 클라우드로 Xbox One에서 플레이할 수 있게 되는 시점과 맞물려 클라우드 이용자가 크게 늘 수 있으나, Ultimate 회원에게 시간 제한이 표시되지 않는 등 초기 적용에 혼선도 있는 상황임"
+      },
+      {
+        "company_ko": "마이크로소프트",
+        "title_ko": "[글로벌/경쟁사] Microsoft, <GTA 6> 11/19부터 Xbox One 클라우드 지원…Game Pass 월 5~15시간 한도에 추가 시간 유료 판매",
+        "summary_ko": "- Xbox가 11/10 <GTA 6>의 Xbox Cloud Gaming 지원을 발표하면서, Xbox One 보유자도 11/19부터 새 콘솔을 사지 않고 스트리밍으로 플레이할 수 있게 됨. 게임은 Xbox Series S 그래픽 설정으로 구동되고 Xbox One은 스트리밍 클라이언트 역할만 함\n- Xbox가 9/3 발표하고 11월부터 적용한 월간 클라우드 이용 한도는 Essential 5시간, Premium 10시간, Ultimate 15시간임. 다만 이번 발표에서 <GTA 6> 세션이 한도에서 어떻게 차감되는지는 밝히지 않음\n- 한도를 넘기면 쓰는 종량제 상품 Cloud Playtime 팩은 10시간 USD 3.99 (KRW 약 5,800), 25시간 USD 7.99 (KRW 약 1.2만), 50시간 USD 11.99 (KRW 약 1.8만)임. Windows Central에 따르면 월 구독료는 Ultimate USD 22.99 (KRW 약 3.4만), Premium USD 14.99 (KRW 약 2.2만), Essential USD 9.99 (KRW 약 1.5만)이며, 30분 세션을 주는 광고 기반 무료 옵션도 있음\n- Xbox는 서버 운영 비용을 한도 도입 사유로 제시함. Thurrott은 Xbox Cloud Gaming의 데이터 사용량을 1080p 기준 시간당 약 9GB, 1440p 기준 최대 14GB로 추산함\n- ※ Xbox CEO Asha Sharma는 Take-Two와 10년 파트너십을 발표했으나, Take-Two의 9/28 공시는 9/17 발효된 퍼블리셔 라이선스 계약을 '장기'로만 적었고 기간·클라우드·GTA는 언급하지 않음. The Verge는 출시 시점에 Xbox Cloud Gaming만 <GTA 6>를 스트리밍할 수 있다고 보도했지만, Xbox CSO Matthew Ball은 이를 오보라 하며 Xbox 독점 스트리밍이 아니고 PC로도 나오지 않는다고 반박함\n[Comment]\n- Xbox는 클라우드를 무제한 구독 혜택에서 시간 기반 종량제로 바꾸는 중이며, 최대 기대작 <GTA 6>를 클라우드 유입 동력으로 쓰는 것으로 보임. 게임을 직접 실행할 수 없는 2013년 출시 Xbox One 사용자층을 유료 시간팩 수요로 끌어들이려는 의도로 해석됨\n- 서버 비용을 명시적 사유로 든 만큼, 이번 서비스는 AAA 대작 클라우드 서비스가 수익을 낼 수 있는 구조인지 시험하는 사례가 될 전망임. <GTA 6> 세션 차감 방식과 스트리밍 독점 여부 논란이 이용자 반응을 가를 변수로 보임",
+        "original_title": "GTA 6 Xbox One Cloud Gaming Starts November 19: Game Pass Includes Only 5 to 15 Hours Monthly",
+        "url": "https://www.techtimes.com/articles/330438/20261110/gta-6-xbox-one-cloud-gaming-starts-november-19-game-pass-includes-only-5-15-hours-monthly.htm",
+        "published_at": "2026. 11. 12",
+        "published_key": "2026-11-12 00:00:00",
+        "score": "",
+        "keyword": "Xbox Cloud Gaming",
+        "integrated_note": "- Xbox는 클라우드를 무제한 구독 혜택에서 시간 기반 종량제로 바꾸는 중이며, 최대 기대작 <GTA 6>를 클라우드 유입 동력으로 쓰는 것으로 보임. 게임을 직접 실행할 수 없는 2013년 출시 Xbox One 사용자층을 유료 시간팩 수요로 끌어들이려는 의도로 해석됨\n- 서버 비용을 명시적 사유로 든 만큼, 이번 서비스는 AAA 대작 클라우드 서비스가 수익을 낼 수 있는 구조인지 시험하는 사례가 될 전망임. <GTA 6> 세션 차감 방식과 스트리밍 독점 여부 논란이 이용자 반응을 가를 변수로 보임"
+      },
+      {
+        "company_ko": "애플",
+        "title_ko": "[글로벌/경쟁사] Sony, 모바일 <Ratchet & Clank: Ranger Rumble> 글로벌 출시 전 개발 중단…2027년 5/1 서비스 종료",
+        "summary_ko": "- Sony가 PlayStation 대표 IP <Ratchet & Clank>를 기반으로 한 iOS·Android용 F2P 멀티플레이 슈터 <Ratchet & Clank: Ranger Rumble>의 개발을 중단함\n- 이 게임은 영국, 캐나다, 프랑스, 덴마크, 핀란드, 노르웨이, 스웨덴, 인도네시아, 필리핀에 출시됐으나 미국에는 출시되지 않은 채 글로벌 출시 전에 정리됨\n- App Store 다운로드는 11/21 종료되며, 기존 이용자는 서버가 닫히는 2027년 5/1까지 플레이할 수 있음\n- 인앱결제는 이미 비활성화됐으며, 유료 상품이던 Super Pass는 무료로 전환됨\n[Comment]\n- 소프트런칭 단계에서 정리된 만큼, 테스트 지역 지표가 글로벌 출시 기준에 미치지 못한 것으로 보임\n- 퍼스트파티 IP를 활용한 Sony의 모바일 라이브 서비스 확장이 신중한 방향으로 조정되는 신호로 해석됨",
+        "original_title": "Ratchet & Clank: Ranger Rumble' to Leave App Store This Month",
+        "url": "https://www.macrumors.com/2026/11/12/ratchet-clank-ranger-rumble-to-leave-app-store/",
+        "published_at": "2026. 11. 12",
+        "published_key": "2026-11-12 00:00:00",
+        "score": "",
+        "keyword": "Ratchet & Clank",
+        "integrated_note": "- 소프트런칭 단계에서 정리된 만큼, 테스트 지역 지표가 글로벌 출시 기준에 미치지 못한 것으로 보임\n- 퍼스트파티 IP를 활용한 Sony의 모바일 라이브 서비스 확장이 신중한 방향으로 조정되는 신호로 해석됨"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/경쟁사] Sony, 모바일 <Ratchet & Clank: Ranger Rumble> 글로벌 출시 전 개발 중단…2027년 5/1 서비스 종료",
+        "summary_ko": "- Sony가 PlayStation 대표 IP <Ratchet & Clank>를 기반으로 한 iOS·Android용 F2P 멀티플레이 슈터 <Ratchet & Clank: Ranger Rumble>의 개발을 중단함\n- 이 게임은 영국, 캐나다, 프랑스, 덴마크, 핀란드, 노르웨이, 스웨덴, 인도네시아, 필리핀에 출시됐으나 미국에는 출시되지 않은 채 글로벌 출시 전에 정리됨\n- App Store 다운로드는 11/21 종료되며, 기존 이용자는 서버가 닫히는 2027년 5/1까지 플레이할 수 있음\n- 인앱결제는 이미 비활성화됐으며, 유료 상품이던 Super Pass는 무료로 전환됨\n[Comment]\n- 소프트런칭 단계에서 정리된 만큼, 테스트 지역 지표가 글로벌 출시 기준에 미치지 못한 것으로 보임\n- 퍼스트파티 IP를 활용한 Sony의 모바일 라이브 서비스 확장이 신중한 방향으로 조정되는 신호로 해석됨",
+        "original_title": "Ratchet & Clank: Ranger Rumble' to Leave App Store This Month",
+        "url": "https://www.macrumors.com/2026/11/12/ratchet-clank-ranger-rumble-to-leave-app-store/",
+        "published_at": "2026. 11. 12",
+        "published_key": "2026-11-12 00:00:00",
+        "score": "",
+        "keyword": "Ratchet & Clank",
+        "integrated_note": "- 소프트런칭 단계에서 정리된 만큼, 테스트 지역 지표가 글로벌 출시 기준에 미치지 못한 것으로 보임\n- 퍼스트파티 IP를 활용한 Sony의 모바일 라이브 서비스 확장이 신중한 방향으로 조정되는 신호로 해석됨"
+      },
+      {
+        "company_ko": "닌텐도",
+        "title_ko": "[일본/경쟁사] Nintendo, 1주일 새 DMCA 4건으로 GitHub Switch 관련 저장소 약 217개 삭제…모드칩 펌웨어까지 첫 대상",
+        "summary_ko": "- Nintendo가 지난 1주일간 GitHub에 DMCA 통지 4건을 보내 Switch 관련 저장소와 포크 약 217개를 삭제시킴. 해당 통지는 11/9 GitHub에 게재됐으며 TorrentFreak이 처음 보도함\n- 4건 중 3건은 Switch 에뮬레이터 Yuzu 계열을 겨냥했으며, Yuzu 포크인 Citron Neo 관련 통지 1건으로만 저장소 71개가 삭제됨. Nintendo는 Yuzu를 중단시킨 Nintendo of America Inc. v. Tropic Haze LLC 사건을 근거로 제시함\n- 나머지 1건은 Switch 모드칩 Picofly의 펌웨어를 겨냥한 것으로, Nintendo가 모드칩 펌웨어에 DMCA를 적용한 첫 사례임. Picofly는 SX Core·SX Lite 모드칩의 호환 대안이며, Nintendo는 정품 파일만 구동되도록 하는 기술적 보호 조치를 우회한다는 점을 근거로 듦\n- ※ Tropic Haze는 2024년 Nintendo에 USD 240만 (KRW 약 35억) 배상에 합의했으며, SX 모드칩을 유통한 Team Xecuter의 Gary Bowser는 2022년 40개월 수감형을 받음\n[Comment]\n- 에뮬레이터에 이어 하드웨어 보안 우회 수단까지 법적 대응 범위를 넓히며 플랫폼 보호 수위를 높이는 것으로 보임\n- 이번 통지는 최근 두 달간 GitHub에서 급증한 바이브코딩 기반 Switch 이식 프로젝트와는 무관한 것으로 알려져, 해당 영역으로 단속이 확대될지가 다음 변수가 될 전망임",
+        "original_title": "Nintendo’s Latest Volley Of DMCA Takedowns Wipes Over 200 Nintendo Switch Projects Off Of GitHub",
+        "url": "https://kotaku.com/nintendo-github-dmca-takedowns-picofly-modchips-piracy-repositories-2000756232",
+        "published_at": "2026. 11. 12",
+        "published_key": "2026-11-12 00:00:00",
+        "score": "",
+        "keyword": "Nintendo",
+        "integrated_note": "- 에뮬레이터에 이어 하드웨어 보안 우회 수단까지 법적 대응 범위를 넓히며 플랫폼 보호 수위를 높이는 것으로 보임\n- 이번 통지는 최근 두 달간 GitHub에서 급증한 바이브코딩 기반 Switch 이식 프로젝트와는 무관한 것으로 알려져, 해당 영역으로 단속이 확대될지가 다음 변수가 될 전망임"
+      },
+      {
+        "company_ko": "소니",
+        "title_ko": "[글로벌/경쟁사] Sony, 모바일 <Ratchet & Clank: Ranger Rumble> 글로벌 출시 전 개발 중단…2027년 5/1 서비스 종료",
+        "summary_ko": "- Sony가 PlayStation 대표 IP <Ratchet & Clank>를 기반으로 한 iOS·Android용 F2P 멀티플레이 슈터 <Ratchet & Clank: Ranger Rumble>의 개발을 중단함\n- 이 게임은 영국, 캐나다, 프랑스, 덴마크, 핀란드, 노르웨이, 스웨덴, 인도네시아, 필리핀에 출시됐으나 미국에는 출시되지 않은 채 글로벌 출시 전에 정리됨\n- App Store 다운로드는 11/21 종료되며, 기존 이용자는 서버가 닫히는 2027년 5/1까지 플레이할 수 있음\n- 인앱결제는 이미 비활성화됐으며, 유료 상품이던 Super Pass는 무료로 전환됨\n[Comment]\n- 소프트런칭 단계에서 정리된 만큼, 테스트 지역 지표가 글로벌 출시 기준에 미치지 못한 것으로 보임\n- 퍼스트파티 IP를 활용한 Sony의 모바일 라이브 서비스 확장이 신중한 방향으로 조정되는 신호로 해석됨",
+        "original_title": "Ratchet & Clank: Ranger Rumble' to Leave App Store This Month",
+        "url": "https://www.macrumors.com/2026/11/12/ratchet-clank-ranger-rumble-to-leave-app-store/",
+        "published_at": "2026. 11. 12",
+        "published_key": "2026-11-12 00:00:00",
+        "score": "",
+        "keyword": "Ratchet & Clank",
+        "integrated_note": "- 소프트런칭 단계에서 정리된 만큼, 테스트 지역 지표가 글로벌 출시 기준에 미치지 못한 것으로 보임\n- 퍼스트파티 IP를 활용한 Sony의 모바일 라이브 서비스 확장이 신중한 방향으로 조정되는 신호로 해석됨"
+      },
+      {
+        "company_ko": "테이크투",
+        "title_ko": "[글로벌/경쟁사] Microsoft, <GTA 6> 11/19부터 Xbox One 클라우드 지원…Game Pass 월 5~15시간 한도에 추가 시간 유료 판매",
+        "summary_ko": "- Xbox가 11/10 <GTA 6>의 Xbox Cloud Gaming 지원을 발표하면서, Xbox One 보유자도 11/19부터 새 콘솔을 사지 않고 스트리밍으로 플레이할 수 있게 됨. 게임은 Xbox Series S 그래픽 설정으로 구동되고 Xbox One은 스트리밍 클라이언트 역할만 함\n- Xbox가 9/3 발표하고 11월부터 적용한 월간 클라우드 이용 한도는 Essential 5시간, Premium 10시간, Ultimate 15시간임. 다만 이번 발표에서 <GTA 6> 세션이 한도에서 어떻게 차감되는지는 밝히지 않음\n- 한도를 넘기면 쓰는 종량제 상품 Cloud Playtime 팩은 10시간 USD 3.99 (KRW 약 5,800), 25시간 USD 7.99 (KRW 약 1.2만), 50시간 USD 11.99 (KRW 약 1.8만)임. Windows Central에 따르면 월 구독료는 Ultimate USD 22.99 (KRW 약 3.4만), Premium USD 14.99 (KRW 약 2.2만), Essential USD 9.99 (KRW 약 1.5만)이며, 30분 세션을 주는 광고 기반 무료 옵션도 있음\n- Xbox는 서버 운영 비용을 한도 도입 사유로 제시함. Thurrott은 Xbox Cloud Gaming의 데이터 사용량을 1080p 기준 시간당 약 9GB, 1440p 기준 최대 14GB로 추산함\n- ※ Xbox CEO Asha Sharma는 Take-Two와 10년 파트너십을 발표했으나, Take-Two의 9/28 공시는 9/17 발효된 퍼블리셔 라이선스 계약을 '장기'로만 적었고 기간·클라우드·GTA는 언급하지 않음. The Verge는 출시 시점에 Xbox Cloud Gaming만 <GTA 6>를 스트리밍할 수 있다고 보도했지만, Xbox CSO Matthew Ball은 이를 오보라 하며 Xbox 독점 스트리밍이 아니고 PC로도 나오지 않는다고 반박함\n[Comment]\n- Xbox는 클라우드를 무제한 구독 혜택에서 시간 기반 종량제로 바꾸는 중이며, 최대 기대작 <GTA 6>를 클라우드 유입 동력으로 쓰는 것으로 보임. 게임을 직접 실행할 수 없는 2013년 출시 Xbox One 사용자층을 유료 시간팩 수요로 끌어들이려는 의도로 해석됨\n- 서버 비용을 명시적 사유로 든 만큼, 이번 서비스는 AAA 대작 클라우드 서비스가 수익을 낼 수 있는 구조인지 시험하는 사례가 될 전망임. <GTA 6> 세션 차감 방식과 스트리밍 독점 여부 논란이 이용자 반응을 가를 변수로 보임",
+        "original_title": "GTA 6 Xbox One Cloud Gaming Starts November 19: Game Pass Includes Only 5 to 15 Hours Monthly",
+        "url": "https://www.techtimes.com/articles/330438/20261110/gta-6-xbox-one-cloud-gaming-starts-november-19-game-pass-includes-only-5-15-hours-monthly.htm",
+        "published_at": "2026. 11. 12",
+        "published_key": "2026-11-12 00:00:00",
+        "score": "",
+        "keyword": "Xbox Cloud Gaming",
+        "integrated_note": "- Xbox는 클라우드를 무제한 구독 혜택에서 시간 기반 종량제로 바꾸는 중이며, 최대 기대작 <GTA 6>를 클라우드 유입 동력으로 쓰는 것으로 보임. 게임을 직접 실행할 수 없는 2013년 출시 Xbox One 사용자층을 유료 시간팩 수요로 끌어들이려는 의도로 해석됨\n- 서버 비용을 명시적 사유로 든 만큼, 이번 서비스는 AAA 대작 클라우드 서비스가 수익을 낼 수 있는 구조인지 시험하는 사례가 될 전망임. <GTA 6> 세션 차감 방식과 스트리밍 독점 여부 논란이 이용자 반응을 가를 변수로 보임"
       },
       {
         "company_ko": "마이크로소프트",
@@ -4857,42 +4991,6 @@
         "integrated_note": "- 이번 주간 차트는 대형 신작들의 데뷔가 두드러진 한 주로, 특히 <Nintendo Switch Sports Resort>와 <Final Fantasy Resonance> 같은 신작들이 초기 시장에서 유저들의 높은 관심을 끌며 성공적인 출발을 보임\n- 닌텐도 하드웨어 진영은 여전히 Switch 2가 시장을 주도하고 있으며, 탄탄한 타이틀 라인업을 바탕으로 일본 콘솔 시장에서의 우위를 공고히 하는 양상임"
       },
       {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/동향] 밸브, Steam 개발자 행사에서 AI 이슈 및 플랫폼 운영 원칙 밝혀",
-        "summary_ko": "- 밸브 Steam 사업 팀은 최근 열린 개발자 행사 ‘Steam 인디 커넥트’에서, AI 생성 게임이나 복제 이슈와 관련해 개발자들에게 커뮤니티 구축과 지속적인 업데이트를 강조하며 플랫폼이 검열이나 게이트키퍼 역할을 하지 않겠다는 입장을 재확인함\n- 스팀의 신규 기능인 '위시리스트 데이터 API'와 출시일이 확정된 작품을 노출하는 '개인화 캘린더'가 소개되었으며, 마크 윌킨슨은 위시리스트가 마케팅 성과를 측정하는 지표일 뿐 스팀 내 노출량을 직접 높여주지는 않는다고 설명함\n- 최근 스팀의 대규모 동시 접속자 수 증가세 및 한국 시장 매출 성장이 언급되었으며, 밸브는 AI 垃圾게임(저품질 게임)이 대거 등장하는 현상에 대해 인지하고 있으나, 과거 ‘스팀 그린라이트’ 도입 당시처럼 개발자를 차단하기보다는 쇼핑 경험을 개선하고 플랫폼을 스마트하게 유지하는 데 집중할 방침임\n[Comment]\n- 밸브는 AI로 인한 무단 복제나 위협에 대해 플랫폼이 직접 통제하기보다 법적 영역이나 개발자 고유의 브랜드 및 기능 개선을 통해 대응해야 한다는 원칙을 고수하고 있음\n- 또한,新品节(스팀 넥스트 페스트) 초반의 무작위 노출 시스템이나 위시리스트의 역할에 대한 오해를 바로잡으며, 결국 상업적 성공의 핵심은 플랫폼의 노출 방식보다 ‘게임의 품질과 지속적인 업데이트’에 있음을 강조함",
-        "original_title": "Valve答疑Steam宣发和独游困境，“不打算删除AI垃圾游戏”！",
-        "url": "http://www.gamelook.com.cn/2026/10/605183/",
-        "published_at": "2026. 10. 30",
-        "published_key": "2026-10-30 00:00:00",
-        "score": "",
-        "keyword": "AI",
-        "integrated_note": "- 밸브는 AI로 인한 무단 복제나 위협에 대해 플랫폼이 직접 통제하기보다 법적 영역이나 개발자 고유의 브랜드 및 기능 개선을 통해 대응해야 한다는 원칙을 고수하고 있음\n- 또한,新品节(스팀 넥스트 페스트) 초반의 무작위 노출 시스템이나 위시리스트의 역할에 대한 오해를 바로잡으며, 결국 상업적 성공의 핵심은 플랫폼의 노출 방식보다 ‘게임의 품질과 지속적인 업데이트’에 있음을 강조함"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[중국/경쟁사] 中 신작 액션 RPG <팬텀 블레이드 제로> 정식 출시... 글로벌 흥행 조짐",
-        "summary_ko": "- 10월 29일, 링유팡(S-Game)이 개발한 3A 액션 게임 <팬텀 블레이드 제로>가 Steam, PS, EGS, 위게임, 탭탭 PC 스토어에 정식 출시되었으며, 출시 직후 Steam 글로벌 최고 매출 순위 1위를 기록함\n- Steam 동시 접속자 수는 최고 72.3만 명을 기록하며 올해 출시된 글로벌 신작 3A 게임 중 최고 기록을 달성했고, 메타크리틱 점수는 88점을 기록함\n- PS 플랫폼에서는 출시 첫날 미국·중국·일본·한국·유럽 등 전 세계 98% 이상의 국가 및 지역에서 콘솔 매출 순위 TOP 10에 진입했으며, 스토어 평점 4.86점을 기록해 올해 발매된 다수의 해외 대작을 앞섬\n- 게임은 독창적인 ‘쿵푸 펑크(Kungfu-punk)’ 스타일을 내세워 전통 무술 액션과 다크 무협 세계관을 결합했으며, '살기' 시스템과 간소화된 조작을 통해 하드코어함보다는 호쾌하고 스타일리시한 전투 연출에 집중함\n- Steam 초기 긍정 평가는 약 81%로, 다소 느린 셰이더 컴파일 속도와 시점 전환 및 타격 피드백, 액션 시스템 단순화에 대한 일부 지적이 있었으나 전반적인 최적화와 완성도 면에서 긍정적인 평가를 받고 있음\n[Comment]\n- <팬텀 블레이드 제로>는 <검은 신화: 오공> 이후 중국 3A 게임에 대한 과열된 사회적 열풍이 다소 가라앉고 시장과 게이머가 냉정함을 되찾은 환경 속에서 코어 게이머 중심으로 유의미한 성과를 거두었다는 점에서 중국 콘솔/패키지 시장의 성숙도를 보여주는 지표로 평가됨\n- 텐센트, 넷이즈, 게임사이언스, 미호요 등 중국 대형 게임사 경영진 및 개발진과의 교류와 지원이 엔딩 크레딧을 통해 공개되며, 이번 성과가 중국 게임 산업 전반의 기술적 역량과 개발 파이프라인 축적의 결실임을 방증함\n- 최근 텐센트의 <델타 포스>와의 컬래버레이션을 발표하는 등 향후 중국 국내외 다양한 플랫폼 및 IP와의 연계 확장이 지속될 전망임",
-        "original_title": "中国3A游戏狂热熄火！《影之刃零》Steam夺冠PS全球TOP10，就是手感有点飘？",
-        "url": "http://www.gamelook.com.cn/2026/10/605121/",
-        "published_at": "2026. 10. 30",
-        "published_key": "2026-10-30 00:00:00",
-        "score": "",
-        "keyword": "3A",
-        "integrated_note": "- <팬텀 블레이드 제로>는 <검은 신화: 오공> 이후 중국 3A 게임에 대한 과열된 사회적 열풍이 다소 가라앉고 시장과 게이머가 냉정함을 되찾은 환경 속에서 코어 게이머 중심으로 유의미한 성과를 거두었다는 점에서 중국 콘솔/패키지 시장의 성숙도를 보여주는 지표로 평가됨\n- 텐센트, 넷이즈, 게임사이언스, 미호요 등 중국 대형 게임사 경영진 및 개발진과의 교류와 지원이 엔딩 크레딧을 통해 공개되며, 이번 성과가 중국 게임 산업 전반의 기술적 역량과 개발 파이프라인 축적의 결실임을 방증함\n- 최근 텐센트의 <델타 포스>와의 컬래버레이션을 발표하는 등 향후 중국 국내외 다양한 플랫폼 및 IP와의 연계 확장이 지속될 전망임"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[글로벌/경쟁사] MS Xbox 부문, 1분기 하드웨어 감소세 둔화 및 퍼스트파티 반등으로 구조조정 속 안정화 조짐",
-        "summary_ko": "- 마이크로소프트(MS)의 Xbox 부문은 2027 회계연도 1분기(2026년 7~9월) 동안 전년 동기 대비 2% 감소한 USD 53억 8,000만(KRW 약 7조 5,000억)의 게임 매출을 기록함\n- 이전 분기들에 30% 안팎으로 급락하던 하드웨어 매출 감소폭이 이번 분기에는 14%로 둔화되며 1년여 만에 가장 완만한 축소세를 보였으며, 콘텐츠 및 서비스 부문은 2% 감소했으나 퍼스트파티 콘텐츠 매출은 이번 침체 주기 들어 처음으로 성장세로 돌아섬\n- 반면 게임패스 구독 부문 및 서드파티 타이틀 부문은 여전히 부진을 이어갔으며, MS는 이번 실적 발표에서 게임패스 세부 구독자 수를 공개하지 않음\n- 최근 라인업으로는 7월 출시된 <Halo: Campaign Evolved> 리메이크가 1분기 실적에 반영되었고, 10월에는 <Gears of War: E-Day>와 멀티 플랫폼으로 출시된 <Call of Duty: Modern Warfare 4>가 출시되었으나 <CoD: Modern Warfare 4>의 경우 이전과 달리 출시 첫날 게임패스에는 포함되지 않음\n[Comment]\n- Xbox 부문은 2026년 2월 필 스펜서 은퇴 후 아샤 샤르마가 신임 CEO로 취임하면서 약 3,200명(부문 인력의 약 20%) 감원 및 4개 스튜디오 매각 등 Xbox 역사상 최대 규모의 구조조정을 단행한 바 있음\n- 차세대 콘솔(코드명 Project Helix)은 2027년에 개발자용 알파 하드웨어 배포 후 2027년 홀리데이 시즌 이후 출시될 것으로 예상되어, 단기적으로는 하드웨어 반등보다는 소프트웨어 성과에 의존해야 하는 상황임\n- MS는 2분기 가이던스를 통해 콘텐츠 및 서비스 부문이 1년 만에 다시 성장세로 전환될 것으로 전망했으며, 2027년 2월 출시 예정인 <Fable>과 신작 라인업들이 실질적인 흑자 전환과 장기 성장세를 이끌 수 있을지가 주요 관건임",
-        "original_title": "Xbox Q1 FY2027 Earnings Breakdown: What a $5.38 Billion Quarter and Slowing Hardware Losses Say About Microsoft's Gaming Reset",
-        "url": "https://www.techtimes.com/articles/329697/20261029/xbox-q1-fy2027-earnings-breakdown-what-538-billion-quarter-slowing-hardware-losses-say-about.htm",
-        "published_at": "2026. 10. 30",
-        "published_key": "2026-10-30 00:00:00",
-        "score": "",
-        "keyword": "Xbox",
-        "integrated_note": "- Xbox 부문은 2026년 2월 필 스펜서 은퇴 후 아샤 샤르마가 신임 CEO로 취임하면서 약 3,200명(부문 인력의 약 20%) 감원 및 4개 스튜디오 매각 등 Xbox 역사상 최대 규모의 구조조정을 단행한 바 있음\n- 차세대 콘솔(코드명 Project Helix)은 2027년에 개발자용 알파 하드웨어 배포 후 2027년 홀리데이 시즌 이후 출시될 것으로 예상되어, 단기적으로는 하드웨어 반등보다는 소프트웨어 성과에 의존해야 하는 상황임\n- MS는 2분기 가이던스를 통해 콘텐츠 및 서비스 부문이 1년 만에 다시 성장세로 전환될 것으로 전망했으며, 2027년 2월 출시 예정인 <Fable>과 신작 라인업들이 실질적인 흑자 전환과 장기 성장세를 이끌 수 있을지가 주요 관건임"
-      },
-      {
         "company_ko": "닌텐도",
         "title_ko": "[일본/동향] 일본 주간 게임 판매 순위, <Nintendo Switch Sports Resort> 1위 및 신작 흥행 기록",
         "summary_ko": "- 패미통이 공개한 일본 주간 게임 판매 순위(10월 19일~25일)에 따르면, 출시 첫 주를 맞이한 <Nintendo Switch Sports Resort>(Switch 2)가 약 64,600장의 판매량을 기록하며 1위를 차지함\n- 그 뒤를 이어 <Final Fantasy Resonance>가 Switch 2, PS5, Switch 1 기종 합산 총 133,000장 이상의 판매고를 올리며 2위에서 4위를 휩쓰는 등 강력한 저력을 보여줌\n- 하드웨어 판매 부문에서는 Switch 2가 약 21,700대를 판매하며 경쟁 기기들을 압도하며 선두를 유지했고, PS5 시리즈는 합산 약 16,000대의 판매량을 기록함\n[Comment]\n- 이번 주간 차트는 대형 신작들의 데뷔가 두드러진 한 주로, 특히 <Nintendo Switch Sports Resort>와 <Final Fantasy Resonance> 같은 신작들이 초기 시장에서 유저들의 높은 관심을 끌며 성공적인 출발을 보임\n- 닌텐도 하드웨어 진영은 여전히 Switch 2가 시장을 주도하고 있으며, 탄탄한 타이틀 라인업을 바탕으로 일본 콘솔 시장에서의 우위를 공고히 하는 양상임",
@@ -5289,18 +5387,6 @@
         "integrated_note": "- <Ghost of Yotei>가 PS5 출시작 중 최다 판매량을 기록한 타이틀 중 하나로 평가받으며 상업적 성공을 거두었음에도 불구하고 이뤄진 감원이라는 점에서 이례적이라는 반응이 나옴\n- 이번 감원은 스튜디오가 차기 신작 개발 단계로 전환하는 과정에서 조직 규모와 인력 구성을 재정비하는 구조조정의 일환으로 풀이됨"
       },
       {
-        "company_ko": "소니",
-        "title_ko": "[글로벌/동향] 유비소프트, <어쌔신 크리드: 블랙 플래그 리싱크> 마지막 콘텐츠 업데이트 배포",
-        "summary_ko": "- 유비소프트는 PS5용 <어쌔신 크리드: 블랙 플래그 리싱크>의 마지막 대규모 콘텐츠인 4.5GB 규모의 1.0.8 패치를 배포함\n- 이번 패치에는 기존 능력과 해제 요소들을 유지한 채 게임을 다시 즐길 수 있는 '뉴 게임 플러스(New Game Plus)' 모드가 추가되었으며, 최대 5회차까지 진행할 수록 난이도가 상승함\n- 또한, 원작의 처형 애니메이션 복원, 신규 코스메틱 아이템, 커뮤니티 상자 등이 추가되었으며, 일명 '나이트메어 모드(Nightmare Mode)'가 도입되어 적의 피해량 증가, 패리 타이밍 감소, 스텔스 감지 시간 단축 등 극대화된 생존 난이도를 제공함\n- 이 외에도 오프라인 모드 실행 불가 오류, 퀘스트 진행 불가 버그 등 다양한 게임 내 버그 및 최적화 문제가 함께 수정됨\n[Comment]\n- 이번 1.0.8 패치는 <어쌔신 크리드: 블랙 플래그 리싱크>의 출시 후 공식적인 마지막 콘텐츠 업데이트이며, 향후에는 편의성(QoL) 패치 위주로 지원될 예정임\n- 뉴 게임 플러스 전용 재화인 '에스쿠도(Escudos)'와 2회차 전용 의상 등을 도입하여 플레이어의 반복 플레이 동기를 높이고자 함",
-        "original_title": "Assassin's Creed Black Flag Resynced Update 1.0.8 Available to Download on PS5, Adds New Game Plus",
-        "url": "https://www.pushsquare.com/news/2026/10/assassins-creed-black-flag-resynced-update-1-0-8-available-to-download-on-ps5-adds-new-game-plus",
-        "published_at": "2026. 10. 27",
-        "published_key": "2026-10-27 00:00:00",
-        "score": "",
-        "keyword": "PS5",
-        "integrated_note": "- 이번 1.0.8 패치는 <어쌔신 크리드: 블랙 플래그 리싱크>의 출시 후 공식적인 마지막 콘텐츠 업데이트이며, 향후에는 편의성(QoL) 패치 위주로 지원될 예정임\n- 뉴 게임 플러스 전용 재화인 '에스쿠도(Escudos)'와 2회차 전용 의상 등을 도입하여 플레이어의 반복 플레이 동기를 높이고자 함"
-      },
-      {
         "company_ko": "마이크로소프트",
         "title_ko": "[글로벌/경쟁사] 넷플릭스, Xbox IP 영상화 위해 5억 달러 제안했으나 마이크로소프트 거절",
         "summary_ko": "- 외신 보도에 따르면 넷플릭스는 Xbox IP를 활용한 영화 및 TV 시리즈 제작 라이선스 계약을 위해 7년간 5억 달러 규모의 금액을 제안함\n- 아샤 샤르마를 비롯한 Xbox 임원진은 해당 제안을 거절하고 8억 달러를 요구했으며, 이후 넷플릭스 최고 콘텐츠 책임자의 교체와 함께 해당 제안은 철회됨\n- 현재 Xbox는 대규모 독점 계약 대신 여러 파트너와 함께 소규모 계약을 추진하고 있으며, 최근 영화, TV, 테마파크 등 미디어 믹스 스핀오프를 담당할 신규 조직 'XP'를 신설함\n[Comment]\n- 이번 협상 결렬은 Xbox가 자사 IP의 가치를 높게 평가하고 있으며, 단일 플랫폼에 묶이기보다 다각화된 협력을 모색하고 있음을 보여줌\n- 한편, 마이크로소프트는 최근 구조조정을 통해 대규모 감원과 일부 스튜디오 매각을 진행하는 등 전반적인 사업 재편을 이어가고 있음",
@@ -5323,54 +5409,6 @@
         "score": "",
         "keyword": "Game Pass",
         "integrated_note": "- 미국에서 통신사 요금제와 결합해 게임패스가 제공되는 것은 이번이 처음이지만, 영국의 EE 네트워크 등 해외 시장에서는 유사한 제휴 모델이 이미 도입되어 좋은 반응을 얻은 바 있음\n- 마이크로소프트는 콘솔 하드웨어 판매 의존도를 낮추고, 모바일 및 클라우드 등 다양한 플랫폼과 요금제 연계를 통해 구독자 저변을 확대하는 전략을 지속적으로 강화하고 있음"
-      },
-      {
-        "company_ko": "마이크로소프트",
-        "title_ko": "[글로벌/경쟁사] 마이크로소프트, Xbox 최초 최고운영책임자(COO) 헬렌 치아그 사임",
-        "summary_ko": "- 마이크로소프트(MS)에서 21년간 재직하며 <마인크래프트>를 이끌고 지난 7월 Xbox의 첫 최고운영책임자(COO)로 임명되었던 헬렌 치아그가 취임 3개월 만에 회사를 떠남\n- Xbox CEO 아샤 샤르마의 메시지를 통해 치아그의 퇴임 소식이 전해졌으며, 구체적인 퇴사 배경은 공개되지 않음\n- 당분간 치아그의 직무는 다른 Xbox 리더들에게 분담될 예정이며, 향후 COO 리더십에 대한 세부 계획은 확정되는 대로 공유될 방침임\n[Comment]\n- 해당 COO 직위는 콘텐츠, 하드웨어, 플랫폼, 서비스 전반에 걸친 손익 책임을 통합하고 사업 운영 모델을 일원화하기 위한 Xbox의 광범위한 사업 개편의 일환으로 신설되었음\n- 치아그는 신설된 직위에서 투자 결정을 지원하고 결과에 대한 책임감을 높이는 역할을 맡을 것으로 기대를 모았으나, 단 3개월 만에 자리에서 물러나게 됨\n- 마이크로소프트는 개인 인사 사안에 대해 언급하지 않는다는 입장을 밝히며 퇴임 배경에 대한 말을 아꼈음",
-        "original_title": "Xbox COO Helen Chiang exits after three months in role, 21 years at Microsoft",
-        "url": "https://www.pocketgamer.biz/xbox-coo-helen-chiang-leaves-microsoft-months-after-appointment/",
-        "published_at": "2026. 10. 26",
-        "published_key": "2026-10-26 00:00:00",
-        "score": "",
-        "keyword": "Xbox",
-        "integrated_note": "- 해당 COO 직위는 콘텐츠, 하드웨어, 플랫폼, 서비스 전반에 걸친 손익 책임을 통합하고 사업 운영 모델을 일원화하기 위한 Xbox의 광범위한 사업 개편의 일환으로 신설되었음\n- 치아그는 신설된 직위에서 투자 결정을 지원하고 결과에 대한 책임감을 높이는 역할을 맡을 것으로 기대를 모았으나, 단 3개월 만에 자리에서 물러나게 됨\n- 마이크로소프트는 개인 인사 사안에 대해 언급하지 않는다는 입장을 밝히며 퇴임 배경에 대한 말을 아꼈음"
-      },
-      {
-        "company_ko": "닌텐도",
-        "title_ko": "[글로벌/경쟁사] 해커들, 생성형 AI 활용해 닌텐도 스위치 2 보안 우회 및 시스템 덤프 성공",
-        "summary_ko": "- 해커들이 생성형 AI 모델의 지원을 받아 닌텐도 스위치 2의 첫 번째 탈옥(Jailbreak)을 넘어선 추가 취약점(Exploit)을 발견하고, 시스템 보안을 완전히 무력화하는 데 성공함\n- 초기에는 스토어에서 삭제된 스위치 앱 '스마일베이직(SmileBASIC)'을 통한 제한적인 모드 및 홈브류 설치에 그쳤으나, 최근 파일 시스템과 메모리를 과부하시키는 새로운 취약점을 통해 콘솔의 펌웨어를 PC로 완전히 덤프하고 백업할 수 있게 됨\n- 해당 해커들은 대형 언어 모델(LLM)을 활용해 콘솔이 메모리의 특정 영역을 읽도록 유도하는 일련의 액션을 찾아냈으며, 이를 통해 KIP 레벨 이하의 모든 바이너리에 접근하여 게임 및 앱을 PC로 직접 추출할 수 있게 됨\n- 이번 발견으로 에뮬레이션, 불법 복제, 리버스 엔지니어링의 문이 열렸으며, 닌텐도가 즉각적인 패치를 통해 대응할 것으로 예상되나 AI가 해킹을 돕는 현 상황에서 보안 유지가 더욱 어려워질 것이라는 우려가 제기됨\n[Comment]\n- 생성형 AI가 소프트웨어 보안 우회 및 리버스 엔지니어링 과정에 적극적으로 활용되기 시작하면서, 플랫폼 홀더들의 보안 유지 난이도가 급격히 상승하고 있음\n- 초기 스위치 기기 생태계와 유사하게 닌텐도 스위치 2 역시 출시 초기부터 강력한 해킹 시도에 직면함에 따라, 향후 닌텐도의 신속한 펌웨어 패치 대응과 보안 강화 조치가 플랫폼의 장기적 성패를 가를 핵심 요소로 작용할 전망임",
-        "original_title": "Hackers Begin Dumping Nintendo Switch 2 Games As Expanded Exploit Breaks Console Security",
-        "url": "https://kotaku.com/hackers-begin-dumping-nintendo-switch-2-games-as-expanded-exploit-breaks-console-security-2000749440",
-        "published_at": "2026. 10. 26",
-        "published_key": "2026-10-26 00:00:00",
-        "score": "",
-        "keyword": "Nintendo",
-        "integrated_note": "- 생성형 AI가 소프트웨어 보안 우회 및 리버스 엔지니어링 과정에 적극적으로 활용되기 시작하면서, 플랫폼 홀더들의 보안 유지 난이도가 급격히 상승하고 있음\n- 초기 스위치 기기 생태계와 유사하게 닌텐도 스위치 2 역시 출시 초기부터 강력한 해킹 시도에 직면함에 따라, 향후 닌텐도의 신속한 펌웨어 패치 대응과 보안 강화 조치가 플랫폼의 장기적 성패를 가를 핵심 요소로 작용할 전망임"
-      },
-      {
-        "company_ko": "마이크로소프트",
-        "title_ko": "[글로벌/경쟁사] MS의 Xbox 부문 구조조정 여파, 아케인 스튜디오 폐쇄 협의 기한 임박",
-        "summary_ko": "- 마이크로소프트(MS)가 추진 중인 Xbox 부문 대규모 구조조정 및 인력 감축 계획의 일환으로, 프랑스 소재 아케인 스튜디오(Arkane Studios)의 폐쇄 논의 프로세스가 현지 시간 11월 13일 기한을 맞이하는 것으로 알려짐\n- 프랑스 매체 르 몽드(Le Monde) 보도에 따르면, 아케인 스튜디오는 올여름부터 인수 파트너 탐색을 시작해 여러 형태의 인수 방안을 검토 중이나, 11월 13일 노사 협의 기한이 종료됨에 따라 200명 이상의 직원이 고용 위기에 직면한 상태임\n- 이번 보도는 프랑스 노동조합 대표 발언을 인용한 것으로 전해졌으며, 현재 MS 및 아케인 스튜디오 측의 공식 성명은 발표되지 않음\n[Comment]\n- MS는 2027 회계연도까지 Xbox 부문에서 약 3,200명의 인력을 감축하는 구조조정을 단행 중이며, 산하 스튜디오들의 독립, 매각, 폐쇄 등 대대적인 재편을 이어가고 있음\n- 더블 파인 프로덕션(Double Fine Productions)과 컴펄션 게임즈(Compulsion Games)는 독립을 결정했고, 언데드 랩스(Undead Labs)와 닌자 시어리(Ninja Theory) 등에서도 매각 및 레이오프가 잇따르고 있어 Xbox 퍼스트파티 개발 라인업 전반에 큰 변화가 불가피할 전망임",
-        "original_title": "XBOX部門の再編計画で協議中だった「Arkane Studios」複数の買収案を検討―11月13日が協議期限",
-        "url": "https://www.gamebusiness.jp/article/2026/10/25/28442.html",
-        "published_at": "2026. 10. 25",
-        "published_key": "2026-10-25 00:00:00",
-        "score": "",
-        "keyword": "買収",
-        "integrated_note": "- MS는 2027 회계연도까지 Xbox 부문에서 약 3,200명의 인력을 감축하는 구조조정을 단행 중이며, 산하 스튜디오들의 독립, 매각, 폐쇄 등 대대적인 재편을 이어가고 있음\n- 더블 파인 프로덕션(Double Fine Productions)과 컴펄션 게임즈(Compulsion Games)는 독립을 결정했고, 언데드 랩스(Undead Labs)와 닌자 시어리(Ninja Theory) 등에서도 매각 및 레이오프가 잇따르고 있어 Xbox 퍼스트파티 개발 라인업 전반에 큰 변화가 불가피할 전망임"
-      },
-      {
-        "company_ko": "닌텐도",
-        "title_ko": "[글로벌/동향] <마블 가디언즈 오브 갤럭시>, 신규 에디션으로 닌텐도 스위치 2 출시 예정",
-        "summary_ko": "- 2021년 출시되었던 <마블 가디언즈 오브 갤럭시(Marvel's Guardians of the Galaxy)>가 최적화 및 신규 요소를 더한 <마블 가디언즈 오브 갤럭시: 앙코르 에디션(Encore Edition)>으로 오는 11월 5일 닌텐도 스위치 2 플랫폼에 출시될 예정임\n- 원작은 출시 당시 평단의 높은 평가를 받았으나, 퍼블리셔였던 스퀘어 에닉스는 초기 판매량이 기대치에 미치지 못했다고 밝힌 바 있음\n- 이번 앙코르 에디션은 닌텐도 스위치 2에 맞춘 그래픽 개선과 최적화가 적용되며, 1980년대 글램 록(Glam Rock)에서 영감을 얻은 스타로드, 드랙스, 가모라, 로켓, 그루트의 신규 의상이 포함됨\n- 11월 5일 출시 전까지 예약 구매 시 할인된 가격인 USD 35.99에 구매할 수 있으며, 정식 출시 이후에는 USD 39.99로 인상될 예정임\n[Comment]\n- 2021년 출시된 원작은 뛰어난 캐릭터 상호작용과 스토리 완성도로 긍정적인 평가를 받았으나, 흥행 부진으로 아쉬움을 남겼던 타이틀임\n- 이번 신규 에디션 출시는 차세대 콘솔인 닌텐도 스위치 2의 성능 최적화를 바탕으로 기존 명작 타이틀의 수명을 연장하고, 신규 콘솔 유저층을 공략하려는 시도로 평가됨",
-        "original_title": "Switch 2 officially gets Marvel's best game in 2 weeks",
-        "url": "https://www.polygon.com/marvels-guardian-galaxy-gotg-switch-2-release/",
-        "published_at": "2026. 10. 24",
-        "published_key": "2026-10-24 00:00:00",
-        "score": "",
-        "keyword": "Switch 2",
-        "integrated_note": "- 2021년 출시된 원작은 뛰어난 캐릭터 상호작용과 스토리 완성도로 긍정적인 평가를 받았으나, 흥행 부진으로 아쉬움을 남겼던 타이틀임\n- 이번 신규 에디션 출시는 차세대 콘솔인 닌텐도 스위치 2의 성능 최적화를 바탕으로 기존 명작 타이틀의 수명을 연장하고, 신규 콘솔 유저층을 공략하려는 시도로 평가됨"
       },
       {
         "company_ko": "알파벳",
@@ -6681,18 +6719,6 @@
         "integrated_note": "- 현재 콘솔 시장의 성장을 이끄는 양대 축은 닌텐도 스위치 2(Nintendo Switch 2)의 출시와 <GTA 6>의 등장으로 압축되며, 뉴주는 <GTA 6>의 예약 판매 개시 첫 주 매출만 USD 2억 6,000만(한화 약 3,600억 원)에 달했던 것으로 추정함\n- 한편, 플랫폼별 비중을 살펴보면 여전히 모바일이 글로벌 게임 시장의 가장 큰 비중을 차지하고 있으며, 올해 모바일 게임 매출은 전년 대비 6.8% 증가한 USD 1,211억(한화 약 168조 8,000억 원)으로 전체 시장의 57%를 기록할 것으로 전망됨"
       },
       {
-        "company_ko": "테이크투",
-        "title_ko": "[글로벌/동향] 락스타 게임즈, 넷플릭스 통해 <GTA 6> 27분 분량 PS5 플레이 영상 최초 공개",
-        "summary_ko": "- 락스타 게임즈가 개발 중인 기대작 <GTA 6>의 실제 게임 플레이를 담은 약 27분 분량의 상세 영상이 최초로 공개될 예정임\n- 이번 영상은 글로벌 스트리밍 서비스인 넷플릭스(Netflix)를 통해 독점 선공개되며, 넷플릭스 비구독자들을 위해서는 몇 시간 후 타 플랫폼에 순차적으로 배포될 예정임\n- 공개될 상세 영상의 콘텐츠는 전량 플레이스테이션 5(PS5)의 실제 인게임 플레이 화면으로만 캡처되어, 소니와 락스타 게임즈 간의 긴밀한 파트너십이 지속되고 있음을 보여줌\n- 넷플릭스의 논픽션 시리즈 부사장 브랜든 리그(Brandon Riegg)는 가장 야심 찬 스토리텔링이 가장 많은 관객과 만날 수 있는 플랫폼으로 넷플릭스가 거듭나기를 바란다며, 락스타 게임즈와의 협업에 대한 기대감을 표명함\n[Comment]\n- 최근 소셜 미디어를 통해 <GTA 6>의 개발 빌드 및 게임플레이 영상 유출 사고가 지속적으로 발생한 가운데, 락스타 게임즈는 이번 공식 대형 플레이 영상 공개를 통해 유출로 어수선해진 분위기를 반전시키고 대중의 기대감을 최고조로 끌어올리려는 것으로 분석됨\n- 넷플릭스 입장에서는 전 세계가 주목하는 IP인 <GTA 6>의 독점 콘텐츠를 가장 먼저 선보임으로써 플랫폼 영향력을 강화하고, 미디어와 게임을 아우르는 종합 엔터테인먼트 허브로서의 입지를 다지기 위한 전략적 행보로 풀이됨",
-        "original_title": "GTA 6 Extended Look Will Show Nearly 30 Minutes of Gameplay, Captured on PS5",
-        "url": "https://www.pushsquare.com/news/2026/08/gta-6-extended-look-will-show-nearly-30-minutes-of-gameplay-captured-on-ps5",
-        "published_at": "2026. 8. 27",
-        "published_key": "2026-08-27 00:00:00",
-        "score": "",
-        "keyword": "PS5",
-        "integrated_note": "- 최근 소셜 미디어를 통해 <GTA 6>의 개발 빌드 및 게임플레이 영상 유출 사고가 지속적으로 발생한 가운데, 락스타 게임즈는 이번 공식 대형 플레이 영상 공개를 통해 유출로 어수선해진 분위기를 반전시키고 대중의 기대감을 최고조로 끌어올리려는 것으로 분석됨\n- 넷플릭스 입장에서는 전 세계가 주목하는 IP인 <GTA 6>의 독점 콘텐츠를 가장 먼저 선보임으로써 플랫폼 영향력을 강화하고, 미디어와 게임을 아우르는 종합 엔터테인먼트 허브로서의 입지를 다지기 위한 전략적 행보로 풀이됨"
-      },
-      {
         "company_ko": "알파벳",
         "title_ko": "[글로벌/동향] 구글, ‘구글북스’ 통해 안드로이드-PC 연동 강화 및 플레이 스토어 AI 기능 업데이트",
         "summary_ko": "- 구글이 최근 ‘구글 플레이 서비스(v26.33)’ 및 ‘구글 플레이 스토어(v52.9)’ 시스템 업데이트를 통해 안드로이드 스마트폰과 PC 간의 원활한 연동을 지원하고 크로스 디바이스 생태계를 한층 더 확장함\n- 이번 업데이트의 핵심은 오는 9월 출시 예정인 신규 디바이스 '구글북스(Googlebooks)'와의 연동성 강화로, 이용자는 PC와 스마트폰 환경에서 구글북스를 통해 모바일 앱에 간편하게 접근할 수 있게 됨\n- 이와 함께 플레이 스토어의 AI 기반 검색 비서 기능인 ‘에스크 플레이(Ask Play)’가 고도화되어, 이용자가 다른 화면으로 이동하지 않고도 에스크 플레이 내부에서 앱 및 게임의 하이라이트 비디오를 즉시 시청할 수 있도록 지원함\n- 기타 업데이트로는 대화면 기기를 위한 홈·검색 칩 추가, 악성 앱 감지 솔루션인 ‘플레이 프로텍트’의 기능 개선, 다운로드 완료 후 연관 앱 꾸러미를 제안하는 기능 등이 포함됨\n[Comment]\n- 구글은 애플의 폐쇄적이지만 강력한 생태계 연동성에 대응하기 위해 안드로이드 디바이스와 PC(크롬OS/윈도우 기반 스마트 디바이스) 간의 경계를 허무는 ‘크로스 디바이스’ 전략을 지속적으로 강화하고 있음\n- 특히 9월 출시를 앞둔 구글북스에 모바일 앱 직접 접근 기능을 선제적으로 탑재함으로써, 하드웨어 출시 초기부터 원활한 멀티디바이스 경험을 제공하여 초기 시장 안착을 도모하려는 의도로 풀이됨\n- 또한 플레이 스토어 내에 제미나이(Gemini) 기반 AI 검색 에이전트인 'Ask Play'를 고도화하는 것은 검색 광고 모델 중심의 앱 마켓에서 AI 대화형 탐색 및 추천 중심으로 사용자 경험(UX)을 패러다임 시프트하려는 시도로 분석됨",
@@ -6873,18 +6899,6 @@
         "integrated_note": "- 게이밍 기어 전문 브랜드인 레이저가 AI 하드웨어 시장에 도전장을 내밀었으나, 사용자들이 일상생활 속에서 부피가 큰 게이밍 헤드셋을 온종일 착용할지 여부와 착용감의 한계를 극복하는 것이 대중화의 주요 관건임\n- 스마트 글래스 등 카메라 탑재 웨어러블 기기들이 공통으로 직면한 개인정보 침해 및 사생활 노출 우려에 대해, 레이저가 수집되는 영상·음성 데이터의 실시간 처리 및 보안 문제를 어떻게 해결할지가 흥행의 핵심 변수가 될 전망임"
       },
       {
-        "company_ko": "알파벳",
-        "title_ko": "[글로벌/동향] 구글, 플레이 서비스 업데이트로 안드로이드-PC 연동 및 멀티 디바이스 생태계 강화",
-        "summary_ko": "- 구글이 구글 플레이 서비스(v26.32) 업데이트를 통해 안드로이드 스마트폰과 PC(구글북, Googlebooks) 간의 연동을 대폭 강화하며 멀티 디바이스 생태계 구축에 속도를 내고 있음\n- 이번 업데이트로 PC 초기 설정 단계에서 구글북 멀티 디바이스 기능에 대한 안내가 제공되며, 기존 안드로이드 폰을 사용해 새 PC를 간편하게 설정할 수 있는 '퀵 스타트(Quick Start)' 기능 및 기기 메뉴에서 직접 베타 기능을 제어하는 교차 디바이스 설정이 추가됨\n- 픽셀 11에서 첫선을 보인 기기 접촉 공유 기능인 '탭 투 쉐어(Tap to Share)'에 기존 연락처, 사진, 파일 외에도 '링크'와 '위치 정보' 공유 옵션이 새롭게 추가되어 편의성이 대폭 향상됨\n- 그 외에도 웨어 OS(Wear OS) 내 통합 위치 권한 관리 허브 추가, 구글 월렛의 연령 인증 카드 지원 기능 개선, 구글 플레이 스토어(v52.8)의 카테고리 탐색 내비게이션 바 개편, 보안 및 개발자 도구가 강화된 웹뷰(v152) 업데이트가 단계적으로 적용될 예정임\n[Comment]\n- 구글은 스마트폰, 스마트워치(웨어 OS)를 넘어 자체 하드웨어 영역인 '구글북'과의 연결 고리를 강화함으로써, 애플의 맥(Mac)-아이폰(iPhone) 생태계와 유사한 크로스 디바이스 연동 경험을 안드로이드 진영에 완성도 높게 구축하려는 전략을 취하고 있음\n- 스마트폰을 통한 PC 퀵 스타트나 한층 정교해진 '탭 투 쉐어' 등의 기능은 기기 간의 사용 장벽을 대폭 낮춰 구글 하드웨어 생태계로의 유저 락인(Lock-in) 효과를 극대화할 수 있을 것으로 전망됨",
-        "original_title": "Google’s latest update gives us another glimpse at its Android PC strategy",
-        "url": "https://www.androidauthority.com/google-play-services-googlebooks-android-3699602/",
-        "published_at": "2026. 8. 18",
-        "published_key": "2026-08-18 00:00:00",
-        "score": "",
-        "keyword": "Google Play",
-        "integrated_note": "- 구글은 스마트폰, 스마트워치(웨어 OS)를 넘어 자체 하드웨어 영역인 '구글북'과의 연결 고리를 강화함으로써, 애플의 맥(Mac)-아이폰(iPhone) 생태계와 유사한 크로스 디바이스 연동 경험을 안드로이드 진영에 완성도 높게 구축하려는 전략을 취하고 있음\n- 스마트폰을 통한 PC 퀵 스타트나 한층 정교해진 '탭 투 쉐어' 등의 기능은 기기 간의 사용 장벽을 대폭 낮춰 구글 하드웨어 생태계로의 유저 락인(Lock-in) 효과를 극대화할 수 있을 것으로 전망됨"
-      },
-      {
         "company_ko": "애플",
         "title_ko": "[글로벌/동향] 애플, 외부 결제 허용 여파로 미국 앱스토어 수수료 매출 18% 감소",
         "summary_ko": "- 앱 분석 업체 앱피겨스(Appfigures)에 따르면, 인앱 결제 규제가 완화된 영향으로 2026년 초 이후 애플의 미국 앱스토어 수수료 매출이 18% 감소했으며, 유사한 규제를 도입한 브라질과 일본에서도 앱스토어 매출이 감소세를 보이고 있음\n- 센서타워(Sensor Tower)의 조사 결과, 올해 2분기 미국 앱스토어 내 소비자 지출은 전년 동기 9% 성장했던 것과 대조적으로 6% 감소함. 이는 에픽게임즈가 승소한 법원 명령에 따라 애플이 개발자들에게 수수료 없이 외부 결제 방식으로 이용자를 유도(외부 링크 아웃)할 수 있도록 허용한 조치가 큰 영향을 미친 것으로 분석되며, 애플은 2025년 4월부터 미국 내 외부 결제 링크에 대한 수수료를 수집하지 않고 있음\n- 애플 역시 지난 실적 발표를 통해 규제 변화가 서비스 부문 성장에 부담을 주기 시작했다고 인정함. 실제로 올해 6월 분기 서비스 매출은 USD 307억을 기록해 해당 기간 역대 최대치를 경신했으나, 시장 전망치였던 USD 314억에는 미치지 못함\n[Comment]\n- 애플은 그동안 앱스토어 내 디지털 구매에 대해 15%에서 30%의 수수료를 징수하며 막대한 수익을 올려왔으나, 미국 법원의 금지 명령 및 글로벌 규제 당국의 압박으로 인해 강력했던 수수료 독점 생태계가 흔들리고 있음\n- 특히 애플의 핵심 성장 동력인 서비스 부문의 매출이 시장 예상치를 밑돌며 타격을 입기 시작한 가운데, 영국 등 다른 국가에서도 외부 결제 허용을 강제하려는 규제 움직임이 이어지고 있어 애플의 플랫폼 통제력 약화와 수수료 매출 감소 흐름은 당분간 지속될 것으로 전망됨",
@@ -6943,18 +6957,6 @@
         "score": "",
         "keyword": "PS5",
         "integrated_note": "- 이번 신작은 플레이스테이션 5(PS5)와 닌텐도의 차세대 기기(Switch 2) 등을 타깃 플랫폼으로 준비 중인 것으로 확인되며, 오랜 기간 신작을 기다려온 팬들의 갈증을 일부 해소한 것으로 평가됨\n- 출시 예정 시기가 2027년 말로 다소 멀게 설정되었음에도 불구하고, 디즈니의 인기 IP인 <코코>의 합류와 고품질 비주얼을 선보임으로써 글로벌 시장에서의 장기적인 기대감을 유지하려는 전략으로 풀이됨"
-      },
-      {
-        "company_ko": "애플",
-        "title_ko": "[글로벌/동향] 애플, 외부 웹 결제 수수료 최대 15%로 인하하는 방안 법원에 제시",
-        "summary_ko": "- 애플은 미국 내 앱 개발사들이 앱스토어 외부 웹사이트로 연결되는 결제 링크(링크 아웃)를 제공할 때 적용할 새로운 수수료 제안서를 미국 캘리포니아 북부 연방법원에 제출함\n- 제안서에 따르면, 기존 인앱 결제 수수료가 30%인 표준 앱의 경우 외부 결제 링크 이용 시 수수료가 절반인 15%로 줄어들며, 뉴스·비디오·미니 앱 파트너 프로그램 및 구독 갱신은 10%, 연 매출 100만 달러 미만인 소기업 프로그램(Small Business Program) 가입사는 5%의 수수료를 적용받음\n- 해당 수수료는 이용자가 앱 내 제공된 외부 링크를 타고 이동해 웹사이트에서 결제(예: 스포티파이 앱 내 링크를 통해 웹에서 구독 결제)를 완료할 때 발생하며, 애플은 이 요율이 전문가 분석을 바탕으로 책정되었고 구글이 에픽게임즈와의 소송에서 청구한 요율보다 저렴하다고 설명함\n[Comment]\n- 이번 수수료 제안은 에픽게임즈와의 오랜 법적 분쟁에서 비롯된 것으로, 앞서 2025년 4월 법원은 애플의 외부 수수료 부과 행위를 법정모독으로 판단해 수수료 징수를 금지했으나, 항소법원이 법정모독 판결을 유지하면서도 애플의 지적재산권(IP)에 대한 대가 청구 권리를 인정함에 따라 적정 요율을 재산정하는 절차가 진행 중임\n- 애플은 오는 10월 예정된 대법원 상고심 판결 시점까지 수수료 책정 절차를 보류해 달라고 법원에 수차례 요청했으나 기각되었으며, 이에 따라 법원은 애플의 이번 제안서와 에픽게임즈의 대응을 바탕으로 조만간 최종 요율을 확정할 예정임",
-        "original_title": "Apple Wants to Charge Developers Up to 15 Percent for Linking Outside the App Store",
-        "url": "https://www.macrumors.com/2026/08/13/app-store-fees-apple-link-outs/",
-        "published_at": "2026. 8. 14",
-        "published_key": "2026-08-14 00:00:00",
-        "score": "",
-        "keyword": "App Store",
-        "integrated_note": "- 이번 수수료 제안은 에픽게임즈와의 오랜 법적 분쟁에서 비롯된 것으로, 앞서 2025년 4월 법원은 애플의 외부 수수료 부과 행위를 법정모독으로 판단해 수수료 징수를 금지했으나, 항소법원이 법정모독 판결을 유지하면서도 애플의 지적재산권(IP)에 대한 대가 청구 권리를 인정함에 따라 적정 요율을 재산정하는 절차가 진행 중임\n- 애플은 오는 10월 예정된 대법원 상고심 판결 시점까지 수수료 책정 절차를 보류해 달라고 법원에 수차례 요청했으나 기각되었으며, 이에 따라 법원은 애플의 이번 제안서와 에픽게임즈의 대응을 바탕으로 조만간 최종 요율을 확정할 예정임"
       },
       {
         "company_ko": "텐센트",
