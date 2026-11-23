@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-22T01:57:15Z",
+  "generated_at_utc": "2026-11-23T02:22:32Z",
   "financial_archive": {
     "source": "Google Sheets per-company tabs; Nexon excluded until cleaned",
     "sheet_url": "https://docs.google.com/spreadsheets/d/1jzdID-ZY39VhKgHdvpSIcGiJq0Gk_qsOj1k6hNi3jh8/edit",
@@ -3828,6 +3828,54 @@
     "rows": [
       {
         "company_ko": "마이크로소프트",
+        "title_ko": "[글로벌/경쟁사] Xbox·PC 독점 <기어스 오브 워: E-데이>, PS 출시 없이 미국 판매 2위…<콜 오브 듀티>에 이어 2위",
+        "summary_ko": "- Circana 집계에 따르면 10월 초 출시된 <기어스 오브 워: E-데이>가 미국 판매 순위 2위를 기록함. 1위는 같은 Microsoft 소유 IP인 <콜 오브 듀티>였음\n- <기어스 오브 워: E-데이>는 PlayStation 없이 Xbox와 PC로만 출시됐으며, Xbox Game Pass에도 포함되어 출시 이후 Xbox 주간 활성 이용자 상위 10위권을 유지하고 있음\n- 출시 초기 제기된 'USD 5억 (KRW 약 7,300억) 제작비' 논란은 개발사 The Coalition이 몇 년간 쓴 전체 운영비로, 개발 중인 <StarCraft> 리부트 등 다른 프로젝트 비용까지 포함한 수치였던 것으로 정리됨\n- The Coalition은 멀티플레이를 시즌제로 장기 운영할 계획이며, 다음 시즌은 12월 초 시작될 예정임\n[Comment]\n- Microsoft는 2024년부터 <Forza Horizon 5>, <Gears of War: Reloaded> 등 퍼스트파티 타이틀을 PS5에 출시하며 멀티플랫폼으로 전환해 왔음. 이런 흐름 속에서 기어스 IP 신작을 Xbox·PC 독점으로 내고도 미국 상위권에 오른 만큼, 핵심 IP는 독점으로 남겨 플랫폼 경쟁력을 지키는 선택지도 여전히 유효함을 보여준 사례로 해석됨\n- 다만 Circana 순위는 미국 시장의 매출 기준 순위로 집계 기간과 판매량은 공개되지 않았으며, Game Pass 이용분은 판매 실적에 반영되지 않음. 글로벌 성과와 수익성은 Microsoft의 공식 수치가 나와야 판단할 수 있음\n- 이번 성과가 후속 타이틀의 독점 유지로 이어질지, 일정 기간 뒤 PS5로도 출시하는 기존 방식을 따를지가 Microsoft 퍼스트파티 전략의 관찰 포인트임",
+        "original_title": "Gears: E-Day hits No. 2 in US sales without PlayStation",
+        "url": "https://www.windowscentral.com/gaming/gears-of-war-e-day-skipped-playstation-and-still-became-octobers-no-2-best-selling-game-in-the-us",
+        "published_at": "2026. 11. 23",
+        "published_key": "2026-11-23 00:00:00",
+        "score": "",
+        "keyword": "Xbox",
+        "integrated_note": "- Microsoft는 2024년부터 <Forza Horizon 5>, <Gears of War: Reloaded> 등 퍼스트파티 타이틀을 PS5에 출시하며 멀티플랫폼으로 전환해 왔음. 이런 흐름 속에서 기어스 IP 신작을 Xbox·PC 독점으로 내고도 미국 상위권에 오른 만큼, 핵심 IP는 독점으로 남겨 플랫폼 경쟁력을 지키는 선택지도 여전히 유효함을 보여준 사례로 해석됨\n- 다만 Circana 순위는 미국 시장의 매출 기준 순위로 집계 기간과 판매량은 공개되지 않았으며, Game Pass 이용분은 판매 실적에 반영되지 않음. 글로벌 성과와 수익성은 Microsoft의 공식 수치가 나와야 판단할 수 있음\n- 이번 성과가 후속 타이틀의 독점 유지로 이어질지, 일정 기간 뒤 PS5로도 출시하는 기존 방식을 따를지가 Microsoft 퍼스트파티 전략의 관찰 포인트임"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/동향] <The Binding of Isaac: Repentance Plus>, AI 생성 음악 사용 드러나 Steam 리뷰 폭탄…개발사 몇 시간 만에 삭제",
+        "summary_ko": "- <The Binding of Isaac: Repentance Plus>의 일부 구간에 생성형 AI 음악이 쓰인 사실이 드러나, 최근 며칠간 Steam에서 리뷰 폭탄을 맞음. Reddit 이용자 ShweetsStuff가 GTA 패러디 구간의 오디오 파일에서 AI 음악 생성 서비스 Suno의 메타데이터를 발견했고, Suno 사이트에 올라온 원곡까지 찾아냄\n- 원작자 Edmund McMillen은 X에서 사과하며 게임 속 GTA 패러디 구간에 생성형 AI 음악이 쓰인 줄 '전혀 몰랐다'고 밝힘\n- Valve는 개발 과정에서 생성형 AI를 언제, 어떻게 사용했는지 공개하도록 요구하고 있으나, <Repentance Plus> 개발사 Nicalis는 AI 음악 사용을 어디에도 밝히지 않은 것으로 보임\n- Nicalis는 발견 후 몇 시간 만에 업데이트로 해당 음악 파일을 삭제했으나, Steam 평가는 여전히 '압도적으로 부정적'임. 반면 X 이용자들은 McMillen에게 비교적 관대한 분위기인데, McMillen이 2024년 TikTok에서 AI를 '영감 없고 밋밋하다'고 비판한 바 있기 때문으로 보임\n[Comment]\n- 게임 한 구간의 패러디 음악이라는 작은 범위였지만 이용자가 파일 메타데이터까지 추적해 찾아냈으며, AI 사용 자체보다 '공개하지 않은 것'이 리뷰 폭탄의 직접적인 원인이 됨. 외주·협력사가 만든 에셋까지 출처를 확인하고 관리할 필요가 커졌음을 보여줌\n- Valve는 2024년 1월부터 Steam 출시작에 생성형 AI 사용 공개를 요구하고 있으며, 원작자조차 몰랐다는 해명은 대형 개발사보다 공동 개발·퍼블리싱 구조에서 관리 공백이 생기기 쉬움을 보여줌\n- 자사 Embark Studios도 <THE FINALS>·<ARC Raiders>의 AI 음성 사용으로 논란이 된 바 있어, AI 활용 범위를 Steam 공개 항목에 빠짐없이 반영하고 외부 에셋의 AI 사용 여부를 검수하는 절차를 점검해 둘 필요가 있음",
+        "original_title": "Binding of Isaac developer removes AI music from Repentance Plus",
+        "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+        "published_at": "2026. 11. 23",
+        "published_key": "2026-11-23 00:00:00",
+        "score": "",
+        "keyword": "Steam",
+        "integrated_note": "- 게임 한 구간의 패러디 음악이라는 작은 범위였지만 이용자가 파일 메타데이터까지 추적해 찾아냈으며, AI 사용 자체보다 '공개하지 않은 것'이 리뷰 폭탄의 직접적인 원인이 됨. 외주·협력사가 만든 에셋까지 출처를 확인하고 관리할 필요가 커졌음을 보여줌\n- Valve는 2024년 1월부터 Steam 출시작에 생성형 AI 사용 공개를 요구하고 있으며, 원작자조차 몰랐다는 해명은 대형 개발사보다 공동 개발·퍼블리싱 구조에서 관리 공백이 생기기 쉬움을 보여줌\n- 자사 Embark Studios도 <THE FINALS>·<ARC Raiders>의 AI 음성 사용으로 논란이 된 바 있어, AI 활용 범위를 Steam 공개 항목에 빠짐없이 반영하고 외부 에셋의 AI 사용 여부를 검수하는 절차를 점검해 둘 필요가 있음"
+      },
+      {
+        "company_ko": "일렉트로닉 아츠",
+        "title_ko": "[글로벌/경쟁사] Xbox·PC 독점 <기어스 오브 워: E-데이>, PS 출시 없이 미국 판매 2위…<콜 오브 듀티>에 이어 2위",
+        "summary_ko": "- Circana 집계에 따르면 10월 초 출시된 <기어스 오브 워: E-데이>가 미국 판매 순위 2위를 기록함. 1위는 같은 Microsoft 소유 IP인 <콜 오브 듀티>였음\n- <기어스 오브 워: E-데이>는 PlayStation 없이 Xbox와 PC로만 출시됐으며, Xbox Game Pass에도 포함되어 출시 이후 Xbox 주간 활성 이용자 상위 10위권을 유지하고 있음\n- 출시 초기 제기된 'USD 5억 (KRW 약 7,300억) 제작비' 논란은 개발사 The Coalition이 몇 년간 쓴 전체 운영비로, 개발 중인 <StarCraft> 리부트 등 다른 프로젝트 비용까지 포함한 수치였던 것으로 정리됨\n- The Coalition은 멀티플레이를 시즌제로 장기 운영할 계획이며, 다음 시즌은 12월 초 시작될 예정임\n[Comment]\n- Microsoft는 2024년부터 <Forza Horizon 5>, <Gears of War: Reloaded> 등 퍼스트파티 타이틀을 PS5에 출시하며 멀티플랫폼으로 전환해 왔음. 이런 흐름 속에서 기어스 IP 신작을 Xbox·PC 독점으로 내고도 미국 상위권에 오른 만큼, 핵심 IP는 독점으로 남겨 플랫폼 경쟁력을 지키는 선택지도 여전히 유효함을 보여준 사례로 해석됨\n- 다만 Circana 순위는 미국 시장의 매출 기준 순위로 집계 기간과 판매량은 공개되지 않았으며, Game Pass 이용분은 판매 실적에 반영되지 않음. 글로벌 성과와 수익성은 Microsoft의 공식 수치가 나와야 판단할 수 있음\n- 이번 성과가 후속 타이틀의 독점 유지로 이어질지, 일정 기간 뒤 PS5로도 출시하는 기존 방식을 따를지가 Microsoft 퍼스트파티 전략의 관찰 포인트임",
+        "original_title": "Gears: E-Day hits No. 2 in US sales without PlayStation",
+        "url": "https://www.windowscentral.com/gaming/gears-of-war-e-day-skipped-playstation-and-still-became-octobers-no-2-best-selling-game-in-the-us",
+        "published_at": "2026. 11. 23",
+        "published_key": "2026-11-23 00:00:00",
+        "score": "",
+        "keyword": "Xbox",
+        "integrated_note": "- Microsoft는 2024년부터 <Forza Horizon 5>, <Gears of War: Reloaded> 등 퍼스트파티 타이틀을 PS5에 출시하며 멀티플랫폼으로 전환해 왔음. 이런 흐름 속에서 기어스 IP 신작을 Xbox·PC 독점으로 내고도 미국 상위권에 오른 만큼, 핵심 IP는 독점으로 남겨 플랫폼 경쟁력을 지키는 선택지도 여전히 유효함을 보여준 사례로 해석됨\n- 다만 Circana 순위는 미국 시장의 매출 기준 순위로 집계 기간과 판매량은 공개되지 않았으며, Game Pass 이용분은 판매 실적에 반영되지 않음. 글로벌 성과와 수익성은 Microsoft의 공식 수치가 나와야 판단할 수 있음\n- 이번 성과가 후속 타이틀의 독점 유지로 이어질지, 일정 기간 뒤 PS5로도 출시하는 기존 방식을 따를지가 Microsoft 퍼스트파티 전략의 관찰 포인트임"
+      },
+      {
+        "company_ko": "소니",
+        "title_ko": "[글로벌/경쟁사] Xbox·PC 독점 <기어스 오브 워: E-데이>, PS 출시 없이 미국 판매 2위…<콜 오브 듀티>에 이어 2위",
+        "summary_ko": "- Circana 집계에 따르면 10월 초 출시된 <기어스 오브 워: E-데이>가 미국 판매 순위 2위를 기록함. 1위는 같은 Microsoft 소유 IP인 <콜 오브 듀티>였음\n- <기어스 오브 워: E-데이>는 PlayStation 없이 Xbox와 PC로만 출시됐으며, Xbox Game Pass에도 포함되어 출시 이후 Xbox 주간 활성 이용자 상위 10위권을 유지하고 있음\n- 출시 초기 제기된 'USD 5억 (KRW 약 7,300억) 제작비' 논란은 개발사 The Coalition이 몇 년간 쓴 전체 운영비로, 개발 중인 <StarCraft> 리부트 등 다른 프로젝트 비용까지 포함한 수치였던 것으로 정리됨\n- The Coalition은 멀티플레이를 시즌제로 장기 운영할 계획이며, 다음 시즌은 12월 초 시작될 예정임\n[Comment]\n- Microsoft는 2024년부터 <Forza Horizon 5>, <Gears of War: Reloaded> 등 퍼스트파티 타이틀을 PS5에 출시하며 멀티플랫폼으로 전환해 왔음. 이런 흐름 속에서 기어스 IP 신작을 Xbox·PC 독점으로 내고도 미국 상위권에 오른 만큼, 핵심 IP는 독점으로 남겨 플랫폼 경쟁력을 지키는 선택지도 여전히 유효함을 보여준 사례로 해석됨\n- 다만 Circana 순위는 미국 시장의 매출 기준 순위로 집계 기간과 판매량은 공개되지 않았으며, Game Pass 이용분은 판매 실적에 반영되지 않음. 글로벌 성과와 수익성은 Microsoft의 공식 수치가 나와야 판단할 수 있음\n- 이번 성과가 후속 타이틀의 독점 유지로 이어질지, 일정 기간 뒤 PS5로도 출시하는 기존 방식을 따를지가 Microsoft 퍼스트파티 전략의 관찰 포인트임",
+        "original_title": "Gears: E-Day hits No. 2 in US sales without PlayStation",
+        "url": "https://www.windowscentral.com/gaming/gears-of-war-e-day-skipped-playstation-and-still-became-octobers-no-2-best-selling-game-in-the-us",
+        "published_at": "2026. 11. 23",
+        "published_key": "2026-11-23 00:00:00",
+        "score": "",
+        "keyword": "Xbox",
+        "integrated_note": "- Microsoft는 2024년부터 <Forza Horizon 5>, <Gears of War: Reloaded> 등 퍼스트파티 타이틀을 PS5에 출시하며 멀티플랫폼으로 전환해 왔음. 이런 흐름 속에서 기어스 IP 신작을 Xbox·PC 독점으로 내고도 미국 상위권에 오른 만큼, 핵심 IP는 독점으로 남겨 플랫폼 경쟁력을 지키는 선택지도 여전히 유효함을 보여준 사례로 해석됨\n- 다만 Circana 순위는 미국 시장의 매출 기준 순위로 집계 기간과 판매량은 공개되지 않았으며, Game Pass 이용분은 판매 실적에 반영되지 않음. 글로벌 성과와 수익성은 Microsoft의 공식 수치가 나와야 판단할 수 있음\n- 이번 성과가 후속 타이틀의 독점 유지로 이어질지, 일정 기간 뒤 PS5로도 출시하는 기존 방식을 따를지가 Microsoft 퍼스트파티 전략의 관찰 포인트임"
+      },
+      {
+        "company_ko": "마이크로소프트",
         "title_ko": "[글로벌/동향] <GTA 6>, 뉴질랜드 지역 우회로 조기 플레이한 미·영 Xbox 이용자 210만 명…PS5는 12.5만 명에 그쳐",
         "summary_ko": "- 시장조사업체 Ampere Analysis에 따르면 미국·영국 Xbox 이용자 100만 명 이상이 콘솔 지역을 뉴질랜드로 바꿔 <GTA 6>를 공식 출시 전에 플레이함. Xbox는 미국 150만 명·영국 60만 명, PS5는 미국 10만 명·영국 2만 5,000명이었음\n- <GTA 6>는 11/19 각 지역 현지 시각 자정에 순차 출시돼 뉴질랜드가 가장 먼저 이용할 수 있었음. Xbox는 콘솔 위치를 뉴질랜드로 바꾸고 재시작하기만 하면 11/18에 다른 지역보다 몇 시간 먼저 플레이할 수 있었음\n- PS5는 계정 생성 후 국가·지역이 고정돼, 뉴질랜드 계정을 새로 만들고 해당 지역 PlayStation Store에서 게임을 구매해야 해 우회가 더 어려웠음\n- <GTA 6>는 출시와 함께 2026년 최다 판매 게임이 됐으며, 예상 판매량 2,450만 장 이상, 예약·출시일 매출 USD 23.6억 (KRW 약 3조 4,456억)으로 추산됨\n- Newzoo는 콘솔 전용 출시가 글로벌 도달 범위를 제한할 수 있다고 분석함. 2026년 글로벌 게임 매출에서 콘솔 비중은 22%에 그치며, Emmanuel Rosier 마켓 인텔리전스 디렉터는 초기 영향이 서구 콘솔 시장(2026년 USD 363억 (KRW 약 53조) 전망)에 집중되고, 장기적 파급은 PC·온라인 전개에 달려 있다고 설명함\n[Comment]\n- Xbox와 PS5의 우회 이용자 수가 10배 이상 벌어진 것은 이용자 수요 차이보다 플랫폼의 지역 잠금 정책 차이가 그대로 드러난 결과로 보임. 일반적으로 PS5 설치 기반이 Xbox Series X/S보다 큰 점을 감안하면, 지역 변경 절차가 간단할수록 시차 출시가 사실상 무력화된다는 것을 보여줌\n- 현지 시각 자정 순차 출시는 각 지역에 출시 이벤트를 만들 수 있지만, 이번처럼 대형 타이틀에서는 수백만 명 규모의 조기 이용과 스포일러 확산으로 이어질 수 있음. 다만 우회 이용자도 정상 구매자인 만큼 매출 손실보다는 출시 공정성·서버 부하 분산 측면의 문제로 볼 수 있으며, 글로벌 동시 출시를 준비하는 게임사는 동일 시각 일괄 오픈과 지역별 순차 오픈의 장단을 다시 따져 볼 필요가 있음\n- 원문은 Ampere의 집계 방식을 밝히지 않아 수치는 추정치로 보는 것이 적절함. Newzoo 지적처럼 콘솔 전용 출시로 초기 효과가 서구 콘솔에 집중된 만큼, 전작 <GTA 5>가 콘솔 출시(2013년 9월) 약 1년 반 뒤 PC 버전을 낸 전례에 비추어 PC 버전 출시 시점과 온라인 모드 전개가 다음 관찰 포인트가 될 전망임",
         "original_title": "Ampere Analysis: Over 1m UK and US Xbox players accessed GTA 6 before official launch by switching location to New Zealand",
@@ -3885,6 +3933,18 @@
         "score": "",
         "keyword": "GTA 6",
         "integrated_note": "- 원문 제목은 '미국 PS5 보유자 전체의 61%'로 표현했으나, Circana 원 발언 기준 모수는 '11/19 접속한 이용자'임. 전체 보유자 대비 비율은 이보다 낮을 수 있어 수치 인용 시 구분이 필요함\n- 출시 전 판매 3,250만 장을 기본판 가격으로 단순 계산하면 USD 약 26억 (KRW 약 3조 8,000억) 규모임. 여기에 접속 이용자 절반 이상이 하루 8시간 넘게 플레이한 점을 더하면, 판매뿐 아니라 이용 시간에서도 콘솔 이용자의 관심을 크게 흡수한 것으로 보임. PC 버전은 이번 출시 플랫폼에 없어, 이용 시간 집중은 우선 콘솔 쪽에 나타날 것으로 보임\n- 연말 콘솔 시장에 출시·업데이트하는 타이틀은 <GTA 6>와 이용 시간 경쟁을 피하기 어려울 것으로 보이며, 자사 <아크 레이더스> 등 PS5·Xbox 라이브 서비스 타이틀도 11월 말~12월 이용 지표 변화를 살펴볼 필요가 있음. 출시 첫날 열기가 얼마나 이어지는지는 12월 나올 Circana의 11월 미국 집계에서 확인될 전망임"
+      },
+      {
+        "company_ko": "텐센트",
+        "title_ko": "[중국/경쟁사] Tencent, 중국 전용 TFT 모바일 <Battle of Golden Spatula>에 3년간 USD 1.5억 투입…다음 시즌 크로스플랫폼 PC버전 출시",
+        "summary_ko": "- Tencent Games 부사장 Huang Lingdong은 11/6 시안에서 열린 <Battle of Golden Spatula(金铲铲之战)> 2027년 전략 발표회에서 향후 3년간 USD 1.5억 (KRW 약 2,190억)을 투자한다고 발표함(GameLook 보도). 이 게임은 Riot Games <전략적 팀 전투(TFT)>를 모바일로 옮긴 중국 전용 오토체스 게임임\n- 출시 5년 만에 누적 등록 이용자 2.4억 명, MAU 5,000만 명을 넘었으며, 투자금은 이용자 문화, 콘텐츠 크리에이터 지원, e스포츠에 집중할 계획임\n- 2027년 e스포츠 체계는 전국 오픈 대회 3개와 상금 CNY 1,000만 (KRW 약 20억) 규모의 연간 챔피언십 신설로 확대하고, 대회 총상금은 2배로 늘릴 예정임. 최근 2년 동안 해마다 1,000만 명 이상이 대회에 참가했으며, 대학 e스포츠 브랜드 'Prism Academy'도 새로 만들 계획임\n- 다음 시즌에 맞춰 PC버전을 출시하며 현재 사전예약을 받고 있음. 키보드·마우스 조작을 지원하고 모바일과 계정 데이터·매칭·친구 목록을 공유해 기기와 상관없이 함께 플레이할 수 있음\n- ※ Niko Partners 집계에 따르면 <Battle of Golden Spatula>와 <TFT>는 2026년 중국 게임·라이브 스트리밍 플랫폼 시청 상위 20개 타이틀에 포함됨\n[Comment]\n- USD 1.5억을 3년으로 나누면 연간 약 USD 5,000만 (KRW 약 730억) 수준이며, 상금 확대분보다 크리에이터·이용자 문화 지원 비중이 큰 구성임. 출시 5년 차 장수작의 신규 매출보다는 커뮤니티·시청 생태계를 키워 생애주기를 늘리려는 투자로 해석됨\n- 오토체스는 실시간 조작보다 판단이 중심이라 입력 방식이 달라도 공정성 문제가 적어, 크로스플랫폼 확장에 유리한 장르로 보임. 모바일에서 키운 대규모 이용자를 PC 플레이와 대회 시청으로 넓히는 전략이며, 원작 IP 보유사 Riot Games가 Tencent 자회사인 만큼 IP 활용 제약도 적은 것으로 보임\n- 다만 MAU 외에 매출·결제 지표는 공개되지 않았음. PC버전이 기존 모바일 이용자의 플레이 시간을 나눠 갖는 데 그칠지, 신규 PC 이용자를 데려올지는 다음 시즌 출시 이후 확인할 필요가 있음",
+        "original_title": "Tencent commits $150m to Battle of Golden Spatula esports and growth",
+        "url": "https://www.pocketgamer.biz/tencent-commits-150m-to-battle-of-golden-spatula-esports-and-growth/",
+        "published_at": "2026. 11. 21",
+        "published_key": "2026-11-21 00:00:00",
+        "score": "",
+        "keyword": "Tencent",
+        "integrated_note": "- USD 1.5억을 3년으로 나누면 연간 약 USD 5,000만 (KRW 약 730억) 수준이며, 상금 확대분보다 크리에이터·이용자 문화 지원 비중이 큰 구성임. 출시 5년 차 장수작의 신규 매출보다는 커뮤니티·시청 생태계를 키워 생애주기를 늘리려는 투자로 해석됨\n- 오토체스는 실시간 조작보다 판단이 중심이라 입력 방식이 달라도 공정성 문제가 적어, 크로스플랫폼 확장에 유리한 장르로 보임. 모바일에서 키운 대규모 이용자를 PC 플레이와 대회 시청으로 넓히는 전략이며, 원작 IP 보유사 Riot Games가 Tencent 자회사인 만큼 IP 활용 제약도 적은 것으로 보임\n- 다만 MAU 외에 매출·결제 지표는 공개되지 않았음. PC버전이 기존 모바일 이용자의 플레이 시간을 나눠 갖는 데 그칠지, 신규 PC 이용자를 데려올지는 다음 시즌 출시 이후 확인할 필요가 있음"
       },
       {
         "company_ko": "테이크투",
@@ -4955,18 +5015,6 @@
         "integrated_note": "- Microsoft는 퍼스트파티 대작 외에도 Game Pass 이용자 이탈을 막기 위해 중견 퍼블리셔와 다작 계약을 맺어 데이원 콘텐츠를 꾸준히 확보하는 전략을 이어가는 것으로 보임\n- 11 Bit Studios 입장에서도 Game Pass 출시로 개발비 일부를 미리 회수하면서 노출을 늘리는 구조를 반복하고 있어, 양사 협력 관계가 굳어지는 흐름임"
       },
       {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[일본/경쟁사] Nintendo, Switch 2 2027년 서드파티 라인업 강조…<Final Fantasy VII Revelation>·FromSoftware 독점작 등",
-        "summary_ko": "- Nintendo가 최근 실적 설명회에서 Switch 2 서드파티 출시 예정작을 소개하며, 멀티플랫폼 타이틀의 데이원 출시와 Switch 2 전용 개발작이 늘어나고 있다고 강조함\n- 주요 일정: <레이튼 교수와 증기의 신세계> 2026년 12/10, <Tomb Raider: Legacy of Atlantis> 2/12, <Eternal Anima> 3/4, <Final Fantasy VII Revelation> 4/8, <Ninjala 2> 2027년 2분기, <바이오하자드: 베로니카>·<LEGO Skylines>·<Crazy Taxi: World Tour>·<Onyx> 2027년 출시 예정임. 최근 2027년으로 연기된 FromSoftware의 Switch 2 독점작 <The Duskbloods>도 포함됨\n- Nintendo는 기존 에버그린 타이틀과 서드파티 판매가 전체 소프트웨어 판매량을 크게 받쳐 주고 있다고 밝힘. 서드파티 비중이 높을 뿐 아니라, 그래프에 포함되지 않은 다운로드 전용 타이틀에서도 존재감이 커 하드웨어 이용자 참여 유지에 중요한 역할을 한다고 설명함\n- ※ Switch 2에는 이미 <사이버펑크 2077>, <Call of Duty: Modern Warfare 4> 등 대형 서드파티 타이틀이 출시됨\n[Comment]\n- 전 세대 Switch의 약점으로 꼽혔던 대형 서드파티 지원을 Switch 2에서는 데이원 멀티플랫폼과 독점작 유치로 보완하면서 플랫폼 경쟁력을 높이려는 것으로 보임\n- Nintendo가 실적 설명회에서 서드파티 기여도를 별도 자료로 강조한 것은 퍼스트파티 공백기에도 하드웨어 판매와 이용자 참여를 유지하려는 메시지로 해석됨",
-        "original_title": "Nintendo Highlights Multiple Major Third-Party Releases On The Way To Switch 2 In 2027",
-        "url": "https://www.nintendolife.com/news/2026/11/nintendo-highlights-multiple-major-third-party-releases-on-the-way-to-switch-2-in-2027",
-        "published_at": "2026. 11. 6",
-        "published_key": "2026-11-06 00:00:00",
-        "score": "",
-        "keyword": "Switch 2",
-        "integrated_note": "- 전 세대 Switch의 약점으로 꼽혔던 대형 서드파티 지원을 Switch 2에서는 데이원 멀티플랫폼과 독점작 유치로 보완하면서 플랫폼 경쟁력을 높이려는 것으로 보임\n- Nintendo가 실적 설명회에서 서드파티 기여도를 별도 자료로 강조한 것은 퍼스트파티 공백기에도 하드웨어 판매와 이용자 참여를 유지하려는 메시지로 해석됨"
-      },
-      {
         "company_ko": "닌텐도",
         "title_ko": "[일본/경쟁사] Nintendo 후루카와 사장, Switch 2 추가 가격 인상 검토 안 해…메모리 물량도 충분히 확보",
         "summary_ko": "- Nintendo의 후루카와 슌타로 사장이 올해 초 인상한 Switch 2 가격을 추가로 조정하는 방안은 현재 검토하지 않는다고 밝혔다고 Reuters가 보도함\n- 실적 발표에서 Switch 2 판매량이 전년 대비 37% 이상 줄며 투자자 우려가 나오자, 후루카와 사장은 메모리 공급난이 이어지는 가운데서도 충분한 메모리 물량을 확보할 수 있는 상황이라고 설명함\n- 연간 전망은 유지돼 이번 회계연도 Switch 2 판매 목표는 1,600만 대 이상임\n- ※ Switch 2는 시장 여건을 이유로 올해 초 전 세계적으로 가격이 올랐으며, 인상 폭은 미국 USD 50 (KRW 약 7.3만 원), 영국 GBP 24였음\n[Comment]\n- Sony·Microsoft가 하드웨어 가격을 여러 차례 올린 것과 달리 가격 동결을 공식화하며 연말 판매 경쟁에서 가격 경쟁력을 앞세우려는 것으로 보임\n- 재고를 사상 최대 수준으로 쌓아 메모리 원가 상승에 대비한 전략이 가격 동결의 바탕이 된 것으로 해석됨",
@@ -5085,18 +5133,6 @@
         "score": "",
         "keyword": "%",
         "integrated_note": "- MS는 이번 업데이트가 전체 메모리 최적화 작업의 시작점이며, 향후 수개월 동안 메모리 압축 메커니즘을 지속적으로 고도화하여 더욱 스마트하고 효율적인 자원 관리 시스템을 구축할 계획이라고 밝힘\n- 과거 8GB RAM 환경에서의 잦은 멈춤 현상과 다중 작업 시의 성능 저하 문제를 근본적으로 해결함으로써, 저사양 PC 사용자들의 운영체제 사용 만족도가 크게 높아질 것으로 기대됨"
-      },
-      {
-        "company_ko": "일렉트로닉 아츠",
-        "title_ko": "[일본/경쟁사] Sony 게임 부문, 2분기 영업이익 83% 증가…네트워크 서비스·퍼스트파티 호조에 연간 전망 6% 상향",
-        "summary_ko": "- Sony가 9/30 마감 2분기 실적을 발표함. 게임&네트워크서비스(G&NS) 부문 2분기 매출은 JPY 1.2조 (KRW 약 11.4조)로 9%, 영업이익은 JPY 2,200억 (KRW 약 2조 900억)으로 83% 증가함. 상반기 기준으로는 매출 JPY 2.1조 (KRW 약 20조, +2.9%), 영업이익 JPY 4,220억 (KRW 약 4조 90억, +57%)임\n- 영업이익 증가에는 전년 동기 Bungie 손상차손 USD 7.65억을 포함한 일회성 손실 JPY 498억이 올해 없었던 영향도 있음. 이를 제외하면 2분기 G&NS 영업이익은 29% 증가함\n- 게임 소프트웨어 매출은 JPY 7,085억 (KRW 약 6조 7,310억)으로 12.5% 증가했으며, 9/15 출시된 Insomniac Games의 <마블 울버린>이 240만 장 판매되며 실적에 기여함. 네트워크 서비스 매출은 JPY 2,183억 (KRW 약 2조 740억)으로 19.7% 늘었고, PS Plus 월간 활성 이용자는 1억 2,700만 명(전년 1억 1,900만 명)으로 9월 기준 최고치를 기록함\n- 하드웨어 매출은 PS5 판매가 전년 동기 400만 대에서 260만 대로 줄며 4.8% 감소함. Lin Tao CFO는 프로모션·가격 조정과 원가 절감으로 메모리 가격 상승을 상쇄했으며, 다음 회계연도 예상 판매량에 필요한 메모리 물량도 공급사들과 합의했다고 밝힘\n- ※ 연간 G&NS 매출 전망은 JPY 4.8조 (KRW 약 45.6조), 영업이익 전망은 JPY 7,000억 (KRW 약 6조 6,500억)으로 각각 6% 상향함\n[Comment]\n- PS5 하드웨어 판매가 둔화되는 가운데 구독·디지털·추가 콘텐츠 중심으로 수익 구조가 옮겨가며 이익률이 높아지는 흐름으로 보임\n- 연간 전망 상향 근거로 서드파티 소프트웨어와 네트워크 서비스를 꼽은 만큼, 연말 <GTA 6> 출시 효과가 하반기 실적의 주요 변수가 될 전망임",
-        "original_title": "PlayStation raises full-year forecast after revenue growth in network services and first-party software",
-        "url": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software",
-        "published_at": "2026. 11. 5",
-        "published_key": "2026-11-05 00:00:00",
-        "score": "",
-        "keyword": "PlayStation",
-        "integrated_note": "- PS5 하드웨어 판매가 둔화되는 가운데 구독·디지털·추가 콘텐츠 중심으로 수익 구조가 옮겨가며 이익률이 높아지는 흐름으로 보임\n- 연간 전망 상향 근거로 서드파티 소프트웨어와 네트워크 서비스를 꼽은 만큼, 연말 <GTA 6> 출시 효과가 하반기 실적의 주요 변수가 될 전망임"
       },
       {
         "company_ko": "닌텐도",
@@ -5325,18 +5361,6 @@
         "score": "",
         "keyword": "Google",
         "integrated_note": "- 애플과 구글이 엄격한 앱 심사 가이드라인을 내세우고 있음에도 불구하고, 악성 앱들이 검증망을 피해 스토어에 지속해서 유입되고 있어 플랫폼 보안의 허점에 대한 우려가 커지고 있음\n- 이러한 앱들은 과거에도 수억 회의 다운로드와 막대한 수익을 기록한 바 있으며, 교묘한 위장 수법을 사용하고 있어 앱 마켓 운영사들의 더욱 적극적이고 실효성 있는 모니터링 체계 구축이 요구됨"
-      },
-      {
-        "company_ko": "소니",
-        "title_ko": "[글로벌/경쟁사] 소니, PS5용 다섯 주 만에 세 번째 보안 패치 단행… 'GTA 6' 출시 앞두고 단속 강화",
-        "summary_ko": "- 소니는 최근 PS5 및 PS5 Pro 콘솔을 대상으로 신규 시스템 소프트웨어 버전(26.07-14.22.00)을 배포했으며, 이번 업데이트는 기능 추가나 성능 개선 없이 순수 보안 수정 목적으로만 이루어짐\n- 이번 조치는 지난 9월 말 커널 접근을 허용하는 'Relapse' 탈옥 체인 등 연이은 보안 취약점 공개에 대응하기 위한 것으로, 소니가 최근 5주 동안 세 번째 보안 중심의 펌웨어 업데이트를 단행한 것임\n- 특히 오는 11월 19일로 예정된 대작 게임 <GTA 6>의 출시를 앞두고 플랫폼 보안을 강화하기 위한 조치로 분석되며, 플레이스테이션 스토어 데이터마이닝에 따르면 <GTA 6>는 구동을 위해 최소 펌웨어 버전 14.10.00.00 이상을 요구할 것으로 예상됨\n- 일반 이용자들은 자동 또는 수동 설정을 통해 업데이트를 진행할 수 있으며, 인터페이스나 기능상의 변화는 없으나 홈브루 접근을 유지하려는 일부 유저들과 보안 커뮤니티에 직접적인 영향을 미칠 것으로 보임\n[Comment]\n- 소니는 탈옥 및 홈브루 문제에 대해 공식적인 언급을 자제해 왔으나, 연이은 보안 패치를 통해 플랫폼 보안 유지를 최우선 과제로 삼고 있음을 보여줌\n- 특히 <GTA 6>와 같은 초대형 타이틀의 상업적 출시 시점에 맞춰 해킹 및 불법 복제 위험을 원천 차단하기 위해 디지털 유통 모델과 연계된 강력한 펌웨어 검증 메커니즘을 적극 활용하는 전략을 취하고 있음",
-        "original_title": "Sony's Third PS5 Security Patch in Five Weeks Arrives Just in Time for GTA 6 — Here's Why It Matters",
-        "url": "https://www.techtimes.com/articles/329897/20261102/sonys-third-ps5-security-patch-five-weeks-arrives-just-time-gta-6-heres-why-it-matters.htm",
-        "published_at": "2026. 11. 3",
-        "published_key": "2026-11-03 00:00:00",
-        "score": "",
-        "keyword": "AR",
-        "integrated_note": "- 소니는 탈옥 및 홈브루 문제에 대해 공식적인 언급을 자제해 왔으나, 연이은 보안 패치를 통해 플랫폼 보안 유지를 최우선 과제로 삼고 있음을 보여줌\n- 특히 <GTA 6>와 같은 초대형 타이틀의 상업적 출시 시점에 맞춰 해킹 및 불법 복제 위험을 원천 차단하기 위해 디지털 유통 모델과 연계된 강력한 펌웨어 검증 메커니즘을 적극 활용하는 전략을 취하고 있음"
       },
       {
         "company_ko": "테이크투",
@@ -5721,18 +5745,6 @@
         "score": "",
         "keyword": "Google",
         "integrated_note": "- 이번 업데이트는 모바일 게이머들이 인게임 하이라이트 순간을 간편하게 캡처하고 공유할 수 있는 편의성을 높이는 데 초점이 맞춰짐\n- 특히 네이티브 수준의 녹화 기능 및 크로스 플랫폼 영상 공유 기능 도입은 모바일 e스포츠 및 커뮤니티 활성화에 긍정적인 영향을 미칠 것으로 평가됨\n- 이와 함께 안드로이드 XR 기기와의 연동성 확장은 향후 모바일 확장현실(XR) 생태계 확장과 디바이스 간 연결성을 강화하기 위한 구글의 전략적 행보로 해석됨"
-      },
-      {
-        "company_ko": "마이크로소프트",
-        "title_ko": "[글로벌/경쟁사] 마이크로소프트, Xbox 재편 대상인 아케인 스튜디오 매각 협의 기한 1개월 연장",
-        "summary_ko": "- 마이크로소프트(MS)의 Xbox 부문 재편 계획으로 인해 매각 또는 폐쇄 위기에 놓인 개발사 아케인 스튜디오(Arkane Studios)의 매각 협의 기한이 1개월 연장됨\n- 프랑스 노동법인 'フロランジュ法(플로랑주법)'에 따라 리용에 위치한 아케인 리용(Arkane Lyon)은 당초 11월 13일까지 3개월간 인수자를 찾아야 했으나, 노동조합 등의 요청으로 협의 기간이 12월 13일까지로 늘어남\n- MS 담당자는 다양한 선택지를 검토하기 위해 기간을 연장했다고 밝혔으며, 유명 저널리스트인 제이ソン 슈라이어 역시 스튜디오가 폐쇄될 가능성은 낮고 여러 생존 방안이 모색되고 있다고 언급함\n[Comment]\n- 아케인 스튜디오는 <Dishonored> 등의 대표작을 배출한 개발사로, 최근 Xbox 대규모 재편 및 구조조정의 영향권에 들며 업계의 이목이 집중된 바 있음\n- 프랑스 현지 법률에 따른 필수 협의 절차와 노동 단체의 적극적인 개입으로 인해 스튜디오가 곧바로 폐쇄되기보다는 제3자 매각이나 독립 등의 대안이 실현될 가능성에 무게가 실리고 있음",
-        "original_title": "『Dishonored』などで知られる「Arkane Studios」XBOX再編計画における買収案の協議期限が1か月の延長。デッドラインは12月13日までか",
-        "url": "https://www.gamebusiness.jp/article/2026/10/27/28457.html",
-        "published_at": "2026. 10. 27",
-        "published_key": "2026-10-27 00:00:00",
-        "score": "",
-        "keyword": "買収",
-        "integrated_note": "- 아케인 스튜디오는 <Dishonored> 등의 대표작을 배출한 개발사로, 최근 Xbox 대규모 재편 및 구조조정의 영향권에 들며 업계의 이목이 집중된 바 있음\n- 프랑스 현지 법률에 따른 필수 협의 절차와 노동 단체의 적극적인 개입으로 인해 스튜디오가 곧바로 폐쇄되기보다는 제3자 매각이나 독립 등의 대안이 실현될 가능성에 무게가 실리고 있음"
       },
       {
         "company_ko": "유비소프트",
@@ -7149,18 +7161,6 @@
         "score": "",
         "keyword": "Switch 2",
         "integrated_note": "- <소닉 프론티어>는 소닉 시리즈 최초로 오픈 존(Open Zone) 스타일의 반오픈월드 시스템을 도입해 출시 초기부터 큰 이목을 끌었으며, 지속적인 무료 업데이트와 플랫폼 확장을 통해 판매량 500만 장이라는 유의미한 이정표를 세움\n- 다만 스위치 2로 발매된 <디피니티브 에디션>의 경우, 성능 향상은 반길 만하나 기존 버전 소유자에 대한 배려 부족(업데이트 불가)과 실물 패키지에 카트리지가 포함되지 않은 점 등 소장 가치 측면에서 유저 커뮤니티의 비판을 받고 있음"
-      },
-      {
-        "company_ko": "텐센트",
-        "title_ko": "[중국/동향] 텐센트, 2분기 게임 매출 659억 위안 달성... AI 자본 투자 대폭 확대",
-        "summary_ko": "- 텐센트가 발표한 2026년 2분기 실적에 따르면, 총 매출은 전년 동기 대비 11% 증가한 2,047억 8,500만 위안을 기록했으며, 이 중 게임 사업 매출은 전년 동기 대비 성장한 659억 위안을 기록함\n- 중국 국내 게임 매출은 <화평정영>, <델타 포스>, <발로란트> 등 주요 장수 IP의 활약과 신작 <로크왕국: 세계>의 흥행에 힘입어 전년 동기 대비 17% 증가한 473억 위안을 달성함\n- 글로벌 게임 매출은 <명조>와 <발로란트>의 매출 성장이 있었으나, Supercell 일부 타이틀의 매출 감소 영향으로 전년 동기 대비 소폭 감소(고정 환율 기준 4% 증가)한 186억 위안을 기록함\n- 텐센트는 상반기 동안 <로크왕국: 세계>, <왕자영요: 월드>, 실사 상호작용 영상물인 <성세천하: 여제편> 등 다양한 신작을 선보였으며, 특히 <로크왕국: 세계>는 가입자 3,000만 명을 돌파하며 2분기 신작 중 가장 높은 흥행 성적을 기록함\n[Comment]\n- 텐센트는 이번 분기에 AI 모델 업그레이드, 위챗 AI 프로젝트 및 AI 비서 '소미(小微)', 업무용 도구 'WorkBuddy'와 'CodeBuddy' 등의 서비스 확장을 위해 R&D 및 인프라 자본 지출(593억 위안)을 대폭 늘렸음\n- 특히 게임 개발 부문에서 자체 대형 언어 모델인 '훈위안(Hunyuan)'을 활용해 <화평정영> 내 AI 팀원 기능을 도입하고, UGC 창작 및 반칙 방지 등 9가지 영역에 AI 기술을 접목하여 개발 효율성을 높이고 있음\n- 마틴 리우(루이치핑) 사장은 컨퍼런스 콜을 통해 확보한 연산 인프라를 텐센트 클라우드 대여 서비스 등으로 우선 배분하여 30% 이상의 높은 마진을 거두고 있으며, 향후 고수익성 AI 네이티브 비즈니스 생태계를 완비해 나갈 전략이라고 밝힘",
-        "original_title": "腾讯游戏Q2赚了659亿，高管回应加大AI资本投入",
-        "url": "http://www.gamekezhan.com/news/20260813/64671.html",
-        "published_at": "2026. 8. 13",
-        "published_key": "2026-08-13 00:00:00",
-        "score": "",
-        "keyword": "亿",
-        "integrated_note": "- 텐센트는 이번 분기에 AI 모델 업그레이드, 위챗 AI 프로젝트 및 AI 비서 '소미(小微)', 업무용 도구 'WorkBuddy'와 'CodeBuddy' 등의 서비스 확장을 위해 R&D 및 인프라 자본 지출(593억 위안)을 대폭 늘렸음\n- 특히 게임 개발 부문에서 자체 대형 언어 모델인 '훈위안(Hunyuan)'을 활용해 <화평정영> 내 AI 팀원 기능을 도입하고, UGC 창작 및 반칙 방지 등 9가지 영역에 AI 기술을 접목하여 개발 효율성을 높이고 있음\n- 마틴 리우(루이치핑) 사장은 컨퍼런스 콜을 통해 확보한 연산 인프라를 텐센트 클라우드 대여 서비스 등으로 우선 배분하여 30% 이상의 높은 마진을 거두고 있으며, 향후 고수익성 AI 네이티브 비즈니스 생태계를 완비해 나갈 전략이라고 밝힘"
       },
       {
         "company_ko": "펄어비스",
